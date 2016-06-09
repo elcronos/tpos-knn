@@ -1,0 +1,2109 @@
+iamb N: iambs
+iambic A:
+iambic N: iambics
+iambus N: iambuses / iambi
+ibex N: ibex | ibexes (ibices)
+ibidem A:
+ibis N: ibis | ibises
+ibuprofen N: ~ibuprofens
+ice N: ices
+ice V: iced  icing  ices
+iceberg N: icebergs
+iceboat N: iceboats
+icebound A:
+icebox N: iceboxes
+icebreaker N: icebreakers
+icecap N: icecaps
+iceman N: icemen
+ichthyologist N: ichthyologists
+ichthyology N: ~ichthyologies
+icicle N: icicles
+icily A:
+iciness N: ~icinesses
+icing N: icings
+icky A: ickier  ickiest
+icon N: icons
+iconic A:
+iconoclasm N: ~iconoclasms
+iconoclast N: iconoclasts
+iconoclastic A:
+iconography N: ~iconographies
+ictus N: ~ictuses (~ictus)
+icy A: icier  iciest
+id N: ids
+idea N: ideas
+ideal A:
+ideal N: ideals
+idealism N: ~idealisms
+idealist N: idealists
+idealistic A:
+idealistically A:
+idealization N: ~idealizations
+idealize V: idealized  idealizing  idealizes
+ideally A:
+idem A:
+idem P:
+identical A:
+identically A:
+identifiable A:
+identification N: ~identifications
+identify V: identified  identifying  identifies
+identity N: identities
+ideogram N: ideograms
+ideograph N: ideographs
+ideological A:
+ideologically A:
+ideologist N: ideologists
+ideologue N: ideologues
+ideology N: ideologies
+ides N:
+idiocy N: idiocies
+idiom N: idioms
+idiomatic A:
+idiomatically A:
+idiopathic A:
+idiosyncrasy N: idiosyncrasies
+idiosyncratic A:
+idiosyncratically A:
+idiot N: idiots
+idiotic A:
+idiotically A:
+idle A: idler  idlest
+idle N: idles
+idle V: idled  idling  idles
+idleness N: ~idlenesses
+idler N: idlers
+idly A:
+idol N: idols
+idolater N: idolaters
+idolatress N: idolatresses
+idolatrous A:
+idolatry N: ~idolatries
+idolization N: ~idolizations
+idolize V: idolized  idolizing  idolizes
+idyl N: idyls
+idyll N: idylls
+idyllic A:
+idyllically A:
+if C:
+if N: ifs
+iffiness N: ~iffinesses
+iffy A: iffier  iffiest
+igloo N: igloos
+igneous A:
+ignitable A:
+ignite V: ignited  igniting  ignites
+ignitible A:
+ignition N: ignitions
+ignoble A: ignobler  ignoblest
+ignobly A:
+ignominious A:
+ignominiously A:
+ignominy N: ignominies
+ignoramus N: ignoramuses
+ignorance N: ~ignorances
+ignorant A:
+ignorantly A:
+ignore V: ignored  ignoring  ignores
+iguana N: iguanas
+ikon N: ikons
+ileitis N: ~ileitides
+ileum N: ilea
+ilium N: ilia
+ilk N: ilks
+ill A: worse (-iller)  worst (-illest)
+ill N: ills
+illegal A:
+illegal N: illegals
+illegality N: illegalities
+illegally A:
+illegibility N: ~illegibilities
+illegible A:
+illegibly A:
+illegitimacy N: ~illegitimacies
+illegitimate A:
+-illegitimate N: illegitimates
+-illegitimate V: illegitimated  illegitimating  illegitimates
+illegitimately A:
+illiberal A:
+illiberality N: ~illiberalities
+illiberally A:
+illicit A:
+illicitly A:
+illicitness N: ~illicitnesses
+illimitable A:
+illiteracy N: ~illiteracies
+illiterate A:
+illiterate N: illiterates
+illiterately A:
+illness N: illnesses
+illogical A:
+illogicality N: ~illogicalities
+illogically A:
+illuminable A:
+-illuminate N: illuminates
+illuminate V: illuminated  illuminating  illuminates
+illuminatingly A:
+illumination N: illuminations
+illumine V: illumined  illumining  illumines
+illusion N: illusions
+illusionist N: illusionists
+illusive A:
+illusory A:
+illustrate V: illustrated  illustrating  illustrates
+illustration N: illustrations
+illustrative A:
+illustratively A:
+illustrator N: illustrators
+illustrious A:
+illustriously A:
+illustriousness N: ~illustriousnesses
+image N: images
+image V: imaged  imaging  images
+imagery N: ~imageries
+imaginable A:
+imaginably A:
+imaginary A:
+-imaginary N: imaginaries
+imagination N: imaginations
+imaginative A:
+imaginatively A:
+imagine V: imagined  imagining  imagines
+imago N: imagoes (imagines)
+imam N: imams
+imbalance N: imbalances
+imbecile A:
+imbecile N: imbeciles
+imbecilic A:
+imbecility N: imbecilities
+imbed V: imbedded  imbedding  imbeds
+imbibe V: imbibed  imbibing  imbibes
+imbiber N: imbibers
+imbrication N: ~imbrications
+imbroglio N: imbroglios
+imbue V: imbued  imbuing  imbues
+imitable A:
+imitate V: imitated  imitating  imitates
+imitation A:
+imitation N: imitations
+imitative A:
+imitatively A:
+imitativeness N: ~imitativenesses
+imitator N: imitators
+immaculate A:
+immaculately A:
+immaculateness N: ~immaculatenesses
+immanence N: ~immanences
+immanency N: ~immanencies
+immanent A:
+immanently A:
+immaterial A:
+immateriality N: ~immaterialities
+immaterially A:
+immaterialness N: ~immaterialnesses
+immature A:
+immaturely A:
+immaturity N: ~immaturities
+immeasurable A:
+immeasurably A:
+immediacies N:
+immediacy N: ~immediacies
+immediate A:
+immediately A:
+immediateness N: ~immediatenesses
+immemorial A:
+immemorially A:
+immense A: -immenser  -immensest
+immensely A:
+immensity N: immensities
+immerse V: immersed  immersing  immerses
+immersible A:
+immersion N: immersions
+immigrant A:
+immigrant N: immigrants
+immigrate V: immigrated  immigrating  immigrates
+immigration N: ~immigrations
+imminence N: ~imminences
+imminent A:
+imminently A:
+immobile A:
+immobility N: ~immobilities
+immobilization N: ~immobilizations
+immobilize V: immobilized  immobilizing  immobilizes
+immoderate A:
+immoderately A:
+immodest A:
+immodestly A:
+immodesty N: ~immodesties
+immolate V: immolated  immolating  immolates
+immolation N: ~immolations
+immoral A:
+immorality N: immoralities
+immorally A:
+immortal A:
+immortal N: immortals
+immortality N: ~immortalities
+immortalize V: immortalized  immortalizing  immortalizes
+immortally A:
+immovability N: ~immovabilities
+immovable A:
+-immovable N: immovables
+immovably A:
+immune A:
+-immune N: immunes
+immunity N: ~immunities
+immunization N: immunizations
+immunize V: immunized  immunizing  immunizes
+immunodeficiency N: ~immunodeficiencies
+immunodeficient A:
+immunologic A:
+immunological A:
+immunologist N: immunologists
+immunology N: ~immunologies
+immure V: immured  immuring  immures
+immutability N: ~immutabilities
+immutable A:
+immutably A:
+imp N: imps
+-imp V: imped  imping  imps
+impact N: impacts
+impact V: impacted  impacting  impacts
+impair V: impaired  impairing  impairs
+impairment N: impairments
+impala N: impalas | impala
+impale V: impaled  impaling  impales
+impalement N: ~impalements
+impalpable A:
+impalpably A:
+impanel V: impaneled (impanelled)  impaneling (impanelling)  impanels
+impart V: imparted  imparting  imparts
+impartial A:
+impartiality N: ~impartialities
+impartially A:
+impassable A:
+impassably A:
+impasse N: impasses
+impassibility N: ~impassibilities
+impassible A:
+impassibly A:
+impassioned A:
+impassive A:
+impassively A:
+impassiveness N: ~impassivenesses
+impassivity N: ~impassivities
+impasto N: ~impastos
+impatience N: impatiences
+impatiens N: ~impatiens (~impatienses)
+impatient A:
+impatiently A:
+impeach V: impeached  impeaching  impeaches
+impeachable A:
+impeacher N: impeachers
+impeachment N: impeachments
+impeccability N: ~impeccabilities
+impeccable A:
+impeccably A:
+impecunious A:
+impecuniously A:
+impecuniousness N: ~impecuniousnesses
+impedance N: ~impedances
+impede V: impeded  impeding  impedes
+impediment N: impediments
+impedimenta N:
+impel V: impelled  impelling  impels
+impeller N: impellers
+impend V: impended  impending  impends
+impenetrability N: ~impenetrabilities
+impenetrable A:
+impenetrably A:
+impenitence N: ~impenitences
+impenitent A:
+impenitently A:
+imperative A:
+imperative N: imperatives
+imperatively A:
+imperceptibility N: ~imperceptibilities
+imperceptible A:
+imperceptibly A:
+imperceptive A:
+imperfect A:
+imperfect N: imperfects
+imperfection N: imperfections
+imperfectly A:
+imperfectness N: ~imperfectnesses
+imperial A:
+imperial N: imperials
+imperialism N: ~imperialisms
+imperialist A:
+imperialist N: imperialists
+imperialistic A:
+imperialistically A:
+imperially A:
+imperil V: imperiled (imperilled)  imperiling (imperilling)  imperils
+imperilment N: ~imperilments
+imperious A:
+imperiously A:
+imperiousness N: ~imperiousnesses
+imperishable A:
+imperishably A:
+impermanence N: ~impermanences
+impermanent A:
+impermanently A:
+impermeability N: ~impermeabilities
+impermeable A:
+impermeably A:
+impermissible A:
+impersonal A:
+impersonally A:
+impersonate V: impersonated  impersonating  impersonates
+impersonation N: impersonations
+impersonator N: impersonators
+impertinence N: ~impertinences
+impertinent A:
+impertinently A:
+imperturbability N: ~imperturbabilities
+imperturbable A:
+imperturbably A:
+impervious A:
+imperviously A:
+impetigo N: ~impetigos
+impetuosity N: ~impetuosities
+impetuous A:
+impetuously A:
+impetuousness N: ~impetuousnesses
+impetus N: impetuses
+impiety N: impieties
+impinge V: impinged  impinging  impinges
+impingement N: ~impingements
+impious A:
+impiously A:
+impiousness N: ~impiousnesses
+impish A:
+impishly A:
+impishness N: ~impishnesses
+implacability N: ~implacabilities
+implacable A:
+implacably A:
+implant N: implants
+implant V: implanted  implanting  implants
+implantable A:
+implantation N: ~implantations
+implausibility N: implausibilities
+implausible A:
+implausibly A:
+implement N: implements
+implement V: implemented  implementing  implements
+implementation N: implementations
+implicate V: implicated  implicating  implicates
+implication N: implications
+implicit A:
+implicitly A:
+implicitness N: ~implicitnesses
+implode V: imploded  imploding  implodes
+implore V: implored  imploring  implores
+imploringly A:
+implosion N: implosions
+implosive A:
+-implosive N: implosives
+imply V: implied  implying  implies
+impolite A: -impoliter  -impolitest
+impolitely A:
+impoliteness N: impolitenesses
+impolitic A:
+imponderable A:
+imponderable N: imponderables
+import N: imports
+import V: imported  importing  imports
+importable A:
+importance N: ~importances
+important A:
+importantly A:
+importation N: importations
+importer N: importers
+importunate A:
+importunately A:
+importune A:
+importune V: importuned  importuning  importunes
+importunity N: ~importunities
+impose V: imposed  imposing  imposes
+imposer N: imposers
+imposingly A:
+imposition N: impositions
+impossibility N: impossibilities
+impossible A:
+impossibly A:
+impost N: imposts
+-impost V: imposted  imposting  imposts
+imposter N: imposters
+impostor N: impostors
+imposture N: impostures
+impotence N: ~impotences
+impotency N: ~impotencies
+impotent A:
+-impotent N: impotents
+impotently A:
+impound V: impounded  impounding  impounds
+impoverish V: impoverished  impoverishing  impoverishes
+impoverishment N: ~impoverishments
+impracticable A:
+impracticably A:
+impractical A:
+impracticality N: ~impracticalities
+impractically A:
+imprecate V: imprecated  imprecating  imprecates
+imprecation N: imprecations
+imprecise A:
+imprecisely A:
+impreciseness N: ~imprecisenesses
+imprecision N: ~imprecisions
+impregnability N: ~impregnabilities
+impregnable A:
+impregnably A:
+impregnate V: impregnated  impregnating  impregnates
+impregnation N: ~impregnations
+impresario N: impresarios
+impress N: impresses
+impress V: impressed  impressing  impresses
+impressibility N: ~impressibilities
+impressible A:
+impression N: impressions
+impressionability N: ~impressionabilities
+impressionable A:
+impressionism N: ~impressionisms
+impressionist A:
+impressionist N: impressionists
+impressionistic A:
+impressive A:
+impressively A:
+impressiveness N: ~impressivenesses
+imprimatur N: imprimaturs
+imprint N: imprints
+imprint V: imprinted  imprinting  imprints
+imprinter N: imprinters
+imprison V: imprisoned  imprisoning  imprisons
+imprisonment N: imprisonments
+improbability N: improbabilities
+improbable A:
+improbably A:
+impromptu A:
+impromptu N: impromptus
+improper A:
+improperly A:
+impropriety N: improprieties
+improvable A:
+improve V: improved  improving  improves
+improvement N: improvements
+improvidence N: ~improvidences
+improvident A:
+improvidently A:
+improvisation N: improvisations
+improvisational A:
+improvise V: improvised  improvising  improvises
+improviser N: improvisers
+improvisor N: improvisors
+imprudence N: ~imprudences
+imprudent A:
+imprudently A:
+impudence N: ~impudences
+impudent A:
+impudently A:
+impugn V: impugned  impugning  impugns
+impugner N: impugners
+impulse N: impulses
+impulse V: impulsed  impulsing  impulses
+impulsion N: ~impulsions
+impulsive A:
+impulsively A:
+impulsiveness N: ~impulsivenesses
+impunity N: ~impunities
+impure A: impurer  impurest
+impurely A:
+impurity N: impurities
+imputable A:
+imputation N: imputations
+impute V: imputed  imputing  imputes
+inability N: inabilities
+inaccessibility N: ~inaccessibilities
+inaccessible A:
+inaccessibly A:
+inaccuracy N: inaccuracies
+inaccurate A:
+inaccurately A:
+inaction N: ~inactions
+inactivate V: inactivated  inactivating  inactivates
+inactivation N: ~inactivations
+inactive A:
+inactively A:
+inactivity N: ~inactivities
+inadequacy N: inadequacies
+inadequate A:
+inadequately A:
+inadmissibility N: ~inadmissibilities
+inadmissible A:
+inadvertence N: ~inadvertences
+inadvertent A:
+inadvertently A:
+inadvisability N: ~inadvisabilities
+inadvisable A:
+inalienability N: ~inalienabilities
+inalienable A:
+inalienably A:
+inamorata N: inamoratas
+inane A: inaner  inanest
+-inane N: inanes
+inanely A:
+inanimate A:
+inanimately A:
+inanimateness N: ~inanimatenesses
+inanity N: inanities
+inapplicable A:
+inappreciable A:
+inappreciably A:
+inapproachable A:
+inappropriate A:
+inappropriately A:
+inappropriateness N: ~inappropriatenesses
+inapt A:
+inaptly A:
+inaptness N: ~inaptnesses
+inarguable A:
+inarticulate A:
+inarticulately A:
+inarticulateness N: ~inarticulatenesses
+inartistic A:
+inattention N: ~inattentions
+inattentive A:
+inattentively A:
+inattentiveness N: ~inattentivenesses
+inaudibility N: ~inaudibilities
+inaudible A:
+inaudibly A:
+inaugural A:
+inaugural N: inaugurals
+inaugurate V: inaugurated  inaugurating  inaugurates
+inauguration N: inaugurations
+inauspicious A:
+inauspiciously A:
+inauthentic A:
+inboard A:
+inboard N: inboards
+inborn A:
+inbound A:
+inbound V: inbounded  inbounding  inbounds
+inbred A:
+inbreed V: inbred  inbreeding  inbreeds
+inbreeding N: ~inbreedings
+incalculable A:
+incalculably A:
+incandescence N: ~incandescences
+incandescent A:
+incandescently A:
+incantation N: incantations
+incapability N: ~incapabilities
+incapable A:
+-incapable N: incapables
+incapably A:
+incapacitate V: incapacitated  incapacitating  incapacitates
+incapacity N: ~incapacities
+incarcerate V: incarcerated  incarcerating  incarcerates
+incarceration N: incarcerations
+incarnadine A:
+incarnadine V: incarnadined  incarnadining  incarnadines
+incarnate A:
+incarnate V: incarnated  incarnating  incarnates
+incarnation N: incarnations
+incautious A:
+incendiary A:
+incendiary N: incendiaries
+incense N: ~incenses
+incense V: incensed  incensing  incenses
+incentive N: incentives
+inception N: inceptions
+incertitude N: ~incertitudes
+incessant A:
+incessantly A:
+incest N: ~incests
+incestuous A:
+incestuously A:
+incestuousness N: ~incestuousnesses
+inch N: inches
+inch V: inched  inching  inches
+inchoate A:
+inchworm N: inchworms
+incidence N: incidences
+incident A:
+incident N: incidents
+incidental A:
+incidental N: incidentals
+incidentally A:
+incinerate V: incinerated  incinerating  incinerates
+incineration N: ~incinerations
+incinerator N: incinerators
+incipience N: ~incipiences
+incipient A:
+incipiently A:
+incise V: incised  incising  incises
+incision N: incisions
+incisive A:
+incisively A:
+incisiveness N: ~incisivenesses
+incisor N: incisors
+incite V: incited  inciting  incites
+incitement N: incitements
+inciter N: inciters
+incivility N: incivilities
+inclemency N: ~inclemencies
+inclement A:
+inclination N: inclinations
+incline N: inclines
+incline V: inclined  inclining  inclines
+inclose V: inclosed  inclosing  incloses
+inclosure N: inclosures
+include V: included  including  includes
+including C:
+inclusion N: inclusions
+inclusive A:
+inclusively A:
+inclusiveness N: ~inclusivenesses
+incognito A:
+incognito N: incognitos
+incoherence N: ~incoherences
+incoherent A:
+incoherently A:
+incombustible A:
+-incombustible N: incombustibles
+income N: incomes
+incoming A:
+-incoming N: incomings
+incommensurate A:
+incommensurately A:
+incommode V: incommoded  incommoding  incommodes
+incommodious A:
+incommunicable A:
+incommunicado A:
+incomparable A:
+incomparably A:
+incompatibility N: incompatibilities
+incompatible A:
+incompatible N: incompatibles
+incompatibly A:
+incompetence N: ~incompetences
+incompetency N: ~incompetencies
+incompetent A:
+incompetent N: incompetents
+incompetently A:
+incomplete A:
+incompletely A:
+incompleteness N: ~incompletenesses
+incomprehensibility N: ~incomprehensibilities
+incomprehensible A:
+incomprehensibly A:
+incomprehension N: ~incomprehensions
+inconceivability N: ~inconceivabilities
+inconceivable A:
+inconceivably A:
+inconclusive A:
+inconclusively A:
+inconclusiveness N: ~inconclusivenesses
+incongruity N: incongruities
+incongruous A:
+incongruously A:
+incongruousness N: ~incongruousnesses
+inconsequential A:
+inconsequentially A:
+inconsiderable A:
+inconsiderate A:
+inconsiderately A:
+inconsiderateness N: ~inconsideratenesses
+inconsideration N: ~inconsiderations
+inconsistency N: inconsistencies
+inconsistent A:
+inconsistently A:
+inconsolable A:
+inconsolably A:
+inconspicuous A:
+inconspicuously A:
+inconspicuousness N: ~inconspicuousnesses
+inconstancy N: ~inconstancies
+inconstant A:
+inconstantly A:
+incontestability N: ~incontestabilities
+incontestable A:
+incontestably A:
+incontinence N: ~incontinences
+incontinent A:
+incontrovertible A:
+incontrovertibly A:
+inconvenience N: inconveniences
+inconvenience V: inconvenienced  inconveniencing  inconveniences
+inconvenient A:
+inconveniently A:
+incorporate A:
+incorporate V: incorporated  incorporating  incorporates
+incorporation N: ~incorporations
+incorporeal A:
+incorrect A:
+incorrectly A:
+incorrectness N: ~incorrectnesses
+incorrigibility N: ~incorrigibilities
+incorrigible A:
+-incorrigible N: incorrigibles
+incorrigibly A:
+incorruptibility N: ~incorruptibilities
+incorruptible A:
+incorruptibly A:
+increase N: increases
+increase V: increased  increasing  increases
+increasingly A:
+incredibility N: ~incredibilities
+incredible A:
+incredibly A:
+incredulity N: ~incredulities
+incredulous A:
+incredulously A:
+increment N: increments
+incremental A:
+incriminate V: incriminated  incriminating  incriminates
+incrimination N: ~incriminations
+incriminatory A:
+incrust V: incrusted  incrusting  incrusts
+incrustation N: incrustations
+incubate V: incubated  incubating  incubates
+incubation N: ~incubations
+incubator N: incubators
+incubus N: incubuses (incubi)
+inculcate V: inculcated  inculcating  inculcates
+inculcation N: ~inculcations
+inculpable A:
+inculpate V: inculpated  inculpating  inculpates
+incumbency N: incumbencies
+incumbent A:
+incumbent N: incumbents
+incumber V: incumbered  incumbering  incumbers
+incunabulum N: incunabula
+incur V: incurred  incurring  incurs
+incurable A:
+incurable N: incurables
+incurably A:
+incurious A:
+incursion N: incursions
+indebted A:
+indebtedness N: ~indebtednesses
+indecency N: indecencies
+indecent A: -indecenter  -indecentest
+indecently A:
+indecipherable A:
+indecision N: ~indecisions
+indecisive A:
+indecisively A:
+indecisiveness N: ~indecisivenesses
+indecorous A:
+indecorously A:
+indeed A:
+indeed I:
+indefatigable A:
+indefatigably A:
+indefeasible A:
+indefeasibly A:
+indefensible A:
+indefensibly A:
+indefinable A:
+-indefinable N: indefinables
+indefinably A:
+indefinite A:
+indefinitely A:
+indefiniteness N: ~indefinitenesses
+indelible A:
+indelibly A:
+indelicacy N: indelicacies
+indelicate A:
+indelicately A:
+indemnification N: indemnifications
+indemnify V: indemnified  indemnifying  indemnifies
+indemnity N: indemnities
+indemonstrable A:
+indent N: indents
+indent V: indented  indenting  indents
+indentation N: indentations
+indention N: ~indentions
+indenture N: indentures
+indenture V: indentured  indenturing  indentures
+independence N: ~independences
+independent A:
+independent N: independents
+independently A:
+indescribable A:
+indescribably A:
+indestructibility N: ~indestructibilities
+indestructible A:
+indestructibly A:
+indeterminable A:
+indeterminably A:
+indeterminacy N: ~indeterminacies
+indeterminate A:
+indeterminately A:
+index N: indexes (indices)
+index V: indexed  indexing  indexes
+indexation N: indexations
+indexer N: indexers
+indicate V: indicated  indicating  indicates
+indication N: indications
+indicative A:
+indicative N: indicatives
+indicatively A:
+indicator N: indicators
+indict V: indicted  indicting  indicts
+indictable A:
+indictment N: indictments
+indifference N: ~indifferences
+indifferent A:
+indifferently A:
+indigence N: ~indigences
+indigenous A:
+indigent A:
+indigent N: indigents
+indigently A:
+indigestible A:
+indigestion N: ~indigestions
+indignant A:
+indignantly A:
+indignation N: ~indignations
+indignity N: indignities
+indigo A:
+indigo N: ~indigos (~indigoes)
+indirect A:
+indirect V: indirected  indirecting  indirects
+indirection N: ~indirections
+indirectly A:
+indirectness N: ~indirectnesses
+indiscernible A:
+indiscreet A:
+indiscreetly A:
+indiscretion N: indiscretions
+indiscriminate A:
+indiscriminately A:
+indispensability N: ~indispensabilities
+indispensable A:
+indispensable N: indispensables
+indispensably A:
+indisposed A:
+indisposition N: indispositions
+indisputable A:
+indisputably A:
+indissoluble A:
+indissolubly A:
+indistinct A:
+indistinctly A:
+indistinctness N: ~indistinctnesses
+indistinguishable A:
+indistinguishably A:
+indite V: indited  inditing  indites
+indium N: ~indiums
+individual A:
+individual N: individuals
+individualism N: ~individualisms
+individualist A:
+individualist N: individualists
+individualistic A:
+individualistically A:
+individuality N: ~individualities
+individualization N: ~individualizations
+individualize V: individualized  individualizing  individualizes
+individually A:
+individuate V: individuated  individuating  individuates
+individuation N: ~individuations
+indivisibility N: ~indivisibilities
+indivisible A:
+-indivisible N: indivisibles
+indivisibly A:
+indoctrinate V: indoctrinated  indoctrinating  indoctrinates
+indoctrination N: ~indoctrinations
+indolence N: ~indolences
+indolent A:
+indolently A:
+indomitable A:
+indomitably A:
+indoor A:
+indoors A:
+indorse V: indorsed  indorsing  indorses
+indubitable A:
+indubitably A:
+induce V: induced  inducing  induces
+inducement N: inducements
+inducer N: inducers
+induct V: inducted  inducting  inducts
+inductance N: ~inductances
+inductee N: inductees
+induction N: inductions
+inductive A:
+indue V: indued  induing  indues
+indulge V: indulged  indulging  indulges
+indulgence N: indulgences
+-indulgence V: indulgenced  indulgencing  indulgences
+indulgent A:
+indulgently A:
+industrial A:
+-industrial N: industrials
+industrialism N: ~industrialisms
+industrialist A:
+industrialist N: industrialists
+industrialization N: ~industrializations
+industrialize V: industrialized  industrializing  industrializes
+industrially A:
+industrious A:
+industriously A:
+industriousness N: ~industriousnesses
+industry N: industries
+indwell V: indwelt (indwelled)  indwelling  indwells
+inebriate A:
+inebriate N: inebriates
+inebriate V: inebriated  inebriating  inebriates
+inebriation N: ~inebriations
+inedible A:
+ineducable A:
+ineffability N: ~ineffabilities
+ineffable A:
+ineffably A:
+ineffective A:
+ineffectively A:
+ineffectiveness N: ~ineffectivenesses
+ineffectual A:
+ineffectually A:
+inefficacy N: ~inefficacies
+inefficiency N: inefficiencies
+inefficient A:
+inefficiently A:
+inelastic A:
+inelegance N: ~inelegances
+inelegant A:
+inelegantly A:
+ineligibility N: ~ineligibilities
+ineligible A:
+ineligible N: ineligibles
+ineligibly A:
+ineluctable A:
+ineluctably A:
+inept A: inepter  ineptest
+ineptitude N: ~ineptitudes
+ineptly A:
+ineptness N: ~ineptnesses
+inequality N: inequalities
+inequitable A:
+inequitably A:
+inequity N: inequities
+ineradicable A:
+inerrant A:
+inert A: -inerter  -inertest
+inertia N: ~inertias (-inertiae)
+inertial A:
+inertly A:
+inertness N: ~inertnesses
+inescapable A:
+inescapably A:
+inessential A:
+inessential N: inessentials
+inestimable A:
+inestimably A:
+inevitability N: ~inevitabilities
+inevitable A:
+inevitable N: inevitables
+inevitably A:
+inexact A:
+inexactly A:
+inexactness N: ~inexactnesses
+inexcusable A:
+inexcusably A:
+inexhaustible A:
+inexhaustibly A:
+inexorable A:
+inexorably A:
+inexpedience N: ~inexpediences
+inexpediency N: ~inexpediencies
+inexpedient A:
+inexpensive A:
+inexpensively A:
+inexpensiveness N: ~inexpensivenesses
+inexperience N: ~inexperiences
+inexperienced A:
+inexpert A:
+inexpertly A:
+inexpiable A:
+inexplicable A:
+inexplicably A:
+inexpressible A:
+-inexpressible N: inexpressibles
+inexpressibly A:
+inexpressive A:
+inextinguishable A:
+inextricable A:
+inextricably A:
+infallibility N: ~infallibilities
+infallible A:
+-infallible N: infallibles
+infallibly A:
+infamous A:
+infamously A:
+infamy N: infamies
+infancy N: ~infancies
+infant A:
+infant N: infants
+infanticide N: infanticides
+infantile A:
+infantry N: infantries
+infantryman N: infantrymen
+infarct N: infarcts
+infarction N: ~infarctions
+-infatuate N: infatuates
+infatuate V: infatuated  infatuating  infatuates
+infatuation N: infatuations
+-infect A:
+infect V: infected  infecting  infects
+infection N: infections
+infectious A:
+infectiously A:
+infectiousness N: ~infectiousnesses
+infelicitous A:
+infelicity N: infelicities
+infer V: inferred  inferring  infers
+inference N: inferences
+inferential A:
+inferior A:
+inferior N: inferiors
+inferiority N: ~inferiorities
+infernal A:
+infernally A:
+inferno N: infernos
+infertile A:
+infertility N: ~infertilities
+infest V: infested  infesting  infests
+infestation N: infestations
+infidel N: infidels
+infidelity N: infidelities
+infield N: infields
+infielder N: infielders
+infighter N: infighters
+infighting N: ~infightings
+-infiltrate N: infiltrates
+infiltrate V: infiltrated  infiltrating  infiltrates
+infiltration N: ~infiltrations
+infiltrator N: infiltrators
+infinite A:
+infinite N: ~infinites
+infinitely A:
+infinitesimal A:
+infinitesimal N: infinitesimals
+infinitesimally A:
+infinitival A:
+infinitive A:
+infinitive N: infinitives
+infinitude N: ~infinitudes
+infinity N: infinities
+infirm A: -infirmer  -infirmest
+-infirm V: infirmed  infirming  infirms
+infirmary N: infirmaries
+infirmity N: infirmities
+inflame V: inflamed  inflaming  inflames
+inflammability N: ~inflammabilities
+inflammable A:
+-inflammable N: inflammables
+inflammation N: inflammations
+inflammatory A:
+inflatable A:
+inflatable N: inflatables
+inflate V: inflated  inflating  inflates
+inflation N: ~inflations
+inflationary A:
+inflect V: inflected  inflecting  inflects
+inflection N: inflections
+inflectional A:
+inflexibility N: ~inflexibilities
+inflexible A:
+inflexibly A:
+inflexion N: inflexions
+inflict V: inflicted  inflicting  inflicts
+infliction N: ~inflictions
+inflictive A:
+inflight A:
+inflorescence N: ~inflorescences
+inflorescent A:
+inflow N: inflows
+influence N: influences
+influence V: influenced  influencing  influences
+influential A:
+-influential N: influentials
+influentially A:
+influenza N: ~influenzas
+influx N: influxes
+info N: ~infos
+infold V: infolded  infolding  infolds
+infomercial N: infomercials
+inform V: informed  informing  informs
+informal A:
+informality N: ~informalities
+informally A:
+informant N: informants
+information N: ~informations
+informational A:
+informative A:
+informatively A:
+informativeness N: ~informativenesses
+informer N: informers
+infotainment N: ~infotainments
+infra A:
+infraction N: infractions
+infrared A:
+infrared N: ~infrareds
+infrasonic A:
+infrastructure N: infrastructures
+infrequence N: ~infrequences
+infrequency N: ~infrequencies
+infrequent A:
+infrequently A:
+infringe V: infringed  infringing  infringes
+infringement N: infringements
+infuriate V: infuriated  infuriating  infuriates
+infuriatingly A:
+infuse V: infused  infusing  infuses
+infuser N: infusers
+infusion N: infusions
+ingenious A:
+ingeniously A:
+ingeniousness N: ~ingeniousnesses
+ingenue N: ingenues
+ingenuity N: ~ingenuities
+ingenuous A:
+ingenuously A:
+ingenuousness N: ~ingenuousnesses
+ingest V: ingested  ingesting  ingests
+ingestion N: ~ingestions
+inglenook N: inglenooks
+inglorious A:
+ingloriously A:
+ingot N: ingots
+-ingot V: ingoted  ingoting  ingots
+ingrain A:
+ingrain N: ~ingrains
+ingrain V: ingrained  ingraining  ingrains
+-ingrate A:
+ingrate N: ingrates
+ingratiate V: ingratiated  ingratiating  ingratiates
+ingratiatingly A:
+ingratiation N: ~ingratiations
+ingratitude N: ~ingratitudes
+ingredient N: ingredients
+ingress N: ingresses
+ingrowing A:
+ingrown A:
+inguinal A:
+inhabit V: inhabited  inhabiting  inhabits
+inhabitable A:
+inhabitant N: inhabitants
+inhalant N: inhalants
+inhalation N: inhalations
+inhalator N: inhalators
+inhale V: inhaled  inhaling  inhales
+inhaler N: inhalers
+inharmonious A:
+inhere V: inhered  inhering  inheres
+inherent A:
+inherently A:
+inherit V: inherited  inheriting  inherits
+inheritable A:
+inheritance N: inheritances
+inheritor N: inheritors
+inhibit V: inhibited  inhibiting  inhibits
+inhibition N: inhibitions
+inhibitor N: inhibitors
+inhibitory A:
+inhospitable A:
+inhospitably A:
+inhuman A:
+inhumane A:
+inhumanely A:
+inhumanity N: inhumanities
+inhumanly A:
+inimical A:
+inimically A:
+inimitable A:
+inimitably A:
+iniquitous A:
+iniquitously A:
+iniquity N: iniquities
+initial A:
+initial N: initials
+initial V: initialed (initialled)  initialing (initialling)  initials
+initialize V: initialized  initializing  initializes
+initially A:
+initiate N: initiates
+initiate V: initiated  initiating  initiates
+initiation N: initiations
+initiative N: initiatives
+initiator N: initiators
+initiatory A:
+inject V: injected  injecting  injects
+injection N: injections
+injector N: injectors
+injudicious A:
+injudiciously A:
+injudiciousness N: ~injudiciousnesses
+injunction N: injunctions
+injure V: injured  injuring  injures
+injurer N: injurers
+injurious A:
+injury N: injuries
+injustice N: injustices
+ink N: inks
+ink V: inked  inking  inks
+inkblot N: inkblots
+inkiness N: ~inkinesses
+inkling N: inklings
+inkstand N: inkstands
+inkwell N: inkwells
+inky A: inkier  inkiest
+inland A:
+inland N: ~inlands
+inlay N: inlays
+inlay V: inlaid  inlaying  inlays
+inlet N: inlets
+-inlet V: inlet  inletting  inlets
+inmate N: inmates
+inmost A:
+inn N: inns
+innards N:
+innate A:
+innately A:
+innateness N: ~innatenesses
+inner A:
+innermost A:
+-innermost N: innermosts
+innersole N: innersoles
+innerspring A:
+innervate V: innervated  innervating  innervates
+innervation N: ~innervations
+inning N: innings
+innkeeper N: innkeepers
+innocence N: ~innocences
+innocent A: -innocenter  -innocentest
+innocent N: innocents
+innocently A:
+innocuous A:
+innocuously A:
+innocuousness N: ~innocuousnesses
+innovate V: innovated  innovating  innovates
+innovation N: innovations
+innovative A:
+innovator N: innovators
+innuendo N: innuendos / innuendoes
+innumerable A:
+innumerably A:
+innumeracy N: ~innumeracies
+innumerate A:
+-innumerate N: innumerates
+inoculate V: inoculated  inoculating  inoculates
+inoculation N: inoculations
+inoffensive A:
+inoffensively A:
+inoffensiveness N: ~inoffensivenesses
+inoperable A:
+inoperative A:
+inopportune A:
+inopportunely A:
+inordinate A:
+inordinately A:
+inorganic A:
+inorganically A:
+inpatient N: inpatients
+input A:
+input N: inputs
+input V: inputted / input  inputting  inputs
+inquest N: inquests
+inquietude N: ~inquietudes
+inquire V: inquired  inquiring  inquires
+inquirer N: inquirers
+inquiringly A:
+inquiry N: inquiries
+inquisition N: inquisitions
+inquisitional A:
+inquisitive A:
+inquisitively A:
+inquisitiveness N: ~inquisitivenesses
+inquisitor N: inquisitors
+inquisitorial A:
+inroad N: inroads
+inrush N: inrushes
+insalubrious A:
+insane A: insaner  insanest
+insanely A:
+insanitary A:
+insanity N: ~insanities
+insatiability N: ~insatiabilities
+insatiable A:
+insatiably A:
+inscribe V: inscribed  inscribing  inscribes
+inscriber N: inscribers
+inscription N: inscriptions
+inscrutability N: ~inscrutabilities
+inscrutable A:
+inscrutableness N: ~inscrutablenesses
+inscrutably A:
+inseam N: inseams
+insect A:
+insect N: insects
+insecticidal A:
+insecticide N: insecticides
+insectivore N: insectivores
+insectivorous A:
+insecure A:
+insecurely A:
+insecurity N: insecurities
+inseminate V: inseminated  inseminating  inseminates
+insemination N: ~inseminations
+insensate A:
+insensibility N: ~insensibilities
+insensible A:
+insensibly A:
+insensitive A:
+insensitively A:
+insensitivity N: ~insensitivities
+insentience N: ~insentiences
+insentient A:
+inseparability N: ~inseparabilities
+inseparable A:
+inseparable N: inseparables
+inseparably A:
+insert N: inserts
+insert V: inserted  inserting  inserts
+insertion N: insertions
+inset N: insets
+inset V: inset (insetted)  insetting  insets
+inshore A:
+inside A:
+inside C:
+inside N: insides
+insider N: insiders
+insidious A:
+insidiously A:
+insidiousness N: ~insidiousnesses
+insight N: insights
+insightful A:
+insigne N: insignia
+insignia N: insignias (insignia)
+insignificance N: ~insignificances
+insignificant A:
+insignificantly A:
+insincere A:
+insincerely A:
+insincerity N: ~insincerities
+insinuate V: insinuated  insinuating  insinuates
+insinuation N: insinuations
+insinuative A:
+insinuator N: insinuators
+insipid A:
+insipidity N: ~insipidities
+insipidly A:
+insist V: insisted  insisting  insists
+insistence N: ~insistences
+insistent A:
+insistently A:
+insistingly A:
+insobriety N: ~insobrieties
+insofar A:
+insole N: insoles
+insolence N: ~insolences
+insolent A:
+-insolent N: insolents
+insolently A:
+insolubility N: ~insolubilities
+insoluble A:
+insolubly A:
+insolvable A:
+insolvency N: ~insolvencies
+insolvent A:
+insolvent N: insolvents
+insomnia N: ~insomnias
+insomniac A:
+insomniac N: insomniacs
+insomuch A:
+insouciance N: ~insouciances
+insouciant A:
+inspect V: inspected  inspecting  inspects
+inspection N: inspections
+inspector N: inspectors
+inspectorate N: inspectorates
+inspiration N: inspirations
+inspirational A:
+inspire V: inspired  inspiring  inspires
+inspirit V: inspirited  inspiriting  inspirits
+instability N: ~instabilities
+instal V: installed  installing  instals
+install V: installed  installing  installs
+installation N: installations
+installer N: installers
+installment N: installments
+instalment N: instalments
+instance N: instances
+instance V: instanced  instancing  instances
+instant A:
+instant N: instants
+instantaneous A:
+instantaneously A:
+instanter A:
+instantiate V: instantiated  instantiating  instantiates
+instantly A:
+instate V: instated  instating  instates
+instead A:
+instep N: insteps
+instigate V: instigated  instigating  instigates
+instigation N: ~instigations
+instigator N: instigators
+instil V: instilled  instilling  instils
+instill V: instilled  instilling  instills
+instillation N: ~instillations
+instinct A:
+instinct N: instincts
+instinctive A:
+instinctively A:
+instinctual A:
+institute N: institutes
+institute V: instituted  instituting  institutes
+instituter N: instituters
+institution N: institutions
+institutional A:
+institutionalization N: ~institutionalizations
+institutionalize V: institutionalized  institutionalizing  institutionalizes
+institutionally A:
+institutor N: institutors
+instruct V: instructed  instructing  instructs
+instruction N: instructions
+instructional A:
+instructive A:
+instructively A:
+instructor N: instructors
+instrument A:
+instrument N: instruments
+instrument V: instrumented  instrumenting  instruments
+instrumental A:
+instrumental N: instrumentals
+instrumentalist N: instrumentalists
+instrumentality N: ~instrumentalities
+instrumentally A:
+instrumentation N: ~instrumentations
+insubordinate A:
+-insubordinate N: insubordinates
+insubordination N: ~insubordinations
+insubstantial A:
+insubstantially A:
+insufferable A:
+insufferably A:
+insufficiency N: ~insufficiencies
+insufficient A:
+insufficiently A:
+insular A:
+-insular N: insulars
+insularity N: ~insularities
+insulate V: insulated  insulating  insulates
+insulation N: ~insulations
+insulator N: insulators
+insulin N: ~insulins
+insult N: insults
+insult V: insulted  insulting  insults
+insultingly A:
+insuperable A:
+insuperably A:
+insupportable A:
+insurable A:
+insurance N: insurances
+insure V: insured  insuring  insures
+insured N: insureds
+insurer N: insurers
+insurgence N: insurgences
+insurgency N: insurgencies
+insurgent A:
+insurgent N: insurgents
+insurmountable A:
+insurmountably A:
+insurrection N: insurrections
+insurrectionist N: insurrectionists
+insusceptible A:
+intact A:
+intaglio N: intaglios (intagli)
+-intaglio V: intaglioed  intaglioing  intaglios
+intake N: intakes
+intangibility N: ~intangibilities
+intangible A:
+intangible N: intangibles
+intangibly A:
+integer N: integers
+integral A:
+integral N: integrals
+integrally A:
+integrate V: integrated  integrating  integrates
+integration N: ~integrations
+integrative A:
+integrity N: ~integrities
+integument N: integuments
+intellect N: intellects
+intellectual A:
+intellectual N: intellectuals
+intellectualism N: ~intellectualisms
+intellectualize V: intellectualized  intellectualizing  intellectualizes
+intellectually A:
+intelligence N: ~intelligences
+intelligent A:
+intelligently A:
+intelligentsia N: ~intelligentsias
+intelligibility N: ~intelligibilities
+intelligible A:
+intelligibly A:
+intemperance N: ~intemperances
+intemperate A:
+intemperately A:
+intend V: intended  intending  intends
+intended N: intendeds
+intense A: intenser  intensest
+intensely A:
+intensification N: ~intensifications
+intensifier N: intensifiers
+intensify V: intensified  intensifying  intensifies
+intensity N: intensities
+intensive A:
+intensive N: intensives
+intensively A:
+intensiveness N: ~intensivenesses
+intent A:
+intent N: intents
+intention N: intentions
+intentional A:
+intentionally A:
+intently A:
+intentness N: ~intentnesses
+inter V: interred  interring  inters
+interact V: interacted  interacting  interacts
+interaction N: interactions
+interactive A:
+interactively A:
+interbreed V: interbred  interbreeding  interbreeds
+intercede V: interceded  interceding  intercedes
+intercept N: intercepts
+intercept V: intercepted  intercepting  intercepts
+interception N: interceptions
+interceptor N: interceptors
+intercession N: intercessions
+intercessor N: intercessors
+intercessory A:
+interchange N: interchanges
+interchange V: interchanged  interchanging  interchanges
+interchangeable A:
+interchangeably A:
+intercollegiate A:
+intercom N: intercoms
+intercommunicate V: intercommunicated  intercommunicating  intercommunicates
+intercommunication N: ~intercommunications
+interconnect V: interconnected  interconnecting  interconnects
+interconnection N: interconnections
+intercontinental A:
+intercourse N: ~intercourses
+intercultural A:
+interdenominational A:
+interdepartmental A:
+interdependence N: ~interdependences
+interdependent A:
+interdependently A:
+interdict N: interdicts
+interdict V: interdicted  interdicting  interdicts
+interdiction N: ~interdictions
+interdisciplinary A:
+interest N: interests
+interest V: interested  interesting  interests
+interestingly A:
+interface N: interfaces
+interface V: interfaced  interfacing  interfaces
+interfaith A:
+interfere V: interfered  interfering  interferes
+interference N: ~interferences
+interferon N: ~interferons
+interfile V: interfiled  interfiling  interfiles
+intergalactic A:
+intergovernmental A:
+interim A:
+interim N: ~interims
+interior A:
+interior N: interiors
+interject V: interjected  interjecting  interjects
+interjection N: interjections
+interlace V: interlaced  interlacing  interlaces
+interlard V: interlarded  interlarding  interlards
+interleave V: interleaved  interleaving  interleaves
+interleukin N: ~interleukins
+interline V: interlined  interlining  interlines
+interlinear A:
+-interlinear N: interlinears
+interlining N: interlinings
+-interlink N: interlinks
+interlink V: interlinked  interlinking  interlinks
+interlock N: interlocks
+interlock V: interlocked  interlocking  interlocks
+interlocutor N: interlocutors
+interlocutory A:
+interlope V: interloped  interloping  interlopes
+interloper N: interlopers
+interlude N: interludes
+intermarriage N: intermarriages
+intermarry V: intermarried  intermarrying  intermarries
+intermediary A:
+intermediary N: intermediaries
+intermediate A:
+intermediate N: intermediates
+-intermediate V: intermediated  intermediating  intermediates
+intermediately A:
+interment N: interments
+intermezzo N: intermezzos / intermezzi
+interminable A:
+interminably A:
+intermingle V: intermingled  intermingling  intermingles
+intermission N: intermissions
+intermittent A:
+intermittently A:
+intermix V: intermixed  intermixing  intermixes
+-intern A:
+intern N: interns
+intern V: interned  interning  interns
+internal A:
+-internal N: internals
+internalization N: ~internalizations
+internalize V: internalized  internalizing  internalizes
+internally A:
+international A:
+international N: internationals
+internationalise V: internationalised  internationalising  internationalises
+internationalism N: ~internationalisms
+internationalist N: internationalists
+internationalize V: internationalized  internationalizing  internationalizes
+internationally A:
+interne N: internes
+-interne V: interned  interning  internes
+internecine A:
+internee N: internees
+internist N: internists
+internment N: ~internments
+internship N: internships
+interoffice A:
+interpersonal A:
+interplanetary A:
+interplay N: ~interplays
+-interplay V: interplayed  interplaying  interplays
+interpolate V: interpolated  interpolating  interpolates
+interpolation N: interpolations
+interpose V: interposed  interposing  interposes
+interposition N: ~interpositions
+interpret V: interpreted  interpreting  interprets
+interpretation N: interpretations
+interpretative A:
+interpreter N: interpreters
+interpretive A:
+interracial A:
+interregnum N: interregnums (interregna)
+interrelate V: interrelated  interrelating  interrelates
+interrelation N: interrelations
+interrelationship N: interrelationships
+interrogate V: interrogated  interrogating  interrogates
+interrogation N: interrogations
+interrogative A:
+interrogative N: interrogatives
+interrogatively A:
+interrogator N: interrogators
+interrogatory A:
+interrogatory N: interrogatories
+interrupt N: interrupts
+interrupt V: interrupted  interrupting  interrupts
+interrupter N: interrupters
+interruption N: interruptions
+interscholastic A:
+intersect V: intersected  intersecting  intersects
+intersection N: intersections
+intersession N: intersessions
+intersperse V: interspersed  interspersing  intersperses
+interspersion N: ~interspersions
+interstate A:
+interstate N: interstates
+interstellar A:
+interstice N: interstices
+interstitial A:
+-interstitial N: interstitials
+intertwine V: intertwined  intertwining  intertwines
+interurban A:
+-interurban N: interurbans
+interval N: intervals
+intervene V: intervened  intervening  intervenes
+intervention N: interventions
+interventionism N: ~interventionisms
+interventionist A:
+interventionist N: interventionists
+interview N: interviews
+interview V: interviewed  interviewing  interviews
+interviewee N: interviewees
+interviewer N: interviewers
+intervocalic A:
+-interweave N: interweaves
+interweave V: interwove (interweaved)  interwoven (interweaved)  interweaving  interweaves
+intestacy N: ~intestacies
+intestate A:
+-intestate N: intestates
+intestinal A:
+intestine N: intestines
+intimacy N: intimacies
+intimate A:
+intimate N: intimates
+intimate V: intimated  intimating  intimates
+intimately A:
+intimation N: intimations
+intimidate V: intimidated  intimidating  intimidates
+intimidatingly A:
+intimidation N: ~intimidations
+into C:
+intolerable A:
+intolerably A:
+intolerance N: ~intolerances
+intolerant A:
+-intolerant N: intolerants
+intolerantly A:
+intonation N: intonations
+intone V: intoned  intoning  intones
+intoner N: intoners
+intoxicant A:
+intoxicant N: intoxicants
+intoxicate V: intoxicated  intoxicating  intoxicates
+intoxication N: ~intoxications
+intractability N: ~intractabilities
+intractable A:
+intractably A:
+intramural A:
+intramuscular A:
+intransigence N: ~intransigences
+intransigent A:
+intransigent N: intransigents
+intransigently A:
+intransitive A:
+intransitive N: intransitives
+intransitively A:
+intrastate A:
+intrauterine A:
+intravenous A:
+intravenous N: intravenouses
+intravenously A:
+intrench V: intrenched  intrenching  intrenches
+intrepid A:
+intrepidity N: ~intrepidities
+intrepidly A:
+intricacy N: intricacies
+intricate A:
+intricately A:
+intrigue N: intrigues
+intrigue V: intrigued  intriguing  intrigues
+intriguer N: intriguers
+intriguingly A:
+intrinsic A:
+intrinsically A:
+intro N: intros
+introduce V: introduced  introducing  introduces
+introduction N: introductions
+introductory A:
+introit N: introits
+introspect V: introspected  introspecting  introspects
+introspection N: ~introspections
+introspective A:
+introspectively A:
+introversion N: ~introversions
+introvert A:
+introvert N: introverts
+-introvert V: introverted  introverting  introverts
+introverted A:
+intrude V: intruded  intruding  intrudes
+intruder N: intruders
+intrusion N: intrusions
+intrusive A:
+intrusively A:
+intrusiveness N: ~intrusivenesses
+intrust V: intrusted  intrusting  intrusts
+intuit V: intuited  intuiting  intuits
+intuition N: intuitions
+intuitive A:
+intuitively A:
+intuitiveness N: ~intuitivenesses
+inundate V: inundated  inundating  inundates
+inundation N: inundations
+inure V: inured  inuring  inures
+invade V: invaded  invading  invades
+invader N: invaders
+invalid A:
+invalid N: invalids
+invalid V: invalided  invaliding  invalids
+invalidate V: invalidated  invalidating  invalidates
+invalidation N: ~invalidations
+invalidism N: ~invalidisms
+invalidity N: ~invalidities
+invalidly A:
+invaluable A:
+invaluably A:
+invariability N: ~invariabilities
+invariable A:
+invariable N: invariables
+invariably A:
+invasion N: invasions
+invasive A:
+invective A:
+invective N: ~invectives
+inveigh V: inveighed  inveighing  inveighs
+inveigle V: inveigled  inveigling  inveigles
+inveigler N: inveiglers
+invent V: invented  inventing  invents
+invention N: inventions
+inventive A:
+inventively A:
+inventiveness N: ~inventivenesses
+inventor N: inventors
+inventory N: inventories
+inventory V: inventoried  inventorying  inventories
+inverse A:
+inverse N: inverses
+-inverse V: inversed  inversing  inverses
+inversely A:
+inversion N: inversions
+invert N: inverts
+invert V: inverted  inverting  inverts
+invertebrate A:
+invertebrate N: invertebrates
+invest V: invested  investing  invests
+investigate V: investigated  investigating  investigates
+investigation N: investigations
+investigative A:
+investigator N: investigators
+investigatory A:
+investiture N: investitures
+investment N: investments
+investor N: investors
+inveteracy N: ~inveteracies
+inveterate A:
+invidious A:
+invidiously A:
+invidiousness N: ~invidiousnesses
+invigorate V: invigorated  invigorating  invigorates
+invigoratingly A:
+invigoration N: ~invigorations
+invincibility N: ~invincibilities
+invincible A:
+invincibly A:
+inviolability N: ~inviolabilities
+inviolable A:
+inviolably A:
+inviolate A:
+invisibility N: ~invisibilities
+invisible A:
+-invisible N: invisibles
+invisibly A:
+invitation N: invitations
+invitational A:
+invitational N: invitationals
+invite N: invites
+invite V: invited  inviting  invites
+invitee N: invitees
+invitingly A:
+invocation N: invocations
+invoice N: invoices
+invoice V: invoiced  invoicing  invoices
+invoke V: invoked  invoking  invokes
+involuntarily A:
+involuntariness N: ~involuntarinesses
+involuntary A:
+involution N: ~involutions
+involve V: involved  involving  involves
+involvement N: involvements
+invulnerability N: ~invulnerabilities
+invulnerable A:
+invulnerably A:
+inward A:
+-inward N: inwards
+inwardly A:
+inwards A:
+iodide N: iodides
+iodine N: ~iodines
+iodize V: iodized  iodizing  iodizes
+ion N: ions
+ionic A:
+ionization N: ~ionizations
+ionize V: ionized  ionizing  ionizes
+ionizer N: ionizers
+ionosphere N: ionospheres
+ionospheric A:
+iota N: iotas
+ipecac N: ipecacs
+irascibility N: ~irascibilities
+irascible A:
+irascibly A:
+irate A: -irater  -iratest
+irately A:
+irateness N: ~iratenesses
+ire N: ~ires
+ireful A:
+irenic A:
+iridescence N: ~iridescences
+iridescent A:
+iridescently A:
+iridium N: ~iridiums
+iris N: irises {flower} | irises (irides) {eye}
+-iris V: irised  irising  irises
+irk V: irked  irking  irks
+irksome A:
+irksomely A:
+irksomeness N: ~irksomenesses
+iron A:
+iron N: irons
+iron V: ironed  ironing  irons
+ironclad A:
+ironclad N: ironclads
+ironic A:
+ironical A:
+ironically A:
+ironing N: ~ironings
+ironstone N: ~ironstones
+ironware N: ~ironwares
+ironwood N: ironwoods
+ironwork N: ~ironworks
+-irony A:
+irony N: ironies
+irradiate V: irradiated  irradiating  irradiates
+irradiation N: ~irradiations
+irrational A:
+irrational N: irrationals
+irrationality N: ~irrationalities
+irrationally A:
+irreclaimable A:
+irreconcilability N: ~irreconcilabilities
+irreconcilable A:
+-irreconcilable N: irreconcilables
+irreconcilably A:
+irrecoverable A:
+irrecoverably A:
+irredeemable A:
+irredeemably A:
+irreducible A:
+irreducibly A:
+irrefutable A:
+irrefutably A:
+irregardless A:
+irregular A:
+irregular N: irregulars
+irregularity N: irregularities
+irregularly A:
+irrelevance N: irrelevances
+irrelevancy N: irrelevancies
+irrelevant A:
+irrelevantly A:
+irreligious A:
+irremediable A:
+irremediably A:
+irremovable A:
+irreparable A:
+irreparably A:
+irreplaceable A:
+irrepressible A:
+irrepressibly A:
+irreproachable A:
+irreproachably A:
+irresistible A:
+irresistibly A:
+irresolute A:
+irresolutely A:
+irresoluteness N: ~irresolutenesses
+irresolution N: ~irresolutions
+irrespective A:
+irresponsibility N: ~irresponsibilities
+irresponsible A:
+-irresponsible N: irresponsibles
+irresponsibly A:
+irretrievable A:
+irretrievably A:
+irreverence N: ~irreverences
+irreverent A:
+irreverently A:
+irreversible A:
+irreversibly A:
+irrevocable A:
+irrevocably A:
+irrigable A:
+irrigate V: irrigated  irrigating  irrigates
+irrigation N: ~irrigations
+irritability N: ~irritabilities
+irritable A:
+irritably A:
+irritant A:
+irritant N: irritants
+irritate V: irritated  irritating  irritates
+irritatingly A:
+irritation N: irritations
+irrupt V: irrupted  irrupting  irrupts
+irruption N: irruptions
+irruptive A:
+is V:
+isinglass N: ~isinglasses
+island N: islands
+-island V: islanded  islanding  islands
+islander N: islanders
+isle N: isles
+-isle V: isled  isling  isles
+islet N: islets
+ism N: isms
+isobar N: isobars
+isobaric A:
+isolate N: isolates
+isolate V: isolated  isolating  isolates
+isolation N: ~isolations
+isolationism N: ~isolationisms
+isolationist A:
+isolationist N: isolationists
+isomer N: isomers
+isomeric A:
+isomerism N: ~isomerisms
+isometric A:
+-isometric N: isometrics
+isometrically A:
+isometrics N:
+isosceles A:
+isotherm N: isotherms
+isotope N: isotopes
+isotopic A:
+issuance N: ~issuances
+issue N: issues
+issue V: issued  issuing  issues
+issuer N: issuers
+isthmian A:
+-isthmian N: isthmians
+isthmus N: isthmuses (isthmi)
+it N: its
+it P:
+italic A:
+italic N: ~italics
+italicization N: ~italicizations
+italicize V: italicized  italicizing  italicizes
+italics N:
+itch N: itches
+itch V: itched  itching  itches
+itchiness N: ~itchinesses
+itchy A: itchier  itchiest
+item A:
+item N: items
+-item V: itemed  iteming  items
+itemization N: ~itemizations
+itemize V: itemized  itemizing  itemizes
+iterate V: iterated  iterating  iterates
+iteration N: iterations
+iterative A:
+itinerant A:
+itinerant N: itinerants
+itinerary N: itineraries
+its A:
+itself P:
+ivied A:
+ivory A:
+ivory N: ivories
+ivy N: ivies

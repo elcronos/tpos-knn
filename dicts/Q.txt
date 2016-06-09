@@ -1,0 +1,233 @@
+qua A:
+quack A:
+quack N: quacks
+quack V: quacked  quacking  quacks
+quackery N: ~quackeries
+-quad A:
+quad N: quads
+-quad V: quadded  quadding  quads
+quadrangle N: quadrangles
+quadrangular A:
+quadrant N: quadrants
+quadraphonic A:
+quadratic A:
+quadratic N: quadratics
+quadrennial A:
+-quadrennial N: quadrennials
+quadrennium N: quadrenniums (quadrennia)
+quadriceps N: quadricepses (quadriceps)
+quadrilateral A:
+quadrilateral N: quadrilaterals
+quadrille N: quadrilles
+quadrillion A:
+quadrillion N: quadrillions | quadrillion {counting}
+quadriplegia N: ~quadriplegias
+quadriplegic A:
+quadriplegic N: quadriplegics
+quadrivium N: ~quadrivia
+quadruped A:
+quadruped N: quadrupeds
+quadrupedal A:
+quadruple A:
+quadruple N: quadruples
+quadruple V: quadrupled  quadrupling  quadruples
+quadruplet N: quadruplets
+quadruplicate A:
+quadruplicate N: quadruplicates
+quadruplicate V: quadruplicated  quadruplicating  quadruplicates
+quadruplication N: ~quadruplications
+quaff N: quaffs
+quaff V: quaffed  quaffing  quaffs
+quagmire N: quagmires
+quahaug N: quahaugs
+quahog N: quahogs
+quail N: quail | quails
+quail V: quailed  quailing  quails
+quaint A: quainter  quaintest
+quaintly A:
+quaintness N: ~quaintnesses
+quake N: quakes
+quake V: quaked  quaking  quakes
+quaky A: !quakier  !quakiest
+qualification N: qualifications
+qualifier N: qualifiers
+qualify V: qualified  qualifying  qualifies
+qualitative A:
+qualitatively A:
+quality A:
+quality N: qualities
+qualm N: qualms
+qualmish A:
+quandary N: quandaries
+quantifiable A:
+quantification N: ~quantifications
+quantifier N: quantifiers
+quantify V: quantified  quantifying  quantifies
+quantitative A:
+quantitatively A:
+quantity N: quantities
+quantum A:
+quantum N: quanta
+quarantine N: quarantines
+quarantine V: quarantined  quarantining  quarantines
+quark N: quarks
+quarrel N: quarrels
+quarrel V: quarreled (quarrelled)  quarreling (quarrelling)  quarrels
+quarreler N: quarrelers
+quarrelsome A:
+quarrelsomeness N: ~quarrelsomenesses
+quarry N: quarries
+quarry V: quarried  quarrying  quarries
+quart N: quarts
+quarter A:
+quarter N: quarters
+quarter V: quartered  quartering  quarters
+quarterback N: quarterbacks
+quarterback V: quarterbacked  quarterbacking  quarterbacks
+quarterdeck N: quarterdecks
+quarterfinal A:
+quarterfinal N: quarterfinals
+quarterly A:
+quarterly N: quarterlies
+quartermaster N: quartermasters
+quarterstaff N: quarterstaves (quarterstaffs)
+quartet N: quartets
+quartette N: quartettes
+quarto A:
+quarto N: quartos
+quartz N: ~quartzes
+quasar N: quasars
+quash V: quashed  quashing  quashes
+quasi A:
+quatrain N: quatrains
+quaver N: quavers
+quaver V: quavered  quavering  quavers
+quavery A:
+quay N: quays
+queasily A:
+queasiness N: ~queasinesses
+queasy A: queasier  queasiest
+queen N: queens
+queen V: queened  queening  queens
+queenly A: queenlier  queenliest
+queer A: queerer  queerest
+queer N: queers
+queer V: queered  queering  queers
+queerly A:
+queerness N: ~queernesses
+quell V: quelled  quelling  quells
+quench V: quenched  quenching  quenches
+quenchable A:
+quencher N: quenchers
+quenchless A:
+querulous A:
+querulously A:
+querulousness N: ~querulousnesses
+query N: queries
+query V: queried  querying  queries
+quest N: quests
+quest V: quested  questing  quests
+question N: questions
+question V: questioned  questioning  questions
+questionable A:
+questionably A:
+questioner N: questioners
+questioning N: questionings
+questioningly A:
+questionnaire N: questionnaires
+queue N: queues
+queue V: queued  queuing (queueing)  queues
+quibble N: quibbles
+quibble V: quibbled  quibbling  quibbles
+quibbler N: quibblers
+quiche N: quiches
+quick A: quicker  quickest
+quick I:
+quick N: ~quicks
+quicken V: quickened  quickening  quickens
+quickie A:
+quickie N: quickies
+quicklime N: ~quicklimes
+quickly A:
+quickness N: ~quicknesses
+quicksand N: quicksands
+quicksilver A:
+quicksilver N: ~quicksilvers
+-quicksilver V: quicksilvered  quicksilvering  quicksilvers
+quickstep N: quicksteps
+quid N: quid {money} | quids {tobacco}
+quiescence N: ~quiescences
+quiescent A:
+quiescently A:
+quiet A: quieter  quietest
+quiet N: ~quiets
+quiet V: quieted  quieting  quiets
+quietly A:
+quietness N: ~quietnesses
+quietude N: ~quietudes
+quietus N: quietuses
+quill N: quills
+-quill V: quilled  quilling  quills
+quilt N: quilts
+quilt V: quilted  quilting  quilts
+quilter N: quilters
+quilting N: ~quiltings
+quince N: quinces
+quinine N: ~quinines
+quinsy N: ~quinsies
+quint N: quints
+quintessence N: quintessences
+quintessential A:
+quintessentially A:
+quintet N: quintets
+quintette N: quintettes
+quintuple A:
+quintuple N: quintuples
+quintuple V: quintupled  quintupling  quintuples
+quintuplet N: quintuplets
+quip N: quips
+quip V: quipped  quipping  quips
+quipster N: quipsters
+quire N: quires
+-quire V: quired  quiring  quires
+quirk N: quirks
+quirk V: quirked  quirking  quirks
+quirkiness N: ~quirkinesses
+quirky A: quirkier  quirkiest
+quirt N: quirts
+-quirt V: quirted  quirting  quirts
+quisling N: quislings
+quit V: quit (quitted)  quitting  quits
+quitclaim N: quitclaims
+-quitclaim V: quitclaimed  quitclaiming  quitclaims
+quite A:
+quittance N: ~quittances
+quitter N: quitters
+quiver N: quivers
+quiver V: quivered  quivering  quivers
+quivery A:
+quixotic A:
+quixotically A:
+quiz N: quizzes
+quiz V: quizzed  quizzing  quizzes
+quizzer N: quizzers
+quizzical A:
+quizzically A:
+quoin N: quoins
+-quoin V: quoined  quoining  quoins
+quoit N: quoits
+quoit V: quoited  quoiting  quoits
+quondam A:
+quorum N: quorums
+quota N: quotas
+quotability N: ~quotabilities
+quotable A:
+quotation N: quotations
+quote N: quotes
+quote V: quoted  quoting  quotes
+quoth V:
+quotidian A:
+-quotidian N: quotidians
+quotient N: quotients
+qwerty A:
+-qwerty N: qwertys

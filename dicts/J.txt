@@ -1,0 +1,414 @@
+jab N: jabs
+jab V: jabbed  jabbing  jabs
+jabber N: ~jabbers
+jabber V: jabbered  jabbering  jabbers
+jabberer N: jabberers
+jabot N: jabots
+jacaranda N: jacarandas
+-jack A:
+jack N: jacks
+jack V: jacked  jacking  jacks
+jackal N: jackals
+jackass N: jackasses
+jackboot N: jackboots
+jackdaw N: jackdaws
+jacket N: jackets
+-jacket V: jacketed  jacketing  jackets
+jacketed A:
+jackhammer N: jackhammers
+jackknife N: jackknives
+jackknife V: jackknifed  jackknifing  jackknifes
+jackpot N: jackpots
+jackrabbit N: jackrabbits
+-jackrabbit V: jackrabbited  jackrabbiting  jackrabbits
+jackstraw N: jackstraws
+jacquard N: ~jacquards
+jade A:
+jade N: jades
+jade V: jaded  jading  jades
+jadedly A:
+jadedness N: ~jadednesses
+jadeite N: ~jadeites
+jag N: jags
+-jag V: jagged  jagging  jags
+jagged A: jaggeder  jaggedest
+jaggedly A:
+jaggedness N: ~jaggednesses
+jaguar N: jaguars
+jail N: jails
+jail V: jailed  jailing  jails
+jailbird N: jailbirds
+jailbreak N: jailbreaks
+jailer N: jailers
+jailor N: jailors
+jalapeno N: jalapenos
+jalopy N: jalopies
+jalousie N: jalousies
+jam N: jams
+jam V: jammed  jamming  jams
+jamb N: jambs
+jambalaya N: ~jambalayas
+jamboree N: jamborees
+jangle N: jangles
+jangle V: jangled  jangling  jangles
+jangler N: janglers
+janitor N: janitors
+janitorial A:
+-japan A:
+japan N: japans
+japan V: japanned  japanning  japans
+jape N: japes
+jape V: japed  japing  japes
+jar N: jars
+jar V: jarred  jarring  jars
+jardiniere N: jardinieres
+jarful N: jarfuls (-jarsful)
+jargon N: ~jargons
+-jargon V: jargoned  jargoning  jargons
+jarringly A:
+jasmine N: jasmines
+jasper N: ~jaspers
+jato N: jatos
+jaundice N: ~jaundices
+jaundice V: jaundiced  jaundicing  jaundices
+jaunt N: jaunts
+jaunt V: jaunted  jaunting  jaunts
+jauntily A:
+jauntiness N: ~jauntinesses
+jaunty A: jauntier  jauntiest
+java N: ~javas
+javelin N: javelins
+-javelin V: javelined  javelining  javelins
+jaw N: jaws
+jaw V: jawed  jawing  jaws
+jawbone N: jawbones
+jawbone V: jawboned  jawboning  jawbones
+jawbreaker N: jawbreakers
+jay N: jays
+jaybird N: jaybirds
+jaywalk V: jaywalked  jaywalking  jaywalks
+jaywalker N: jaywalkers
+jaywalking N: ~jaywalkings
+jazz N: ~jazzes
+jazz V: jazzed  jazzing  jazzes
+jazzy A: jazzier  jazziest
+jealous A:
+jealously A:
+jealousy N: jealousies
+jean N: ~jeans
+jeans N:
+jeep N: jeeps
+-jeep V: jeeped  jeeping  jeeps
+jeer N: jeers
+jeer V: jeered  jeering  jeers
+jeering N: ~jeerings
+jeeringly A:
+jeez I:
+jehad N: jehads
+jejune A:
+jejunum N: jejuna (jejunums)
+jell V: jelled  jelling  jells
+jello N: ~jellos
+jelly N: jellies
+jelly V: jellied  jellying  jellies
+jellybean N: jellybeans
+jellyfish N: jellyfish | jellyfishes
+jellylike A:
+jellyroll N: jellyrolls
+jennet N: jennets
+jenny N: jennies
+jeopardize V: jeopardized  jeopardizing  jeopardizes
+jeopardy N: ~jeopardies
+jeremiad N: jeremiads
+jerk N: jerks
+jerk V: jerked  jerking  jerks
+jerkily A:
+jerkin N: jerkins
+jerkiness N: ~jerkinesses
+jerkwater A:
+-jerkwater N: jerkwaters
+jerky A: jerkier  jerkiest
+jerky N: ~jerkies
+jerrybuilt A:
+jersey N: jerseys
+jessamine N: jessamines
+jest N: jests
+jest V: jested  jesting  jests
+jester N: jesters
+jestingly A:
+jet A:
+jet N: jets
+jet V: jetted  jetting  jets
+jetliner N: jetliners
+jetport N: jetports
+jetsam N: ~jetsams
+jettison N: ~jettisons
+jettison V: jettisoned  jettisoning  jettisons
+-jetty A: jettier  jettiest
+jetty N: jetties
+-jetty V: jettied  jettying  jetties
+jewel N: jewels
+jewel V: jeweled (jewelled)  jeweling (jewelling)  jewels
+jeweler N: jewelers
+jeweller N: jewellers
+jewellery N: jewelleries
+jewelry N: jewelries
+jib N: jibs
+jib V: jibbed  jibbing  jibs
+jibe N: jibes
+jibe V: jibed  jibing  jibes
+jiff N: jiffs
+jiffy N: jiffies
+jig N: jigs
+jig V: jigged  jigging  jigs
+jigger N: jiggers
+jigger V: jiggered  jiggering  jiggers
+jiggle N: jiggles
+jiggle V: jiggled  jiggling  jiggles
+jiggly A: !jigglier  !jiggliest
+jigsaw N: jigsaws
+jigsaw V: jigsawed  jigsawed (jigsawn)  jigsawing  jigsaws
+jihad N: jihads
+jilt N: jilts
+jilt V: jilted  jilting  jilts
+jimmy N: jimmies
+jimmy V: jimmied  jimmying  jimmies
+jimsonweed N: ~jimsonweeds
+jingle N: jingles
+jingle V: jingled  jingling  jingles
+jingly A: !jinglier  !jingliest
+jingoism N: ~jingoisms
+jingoist A:
+jingoist N: jingoists
+jingoistic A:
+jinn N: jinns
+jinni N: jinnis (jinn)
+jinricksha N: jinrickshas
+jinrikisha N: jinrikishas
+jinriksha N: jinrikshas
+jinx N: jinxes
+jinx V: jinxed  jinxing  jinxes
+jitney N: jitneys
+-jitney V: jitneyed  jitneying  jitneys
+jitterbug N: jitterbugs
+jitterbug V: jitterbugged  jitterbugging  jitterbugs
+jitterbugger N: jitterbuggers
+jitters N:
+jittery A: jitterier  jitteriest
+jiujitsu N: ~jiujitsus
+jive A:
+jive N: ~jives
+jive V: jived  jiving  jives
+job A:
+job N: jobs
+job V: jobbed  jobbing  jobs
+jobber N: jobbers
+jobholder N: jobholders
+jobless A:
+-jobless N:
+joblessness N: ~joblessnesses
+jock N: jocks
+jockey N: jockeys
+jockey V: jockeyed  jockeying  jockeys
+jockstrap N: jockstraps
+jocose A:
+jocosely A:
+jocoseness N: ~jocosenesses
+jocosity N: ~jocosities
+jocular A:
+jocularity N: ~jocularities
+jocularly A:
+jocund A:
+jocundity N: ~jocundities
+jocundly A:
+jodhpurs N:
+jog N: jogs
+jog V: jogged  jogging  jogs
+jogger N: joggers
+jogging N: ~joggings
+joggle N: joggles
+joggle V: joggled  joggling  joggles
+john N: johns
+johnny N: johnnies
+johnnycake N: johnnycakes
+join N: joins
+join V: joined  joining  joins
+joiner N: joiners
+joinery N: ~joineries
+joint A:
+joint N: joints
+joint V: jointed  jointing  joints
+jointly A:
+joist N: joists
+-joist V: joisted  joisting  joists
+joke N: jokes
+joke V: joked  joking  jokes
+joker N: jokers
+jokey A: jokier  jokiest
+jokingly A:
+joky A: jokier  jokiest
+jollification N: jollifications
+jollily A:
+jolliness N: ~jollinesses
+jollity N: ~jollities
+jolly A: jollier  jolliest
+jolly N: jollies
+jolly V: jollied  jollying  jollies
+jolt N: jolts
+jolt V: jolted  jolting  jolts
+jolter N: jolters
+jonquil N: jonquils
+josh N: joshes
+josh V: joshed  joshing  joshes
+josher N: joshers
+jostle N: jostles
+jostle V: jostled  jostling  jostles
+jot N: jots
+jot V: jotted  jotting  jots
+jotter N: jotters
+jotting N: jottings
+joule N: joules
+jounce N: jounces
+jounce V: jounced  jouncing  jounces
+jouncy A: !jouncier  !jounciest
+journal N: journals
+-journal V: journaled (journalled)  journaling (journalling)  journals
+journalese N: ~journaleses
+journalism N: ~journalisms
+journalist N: journalists
+journalistic A:
+journey N: journeys
+journey V: journeyed  journeying  journeys
+journeyer N: journeyers
+journeyman N: journeymen
+joust N: jousts
+joust V: jousted  jousting  jousts
+jouster N: jousters
+jousting N: ~joustings
+jovial A:
+joviality N: ~jovialities
+jovially A:
+jowl N: jowls
+jowly A: jowlier  jowliest
+joy N: joys
+joy V: joyed  joying  joys
+joyful A: joyfuller  joyfullest
+joyfully A:
+joyfulness N: ~joyfulnesses
+joyless A:
+joylessly A:
+joylessness N: ~joylessnesses
+joyous A:
+joyously A:
+joyousness N: ~joyousnesses
+joyride N: joyrides
+joyride V: joyrode  joyridden  joyriding  joyrides
+joyrider N: joyriders
+joyriding N: ~joyridings
+joystick N: joysticks
+jubilant A:
+jubilantly A:
+jubilation N: ~jubilations
+jubilee N: jubilees
+judge N: judges
+judge V: judged  judging  judges
+judgement N: judgements
+judgeship N: ~judgeships
+judgment N: judgments
+judgmental A:
+judgmentally A:
+judicatory A:
+judicatory N: judicatories
+judicature N: ~judicatures
+judicial A:
+judicially A:
+judiciary N: judiciaries
+judicious A:
+judiciously A:
+judiciousness N: ~judiciousnesses
+judo N: ~judos
+jug N: jugs
+jug V: jugged  jugging  jugs
+jugful N: jugfuls (-jugsful)
+juggernaut N: juggernauts
+juggle N: juggles
+juggle V: juggled  juggling  juggles
+juggler N: jugglers
+jugglery N: ~juggleries
+jugular A:
+jugular N: jugulars
+juice N: juices
+juice V: juiced  juicing  juices
+juicer N: juicers
+juicily A:
+juiciness N: ~juicinesses
+juicy A: juicier  juiciest
+jujitsu N: ~jujitsus
+jujube N: jujubes
+jujutsu N: ~jujutsus
+jukebox N: jukeboxes
+julep N: juleps
+julienne A:
+-julienne N: juliennes
+julienne V: julienned  julienning  juliennes
+jumble N: jumbles
+jumble V: jumbled  jumbling  jumbles
+jumbo A:
+jumbo N: jumbos
+jump N: jumps
+jump V: jumped  jumping  jumps
+jumper N: jumpers
+jumpily A:
+jumpiness N: ~jumpinesses
+jumpsuit N: jumpsuits
+jumpy A: jumpier  jumpiest
+junco N: juncos (juncoes)
+junction N: junctions
+juncture N: junctures
+jungle N: jungles
+junior A:
+junior N: juniors
+juniper N: junipers
+junk N: junks
+junk V: junked  junking  junks
+junker N: junkers
+junket N: junkets
+junket V: junketed  junketing  junkets
+junketeer N: junketeers
+-junketeer V: junketeered  junketeering  junketeers
+junketer N: junketers
+junkie N: junkies
+junky A: junkier  junkiest
+junky N: junkies
+junkyard N: junkyards
+junta N: juntas
+juridic A:
+juridical A:
+juridically A:
+jurisdiction N: ~jurisdictions
+jurisdictional A:
+jurisprudence N: ~jurisprudences
+jurist N: jurists
+juristic A:
+juror N: jurors
+jury A:
+jury N: juries
+-jury V: juried  jurying  juries
+juryman N: jurymen
+jurywoman N: jurywomen
+just A: juster  justest
+-just V: justed  justing  justs
+justice N: justices
+justifiable A:
+justifiably A:
+justification N: justifications
+justify V: justified  justifying  justifies
+justly A:
+justness N: ~justnesses
+jut N: juts
+jut V: jutted  jutting  juts
+jute N: ~jutes
+juvenile A:
+juvenile N: juveniles
+juxtapose V: juxtaposed  juxtaposing  juxtaposes
+juxtaposition N: juxtapositions

@@ -1,0 +1,1767 @@
+ha I:
+haberdasher N: haberdashers
+haberdashery N: haberdasheries
+habiliment N: habiliments
+habit N: habits
+-habit V: habited  habiting  habits
+habitability N: ~habitabilities
+habitable A:
+habitat N: habitats
+habitation N: habitations
+habitual A:
+habitually A:
+habitualness N: ~habitualnesses
+habituate V: habituated  habituating  habituates
+habituation N: ~habituations
+habitue N: habitues
+hacienda N: haciendas
+hack A:
+hack N: hacks
+hack V: hacked  hacking  hacks
+hacker N: hackers
+hacking N: ~hackings
+hackle N: hackles
+-hackle V: hackled  hackling  hackles
+hackney N: hackneys
+hackney V: hackneyed  hackneying  hackneys
+hacksaw N: hacksaws
+hackwork N: ~hackworks
+haddock N: haddocks | haddock
+hadj N: hadjes
+hadji N: hadjis
+haemoglobin N: ~haemoglobins
+haemophilia N: ~haemophilias
+haemorrhage N: haemorrhages
+haemorrhage V: haemorrhaged  haemorrhaging  haemorrhages
+haemorrhoids N:
+hafnium N: ~hafniums
+haft N: hafts
+-haft V: hafted  hafting  hafts
+hag N: hags
+haggard A:
+-haggard N: haggards
+haggardly A:
+haggardness N: ~haggardnesses
+haggis N: haggises
+haggish A:
+haggle N: haggles
+haggle V: haggled  haggling  haggles
+haggler N: hagglers
+hagiographer N: hagiographers
+hagiography N: hagiographies
+hah I:
+hahnium N: ~hahniums
+haiku N: haiku (-haikus)
+hail I:
+hail N: hails
+hail V: hailed  hailing  hails
+hailstone N: hailstones
+hailstorm N: hailstorms
+hair N: hairs
+hairball N: hairballs
+hairbreadth A:
+hairbreadth N: hairbreadths
+hairbrush N: hairbrushes
+haircloth N: ~haircloths
+haircut N: haircuts
+hairdo N: hairdos
+hairdresser N: hairdressers
+hairdressing N: ~hairdressings
+hairdryer N: hairdryers
+haired A:
+hairiness N: ~hairinesses
+hairless A:
+hairlike A:
+hairline A:
+hairline N: hairlines
+hairnet N: hairnets
+hairpiece N: hairpieces
+hairpin N: hairpins
+hairsbreadth N: hairsbreadths
+hairsplitter N: hairsplitters
+hairsplitting A:
+hairsplitting N: ~hairsplittings
+hairspring N: hairsprings
+hairstyle N: hairstyles
+hairstylist N: hairstylists
+hairy A: hairier  hairiest
+hajj N: hajjes
+hajji N: hajjis
+hake N: hake | hakes
+halal A:
+halal N: ~halals
+halberd N: halberds
+halcyon A:
+-halcyon N: halcyons
+hale A: haler  halest
+hale V: haled  haling  hales
+half A:
+half N: halves
+halfback N: halfbacks
+halfhearted A:
+halfheartedly A:
+halfheartedness N: ~halfheartednesses
+halfpenny N: halfpennies {coin} | halfpence {amount}
+halftime A:
+halftime N: halftimes
+-halftone A:
+halftone N: halftones
+halfway A:
+halfwit N: halfwits
+halibut N: halibut | halibuts
+halite N: ~halites
+halitosis N: ~halitoses
+hall N: halls
+halleluiah I:
+halleluiah N: halleluiahs
+hallelujah I:
+hallelujah N: hallelujahs
+halliard N: halliards
+hallmark N: hallmarks
+hallmark V: hallmarked  hallmarking  hallmarks
+hallo I:
+hallo N: hallos
+-hallo V: halloed  halloing  hallos
+halloo I:
+halloo N: halloos
+halloo V: hallooed  hallooing  halloos
+hallow V: hallowed  hallowing  hallows
+hallucinate V: hallucinated  hallucinating  hallucinates
+hallucination N: hallucinations
+hallucinatory A:
+hallucinogen N: hallucinogens
+hallucinogenic A:
+hallucinogenic N: hallucinogenics
+hallway N: hallways
+halo N: halos (haloes)
+halo V: haloed  haloing  halos (haloes)
+halogen N: halogens
+halt A:
+halt N: halts
+halt V: halted  halting  halts
+halter N: halters
+halter V: haltered  haltering  halters
+haltingly A:
+halve V: halved  halving  halves
+halyard N: halyards
+ham A:
+ham N: hams
+ham V: hammed  hamming  hams
+hamburg N: hamburgs
+hamburger N: hamburgers
+hamlet N: hamlets
+hammer N: hammers
+hammer V: hammered  hammering  hammers
+hammerer N: hammerers
+hammerhead N: hammerheads
+hammerlock N: hammerlocks
+hammertoe N: hammertoes
+hammock N: hammocks
+hammy A: hammier  hammiest
+hamper N: hampers
+hamper V: hampered  hampering  hampers
+hamster N: hamsters
+hamstring N: hamstrings
+hamstring V: hamstrung  hamstringing  hamstrings
+hand A:
+hand N: hands
+hand V: handed  handing  hands
+handbag N: handbags
+handball N: handballs
+handbarrow N: handbarrows
+handbill N: handbills
+handbook N: handbooks
+handcar N: handcars
+handcart N: handcarts
+handclasp N: handclasps
+handcraft N: handcrafts
+handcraft V: handcrafted  handcrafting  handcrafts
+handcuff N: handcuffs
+handcuff V: handcuffed  handcuffing  handcuffs
+handed A:
+handful N: handfuls (handsful)
+handgun N: handguns
+handhold N: handholds
+handicap N: handicaps
+handicap V: handicapped  handicapping  handicaps
+handicapper N: handicappers
+handicraft N: handicrafts
+handily A:
+handiness N: ~handinesses
+handiwork N: ~handiworks
+handkerchief N: handkerchiefs (handkerchieves)
+handle N: handles
+handle V: handled  handling  handles
+handlebar N: handlebars
+handler N: handlers
+handmade A:
+handmaid N: handmaids
+handmaiden N: handmaidens
+handout N: handouts
+handpick V: handpicked  handpicking  handpicks
+handrail N: handrails
+handsaw N: handsaws
+handset N: handsets
+-handset V: handset  handsetting  handsets
+handshake N: handshakes
+handsome A: handsomer  handsomest
+handsomely A:
+handsomeness N: ~handsomenesses
+handspring N: handsprings
+handstand N: handstands
+handwork N: ~handworks
+handwoven A:
+handwriting N: ~handwritings
+handwritten A:
+handy A: handier  handiest
+handyman N: handymen
+hang N: hangs
+hang V: hanged {execute} | hung {suspend}  hanging  hangs
+hangar N: hangars
+-hangar V: hangared  hangaring  hangars
+hangdog A:
+-hangdog N: hangdogs
+hanger N: hangers
+hanging N: hangings
+hangman N: hangmen
+hangnail N: hangnails
+hangout N: hangouts
+hangover N: hangovers
+hangup N: hangups
+hank N: hanks
+-hank V: hanked  hanking  hanks
+hanker V: hankered  hankering  hankers
+hankering N: hankerings
+hankie N: hankies
+hanky N: hankies
+hansom N: hansoms
+hap N: ~haps
+-hap V: happed  happing  haps
+haphazard A:
+-haphazard N: haphazards
+haphazardly A:
+haphazardness N: ~haphazardnesses
+hapless A:
+haplessly A:
+haplessness N: ~haplessnesses
+haploid A:
+haploid N: haploids
+haply A:
+happen V: happened  happening  happens
+happening N: happenings
+happenstance N: happenstances
+happily A:
+happiness N: ~happinesses
+happy A: happier  happiest
+harangue N: harangues
+harangue V: harangued  haranguing  harangues
+harass V: harassed  harassing  harasses
+harasser N: harassers
+harassment N: ~harassments
+harbinger N: harbingers
+-harbinger V: harbingered  harbingering  harbingers
+harbor N: harbors
+harbor V: harbored  harboring  harbors
+harbour N: harbours
+harbour V: harboured  harbouring  harbours
+hard A: harder  hardest
+-hard N: hards
+hardback A:
+hardback N: hardbacks
+hardball N: ~hardballs
+hardboard N: ~hardboards
+hardbound A:
+hardcore A:
+-hardcore N: hardcores
+hardcover A:
+hardcover N: hardcovers
+harden V: hardened  hardening  hardens
+hardener N: hardeners
+hardhat A:
+hardhat N: hardhats
+hardheaded A:
+hardheadedly A:
+hardheadedness N: ~hardheadednesses
+hardhearted A:
+hardheartedly A:
+hardheartedness N: ~hardheartednesses
+hardihood N: ~hardihoods
+hardily A:
+hardiness N: ~hardinesses
+hardline A:
+hardliner N: hardliners
+hardly A:
+hardness N: ~hardnesses
+hardscrabble A:
+hardship N: hardships
+hardstand N: hardstands
+hardtack N: ~hardtacks
+hardtop N: hardtops
+hardware N: ~hardwares
+hardwood A:
+hardwood N: hardwoods
+hardworking A:
+hardy A: hardier  hardiest
+-hardy N: hardies
+hare N: hares | hare
+hare V: hared  haring  hares
+harebell N: harebells
+harebrained A:
+harelip N: harelips
+harelipped A:
+harem N: harems
+hark I:
+hark V: harked  harking  harks
+harken V: harkened  harkening  harkens
+harlequin A:
+harlequin N: harlequins
+harlot N: harlots
+harlotry N: ~harlotries
+harm N: ~harms
+harm V: harmed  harming  harms
+harmful A:
+harmfully A:
+harmfulness N: ~harmfulnesses
+harmless A:
+harmlessly A:
+harmlessness N: ~harmlessnesses
+harmonic A:
+harmonic N: harmonics
+harmonica N: harmonicas
+harmonically A:
+harmonious A:
+harmoniously A:
+harmoniousness N: ~harmoniousnesses
+harmonium N: harmoniums
+harmonization N: ~harmonizations
+harmonize V: harmonized  harmonizing  harmonizes
+harmonizer N: harmonizers
+harmony N: harmonies
+harness N: harnesses
+harness V: harnessed  harnessing  harnesses
+harp N: harps
+harp V: harped  harping  harps
+harpist N: harpists
+harpoon N: harpoons
+harpoon V: harpooned  harpooning  harpoons
+harpooner N: harpooners
+harpsichord N: harpsichords
+harpsichordist N: harpsichordists
+harpy N: harpies
+harridan N: harridans
+harrier N: harriers
+harrow N: harrows
+harrow V: harrowed  harrowing  harrows
+harry V: harried  harrying  harries
+harsh A: harsher  harshest
+harshly A:
+harshness N: ~harshnesses
+hart N: harts | hart
+harvest N: harvests
+harvest V: harvested  harvesting  harvests
+harvester N: harvesters
+hash N: hashes
+hash V: hashed  hashing  hashes
+hasheesh N: ~hasheeshes
+hashish N: ~hashishes
+hasp N: hasps
+-hasp V: hasped  hasping  hasps
+hassle N: hassles
+hassle V: hassled  hassling  hassles
+hassock N: hassocks
+haste N: ~hastes
+haste V: hasted  hasting  hastes
+hasten V: hastened  hastening  hastens
+hastily A:
+hastiness N: ~hastinesses
+hasty A: hastier  hastiest
+hat N: hats
+hat V: hatted  hatting  hats
+hatbox N: hatboxes
+hatch N: hatches
+hatch V: hatched  hatching  hatches
+hatchback N: hatchbacks
+hatcheck A:
+hatcheck N: hatchecks
+hatchery N: hatcheries
+hatchet N: hatchets
+-hatchet V: hatcheted  hatcheting  hatchets
+hatching N: ~hatchings
+hatchway N: hatchways
+hate N: hates
+hate V: hated  hating  hates
+hateful A:
+hatefully A:
+hatefulness N: ~hatefulnesses
+hatemonger N: hatemongers
+hater N: haters
+hatred N: hatreds
+hatter N: hatters
+hauberk N: hauberks
+haughtily A:
+haughtiness N: ~haughtinesses
+haughty A: haughtier  haughtiest
+haul N: hauls
+haul V: hauled  hauling  hauls
+haulage N: ~haulages
+hauler N: haulers
+haunch N: haunches
+haunt N: haunts
+haunt V: haunted  haunting  haunts
+haunter N: haunters
+-haunting N: hauntings
+hauntingly A:
+hauteur N: ~hauteurs
+have N: haves
+have V: had (@hadst)  having  has (@hast @hath)
+haven N: havens
+-haven V: havened  havening  havens
+haversack N: haversacks
+havoc N: ~havocs
+-havoc V: havocked  havocking  havocs
+haw I:
+haw N: haws
+haw V: hawed  hawing  haws
+hawk N: hawks
+hawk V: hawked  hawking  hawks
+hawker N: hawkers
+hawkish A:
+hawkishness N: ~hawkishnesses
+hawser N: hawsers
+hawthorn N: hawthorns
+hay N: ~hays
+hay V: hayed  haying  hays
+haycock N: haycocks
+hayloft N: haylofts
+haymow N: haymows
+hayrick N: hayricks
+hayride N: hayrides
+hayseed A:
+hayseed N: hayseeds (hayseed)
+haystack N: haystacks
+haywire A:
+-haywire N: haywires
+hazard N: hazards
+hazard V: hazarded  hazarding  hazards
+hazardous A:
+hazardously A:
+haze N: hazes
+haze V: hazed  hazing  hazes
+hazel A:
+hazel N: hazels
+hazelnut N: hazelnuts
+hazer N: hazers
+hazily A:
+haziness N: ~hazinesses
+hazing N: hazings
+hazy A: hazier  haziest
+he A:
+he N: hes
+he P:
+head A:
+head N: heads | head {count}
+head V: headed  heading  heads
+headache N: headaches
+headband N: headbands
+headboard N: headboards
+headdress N: headdresses
+header N: headers
+headfirst A:
+headgear N: ~headgears
+headhunt V: headhunted  headhunting  headhunts
+headhunter N: headhunters
+headhunting N: ~headhuntings
+headily A:
+headiness N: ~headinesses
+heading N: headings
+headlamp N: headlamps
+headland N: headlands
+headless A:
+headlight N: headlights
+headline N: headlines
+headline V: headlined  headlining  headlines
+headliner N: headliners
+headlock N: headlocks
+headlong A:
+headman N: headmen
+headmaster N: headmasters
+headmistress N: headmistresses
+headphone N: headphones
+headpiece N: headpieces
+headpin N: headpins
+headquarter V: headquartered  headquartering  headquarters
+headquarters N: headquarters
+headrest N: headrests
+headroom N: ~headrooms
+headset N: headsets
+headship N: headships
+headshrinker N: headshrinkers
+headsman N: headsmen
+headstall N: headstalls
+headstand N: headstands
+headstone N: headstones
+headstrong A:
+headwaiter N: headwaiters
+headwaters N:
+headway N: ~headways
+headwind N: headwinds
+headword N: headwords
+heady A: headier  headiest
+heal V: healed  healing  heals
+healer N: healers
+health N: ~healths
+healthcare N: ~healthcares
+healthful A:
+healthfully A:
+healthfulness N: ~healthfulnesses
+healthily A:
+healthiness N: ~healthinesses
+healthy A: healthier  healthiest
+heap A:
+heap N: heaps
+heap V: heaped  heaping  heaps
+hear V: heard  hearing  hears
+hearer N: hearers
+hearing N: hearings
+hearken V: hearkened  hearkening  hearkens
+hearsay A:
+hearsay N: ~hearsays
+hearse N: hearses
+heart N: hearts
+heartache N: heartaches
+heartbeat N: heartbeats
+heartbreak N: heartbreaks
+heartbreaking A:
+heartbroken A:
+heartburn N: ~heartburns
+hearten V: heartened  heartening  heartens
+heartfelt A:
+hearth N: hearths
+hearthstone N: hearthstones
+heartily A:
+heartiness N: ~heartinesses
+heartland N: heartlands
+heartless A:
+heartlessly A:
+heartlessness N: ~heartlessnesses
+heartrending A:
+heartrendingly A:
+heartsick A:
+heartsickness N: ~heartsicknesses
+heartstrings N:
+heartthrob N: heartthrobs
+heartwarming A:
+heartwood N: ~heartwoods
+hearty A: heartier  heartiest
+hearty N: hearties
+heat N: heats
+heat V: heated  heating  heats
+heatedly A:
+heater N: heaters
+heath N: heaths
+heathen A:
+heathen N: heathens (heathen)
+heathendom N: ~heathendoms
+heathenish A:
+heathenism N: ~heathenisms
+-heather A:
+heather N: ~heathers
+heating N: ~heatings
+heatproof A:
+heatproof V: heatproofed  heatproofing  heatproofs
+heatstroke N: ~heatstrokes
+heave N: heaves
+heave V: heaved | hove {nautical}  heaving  heaves
+heaven N: ~heavens
+heavenly A: heavenlier  heavenliest
+heavens N:
+heavenward A:
+heavenwards A:
+heaver N: heavers
+heavily A:
+heaviness N: ~heavinesses
+heavy A: heavier  heaviest
+heavy N: heavies
+heavyhearted A:
+heavyset A:
+heavyweight A:
+heavyweight N: heavyweights
+heck I:
+heck N: ~hecks
+heckle N: heckles
+heckle V: heckled  heckling  heckles
+heckler N: hecklers
+heckling N: ~hecklings
+hectare N: hectares
+hectic A:
+hectically A:
+hectogram N: hectograms
+hectometer N: hectometers
+hector N: hectors
+hector V: hectored  hectoring  hectors
+hedge N: hedges
+hedge V: hedged  hedging  hedges
+hedgehog N: hedgehogs
+hedgehop V: hedgehopped  hedgehopping  hedgehops
+hedger N: hedgers
+hedgerow N: hedgerows
+hedonism N: ~hedonisms
+hedonist N: hedonists
+hedonistic A:
+heed N: ~heeds
+heed V: heeded  heeding  heeds
+heedful A:
+heedfully A:
+heedless A:
+heedlessly A:
+heedlessness N: ~heedlessnesses
+heehaw N: heehaws
+heehaw V: heehawed  heehawing  heehaws
+heel N: heels
+heel V: heeled  heeling  heels
+heelless A:
+heft N: ~hefts
+heft V: hefted  hefting  hefts
+heftily A:
+heftiness N: ~heftinesses
+hefty A: heftier  heftiest
+hegemony N: ~hegemonies
+hegira N: hegiras
+heifer N: heifers
+height N: heights
+heighten V: heightened  heightening  heightens
+heinous A:
+heinously A:
+heinousness N: ~heinousnesses
+heir N: heirs
+-heir V: heired  heiring  heirs
+heiress N: heiresses
+heirloom N: heirlooms
+heist N: heists
+heist V: heisted  heisting  heists
+helical A:
+helicopter N: helicopters
+helicopter V: helicoptered  helicoptering  helicopters
+heliocentric A:
+heliotrope A:
+heliotrope N: heliotropes
+heliport N: heliports
+helium N: ~heliums
+helix N: helices (helixes)
+hell I:
+hell N: ~hells
+hellbent A:
+hellcat N: hellcats
+hellebore N: ~hellebores
+hellhole N: hellholes
+hellion N: hellions
+hellish A:
+hellishly A:
+hellishness N: ~hellishnesses
+hello I:
+hello N: hellos
+-hello V: helloed  helloing  hellos
+helluva A:
+helm N: helms
+-helm V: helmed  helming  helms
+helmet N: helmets
+helmeted A:
+helmsman N: helmsmen
+helot N: helots
+help I:
+help N: helps
+help V: helped  helping  helps
+helper N: helpers
+helpful A:
+helpfully A:
+helpfulness N: ~helpfulnesses
+helping N: helpings
+helpless A:
+helplessly A:
+helplessness N: ~helplessnesses
+helpmate N: helpmates
+helpmeet N: helpmeets
+helve N: helves
+-helve V: helved  helving  helves
+hem I:
+hem N: hems
+hem V: hemmed  hemming  hems
+hematite N: ~hematites
+hematologic A:
+hematological A:
+hematologist N: hematologists
+hematology N: ~hematologies
+heme N: ~hemes
+hemisphere N: hemispheres
+hemispheric A:
+hemispherical A:
+hemline N: hemlines
+hemlock N: hemlocks
+hemmer N: hemmers
+hemoglobin N: ~hemoglobins
+hemophilia N: ~hemophilias
+hemophiliac A:
+hemophiliac N: hemophiliacs
+hemorrhage N: hemorrhages
+hemorrhage V: hemorrhaged  hemorrhaging  hemorrhages
+hemorrhagic A:
+hemorrhoid N: hemorrhoids
+hemostat N: hemostats
+hemp N: ~hemps
+hempen A:
+hemstitch N: hemstitches
+hemstitch V: hemstitched  hemstitching  hemstitches
+hen N: hens
+hence A:
+henceforth A:
+henceforward A:
+henchman N: henchmen
+henna A:
+henna N: ~hennas
+henna V: hennaed  hennaing  hennas
+henpeck V: henpecked  henpecking  henpecks
+hep A: hepper  heppest
+heparin N: ~heparins
+hepatic A:
+hepatitis N: ~hepatitides
+heptagon N: heptagons
+heptagonal A:
+heptathlon N: heptathlons
+her A:
+her N: hers
+her P:
+herald N: heralds
+herald V: heralded  heralding  heralds
+heraldic A:
+heraldry N: ~heraldries
+herb N: herbs
+herbaceous A:
+herbage N: ~herbages
+herbal A:
+-herbal N: herbals
+herbalist N: herbalists
+herbicidal A:
+herbicide N: herbicides
+herbivore N: herbivores
+herbivorous A:
+herculean A:
+herd N: herds
+herd V: herded  herding  herds
+herder N: herders
+herdsman N: herdsmen
+here A:
+here I:
+here N: ~heres
+hereabout A:
+hereabouts A:
+hereafter A:
+hereafter N: hereafters
+hereby A:
+hereditary A:
+heredity N: ~heredities
+herein A:
+hereof A:
+hereon A:
+heresy N: heresies
+heretic N: heretics
+heretical A:
+hereto A:
+heretofore A:
+hereunto A:
+hereupon A:
+herewith A:
+heritable A:
+heritage N: heritages
+hermaphrodite A:
+hermaphrodite N: hermaphrodites
+hermaphroditic A:
+hermetic A:
+hermetical A:
+hermetically A:
+hermit N: hermits
+hermitage N: hermitages
+hernia N: hernias (herniae)
+hernial A:
+herniate V: herniated  herniating  herniates
+herniation N: ~herniations
+hero N: heroes | heroes (heros) {sandwich}
+heroic A:
+-heroic N: heroics
+heroically A:
+heroics N:
+heroin N: heroins
+heroine N: ~heroines
+heroism N: ~heroisms
+heron N: herons
+herpes N: ~herpeses
+herpetologist N: herpetologists
+herpetology N: ~herpetologies
+herring N: herring | herrings
+herringbone A:
+herringbone N: ~herringbones
+hers P:
+herself P:
+hertz N: hertz (hertzes)
+hesitance N: ~hesitances
+hesitancy N: ~hesitancies
+hesitant A:
+hesitantly A:
+hesitate V: hesitated  hesitating  hesitates
+hesitatingly A:
+hesitation N: hesitations
+hetero A:
+hetero N: heteros
+heterodox A:
+heterodoxy N: ~heterodoxies
+heterogeneity N: ~heterogeneities
+heterogeneous A:
+heterogeneously A:
+heterosexual A:
+heterosexual N: heterosexuals
+heterosexuality N: ~heterosexualities
+heuristic A:
+heuristic N: heuristics
+heuristically A:
+heuristics N:
+hew V: hewed  hewed (hewn)  hewing  hews
+hewer N: hewers
+hex A:
+hex N: hexes
+hex V: hexed  hexing  hexes
+hexadecimal A:
+hexagon N: hexagons
+hexagonal A:
+hexagram N: hexagrams
+hexameter N: hexameters
+hey I:
+heyday N: heydays
+hi I:
+-hi A:
+hiatus N: hiatuses (hiatus)
+hibachi N: hibachis
+hibernate V: hibernated  hibernating  hibernates
+hibernation N: ~hibernations
+hibernator N: hibernators
+hibiscus N: hibiscuses
+hiccough N: hiccoughs
+hiccough V: hiccoughed  hiccoughing  hiccoughs
+hiccup N: hiccups
+hiccup V: hiccuped (hiccupped)  hiccuping (hiccupping)  hiccups
+hick A:
+hick N: hicks
+hickey N: hickeys (hickies)
+hickory A:
+hickory N: hickories
+hide N: hides
+hide V: hid  hidden (hid)  hiding  hides
+hide V {thrash}: hided  hiding  hides
+hideaway N: hideaways
+hidebound A:
+hideous A:
+hideously A:
+hideousness N: ~hideousnesses
+hideout N: hideouts
+hider N: hiders
+hiding N: ~hidings
+hie V: hied  hieing / hying  hies
+hierarchic A:
+hierarchical A:
+hierarchically A:
+hierarchy N: hierarchies
+hieroglyph N: hieroglyphs
+hieroglyphic A:
+hieroglyphic N: hieroglyphics
+high A: higher  highest
+high N: highs
+highball N: highballs
+-highball V: highballed  highballing  highballs
+highborn A:
+highboy N: highboys
+highbrow A:
+highbrow N: highbrows
+highchair N: highchairs
+highfalutin A:
+highfaluting A:
+highhanded A:
+highhandedly A:
+highhandedness N: ~highhandednesses
+highjack N: highjacks
+highjack V: highjacked  highjacking  highjacks
+highland A:
+highland N: highlands
+highlander N: highlanders
+highlight N: highlights
+highlight V: highlighted  highlighting  highlights
+highlighter N: highlighters
+highly A:
+highness N: ~highnesses
+highrise N: highrises
+highroad N: highroads
+hightail V: hightailed  hightailing  hightails
+highway N: highways
+highwayman N: highwaymen
+hijack N: hijacks
+hijack V: hijacked  hijacking  hijacks
+hijacker N: hijackers
+hijacking N: hijackings
+hike N: hikes
+hike V: hiked  hiking  hikes
+hiker N: hikers
+hiking N: ~hikings
+hilarious A:
+hilariously A:
+hilariousness N: ~hilariousnesses
+hilarity N: ~hilarities
+hill N: hills
+-hill V: hilled  hilling  hills
+hillbilly A:
+hillbilly N: hillbillies
+hilliness N: ~hillinesses
+hillock N: hillocks
+hillside N: hillsides
+hilltop N: hilltops
+-hilltop V: hilltopped  hilltopping  hilltops
+hilly A: hillier  hilliest
+hilt N: hilts
+-hilt V: hilted  hilting  hilts
+him N: hims
+him P:
+himself P:
+hind A:
+hind N: hinds | hind
+hinder A:
+hinder V: hindered  hindering  hinders
+hindmost A:
+hindquarter N: hindquarters
+hindrance N: hindrances
+hindsight N: ~hindsights
+hinge N: hinges
+hinge V: hinged  hinging  hinges
+hint N: hints
+hint V: hinted  hinting  hints
+hinter N: hinters
+hinterland N: hinterlands
+hip A: hipper  hippest
+hip I:
+hip N: hips
+hip V: hipped  hipping  hips
+hipbone N: hipbones
+hipness N: ~hipnesses
+hippie N: hippies
+hippo N: hippos
+hippodrome N: hippodromes
+hippopotamus N: hippopotamuses (hippopotami)
+-hippy A: hippier  hippiest
+hippy N: hippies
+hipster N: hipsters
+hire N: hires
+hire V: hired  hiring  hires
+hireling N: hirelings
+hirsute A:
+hirsuteness N: ~hirsutenesses
+his A:
+his P:
+hiss N: hisses
+hiss V: hissed  hissing  hisses
+hist I:
+histamine N: histamines
+histogram N: histograms
+histologist N: histologists
+histology N: ~histologies
+historian N: historians
+historic A:
+historical A:
+historically A:
+historicity N: ~historicities
+historiographer N: historiographers
+historiography N: ~historiographies
+history N: histories
+histrionic A:
+-histrionic N: histrionics
+histrionically A:
+histrionics N:
+hit N: hits
+hit V: hit  hitting  hits
+hitch N: hitches
+hitch V: hitched  hitching  hitches
+hitcher N: hitchers
+hitchhike N: hitchhikes
+hitchhike V: hitchhiked  hitchhiking  hitchhikes
+hitchhiker N: hitchhikers
+hither A:
+hitherto A:
+hitter N: hitters
+hive N: hives
+hive V: hived  hiving  hives
+hmm I:
+ho I:
+ho N: -ho's / hos
+hoagie N: hoagies
+hoagy N: hoagies
+hoard N: hoards
+hoard V: hoarded  hoarding  hoards
+hoarder N: hoarders
+hoarding N: hoardings
+hoarfrost N: ~hoarfrosts
+hoariness N: ~hoarinesses
+hoarse A: hoarser  hoarsest
+hoarsely A:
+hoarseness N: ~hoarsenesses
+hoary A: hoarier  hoariest
+hoax N: hoaxes
+hoax V: hoaxed  hoaxing  hoaxes
+hoaxer N: hoaxers
+hob N: hobs
+-hob V: hobbed  hobbing  hobs
+hobble N: hobbles
+hobble V: hobbled  hobbling  hobbles
+hobbler N: hobblers
+hobby N: hobbies
+hobbyhorse N: hobbyhorses
+hobbyist N: hobbyists
+hobgoblin N: hobgoblins
+hobnail N: hobnails
+hobnail V: hobnailed  hobnailing  hobnails
+hobnailed A:
+hobnob V: hobnobbed  hobnobbing  hobnobs
+hobo N: hobos / hoboes
+hock N: hocks
+hock V: hocked  hocking  hocks
+hockey N: ~hockeys
+hockshop N: hockshops
+hod N: hods
+hodgepodge N: hodgepodges
+hoe N: hoes
+hoe V: hoed  hoeing  hoes
+hoecake N: hoecakes
+hoedown N: hoedowns
+hoer N: hoers
+hog N: hogs (hog)
+hog V: hogged  hogging  hogs
+hogan N: hogans
+hogback N: hogbacks
+hoggish A:
+hoggishly A:
+hogshead N: hogsheads
+hogtie V: hogtied  hogtying (hogtieing)  hogties
+hogwash N: ~hogwashes
+hoist N: hoists
+hoist V: hoisted  hoisting  hoists
+hoke V: hoked  hoking  hokes
+hokey A: hokier  hokiest
+hokum N: ~hokums
+hold N: holds
+hold V: held  holding  holds
+holder N: holders
+holding N: holdings
+holdout N: holdouts
+holdover N: holdovers
+holdup N: holdups
+hole N: holes
+hole V: holed  holing  holes
+holey A:
+holiday A:
+holiday N: holidays
+holiday V: holidayed  holidaying  holidays
+holiness N: ~holinesses
+holistic A:
+holistically A:
+holler N: hollers
+holler V: hollered  hollering  hollers
+hollow A: hollower  hollowest
+hollow N: hollows
+hollow V: hollowed  hollowing  hollows
+hollowly A:
+hollowness N: ~hollownesses
+holly N: hollies
+hollyhock N: hollyhocks
+holmium N: ~holmiums
+holocaust N: holocausts
+hologram N: holograms
+holograph A:
+holograph N: holographs
+-holograph V: holographed  holographing  holographs
+holographic A:
+holography N: ~holographies
+holster N: holsters
+holster V: holstered  holstering  holsters
+holy A: holier  holiest
+-holy N: holies
+homage N: homages
+hombre N: hombres
+homburg N: homburgs
+home A:
+home N: homes
+home V: homed  homing  homes
+homebody N: homebodies
+homeboy N: homeboys
+homecoming N: homecomings
+homegrown A:
+homeland N: homelands
+homeless A:
+homeless N:
+homelessness N: ~homelessnesses
+homelike A:
+homeliness N: ~homelinesses
+homely A: homelier  homeliest
+homemade A:
+homemaker N: homemakers
+homemaking N: ~homemakings
+homeopath N: homeopaths
+homeopathic A:
+homeopathy N: ~homeopathies
+homeostasis N: ~homeostases
+homeostatic A:
+homeowner N: homeowners
+homepage N: homepages
+homer N: homers
+homer V: homered  homering  homers
+homeroom N: homerooms
+homeschooling N: ~homeschoolings
+homesick A:
+homesickness N: ~homesicknesses
+homespun A:
+homespun N: ~homespuns
+homestead N: homesteads
+homestead V: homesteaded  homesteading  homesteads
+homesteader N: homesteaders
+homestretch N: homestretches
+hometown N: hometowns
+homeward A:
+homewards A:
+homework N: ~homeworks
+homey A: homier  homiest
+homey N: homeys
+homeyness N: ~homeynesses
+homicidal A:
+homicide N: homicides
+homiletic A:
+homily N: homilies
+hominess N: ~hominesses
+hominid A:
+hominid N: hominids
+hominy N: ~hominies
+homo N: homos
+homogeneity N: ~homogeneities
+homogeneous A:
+homogeneously A:
+homogenization N: ~homogenizations
+homogenize V: homogenized  homogenizing  homogenizes
+homograph N: homographs
+homologous A:
+homonym N: homonyms
+homophobia N: ~homophobias
+homophobic A:
+homophone N: homophones
+homosexual A:
+homosexual N: homosexuals
+homosexuality N: ~homosexualities
+homy A: homier  homiest
+hon N: hons
+hon P:
+honcho N: honchos
+-honcho V: honchoed  honchoing  honchos
+hone N: hones
+hone V: honed  honing  hones
+honer N: honers
+honest A: honester  honestest
+honestly A:
+honesty N: ~honesties
+honey A:
+honey N: honeys
+honey V: honeyed (honied)  honeying  honeys
+honeybee N: honeybees
+honeycomb A:
+honeycomb N: honeycombs
+honeycomb V: honeycombed  honeycombing  honeycombs
+honeydew N: honeydews
+honeylocust N: honeylocusts
+honeymoon N: honeymoons
+honeymoon V: honeymooned  honeymooning  honeymoons
+honeymooner N: honeymooners
+honeysuckle N: honeysuckles
+honk N: honks
+honk V: honked  honking  honks
+honker N: honkers
+honkie N: honkies
+honky N: honkies
+honor A:
+honor N: honors
+honor V: honored  honoring  honors
+honorable A:
+honorableness N: ~honorablenesses
+honorably A:
+honorarily A:
+honorarium N: honorariums (honoraria)
+honorary A:
+honoree N: honorees
+honorer N: honorers
+honorific A:
+honorific N: honorifics
+honour A:
+honour N: honours
+honour V: honoured  honouring  honours
+honourable A:
+hooch N: ~hooches
+hood N: hoods
+hood V: hooded  hooding  hoods
+hoodlum N: hoodlums
+hoodoo N: hoodoos
+hoodoo V: hoodooed  hoodooing  hoodoos
+hoodwink V: hoodwinked  hoodwinking  hoodwinks
+hooey I:
+hooey N: ~hooeys
+hoof N: hoofs (hooves)
+hoof V: hoofed  hoofing  hoofs
+hook N: hooks
+hook V: hooked  hooking  hooks
+hooka N: hookas
+hookah N: hookahs
+hooker N: hookers
+hookey N: ~hookeys
+hookup N: hookups
+hookworm N: hookworms
+-hooky A: hookier  hookiest
+hooky N: ~hookies
+hooligan N: hooligans
+hooliganism N: ~hooliganisms
+hoop N: hoops
+hoop V: hooped  hooping  hoops
+hoopla N: ~hooplas
+hooray I:
+hooray N: hoorays
+hooray V: hoorayed  hooraying  hoorays
+hoosegow N: hoosegows
+hoot N: hoots
+hoot V: hooted  hooting  hoots
+hootch N: ~hootches
+hootenanny N: hootenannies
+hooter N: hooters
+hop N: hops
+hop V: hopped  hopping  hops
+hope N: hopes
+hope V: hoped  hoping  hopes
+hopeful A:
+hopeful N: hopefuls
+hopefully A:
+hopefulness N: ~hopefulnesses
+hopeless A:
+hopelessly A:
+hopelessness N: ~hopelessnesses
+hopper N: hoppers
+hopscotch N: ~hopscotches
+hopscotch V: hopscotched  hopscotching  hopscotches
+hora N: horas
+horde N: hordes
+horde V: horded  hording  hordes
+horehound N: horehounds
+horizon N: horizons
+horizontal A:
+horizontal N: horizontals
+horizontally A:
+hormonal A:
+hormone N: hormones
+horn A:
+horn N: horns
+-horn V: horned  horning  horns
+hornblende N: ~hornblendes
+horned A:
+hornet N: hornets
+hornless A:
+hornlike A:
+hornpipe N: hornpipes
+horny A: hornier  horniest
+horologic A:
+horological A:
+horologist N: horologists
+horology N: ~horologies
+horoscope N: horoscopes
+horrendous A:
+horrendously A:
+horrible A:
+horribleness N: ~horriblenesses
+horribly A:
+horrid A: horrider  horridest
+horridly A:
+horrific A:
+horrifically A:
+horrify V: horrified  horrifying  horrifies
+horrifying A:
+horror A:
+horror N: horrors
+horse A:
+horse N: horses | horse
+horse V: horsed  horsing  horses
+horseback A:
+horseback N: ~horsebacks
+horseflesh N: ~horseflesh
+horsefly N: horseflies
+horsehair N: ~horsehairs
+horsehide N: ~horsehides
+horselaugh N: horselaughs
+-horselaugh V: horselaughed  horselaughing  horselaughs
+horseless A:
+horseman N: horsemen
+horsemanship N: ~horsemanships
+horseplay N: ~horseplays
+horsepower N: horsepower
+horseradish N: horseradishes
+horseshoe N: horseshoes
+horseshoe V: horseshoed  horseshoeing  horseshoes
+horsetail N: horsetails
+horsewhip N: horsewhips
+horsewhip V: horsewhipped  horsewhipping  horsewhips
+horsewoman N: horsewomen
+horsey A: horsier  horsiest
+horsy A: horsier  horsiest
+hortatory A:
+horticultural A:
+horticulture N: ~horticultures
+horticulturist N: horticulturists
+hosanna I:
+hosanna N: hosannas
+-hosanna V: hosannaed  hosannaing  hosannas
+hose N: hoses {tube} | - {stockings}
+hose V: hosed  hosing  hoses
+hosier N: hosiers
+hosiery N: ~hosieries
+hospice N: hospices
+hospitable A:
+hospitably A:
+hospital N: hospitals
+hospitality N: ~hospitalities
+hospitalization N: hospitalizations
+hospitalize V: hospitalized  hospitalizing  hospitalizes
+host N: hosts
+host V: hosted  hosting  hosts
+hostage N: hostages
+-hostage V: hostaged  hostaging  hostages
+hostel N: hostels
+hostel V: hosteled (hostelled)  hosteling (hostelling)  hostels
+hosteler N: hostelers
+hostelry N: hostelries
+hostess N: hostesses
+hostess V: hostessed  hostessing  hostesses
+hostile A:
+hostile N: hostiles
+hostilely A:
+hostilities N:
+hostility N: ~hostilities
+hostler N: hostlers
+hot A: hotter  hottest
+-hot V: hotted  hotting  hots
+hotbed N: hotbeds
+hotblooded A:
+hotbox N: hotboxes
+hotcake N: hotcakes
+hotdog N: hotdogs
+hotdog V: hotdogged  hotdogging  hotdogs
+hotel N: hotels
+hotelier N: hoteliers
+hotfoot A:
+hotfoot N: hotfoots
+hotfoot V: hotfooted  hotfooting  hotfoots
+hothead N: hotheads
+hotheaded A:
+hotheadedly A:
+hotheadedness N: ~hotheadednesses
+hothouse A:
+hothouse N: hothouses
+hotline N: hotlines
+hotly A:
+hotness N: ~hotnesses
+hotplate N: hotplates
+hots N:
+hotshot A:
+hotshot N: hotshots
+hotspot N: hotspots
+hound N: hounds
+hound V: hounded  hounding  hounds
+hour N: hours
+hourglass A:
+hourglass N: hourglasses
+houri N: houris
+hourly A:
+house A:
+house N: houses
+house V: housed  housing  houses
+houseboat N: houseboats
+housebound A:
+houseboy N: houseboys
+housebreak V: housebroke  housebroken  housebreaking  housebreaks
+housebreaker N: housebreakers
+housebreaking N: ~housebreakings
+houseclean V: housecleaned  housecleaning  housecleans
+housecleaning N: ~housecleanings
+housecoat N: housecoats
+housefly N: houseflies
+houseful N: housefuls
+household A:
+household N: households
+householder N: householders
+househusband N: househusbands
+housekeeper N: housekeepers
+housekeeping N: ~housekeepings
+houselights N:
+housemaid N: housemaids
+houseman N: housemen
+housemother N: housemothers
+houseparent N: houseparents
+houseplant N: houseplants
+housetop N: housetops
+housewares N:
+housewarming N: housewarmings
+housewife N: housewives
+housewifely A:
+housework N: ~houseworks
+housing N: housings
+hovel N: hovels
+-hovel V: hoveled (hovelled)  hoveling (hovelling)  hovels
+-hover N: hovers
+hover V: hovered  hovering  hovers
+hovercraft N: hovercraft (hovercrafts)
+how A:
+how C:
+how N: hows
+howbeit A:
+howdah N: howdahs
+howdy I:
+-howdy N: howdies
+however A:
+however C:
+howitzer N: howitzers
+howl N: howls
+howl V: howled  howling  howls
+howler N: howlers
+howsoever A:
+-hoyden A:
+hoyden N: hoydens
+hoydenish A:
+huarache N: huaraches
+hub N: hubs
+-hub V: hubbed  hubbing  hubs
+hubbub N: hubbubs
+hubby N: hubbies
+hubcap N: hubcaps
+hubris N: ~hubrises
+huckleberry N: huckleberries
+huckster N: hucksters
+huckster V: huckstered  huckstering  hucksters
+hucksterism N: ~hucksterisms
+huddle N: huddles
+huddle V: huddled  huddling  huddles
+hue N: hues
+hued A:
+huff N: huffs
+huff V: huffed  huffing  huffs
+huffily A:
+huffiness N: ~huffinesses
+huffy A: huffier  huffiest
+hug N: hugs
+hug V: hugged  hugging  hugs
+huge A: huger  hugest
+hugely A:
+hugeness N: ~hugenesses
+huh I:
+hula A:
+hula N: hulas
+hulk N: hulks
+-hulk V: hulked  hulking  hulks
+hulking A:
+hull N: hulls
+hull V: hulled  hulling  hulls
+hullabaloo N: hullabaloos
+huller N: hullers
+hullo I:
+hullo N: hullos
+-hullo V: hulloed  hulloing  hullos
+hum I:
+hum N: hums
+hum V: hummed  humming  hums
+human A:
+human N: humans
+humane A: humaner  humanest
+humanely A:
+humaneness N: ~humanenesses
+humanism N: ~humanisms
+humanist A:
+humanist N: humanists
+humanistic A:
+humanitarian N: humanitarians
+humanitarianism N: ~humanitarianisms
+humanities N:
+humanity N: ~humanities
+humanization N: ~humanizations
+humanize V: humanized  humanizing  humanizes
+humanizer N: humanizers
+humankind N:
+humanly A:
+humanness N: ~humannesses
+humanoid A:
+humanoid N: humanoids
+humble A: humbler  humblest
+humble V: humbled  humbling  humbles
+humbleness N: ~humblenesses
+humbler N: humblers
+humbly A:
+humbug I:
+humbug N: humbugs
+humbug V: humbugged  humbugging  humbugs
+humdinger N: humdingers
+humdrum A:
+humdrum N: ~humdrums
+humeral A:
+humerus N: humeri
+humid A: humider  humidest
+humidification N: ~humidifications
+humidifier N: humidifiers
+humidify V: humidified  humidifying  humidifies
+humidity N: ~humidities
+humidly A:
+humidor N: humidors
+humiliate V: humiliated  humiliating  humiliates
+humiliatingly A:
+humiliation N: humiliations
+humility N: ~humilities
+hummer N: hummers
+hummingbird N: hummingbirds
+hummock N: hummocks
+hummocky A:
+hummus N: ~hummuses
+humongous A:
+humor N: ~humors
+humor V: humored  humoring  humors
+humorist N: humorists
+humorless A:
+humorlessly A:
+humorlessness N: ~humorlessnesses
+humorous A:
+humorously A:
+humorousness N: ~humorousnesses
+humour N: ~humours
+humour V: humoured  humouring  humours
+hump N: humps
+hump V: humped  humping  humps
+humpback N: humpbacks
+humpbacked A:
+humph I:
+humph V: humphed  humphing  humphs
+humungous A:
+humus N: ~humuses
+hunch N: hunches
+hunch V: hunched  hunching  hunches
+hunchback N: hunchbacks
+hunchbacked A:
+hundred A:
+hundred N: hundreds | hundred {counting}
+hundredfold A:
+hundredth A:
+hundredth N: hundredths
+hundredweight N: hundredweight {counting} | hundredweights
+hunger N: hungers
+hunger V: hungered  hungering  hungers
+hungover A:
+hungrily A:
+hungriness N: ~hungrinesses
+hungry A: hungrier  hungriest
+hunk N: hunks
+hunker V: hunkered  hunkering  hunkers
+hunky A: hunkier  hunkiest
+-hunky N: hunkies
+hunt N: hunts
+hunt V: hunted  hunting  hunts
+hunter N: hunters
+hunting N: ~huntings
+huntress N: huntresses
+huntsman N: huntsmen
+hurdle N: hurdles
+hurdle V: hurdled  hurdling  hurdles
+hurdler N: hurdlers
+hurdling N: ~hurdlings
+hurl N: hurls
+hurl V: hurled  hurling  hurls
+hurler N: hurlers
+hurling N: ~hurlings
+hurrah I:
+hurrah N: hurrahs
+hurrah V: hurrahed  hurrahing  hurrahs
+hurray I:
+hurray N: hurrays
+hurray V: hurrayed  hurraying  hurrays
+hurricane N: hurricanes
+hurriedly A:
+hurry N: ~hurries
+hurry V: hurried  hurrying  hurries
+hurt N: hurts
+hurt V: hurt  hurting  hurts
+hurtful A:
+hurtfully A:
+hurtfulness N: ~hurtfulnesses
+hurtle V: hurtled  hurtling  hurtles
+husband N: husbands
+husband V: husbanded  husbanding  husbands
+husbandman N: husbandmen
+husbandry N: ~husbandries
+hush N: hushes
+hush V: hushed  hushing  hushes
+husk N: husks
+husk V: husked  husking  husks
+husker N: huskers
+huskily A:
+huskiness N: ~huskinesses
+husky A: huskier  huskiest
+husky N: huskies
+hussar N: hussars
+hussy N: hussies
+hustings N:
+hustle N: hustles
+hustle V: hustled  hustling  hustles
+hustler N: hustlers
+hut N: huts
+-hut V: hutted  hutting  huts
+hutch N: hutches
+hutzpa N: ~hutzpas
+hutzpah N: ~hutzpahs
+huzza I:
+huzza N: huzzas
+huzza V: huzzaed  huzzaing  huzzas
+huzzah I:
+huzzah N: huzzahs
+huzzah V: huzzahed  huzzahing  huzzahs
+hyacinth N: hyacinths
+hyaena N: hyaenas
+hybrid A:
+hybrid N: hybrids
+hybridism N: ~hybridisms
+hybridization N: ~hybridizations
+hybridize V: hybridized  hybridizing  hybridizes
+hydra N: hydras (hydrae)
+hydrangea N: hydrangeas
+hydrant N: hydrants
+hydrate N: hydrates
+hydrate V: hydrated  hydrating  hydrates
+hydration N: ~hydrations
+hydraulic A:
+hydraulically A:
+hydraulics N:
+hydro N: ~hydros
+hydrocarbon N: hydrocarbons
+hydrocephalus N: ~hydrocephali / ~hydrocephaluses
+hydrocephaly N: ~hydrocephalies
+hydrodynamic A:
+hydrodynamics N:
+hydroelectric A:
+hydroelectrically A:
+hydroelectricity N: ~hydroelectricities
+hydrofoil N: hydrofoils
+hydrogen N: ~hydrogens
+hydrogenate V: hydrogenated  hydrogenating  hydrogenates
+hydrogenation N: ~hydrogenations
+hydrogenous A:
+hydrologist N: hydrologists
+hydrology N: ~hydrologies
+hydrolysis N: ~hydrolyses
+hydrolyze V: hydrolyzed  hydrolyzing  hydrolyzes
+hydrometer N: hydrometers
+hydrometry N: ~hydrometries
+hydrophobia N: ~hydrophobias
+hydrophobic A:
+hydrophone N: hydrophones
+hydroplane N: hydroplanes
+hydroplane V: hydroplaned  hydroplaning  hydroplanes
+hydroponic A:
+hydroponically A:
+hydroponics N:
+hydrosphere N: ~hydrospheres
+hydrotherapy N: ~hydrotherapies
+hydrous A:
+hydroxide N: hydroxides
+hyena N: hyenas
+hygiene N: ~hygienes
+hygienic A:
+hygienically A:
+hygienist N: hygienists
+hygrometer N: hygrometers
+hymen N: hymens
+hymeneal A:
+-hymeneal N: hymeneals
+hymn N: hymns
+hymn V: hymned  hymning  hymns
+-hymnal A:
+hymnal N: hymnals
+hymnbook N: hymnbooks
+hype N: ~hypes
+hype V: hyped  hyping  hypes
+hyper A:
+-hyper N: hypers
+hyperactive A:
+hyperactivity N: ~hyperactivities
+hyperbola N: hyperbolas (hyperbolae)
+hyperbole N: ~hyperboles
+hyperbolic A:
+hypercritical A:
+hypercritically A:
+hyperglycemia N: ~hyperglycemias
+hyperlink N: hyperlinks
+hypermedia N: ~hypermedias
+hypersensitive A:
+hypersensitiveness N: ~hypersensitivenesses
+hypersensitivity N: hypersensitivities
+hypertension N: ~hypertensions
+hypertensive A:
+hypertensive N: hypertensives
+hypertext N: ~hypertexts
+hyperthyroid A:
+hyperthyroid N: ~hyperthyroids
+hyperthyroidism N: ~hyperthyroidisms
+hypertrophy N: ~hypertrophies
+hypertrophy V: hypertrophied  hypertrophying  hypertrophies
+hyperventilate V: hyperventilated  hyperventilating  hyperventilates
+hyperventilation N: ~hyperventilations
+hyphen N: hyphens
+hyphen V: hyphened  hyphening  hyphens
+hyphenate A:
+hyphenate N: hyphenates
+hyphenate V: hyphenated  hyphenating  hyphenates
+hyphenation N: ~hyphenations
+hypnosis N: ~hypnoses
+hypnotherapy N: ~hypnotherapies
+hypnotic A:
+hypnotic N: hypnotics
+hypnotically A:
+hypnotism N: ~hypnotisms
+hypnotist N: hypnotists
+hypnotize V: hypnotized  hypnotizing  hypnotizes
+hypo N: hypos
+-hypo V: hypoed  hypoing  hypos
+hypoallergenic A:
+hypochondria N: ~hypochondrias
+hypochondriac A:
+hypochondriac N: hypochondriacs
+hypocrisy N: hypocrisies
+hypocrite N: hypocrites
+hypocritical A:
+hypocritically A:
+hypodermic A:
+hypodermic N: hypodermics
+hypoglycemia N: ~hypoglycemias
+hypoglycemic A:
+hypoglycemic N: hypoglycemics
+hypotenuse N: hypotenuses
+hypothalamus N: hypothalami
+hypothermia N: ~hypothermias
+hypothesis N: hypotheses
+hypothesize V: hypothesized  hypothesizing  hypothesizes
+hypothetical A:
+hypothetically A:
+hypothyroid A:
+hypothyroid N: ~hypothyroids
+hypothyroidism N: ~hypothyroidisms
+hyssop N: ~hyssops
+hysterectomy N: hysterectomies
+hysteria N: ~hysterias
+hysteric A:
+hysteric N: hysterics
+hysterical A:
+hysterically A:
+hysterics N:

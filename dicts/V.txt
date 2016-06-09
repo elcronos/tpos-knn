@@ -1,0 +1,742 @@
+vacancy N: vacancies
+vacant A:
+vacantly A:
+vacate V: vacated  vacating  vacates
+vacation N: vacations
+vacation V: vacationed  vacationing  vacations
+vacationer N: vacationers
+vacationist N: vacationists
+vaccinate V: vaccinated  vaccinating  vaccinates
+vaccination N: vaccinations
+vaccine N: vaccines
+vacillate V: vacillated  vacillating  vacillates
+vacillation N: vacillations
+vacuity N: ~vacuities
+vacuole N: vacuoles
+vacuous A:
+vacuously A:
+vacuousness N: ~vacuousnesses
+vacuum N: vacuums (vacua)
+vacuum V: vacuumed  vacuuming  vacuums
+vagabond A:
+vagabond N: vagabonds
+vagabondage N: ~vagabondages
+vagarious A:
+vagary N: vagaries
+vagina N: vaginae (vaginas)
+vaginal A:
+vaginally A:
+vagrancy N: ~vagrancies
+vagrant A:
+vagrant N: vagrants
+vague A: vaguer  vaguest
+vaguely A:
+vagueness N: ~vaguenesses
+vain A: vainer  vainest
+vainglorious A:
+vaingloriously A:
+vainglory N: ~vainglories
+vainly A:
+valance N: valances
+vale N: vales
+valediction N: valedictions
+valedictorian N: valedictorians
+valedictory A:
+valedictory N: valedictories
+valence N: valences
+valency N: valencies
+valentine N: valentines
+valet N: valets
+valet V: valeted  valeting  valets
+valetudinarian A:
+valetudinarian N: valetudinarians
+valetudinarianism N: ~valetudinarianisms
+valiance N: ~valiances
+valiant A:
+-valiant N: valiants
+valiantly A:
+valid A: -valider  -validest
+validate V: validated  validating  validates
+validation N: validations
+validity N: ~validities
+validly A:
+validness N: ~validnesses
+valise N: valises
+valley N: valleys
+valor N: ~valors
+valorous A:
+valorously A:
+valour N: ~valours
+valuable A:
+valuable N: valuables
+valuate V: valuated  valuating  valuates
+valuation N: valuations
+value N: values
+value V: valued  valuing  values
+valueless A:
+valuer N: valuers
+valve N: valves
+valve V: valved  valving  valves
+valved A:
+valveless A:
+valvular A:
+vamoose V: vamoosed  vamoosing  vamooses
+vamp N: vamps
+vamp V: vamped  vamping  vamps
+vampire N: vampires
+van N: vans
+van V: vanned  vanning  vans
+vanadium N: ~vanadiums
+vandal N: vandals
+vandalise V: vandalised  vandalising  vandalises
+vandalism N: ~vandalisms
+vandalize V: vandalized  vandalizing  vandalizes
+vane N: vanes
+vanguard N: vanguards
+vanilla A:
+vanilla N: vanillas
+-vanish N: vanishes
+vanish V: vanished  vanishing  vanishes
+vanity A:
+vanity N: vanities
+vanquish V: vanquished  vanquishing  vanquishes
+vanquisher N: vanquishers
+vantage N: vantages
+vapid A: -vapider  -vapidest
+vapidity N: ~vapidities
+vapidly A:
+vapidness N: ~vapidnesses
+vapor N: vapors
+-vapor V: vapored  vaporing  vapors
+vaporise V: vaporised  vaporising  vaporises
+vaporization N: ~vaporizations
+vaporize V: vaporized  vaporizing  vaporizes
+vaporizer N: vaporizers
+vaporous A:
+vapory A:
+vapour N: vapours
+-vapour V: vapoured  vapouring  vapours
+vaquero N: vaqueros
+variability N: ~variabilities
+variable A:
+variable N: variables
+variably A:
+variance N: variances
+variant A:
+variant N: variants
+variation N: variations
+varicolored A:
+varicose A:
+variegate V: variegated  variegating  variegates
+variegation N: ~variegations
+varietal A:
+varietal N: varietals
+variety N: varieties
+various A:
+variously A:
+varlet N: varlets
+varmint N: varmints
+varnish N: varnishes
+varnish V: varnished  varnishing  varnishes
+varsity A:
+varsity N: varsities
+vary V: varied  varying  varies
+vascular A:
+vase N: vases
+vasectomy N: vasectomies
+vasomotor A:
+vassal A:
+vassal N: vassals
+vassalage N: ~vassalages
+vast A: vaster  vastest
+vast N: vasts
+vastly A:
+vastness N: ~vastnesses
+vat N: vats
+vat V: vatted  vatting  vats
+vaudeville N: ~vaudevilles
+vaudevillian A:
+vaudevillian N: vaudevillians
+vault N: vaults
+vault V: vaulted  vaulting  vaults
+vaulted A:
+vaulter N: vaulters
+vaulting N: ~vaultings
+vaunt N: vaunts
+vaunt V: vaunted  vaunting  vaunts
+veal N: ~veals
+vector N: vectors
+vector V: vectored  vectoring  vectors
+veejay N: veejays
+veep N: veeps
+veer N: veers
+veer V: veered  veering  veers
+veg N:
+veg V: vegged  vegging  vegges / veges / vegs
+vegan A:
+vegan N: vegans
+vegetable A:
+vegetable N: vegetables
+vegetarian A:
+vegetarian N: vegetarians
+vegetarianism N: ~vegetarianisms
+vegetate V: vegetated  vegetating  vegetates
+vegetation N: ~vegetations
+vegetative A:
+veggie A:
+veggie N: veggies
+vehemence N: ~vehemences
+vehemency N: ~vehemencies
+vehement A:
+vehemently A:
+vehicle N: vehicles
+vehicular A:
+veil N: veils
+veil V: veiled  veiling  veils
+vein N: veins
+vein V: veined  veining  veins
+velar A:
+velar N: velars
+veld N: velds
+veldt N: veldts
+vellum A:
+vellum N: ~vellums
+velocipede N: velocipedes
+velocity N: velocities
+velour N: ~velours
+velours N: ~velours
+velum N: vela
+velvet A:
+velvet N: ~velvets
+velveteen N: ~velveteens
+velvety A: !velvetier  !velvetiest
+venal A:
+venality N: ~venalities
+venally A:
+venation N: ~venations
+vend V: vended  vending  vends
+vender N: venders
+vendetta N: vendettas
+vendible A:
+vendor N: vendors
+veneer N: veneers
+veneer V: veneered  veneering  veneers
+venerability N: ~venerabilities
+venerable A:
+venerate V: venerated  venerating  venerates
+veneration N: ~venerations
+venereal A:
+vengeance N: ~vengeances
+vengeful A:
+vengefully A:
+venial A:
+venireman N: veniremen
+venison N: ~venisons
+venom N: ~venoms
+-venom V: venomed  venoming  venoms
+venomous A:
+venomously A:
+venous A:
+vent N: vents
+vent V: vented  venting  vents
+ventilate V: ventilated  ventilating  ventilates
+ventilation N: ~ventilations
+ventilator N: ventilators
+ventral A:
+ventricle N: ventricles
+ventricular A:
+ventriloquism N: ~ventriloquisms
+ventriloquist N: ventriloquists
+ventriloquy N: ~ventriloquies
+venture N: ventures
+venture V: ventured  venturing  ventures
+venturesome A:
+venturesomely A:
+venturesomeness N: ~venturesomenesses
+venturous A:
+venturously A:
+venturousness N: ~venturousnesses
+venue N: venues
+veracious A:
+veraciously A:
+veracity N: ~veracities
+veranda N: verandas
+verandah N: verandahs
+verb N: verbs
+verbal A:
+verbal N: verbals
+verbalization N: ~verbalizations
+verbalize V: verbalized  verbalizing  verbalizes
+verbally A:
+verbatim A:
+verbena N: verbenas
+verbiage N: ~verbiages
+verbose A: -verboser  -verbosest
+verbosely A:
+verbosity N: ~verbosities
+verboten A:
+verdant A:
+verdantly A:
+verdict N: verdicts
+verdigris N: ~verdigrises
+verdure N: ~verdures
+verge N: verges
+verge V: verged  verging  verges
+verger N: vergers
+verifiable A:
+verification N: ~verifications
+verify V: verified  verifying  verifies
+verily A:
+verisimilitude N: ~verisimilitudes
+veritable A:
+veritably A:
+verity N: verities
+vermicelli N: ~vermicelli / ~vermicellis
+vermiculite N: ~vermiculites
+vermiform A:
+vermilion A:
+vermilion N: ~vermilions
+-vermilion V: vermilioned  vermilioning  vermilions
+vermillion A:
+vermillion N: ~vermillions
+vermin N: vermin
+verminous A:
+vermouth N: ~vermouths
+vernacular A:
+vernacular N: vernaculars
+vernal A:
+vernier N: verniers
+veronica N: ~veronicas
+verruca N: verrucae / verrucas
+versatile A:
+versatility N: ~versatilities
+verse N: verses
+verse V: versed  versing  verses
+versification N: ~versifications
+versifier N: versifiers
+versify V: versified  versifying  versifies
+version N: versions
+verso A:
+verso N: versos
+versus C:
+vertebra N: vertebrae (vertebras)
+vertebral A:
+vertebrate A:
+vertebrate N: vertebrates
+vertex N: vertexes (vertices)
+vertical A:
+vertical N: verticals
+vertically A:
+vertiginous A:
+vertigo N: ~vertigoes (~vertigines ~vertigos)
+verve N: ~verves
+very A: verier  veriest
+vesicle N: vesicles
+vesicular A:
+vesiculate A:
+-vesiculate V: vesiculated  vesiculating  vesiculates
+vesper A:
+vesper N: vespers
+vessel N: vessels
+vest N: vests
+vest V: vested  vesting  vests
+vestal A:
+vestal N: vestals
+vestibule N: vestibules
+-vestibule V: vestibuled  vestibuling  vestibules
+vestige N: vestiges
+vestigial A:
+vestigially A:
+vesting N: ~vestings
+vestment N: vestments
+vestry N: vestries
+vestryman N: vestrymen
+vet A:
+vet N: vets
+vet V: vetted  vetting  vets
+vetch N: vetches
+veteran A:
+veteran N: veterans
+veterinarian N: veterinarians
+veterinary A:
+veterinary N: veterinaries
+veto N: vetoes
+veto V: vetoed  vetoing  vetoes
+vex V: vexed  vexing  vexes
+vexation N: vexations
+vexatious A:
+vexatiously A:
+via C:
+-via N: vias (viae)
+viability N: ~viabilities
+viable A:
+viably A:
+viaduct N: viaducts
+vial N: vials
+-vial V: vialed (vialled)  vialing (vialling)  vials
+viand N: viands
+vibe N: vibes
+vibes N:
+vibraharp N: vibraharps
+vibrancy N: ~vibrancies
+vibrant A:
+-vibrant N: vibrants
+vibrantly A:
+vibraphone N: vibraphones
+vibraphonist N: vibraphonists
+vibrate V: vibrated  vibrating  vibrates
+vibration N: vibrations
+vibrato N: vibratos
+vibrator N: vibrators
+vibratory A:
+viburnum N: viburnums
+vicar N: vicars
+vicarage N: vicarages
+vicarious A:
+vicariously A:
+vicariousness N: ~vicariousnesses
+vice C:
+vice N: vices
+vice V: viced  vicing  vices
+vicegerent N: vicegerents
+vicennial A:
+viceregal A:
+viceroy N: viceroys
+vichyssoise N: ~vichyssoises
+vicinity N: ~vicinities
+vicious A:
+viciously A:
+viciousness N: ~viciousnesses
+vicissitude N: vicissitudes
+victim N: victims
+victimization N: ~victimizations
+victimize V: victimized  victimizing  victimizes
+victor N: victors
+victorious A:
+victoriously A:
+victory N: victories
+victual N: victuals
+victual V: victualed (victualled)  victualing (victualling)  victuals
+vicuna N: vicunas
+videlicet A:
+video A:
+video N: videos
+video V: videoed  videoing  videos
+videocassette N: videocassettes
+videodisc N: videodiscs
+videodisk N: videodisks
+videophone N: videophones
+videotape N: videotapes
+videotape V: videotaped  videotaping  videotapes
+vie V: vied  vying  vies
+view N: views
+view V: viewed  viewing  views
+viewer N: viewers
+viewership N: ~viewerships
+viewfinder N: viewfinders
+viewing N: viewings
+viewpoint N: viewpoints
+vigesimal A:
+vigil N: vigils
+vigilance N: ~vigilances
+vigilant A:
+vigilante N: vigilantes
+vigilantism N: ~vigilantisms
+vigilantist A:
+vigilantist N: vigilantists
+vigilantly A:
+vignette N: vignettes
+vignette V: vignetted  vignetting  vignettes
+vignettist N: vignettists
+vigor N: ~vigors
+vigorous A:
+vigorously A:
+vigour N: ~vigours
+viking N: vikings
+vile A: viler  vilest
+vilely A:
+vileness N: ~vilenesses
+vilification N: ~vilifications
+vilify V: vilified  vilifying  vilifies
+villa N: villas (-villae)
+village A:
+village N: villages
+villager N: villagers
+villain N: villains
+villainous A:
+villainy N: villainies
+villein N: villeins
+villeinage N: ~villeinages
+villus N: villi
+vim N: ~vims
+vinaigrette N: ~vinaigrettes
+vincible A:
+vindicate V: vindicated  vindicating  vindicates
+vindication N: vindications
+vindicator N: vindicators
+vindictive A:
+vindictively A:
+vindictiveness N: ~vindictivenesses
+vine N: vines
+vinegar N: ~vinegars
+-vinegar V: vinegared  vinegaring  vinegars
+vinegary A:
+vineyard N: vineyards
+vino N: ~vinos
+vinous A:
+vintage A:
+vintage N: vintages
+-vintage V: vintaged  vintaging  vintages
+vintner N: vintners
+vinyl N: vinyls
+viol N: viols
+viola N: violas
+violable A:
+violate V: violated  violating  violates
+violation N: violations
+violator N: violators
+violence N: ~violences
+violent A:
+violently A:
+violet A:
+violet N: violets
+violin N: violins
+violinist N: violinists
+violist N: violists
+violoncellist N: violoncellists
+violoncello N: violoncellos
+viper N: vipers
+viperous A:
+virago N: viragoes (viragos)
+viral A:
+vireo N: vireos
+virgin A:
+virgin N: virgins
+virginal A:
+virginal N: virginals
+virginity N: ~virginities
+virgule N: virgules
+virile A:
+virility N: ~virilities
+virologist N: virologists
+virology N: ~virologies
+virtual A:
+virtually A:
+virtue N: virtues
+virtuosity N: ~virtuosities
+virtuoso A:
+virtuoso N: virtuosos (virtuosi)
+virtuous A:
+virtuously A:
+virtuousness N: ~virtuousnesses
+virulence N: ~virulences
+virulent A:
+virulently A:
+virus N: viruses
+visa N: visas
+visa V: visaed  visaing  visas
+visage N: visages
+visceral A:
+viscerally A:
+viscid A:
+-viscose A:
+viscose N: ~viscoses
+viscosity N: ~viscosities
+viscount N: viscounts
+viscountcy N: viscountcies
+viscountess N: viscountesses
+viscous A:
+viscus N: viscera
+vise N: vises
+vise V: vised  vising  vises
+visibility N: ~visibilities
+visible A:
+visibly A:
+vision N: visions
+vision V: visioned  visioning  visions
+visionary A:
+visionary N: visionaries
+visit N: visits
+visit V: visited  visiting  visits
+visitant N: visitants
+visitation N: visitations
+visitor N: visitors
+visor N: visors
+-visor V: visored  visoring  visors
+vista N: vistas
+visual A:
+visual N: visuals
+visualization N: ~visualizations
+visualize V: visualized  visualizing  visualizes
+visualizer N: visualizers
+visually A:
+vita N: vitae (vitas)
+vital A:
+vitality N: ~vitalities
+vitalization N: ~vitalizations
+vitalize V: vitalized  vitalizing  vitalizes
+vitally A:
+vitals N:
+vitamin N: vitamins
+vitiate V: vitiated  vitiating  vitiates
+vitiation N: ~vitiations
+viticulture N: ~viticultures
+viticulturist N: viticulturists
+vitreous A:
+vitrifaction N: ~vitrifactions
+vitrification N: ~vitrifications
+vitrify V: vitrified  vitrifying  vitrifies
+vitrine N: vitrines
+vitriol N: ~vitriols
+-vitriol V: vitrioled (vitriolled)  vitrioling (vitriolling)  vitriols
+vitriolic A:
+vittles N:
+vituperate V: vituperated  vituperating  vituperates
+vituperation N: ~vituperations
+vituperative A:
+viva I:
+viva N: vivas
+vivace A:
+vivacious A:
+vivaciously A:
+vivaciousness N: ~vivaciousnesses
+vivacity N: ~vivacities
+vivarium N: vivariums / vivaria
+vivid A: vivider  vividest
+vividly A:
+vividness N: ~vividnesses
+vivify V: vivified  vivifying  vivifies
+viviparous A:
+vivisect V: vivisected  vivisecting  vivisects
+vivisection N: ~vivisections
+vivisectional A:
+vivisectionist N: vivisectionists
+vixen N: vixens
+vixenish A:
+vixenishly A:
+vizier N: viziers
+vizir N: vizirs
+vizor N: vizors
+-vizor V: vizored  vizoring  vizors
+-vocable A:
+vocable N: vocables
+vocabulary N: vocabularies
+vocal A:
+vocal N: vocals
+vocalic A:
+vocalist N: vocalists
+vocalization N: vocalizations
+vocalize V: vocalized  vocalizing  vocalizes
+vocally A:
+vocation N: vocations
+vocational A:
+vocative A:
+vocative N: vocatives
+vociferate V: vociferated  vociferating  vociferates
+vociferation N: ~vociferations
+vociferous A:
+vociferously A:
+vociferousness N: ~vociferousnesses
+vodka N: ~vodkas
+vogue A:
+vogue N: vogues
+voguish A:
+voice N: voices
+voice V: voiced  voicing  voices
+voiceless A:
+voicelessly A:
+voicelessness N: ~voicelessnesses
+void A:
+void N: voids
+void V: voided  voiding  voids
+voidable A:
+voila I:
+voile N: ~voiles
+volatile A:
+-volatile N: volatiles
+volatility N: ~volatilities
+volatilize V: volatilized  volatilizing  volatilizes
+volcanic A:
+volcano N: volcanoes (volcanos)
+vole N: voles
+volition N: ~volitions
+volitional A:
+volley N: volleys
+volley V: volleyed  volleying  volleys
+volleyball N: volleyballs
+volt N: volts
+voltage N: voltages
+voltaic A:
+voltmeter N: voltmeters
+volubility N: ~volubilities
+voluble A:
+volubly A:
+volume N: volumes
+voluminous A:
+voluminously A:
+voluminousness N: ~voluminousnesses
+voluntarily A:
+voluntarism N: ~voluntarisms
+voluntary A:
+voluntary N: voluntaries
+volunteer A:
+volunteer N: volunteers
+volunteer V: volunteered  volunteering  volunteers
+volunteerism N: ~volunteerisms
+voluptuary N: voluptuaries
+voluptuous A:
+voluptuously A:
+voluptuousness N: ~voluptuousnesses
+-volute A:
+volute N: volutes
+vomit N: ~vomits
+vomit V: vomited  vomiting  vomits
+voodoo A:
+voodoo N: ~voodoos
+voodoo V: voodooed  voodooing  voodoos
+voodooism N: ~voodooisms
+voracious A:
+voraciously A:
+voraciousness N: ~voraciousnesses
+voracity N: ~voracities
+vortex N: vortexes (vortices)
+-votary A:
+votary N: votaries
+vote N: votes
+vote V: voted  voting  votes
+voter N: voters
+votive A:
+-vouch N: vouches
+vouch V: vouched  vouching  vouches
+voucher N: vouchers
+-voucher V: vouchered  vouchering  vouchers
+vouchsafe V: vouchsafed  vouchsafing  vouchsafes
+vow N: vows
+vow V: vowed  vowing  vows
+vowel N: vowels
+-vowel V: vowelled  vowelling  vowels
+voyage N: voyages
+voyage V: voyaged  voyaging  voyages
+voyager N: voyagers
+voyageur N: voyageurs
+voyeur N: voyeurs
+voyeurism N: ~voyeurisms
+voyeuristic A:
+vulcanization N: ~vulcanizations
+vulcanize V: vulcanized  vulcanizing  vulcanizes
+vulgar A: vulgarer  vulgarest
+-vulgar N: vulgars
+vulgarian N: vulgarians
+vulgarism N: vulgarisms
+vulgarity N: vulgarities
+vulgarization N: ~vulgarizations
+vulgarize V: vulgarized  vulgarizing  vulgarizes
+vulgarizer N: vulgarizers
+vulgarly A:
+vulnerability N: vulnerabilities
+vulnerable A:
+vulnerably A:
+vulpine A:
+vulture N: vultures
+vulturous A:
+vulva N: vulvae (vulvas)

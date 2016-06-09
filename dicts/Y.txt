@@ -1,0 +1,157 @@
+ya P:
+yacht N: yachts
+yacht V: yachted  yachting  yachts
+yachting N: ~yachtings
+yachtsman N: yachtsmen
+yachtswoman N: yachtswomen
+yack N: ~yacks
+yack V: yacked  yacking  yacks
+yahoo I:
+yahoo N: yahoos
+yak N: yaks
+yak V: yakked  yakking  yaks
+yam N: yams
+yammer N: ~yammers
+yammer V: yammered  yammering  yammers
+yammerer N: yammerers
+yang N: ~yangs
+yank N: yanks
+yank V: yanked  yanking  yanks
+yap N: yaps
+yap V: yapped  yapping  yaps
+yard N: yards
+-yard V: yarded  yarding  yards
+yardage N: yardages
+yardarm N: yardarms
+yardman N: yardmen
+yardmaster N: yardmasters
+yardstick N: yardsticks
+yarmelke N: yarmelkes
+yarmulke N: yarmulkes
+yarn N: yarns
+-yarn V: yarned  yarning  yarns
+yarrow N: ~yarrows
+yaw N: yaws
+yaw V: yawed  yawing  yaws
+yawl N: yawls
+-yawl V: yawled  yawling  yawls
+yawn N: yawns
+yawn V: yawned  yawning  yawns
+yawner N: yawners
+yaws N:
+ye A:
+ye P:
+yea A:
+yea N: yeas
+yeah A:
+yeah N: yeahs
+year N: years
+yearbook N: yearbooks
+-yearling A:
+yearling N: yearlings
+yearlong A:
+yearly A:
+yearly N: yearlies
+yearn V: yearned  yearning  yearns
+yearning N: yearnings
+yeast N: yeasts
+-yeast V: yeasted  yeasting  yeasts
+yeasty A: yeastier  yeastiest
+yegg N: yeggs
+yell N: yells
+yell V: yelled  yelling  yells
+yellow A: yellower  yellowest
+yellow N: ~yellows
+yellow V: yellowed  yellowing  yellows
+yellowish A:
+yellowness N: ~yellownesses
+yellowy A: -yellowier  -yellowiest
+yelp N: yelps
+yelp V: yelped  yelping  yelps
+yen N: yens {craving} | yen {money}
+-yen V: yenned  yenning  yens
+yeoman A:
+yeoman N: yeomen
+yeomanry N: ~yeomanries
+yep A:
+yep N: yeps
+yes A:
+yes N: yeses (-yesses)
+yes V: yessed (-yesed)  yessing (-yesing)  yeses (-yesses)
+yeshiva N: yeshivas (yeshivoth)
+yeshivah N: yeshivahs (yeshivoth)
+yesterday A:
+yesterday N: yesterdays
+yesteryear A:
+yesteryear N: ~yesteryears
+yet A:
+yet C:
+yeti N: yetis
+yew N: yews
+yield N: yields
+yield V: yielded  yielding  yields
+yikes I:
+yin N: ~yins
+yip N: yips
+yip V: yipped  yipping  yips
+yipe I:
+yippee I:
+yo I:
+yodel N: yodels
+yodel V: yodeled (yodelled)  yodeling (yodelling)  yodels
+yodeler N: yodelers
+yodeller N: yodellers
+yoga N: ~yogas
+yoghourt N: yoghourts
+yoghurt N: yoghurts
+yogi N: yogis
+yogin N: yogins
+yogurt N: yogurts
+yoke N: yokes
+yoke V: yoked  yoking  yokes
+yokel N: yokels
+yolk N: yolks
+yolked A:
+yon A:
+yonder A:
+-yore A:
+yore N: ~yores
+you N: yous
+you P:
+young A: younger  youngest
+young N: young
+youngish A:
+youngster N: youngsters
+your A:
+your P:
+yours P:
+yourself P:
+yourselves P:
+youth N: youths
+youthful A:
+youthfully A:
+youthfulness N: ~youthfulnesses
+yow I:
+yowl N: yowls
+yowl V: yowled  yowling  yowls
+ytterbium N: ~ytterbiums
+yttrium N: ~yttriums
+yuan N: yuan
+yucca N: yuccas
+yuck I:
+yuck N: yucks
+yuck V: yucked  yucking  yucks
+yucky A: yuckier  yuckiest
+yuk I:
+yuk N: yuks
+yuk V: yukked  yukking  yuks
+yule N: ~yules
+yuletide N: ~yuletides
+yum I:
+yummy A: yummier  yummiest
+-yummy N: yummies
+yup A:
+yup N: yups
+yuppie N: yuppies
+yuppy N: yuppies
+yurt N: yurts

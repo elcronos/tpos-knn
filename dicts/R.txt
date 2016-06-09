@@ -1,0 +1,2480 @@
+rabbet N: rabbets
+rabbet V: rabbeted  rabbeting  rabbets
+rabbi N: rabbis
+rabbinate N: ~rabbinates
+rabbinic A:
+rabbinical A:
+rabbit N: rabbits | rabbit
+rabble N: rabbles
+-rabble V: rabbled  rabbling  rabbles
+rabid A: -rabider  -rabidest
+rabidly A:
+rabidness N: ~rabidnesses
+rabies N: ~rabies
+raccoon N: raccoons | raccoon
+race A:
+race N: races
+race V: raced  racing  races
+racecourse N: racecourses
+racehorse N: racehorses
+raceme N: racemes
+racer N: racers
+racetrack N: racetracks
+raceway N: raceways
+racial A:
+racialism N: ~racialisms
+racialist A:
+racialist N: racialists
+racially A:
+racily A:
+raciness N: ~racinesses
+racing N: ~racings
+racism N: ~racisms
+racist A:
+racist N: racists
+rack N: racks
+rack V: racked  racking  racks
+racket N: rackets
+racket V: racketed  racketing  rackets
+racketeer N: racketeers
+racketeer V: racketeered  racketeering  racketeers
+racketeering N: ~racketeerings
+raconteur N: raconteurs
+racoon N: racoons | racoon
+racquet N: racquets
+racquetball N: racquetballs
+racy A: racier  raciest
+rad A: -radder  -raddest
+rad N: rads
+radar N: radars
+radarscope N: radarscopes
+radial A:
+radial N: radials
+radially A:
+radiance N: ~radiances
+radiant A:
+-radiant N: radiants
+radiantly A:
+-radiate A:
+radiate V: radiated  radiating  radiates
+radiation N: radiations
+radiator N: radiators
+radical A:
+radical N: radicals
+radicalism N: ~radicalisms
+radicalization N: ~radicalizations
+radicalize V: radicalized  radicalizing  radicalizes
+radically A:
+radicchio N: ~radicchios
+radio A:
+radio N: radios
+radio V: radioed  radioing  radios
+radioactive A:
+radioactively A:
+radioactivity N: ~radioactivities
+radiocarbon N: ~radiocarbons
+radiogram N: radiograms
+radiographer N: radiographers
+radiography N: ~radiographies
+radioisotope N: radioisotopes
+radiologist N: radiologists
+radiology N: ~radiologies
+radioman N: radiomen
+radiometer N: radiometers
+radiometric A:
+radiometry N: ~radiometries
+radiophone N: radiophones
+radioscopy N: ~radioscopies
+radiosonde N: radiosondes
+radiotelegraph N: radiotelegraphs
+radiotelegraph V: radiotelegraphed  radiotelegraphing  radiotelegraphs
+radiotelegraphy N: ~radiotelegraphies
+radiotelephone N: radiotelephones
+-radiotelephone V: radiotelephoned  radiotelephoning  radiotelephones
+radiotherapist N: radiotherapists
+radiotherapy N: ~radiotherapies
+radish N: radishes
+radium N: ~radiums
+radius N: radii (radiuses)
+radon N: ~radons
+raffia N: ~raffias
+raffish A:
+raffishly A:
+raffishness N: ~raffishnesses
+raffle N: raffles
+raffle V: raffled  raffling  raffles
+raft N: rafts
+raft V: rafted  rafting  rafts
+rafter N: rafters
+-rafter V: raftered  raftering  rafters
+rafting N: ~raftings
+rag N: rags
+rag V: ragged  ragging  rags
+raga N: ragas
+ragamuffin N: ragamuffins
+ragbag N: ~ragbags
+rage N: rages
+rage V: raged  raging  rages
+ragged A: raggeder  raggedest
+raggedly A:
+raggedness N: ~raggednesses
+raggedy A: raggedier  raggediest
+ragingly A:
+raglan N: raglans
+ragout N: ragouts
+-ragout V: ragouted  ragouting  ragouts
+ragtag A:
+ragtime N: ~ragtimes
+ragweed N: ~ragweeds
+rah I:
+raid N: raids
+raid V: raided  raiding  raids
+raider N: raiders
+rail N: rails
+rail N {bird}: rail | rails
+rail V: railed  railing  rails
+railing N: railings
+raillery N: railleries
+railroad N: railroads
+railroad V: railroaded  railroading  railroads
+railroader N: railroaders
+railroading N: ~railroadings
+railway N: railways
+raiment N: ~raiments
+-raiment V: raimented  raimenting  raiments
+rain N: rains
+rain V: rained  raining  rains
+rainbow A:
+rainbow N: rainbows
+raincoat N: raincoats
+raindrop N: raindrops
+rainfall N: rainfalls
+rainmaker N: rainmakers
+rainmaking N: ~rainmakings
+rainproof A:
+-rainproof V: rainproofed  rainproofing  rainproofs
+rainstorm N: rainstorms
+rainwater N: ~rainwaters
+rainy A: rainier  rainiest
+raise N: raises
+raise V: raised  raising  raises
+raiser N: raisers
+raisin N: raisins
+raja N: rajas
+rajah N: rajahs
+rake N: rakes
+rake V: raked  raking  rakes
+rakish A:
+rakishly A:
+rakishness N: ~rakishnesses
+rally N: rallies
+rally V: rallied  rallying  rallies
+ram N: rams
+ram V: rammed  ramming  rams
+ramble N: rambles
+ramble V: rambled  rambling  rambles
+rambler N: ramblers
+rambunctious A:
+rambunctiously A:
+rambunctiousness N: ~rambunctiousnesses
+ramekin N: ramekins
+ramequin N: ramequins
+ramie N: ~ramies
+ramification N: ramifications
+ramify V: ramified  ramifying  ramifies
+ramjet N: ramjets
+ramp N: ramps
+-ramp V: ramped  ramping  ramps
+rampage N: rampages
+rampage V: rampaged  rampaging  rampages
+rampancy N: ~rampancies
+rampant A:
+rampantly A:
+rampart N: ramparts
+-rampart V: ramparted  ramparting  ramparts
+ramrod A:
+ramrod N: ramrods
+ramrod V: ramrodded  ramrodding  ramrods
+ramshackle A:
+ranch N: ranches
+ranch V: ranched  ranching  ranches
+rancher N: ranchers
+ranching N: ~ranchings
+rancid A: -rancider  -rancidest
+rancidity N: ~rancidities
+rancidness N: ~rancidnesses
+rancor N: ~rancors
+rancorous A:
+rancorously A:
+rancour N: ~rancours
+rand N: rand {money} | -rands {leather}
+randiness N: ~randinesses
+random A:
+-random N: randoms
+randomization N: ~randomizations
+randomize V: randomized  randomizing  randomizes
+randomly A:
+randomness N: ~randomnesses
+randy A: randier  randiest
+-randy N: randies
+ranee N: ranees
+range A:
+range N: ranges
+range V: ranged  ranging  ranges
+ranger N: rangers
+ranginess N: ~ranginesses
+rangy A: rangier  rangiest
+rani N: ranis
+rank A: ranker  rankest
+rank N: ranks
+rank V: ranked  ranking  ranks
+ranking N: rankings
+rankle V: rankled  rankling  rankles
+rankly A:
+rankness N: ~ranknesses
+ransack V: ransacked  ransacking  ransacks
+ransom N: ransoms
+ransom V: ransomed  ransoming  ransoms
+ransomer N: ransomers
+rant N: rants
+rant V: ranted  ranting  rants
+ranter N: ranters
+rap N: raps
+rap V: rapped  rapping  raps
+rapacious A:
+rapaciously A:
+rapaciousness N: ~rapaciousnesses
+rapacity N: ~rapacities
+rape N: rapes
+rape V: raped  raping  rapes
+raper N: rapers
+rapeseed N: ~rapeseeds
+rapid A: rapider  rapidest
+rapid N: rapids
+rapidity N: ~rapidities
+rapidly A:
+rapidness N: ~rapidnesses
+rapier N: rapiers
+rapine N: ~rapines
+rapist N: rapists
+rappel N: rappels
+rappel V: rappelled  rappelling  rappels
+rapper N: rappers
+rapport N: rapports
+rapprochement N: rapprochements
+rapscallion N: rapscallions
+rapt A:
+raptly A:
+raptness N: ~raptnesses
+rapture N: raptures
+-rapture V: raptured  rapturing  raptures
+rapturous A:
+rapturously A:
+rare A: rarer  rarest
+rare V: rared  raring  rares
+rarebit N: rarebits
+rarefaction N: ~rarefactions
+rarefy V: rarefied  rarefying  rarefies
+rarely A:
+rareness N: ~rarenesses
+rarity N: rarities
+rascal A:
+rascal N: rascals
+rascally A:
+rash A: rasher  rashest
+rash N: rashes
+rasher N: rashers
+rashly A:
+rashness N: ~rashnesses
+rasp N: rasps
+rasp V: rasped  rasping  rasps
+raspberry N: raspberries
+raspy A: raspier  raspiest
+rat N: rats
+rat V: ratted  ratting  rats
+ratatouille N: ~ratatouilles
+ratchet N: ratchets
+ratchet V: ratcheted  ratcheting  ratchets
+rate N: rates
+rate V: rated  rating  rates
+rater N: raters
+rather A:
+rathskeller N: rathskellers
+ratification N: ~ratifications
+ratifier N: ratifiers
+ratify V: ratified  ratifying  ratifies
+rating N: ratings
+ratio N: ratios
+ratiocinate V: ratiocinated  ratiocinating  ratiocinates
+ratiocination N: ~ratiocinations
+ration N: rations
+ration V: rationed  rationing  rations
+rational A:
+rational N: rationals
+rationale N: rationales
+rationalism N: ~rationalisms
+rationalist A:
+rationalist N: rationalists
+rationalistic A:
+rationality N: ~rationalities
+rationalization N: rationalizations
+rationalize V: rationalized  rationalizing  rationalizes
+rationally A:
+ratlike A:
+ratlin N: ratlins
+ratline N: ratlines
+rattan N: rattans
+ratter N: ratters
+rattle N: rattles
+rattle V: rattled  rattling  rattles
+rattlebrain N: rattlebrains
+rattlebrained A:
+rattler N: rattlers
+rattlesnake N: rattlesnakes
+rattletrap N: rattletraps
+rattly A: -rattlier  -rattliest
+rattrap N: rattraps
+ratty A: rattier  rattiest
+raucous A:
+raucously A:
+raucousness N: ~raucousnesses
+raunchily A:
+raunchiness N: ~raunchinesses
+raunchy A: raunchier  raunchiest
+ravage N: ravages
+ravage V: ravaged  ravaging  ravages
+ravager N: ravagers
+ravages N:
+rave A:
+rave N: raves
+rave V: raved  raving  raves
+ravel N: ravels
+ravel V: raveled (ravelled)  raveling (ravelling)  ravels
+raven A:
+raven N: ravens
+raven V: ravened  ravening  ravens
+-ravening N: ravenings
+ravenous A:
+ravenously A:
+ravine N: ravines
+raving N: ravings
+ravioli N: - (raviolis)
+ravish V: ravished  ravishing  ravishes
+ravisher N: ravishers
+ravishingly A:
+ravishment N: ~ravishments
+raw A: rawer  rawest
+raw N: ~raws
+rawboned A:
+rawhide N: ~rawhides
+-rawhide V: rawhided  rawhiding  rawhides
+rawness N: ~rawnesses
+ray N: rays
+-ray V: rayed  raying  rays
+rayon N: ~rayons
+raze V: razed  razing  razes
+razor N: razors
+-razor V: razored  razoring  razors
+razorback N: razorbacks
+razz N: razzes
+razz V: razzed  razzing  razzes
+razzmatazz N: ~razzmatazzes
+re C:
+re N: ~res
+reabsorb V: reabsorbed  reabsorbing  reabsorbs
+reach N: reaches
+reach V: reached  reaching  reaches
+reachable A:
+reacquaint V: reacquainted  reacquainting  reacquaints
+reacquire V: reacquired  reacquiring  reacquires
+react V: reacted  reacting  reacts
+reactant N: reactants
+reaction N: reactions
+reactionary A:
+reactionary N: reactionaries
+reactivate V: reactivated  reactivating  reactivates
+reactivation N: ~reactivations
+reactive A:
+reactor N: reactors
+read A:
+read N: reads
+read V: read  reading  reads
+readability N: readabilities
+readable A:
+readdress V: readdressed  readdressing  readdresses
+reader N: readers
+readership N: readerships
+readily A:
+readiness N: ~readinesses
+reading N: readings
+readjust V: readjusted  readjusting  readjusts
+readjustment N: readjustments
+readmission N: ~readmissions
+readmit V: readmitted  readmitting  readmits
+readopt V: readopted  readopting  readopts
+readout N: readouts
+ready A: readier  readiest
+-ready N: readies
+ready V: readied  readying  readies
+reaffirm V: reaffirmed  reaffirming  reaffirms
+reaffirmation N: reaffirmations
+reagent N: reagents
+real A: realer  realest
+real N {Brazilian money}: reals (-reis -reales -reais)
+-real N {math}: reals
+-real N {Portugese money}: reals (reis)
+real N {Spanish money}: reals (reales)
+realign V: realigned  realigning  realigns
+realignment N: realignments
+realism N: ~realisms
+realist A:
+realist N: realists
+realistic A:
+realistically A:
+reality N: realities
+realizable A:
+realization N: ~realizations
+realize V: realized  realizing  realizes
+reallocate V: reallocated  reallocating  reallocates
+reallocation N: ~reallocations
+really A:
+realm N: realms
+realness N: ~realnesses
+realpolitik N: ~realpolitiks
+realtor N: realtors
+realty N: ~realties
+ream N: reams
+ream V: reamed  reaming  reams
+reamer N: reamers
+reanalysis N: reanalyses
+reanalyze V: reanalyzed  reanalyzing  reanalyzes
+reanimate V: reanimated  reanimating  reanimates
+reanimation N: ~reanimations
+reap V: reaped  reaping  reaps
+reaper N: reapers
+reappear V: reappeared  reappearing  reappears
+reappearance N: reappearances
+reapplication N: reapplications
+reapply V: reapplied  reapplying  reapplies
+reappoint V: reappointed  reappointing  reappoints
+reappointment N: ~reappointments
+reapportion V: reapportioned  reapportioning  reapportions
+reapportionment N: ~reapportionments
+reappraisal N: reappraisals
+reappraise V: reappraised  reappraising  reappraises
+rear A:
+rear N: rears
+rear V: reared  rearing  rears
+-rearguard A:
+rearguard N: rearguards
+rearm V: rearmed  rearming  rearms
+rearmament N: ~rearmaments
+rearmost A:
+rearrange V: rearranged  rearranging  rearranges
+rearrangement N: rearrangements
+rearrest N: rearrests
+rearrest V: rearrested  rearresting  rearrests
+rearward A:
+-rearward N: rearwards
+rearwards A:
+reascend V: reascended  reascending  reascends
+reason N: reasons
+reason V: reasoned  reasoning  reasons
+reasonable A:
+reasonableness N: ~reasonablenesses
+reasonably A:
+reasoner N: reasoners
+reasoning N: ~reasonings
+reassemble V: reassembled  reassembling  reassembles
+reassembly N: ~reassemblies
+reassert V: reasserted  reasserting  reasserts
+reassertion N: ~reassertions
+reassess V: reassessed  reassessing  reassesses
+reassessment N: reassessments
+reassign V: reassigned  reassigning  reassigns
+reassignment N: reassignments
+reassurance N: reassurances
+reassure V: reassured  reassuring  reassures
+reassuringly A:
+reattach V: reattached  reattaching  reattaches
+reattachment N: ~reattachments
+reattain V: reattained  reattaining  reattains
+reattempt V: reattempted  reattempting  reattempts
+reauthorize V: reauthorized  reauthorizing  reauthorizes
+reawaken V: reawakened  reawakening  reawakens
+rebate N: rebates
+rebate V: rebated  rebating  rebates
+rebel A:
+rebel N: rebels
+rebel V: rebelled  rebelling  rebels
+rebellion N: rebellions
+rebellious A:
+rebelliously A:
+rebelliousness N: ~rebelliousnesses
+-rebid N: rebids
+rebid V: rebid  rebidding  rebids
+rebind V: rebound  rebinding  rebinds
+rebirth N: rebirths
+reboil V: reboiled  reboiling  reboils
+reboot V: rebooted  rebooting  reboots
+reborn A:
+rebound N: rebounds
+rebound V: rebounded  rebounding  rebounds
+rebroadcast N: rebroadcasts
+rebroadcast V: rebroadcast (rebroadcasted)  rebroadcasting  rebroadcasts
+rebuff N: rebuffs
+rebuff V: rebuffed  rebuffing  rebuffs
+rebuild V: rebuilt (-@rebuilded)  rebuilding  rebuilds
+rebuke N: rebukes
+rebuke V: rebuked  rebuking  rebukes
+rebukingly A:
+reburial N: reburials
+rebury V: reburied  reburying  reburies
+rebus N: rebuses
+rebut V: rebutted  rebutting  rebuts
+rebuttal N: rebuttals
+rec N: ~recs
+recalcitrance N: ~recalcitrances
+recalcitrant A:
+-recalcitrant N: recalcitrants
+recalculate V: recalculated  recalculating  recalculates
+recalculation N: recalculations
+recall N: recalls
+recall V: recalled  recalling  recalls
+recant V: recanted  recanting  recants
+recantation N: recantations
+recap N: recaps
+recap V: recapped  recapping  recaps
+recapitalize V: recapitalized  recapitalizing  recapitalizes
+recapitulate V: recapitulated  recapitulating  recapitulates
+recapitulation N: recapitulations
+recapture N: recaptures
+recapture V: recaptured  recapturing  recaptures
+recast N: recasts
+recast V: recast  recasting  recasts
+recasting N: recastings
+recede V: receded  receding  recedes
+receipt N: receipts
+receipt V: receipted  receipting  receipts
+receivable A:
+receivables N:
+receive V: received  receiving  receives
+receiver N: receivers
+receivership N: ~receiverships
+recent A: recenter  recentest
+recently A:
+recentness N: ~recentnesses
+receptacle N: receptacles
+reception N: receptions
+receptionist N: receptionists
+receptive A:
+receptively A:
+receptiveness N: ~receptivenesses
+receptivity N: ~receptivities
+receptor N: receptors
+recess N: recesses
+recess V: recessed  recessing  recesses
+recession N: recessions
+recessional A:
+recessional N: recessionals
+recessionary A:
+recessive A:
+recessive N: recessives
+recharge N: recharges
+recharge V: recharged  recharging  recharges
+rechargeable A:
+recharter V: rechartered  rechartering  recharters
+recheck N: rechecks
+recheck V: rechecked  rechecking  rechecks
+recherche A:
+rechristen V: rechristened  rechristening  rechristens
+recidivism N: ~recidivisms
+recidivist A:
+recidivist N: recidivists
+recipe N: recipes
+recipient N: recipients
+reciprocal A:
+reciprocal N: reciprocals
+reciprocally A:
+reciprocate V: reciprocated  reciprocating  reciprocates
+reciprocation N: ~reciprocations
+reciprocity N: ~reciprocities
+recirculate V: recirculated  recirculating  recirculates
+recital N: recitals
+recitalist N: recitalists
+recitation N: recitations
+-recitative A:
+recitative N: recitatives
+recite V: recited  reciting  recites
+reciter N: reciters
+reckless A:
+recklessly A:
+recklessness N: ~recklessnesses
+reckon V: reckoned  reckoning  reckons
+reckoning N: reckonings
+-reclaim N: reclaims
+reclaim V: reclaimed  reclaiming  reclaims
+reclaimable A:
+reclamation N: ~reclamations
+reclassification N: ~reclassifications
+reclassify V: reclassified  reclassifying  reclassifies
+recline V: reclined  reclining  reclines
+recliner N: recliners
+recluse A:
+recluse N: recluses
+reclusive A:
+recognition N: ~recognitions
+recognizable A:
+recognizably A:
+recognizance N: ~recognizances
+recognize V: recognized  recognizing  recognizes
+recoil N: recoils
+recoil V: recoiled  recoiling  recoils
+recollect V: recollected  recollecting  recollects
+recollection N: recollections
+recolonization N: ~recolonizations
+recolonize V: recolonized  recolonizing  recolonizes
+recolor V: recolored  recoloring  recolors
+recombine V: recombined  recombining  recombines
+recommence V: recommenced  recommencing  recommences
+recommencement N: ~recommencements
+recommend V: recommended  recommending  recommends
+recommendable A:
+recommendation N: recommendations
+-recommission N: recommissions
+recommission V: recommissioned  recommissioning  recommissions
+recommit V: recommitted  recommitting  recommits
+recompense N: ~recompenses
+recompense V: recompensed  recompensing  recompenses
+recompose V: recomposed  recomposing  recomposes
+recompute V: recomputed  recomputing  recomputes
+reconcilable A:
+reconcile V: reconciled  reconciling  reconciles
+reconciliation N: reconciliations
+recondite A:
+recondition V: reconditioned  reconditioning  reconditions
+reconfirm V: reconfirmed  reconfirming  reconfirms
+reconfirmation N: reconfirmations
+reconnaissance N: reconnaissances
+reconnect V: reconnected  reconnecting  reconnects
+reconnoiter V: reconnoitered  reconnoitering  reconnoiters
+reconnoitre V: reconnoitred  reconnoitring  reconnoitres
+reconquer V: reconquered  reconquering  reconquers
+reconquest N: ~reconquests
+reconsecrate V: reconsecrated  reconsecrating  reconsecrates
+reconsecration N: ~reconsecrations
+reconsider V: reconsidered  reconsidering  reconsiders
+reconsideration N: ~reconsiderations
+reconsign V: reconsigned  reconsigning  reconsigns
+reconstitute V: reconstituted  reconstituting  reconstitutes
+reconstitution N: ~reconstitutions
+reconstruct V: reconstructed  reconstructing  reconstructs
+reconstruction N: reconstructions
+-recontact N: recontacts
+recontact V: recontacted  recontacting  recontacts
+recontaminate V: recontaminated  recontaminating  recontaminates
+reconvene V: reconvened  reconvening  reconvenes
+reconvert V: reconverted  reconverting  reconverts
+recook V: recooked  recooking  recooks
+recopy V: recopied  recopying  recopies
+record A:
+record N: records
+record V: recorded  recording  records
+recorder N: recorders
+recording N: recordings
+recount N: recounts
+recount V: recounted  recounting  recounts
+-recoup N: recoups
+recoup V: recouped  recouping  recoups
+recourse N: ~recourses
+recover V: recovered  recovering  recovers
+recoverable A:
+recovery N: recoveries
+recreant A:
+recreant N: recreants
+recreate V: recreated  recreating  recreates
+recreation N: recreations
+recreational A:
+recriminate V: recriminated  recriminating  recriminates
+recrimination N: recriminations
+recriminatory A:
+recross V: recrossed  recrossing  recrosses
+recrudesce V: recrudesced  recrudescing  recrudesces
+recrudescence N: ~recrudescences
+recrudescent A:
+recruit N: recruits
+recruit V: recruited  recruiting  recruits
+recruiter N: recruiters
+recruitment N: ~recruitments
+recrystallize V: recrystallized  recrystallizing  recrystallizes
+rectal A:
+rectally A:
+rectangle N: rectangles
+rectangular A:
+rectifiable A:
+rectification N: rectifications
+rectifier N: rectifiers
+rectify V: rectified  rectifying  rectifies
+rectilinear A:
+rectitude N: ~rectitudes
+recto A:
+recto N: rectos
+rector N: rectors
+rectory N: rectories
+rectum N: rectums (recta)
+recumbent A:
+recuperate V: recuperated  recuperating  recuperates
+recuperation N: ~recuperations
+recuperative A:
+recur V: recurred  recurring  recurs
+recurrence N: recurrences
+recurrent A:
+recurrently A:
+recyclable A:
+recyclable N: recyclables
+recycle N: ~recycles
+recycle V: recycled  recycling  recycles
+recycling N: ~recyclings
+red A: redder  reddest
+red N: reds
+-red V: red  redding  reds
+redact V: redacted  redacting  redacts
+redaction N: ~redactions
+redactor N: redactors
+redbird N: redbirds
+redbreast N: redbreasts
+redcap N: redcaps
+redcoat N: redcoats
+redden V: reddened  reddening  reddens
+reddish A:
+redecorate V: redecorated  redecorating  redecorates
+redecoration N: ~redecorations
+rededicate V: rededicated  rededicating  rededicates
+redeem V: redeemed  redeeming  redeems
+redeemable A:
+redeemer N: redeemers
+redefine V: redefined  redefining  redefines
+redefinition N: ~redefinitions
+redeliver V: redelivered  redelivering  redelivers
+redemption N: ~redemptions
+redemptive A:
+redeploy V: redeployed  redeploying  redeploys
+redeployment N: ~redeployments
+redeposit N: ~redeposits
+redeposit V: redeposited  redepositing  redeposits
+redesign V: redesigned  redesigning  redesigns
+redetermine V: redetermined  redetermining  redetermines
+redevelop V: redeveloped  redeveloping  redevelops
+redevelopment N: redevelopments
+redhead N: redheads
+redheaded A:
+redial N: redials
+redial V: redialed (redialled)  redialing (redialling)  redials
+-redirect A:
+redirect V: redirected  redirecting  redirects
+rediscover V: rediscovered  rediscovering  rediscovers
+rediscovery N: ~rediscoveries
+redissolve V: redissolved  redissolving  redissolves
+redistribute V: redistributed  redistributing  redistributes
+redistribution N: ~redistributions
+redistrict V: redistricted  redistricting  redistricts
+redivide V: redivided  redividing  redivides
+redlining N: ~redlinings
+redneck A:
+redneck N: rednecks
+redness N: ~rednesses
+redo V: redid  redone  redoing  redoes
+redolence N: ~redolences
+redolent A:
+-redouble N: redoubles
+redouble V: redoubled  redoubling  redoubles
+redoubt N: redoubts
+redoubtable A:
+redoubtably A:
+redound V: redounded  redounding  redounds
+-redraft N: redrafts
+redraft V: redrafted  redrafting  redrafts
+redraw V: redrew  redrawn  redrawing  redraws
+redress N: ~redresses
+redress V: redressed  redressing  redresses
+redskin N: redskins
+reduce V: reduced  reducing  reduces
+reducer N: reducers
+reducible A:
+reduction N: reductions
+reductive A:
+-reductive N: reductives
+redundancy N: redundancies
+redundant A:
+redundantly A:
+reduplicate V: reduplicated  reduplicating  reduplicates
+reduplication N: ~reduplications
+redwood N: redwoods
+redye V: redyed  redyeing  redyes
+reecho V: reechoed  reechoing  reechoes
+reed N: reeds
+-reed V: reeded  reeding  reeds
+reediness N: ~reedinesses
+reedit V: reedited  reediting  reedits
+reeducate V: reeducated  reeducating  reeducates
+reeducation N: ~reeducations
+reedy A: reedier  reediest
+reef N: reefs
+reef V: reefed  reefing  reefs
+reefer N: reefers
+reek N: reeks
+reek V: reeked  reeking  reeks
+reel N: reels
+reel V: reeled  reeling  reels
+reelect V: reelected  reelecting  reelects
+reelection N: reelections
+reembark V: reembarked  reembarking  reembarks
+reembody V: reembodied  reembodying  reembodies
+reemerge V: reemerged  reemerging  reemerges
+reemergence N: ~reemergences
+reemphasize V: reemphasized  reemphasizing  reemphasizes
+reemploy V: reemployed  reemploying  reemploys
+reemployment N: ~reemployments
+reenact V: reenacted  reenacting  reenacts
+reenactment N: reenactments
+reenforce V: reenforced  reenforcing  reenforces
+reengage V: reengaged  reengaging  reengages
+reenlist V: reenlisted  reenlisting  reenlists
+reenlistment N: ~reenlistments
+reenter V: reentered  reentering  reenters
+reentry N: reentries
+reequip V: reequipped  reequipping  reequips
+reestablish V: reestablished  reestablishing  reestablishes
+reestablishment N: ~reestablishments
+reevaluate V: reevaluated  reevaluating  reevaluates
+reevaluation N: reevaluations
+reeve N: reeves
+reeve V: rove (reeved)  reeving  reeves
+reexamination N: reexaminations
+reexamine V: reexamined  reexamining  reexamines
+reexplain V: reexplained  reexplaining  reexplains
+reexport V: reexported  reexporting  reexports
+ref N: refs
+ref V: reffed  reffing  refs
+reface V: refaced  refacing  refaces
+refashion V: refashioned  refashioning  refashions
+refasten V: refastened  refastening  refastens
+refection N: ~refections
+refectory N: refectories
+refer V: referred  referring  refers
+referable A:
+referee N: referees
+referee V: refereed  refereeing  referees
+reference N: references
+reference V: referenced  referencing  references
+referendum N: referendums (referenda)
+referent A:
+referent N: referents
+referral N: referrals
+referrer N: referrers
+refile V: refiled  refiling  refiles
+refill N: refills
+refill V: refilled  refilling  refills
+refillable A:
+refinance V: refinanced  refinancing  refinances
+refine V: refined  refining  refines
+refinement N: refinements
+refiner N: refiners
+refinery N: refineries
+refinish V: refinished  refinishing  refinishes
+refit N: refits
+refit V: refitted (refit)  refitting  refits
+reflect V: reflected  reflecting  reflects
+reflection N: reflections
+reflective A:
+reflectively A:
+reflector N: reflectors
+reflex A:
+reflex N: reflexes
+-reflex V: reflexed  reflexing  reflexes
+reflexion N: reflexions
+reflexive A:
+reflexive N: reflexives
+reflexively A:
+refocus V: refocused (refocussed)  refocusing (refocussing)  refocuses (refocusses)
+refold V: refolded  refolding  refolds
+reforest V: reforested  reforesting  reforests
+reforestation N: ~reforestations
+reforge V: reforged  reforging  reforges
+reform N: reforms
+reform V: reformed  reforming  reforms
+reformation N: reformations
+reformative A:
+reformatory A:
+reformatory N: reformatories
+reformer N: reformers
+reformulate V: reformulated  reformulating  reformulates
+reformulation N: reformulations
+refortify V: refortified  refortifying  refortifies
+refract V: refracted  refracting  refracts
+refraction N: ~refractions
+refractive A:
+refractory A:
+refractory N: refractories
+refrain N: refrains
+refrain V: refrained  refraining  refrains
+refreeze V: refroze  refrozen  refreezing  refreezes
+refresh V: refreshed  refreshing  refreshes
+refresher N: refreshers
+refreshingly A:
+refreshment N: ~refreshments
+refreshments N:
+refrigerant N: refrigerants
+refrigerate V: refrigerated  refrigerating  refrigerates
+refrigeration N: ~refrigerations
+refrigerator N: refrigerators
+refuel V: refueled (refuelled)  refueling (refuelling)  refuels
+refuge N: refuges
+-refuge V: refuged  refuging  refuges
+refugee N: refugees
+refulgence N: ~refulgences
+refulgent A:
+refund N: refunds
+refund V: refunded  refunding  refunds
+refundable A:
+refurbish V: refurbished  refurbishing  refurbishes
+refurbishment N: refurbishments
+refurnish V: refurnished  refurnishing  refurnishes
+refusal N: refusals
+refuse A:
+refuse N: ~refuses
+refuse V: refused  refusing  refuses
+refutable A:
+refutation N: refutations
+refute V: refuted  refuting  refutes
+refuter N: refuters
+regain V: regained  regaining  regains
+regal A:
+-regal N: regals
+-regale N: regales
+regale V: regaled  regaling  regales
+regalement N: ~regalements
+regalia N:
+regally A:
+regard N: ~regards
+regard V: regarded  regarding  regards
+regardless A:
+regards N:
+regather V: regathered  regathering  regathers
+regatta N: regattas
+regency N: regencies
+regeneracy N: ~regeneracies
+regenerate V: regenerated  regenerating  regenerates
+regeneration N: ~regenerations
+regenerative A:
+regent A:
+regent N: regents
+reggae N: ~reggaes
+regicide N: regicides
+regime N: regimes
+regimen N: regimens
+regiment N: regiments
+regiment V: regimented  regimenting  regiments
+regimental A:
+regimentation N: ~regimentations
+region N: regions
+regional A:
+-regional N: regionals
+regionalism N: regionalisms
+regionally A:
+register N: registers
+register V: registered  registering  registers
+registrant N: registrants
+registrar N: registrars
+registration N: registrations
+registry N: registries
+regnant A:
+regrade V: regraded  regrading  regrades
+regress N: ~regresses
+regress V: regressed  regressing  regresses
+regression N: regressions
+regressive A:
+regret N: regrets
+regret V: regretted  regretting  regrets
+regretful A:
+regretfully A:
+regrettable A:
+regrettably A:
+regrind V: reground  regrinding  regrinds
+regroup V: regrouped  regrouping  regroups
+regrow V: regrew  regrown  regrowing  regrows
+regrowth N: ~regrowths
+regular A:
+regular N: regulars
+regularise V: regularised  regularising  regularises
+regularity N: ~regularities
+regularization N: ~regularizations
+regularize V: regularized  regularizing  regularizes
+regularly A:
+regulate V: regulated  regulating  regulates
+regulation A:
+regulation N: regulations
+regulative A:
+regulator N: regulators
+regulatory A:
+regurgitate V: regurgitated  regurgitating  regurgitates
+regurgitation N: ~regurgitations
+rehab N: rehabs
+rehab V: rehabbed  rehabbing  rehabs
+rehabilitate V: rehabilitated  rehabilitating  rehabilitates
+rehabilitation N: ~rehabilitations
+rehabilitative A:
+rehang V: rehanged {execute} | rehung {suspend}  rehanging  rehangs
+rehash N: rehashes
+rehash V: rehashed  rehashing  rehashes
+rehear V: reheard  rehearing  rehears
+rehearing N: rehearings
+rehearsal N: rehearsals
+rehearse V: rehearsed  rehearsing  rehearses
+reheat V: reheated  reheating  reheats
+rehire V: rehired  rehiring  rehires
+rehouse V: rehoused  rehousing  rehouses
+reign N: reigns
+reign V: reigned  reigning  reigns
+reignite V: reignited  reigniting  reignites
+reimbursable A:
+reimburse V: reimbursed  reimbursing  reimburses
+reimbursement N: reimbursements
+reimpose V: reimposed  reimposing  reimposes
+rein N: reins
+rein V: reined  reining  reins
+reincarnate V: reincarnated  reincarnating  reincarnates
+reincarnation N: reincarnations
+reincorporate V: reincorporated  reincorporating  reincorporates
+reincorporation N: ~reincorporations
+reindeer N: reindeer (reindeers)
+reinfect V: reinfected  reinfecting  reinfects
+reinfection N: reinfections
+reinforce V: reinforced  reinforcing  reinforces
+reinforcement N: reinforcements
+reinoculate V: reinoculated  reinoculating  reinoculates
+reinsert V: reinserted  reinserting  reinserts
+reinsertion N: ~reinsertions
+reinspect V: reinspected  reinspecting  reinspects
+reinstate V: reinstated  reinstating  reinstates
+reinstatement N: ~reinstatements
+reintegrate V: reintegrated  reintegrating  reintegrates
+reintegration N: ~reintegrations
+reinterpret V: reinterpreted  reinterpreting  reinterprets
+reinterpretation N: reinterpretations
+reintroduce V: reintroduced  reintroducing  reintroduces
+reintroduction N: ~reintroductions
+reinvent V: reinvented  reinventing  reinvents
+reinvention N: reinventions
+reinvest V: reinvested  reinvesting  reinvests
+reinvestment N: ~reinvestments
+reinvigorate V: reinvigorated  reinvigorating  reinvigorates
+reissue N: reissues
+reissue V: reissued  reissuing  reissues
+reiterate V: reiterated  reiterating  reiterates
+reiteration N: reiterations
+reiterative A:
+reject N: rejects
+reject V: rejected  rejecting  rejects
+rejection N: rejections
+rejoice V: rejoiced  rejoicing  rejoices
+rejoicing N: rejoicings
+rejoin V: rejoined  rejoining  rejoins
+rejoinder N: rejoinders
+rejudge V: rejudged  rejudging  rejudges
+rejuvenate V: rejuvenated  rejuvenating  rejuvenates
+rejuvenation N: ~rejuvenations
+rekindle V: rekindled  rekindling  rekindles
+relabel V: relabeled (relabelled)  relabeling (relabelling)  relabels
+relapse N: relapses
+relapse V: relapsed  relapsing  relapses
+relate V: related  relating  relates
+relatedness N: ~relatednesses
+relater N: relaters
+relation N: relations
+relational A:
+relationship N: relationships
+relative A:
+relative N: relatives
+relatively A:
+relativism N: ~relativisms
+relativity N: ~relativities
+relaunch N: relaunches
+relaunch V: relaunched  relaunching  relaunches
+relax V: relaxed  relaxing  relaxes
+relaxant N: relaxants
+relaxation N: relaxations
+relaxer N: relaxers
+relay N: relays
+relay V: relayed {pass along} | relaid {lay again}  relaying  relays
+relearn V: relearned  relearning  relearns
+release N: releases
+release V: released  releasing  releases
+relegate V: relegated  relegating  relegates
+relegation N: ~relegations
+relent V: relented  relenting  relents
+relentless A:
+relentlessly A:
+relentlessness N: ~relentlessnesses
+relevance N: ~relevances
+relevancy N: ~relevancies
+relevant A:
+relevantly A:
+reliability N: ~reliabilities
+reliable A:
+reliably A:
+reliance N: ~reliances
+reliant A:
+relic N: relics
+relief N: reliefs
+relieve V: relieved  relieving  relieves
+reliever N: relievers
+relight V: relighted (relit)  relighting  relights
+religion N: religions
+religious A:
+religious N: religious
+religiously A:
+religiousness N: ~religiousnesses
+reline V: relined  relining  relines
+relinquish V: relinquished  relinquishing  relinquishes
+relinquishment N: ~relinquishments
+reliquary N: reliquaries
+relish N: relishes
+relish V: relished  relishing  relishes
+relivable A:
+relive V: relived  reliving  relives
+-reload N: reloads
+reload V: reloaded  reloading  reloads
+relocate V: relocated  relocating  relocates
+relocation N: ~relocations
+reluctance N: ~reluctances
+reluctant A:
+reluctantly A:
+rely V: relied  relying  relies
+rem N: rems
+remain V: remained  remaining  remains
+remainder N: remainders
+-remainder V: remaindered  remaindering  remainders
+remake N: remakes
+remake V: remade  remaking  remakes
+-remand N: remands
+remand V: remanded  remanding  remands
+remap V: remapped  remapping  remaps
+remark N: remarks
+remark V: remarked  remarking  remarks
+remarkable A:
+remarkableness N: ~remarkablenesses
+remarkably A:
+remarriage N: remarriages
+remarry V: remarried  remarrying  remarries
+rematch N: rematches
+-rematch V: rematched  rematching  rematches
+remeasure V: remeasured  remeasuring  remeasures
+remediable A:
+remedial A:
+remedially A:
+remediation N: ~remediations
+remedy N: remedies
+remedy V: remedied  remedying  remedies
+remelt V: remelted  remelting  remelts
+remember V: remembered  remembering  remembers
+remembrance N: remembrances
+remigrate V: remigrated  remigrating  remigrates
+remind V: reminded  reminding  reminds
+reminder N: reminders
+reminisce V: reminisced  reminiscing  reminisces
+reminiscence N: reminiscences
+reminiscent A:
+reminiscently A:
+remiss A:
+remission N: remissions
+remissly A:
+remissness N: ~remissnesses
+-remit N: remits
+remit V: remitted  remitting  remits
+remittance N: remittances
+-remix N: remixes
+remix V: remixed  remixing  remixes
+-remnant A:
+remnant N: remnants
+remodel V: remodeled (remodelled)  remodeling (remodelling)  remodels
+remold V: remolded  remolding  remolds
+remonstrance N: remonstrances
+remonstrant A:
+remonstrant N: remonstrants
+remonstrate V: remonstrated  remonstrating  remonstrates
+remorse N: ~remorses
+remorseful A:
+remorsefully A:
+remorseless A:
+remorselessly A:
+remorselessness N: ~remorselessnesses
+remote A: remoter  remotest
+remote N: remotes
+remotely A:
+remoteness N: ~remotenesses
+remount N: remounts
+remount V: remounted  remounting  remounts
+removable A:
+removal N: removals
+remove N: removes
+remove V: removed  removing  removes
+remover N: removers
+remunerate V: remunerated  remunerating  remunerates
+remuneration N: remunerations
+remunerative A:
+renaissance N: renaissances
+renal A:
+rename V: renamed  renaming  renames
+renascence N: renascences
+renascent A:
+rend V: rent  rending  rends
+render N: renders
+render V: rendered  rendering  renders
+rendering N: renderings
+rendezvous N: rendezvous
+rendezvous V: rendezvoused  rendezvousing  rendezvouses
+rendition N: renditions
+renegade A:
+renegade N: renegades
+-renege N: reneges
+renege V: reneged  reneging  reneges
+reneger N: renegers
+renegotiable A:
+renegotiate V: renegotiated  renegotiating  renegotiates
+renegotiation N: ~renegotiations
+renew V: renewed  renewing  renews
+renewable A:
+-renewable N: renewables
+renewal N: renewals
+rennet N: ~rennets
+rennin N: ~rennins
+renominate V: renominated  renominating  renominates
+renomination N: ~renominations
+-renounce N: renounces
+renounce V: renounced  renouncing  renounces
+renouncement N: ~renouncements
+renovate V: renovated  renovating  renovates
+renovation N: renovations
+renovator N: renovators
+renown N: ~renowns
+renowned A:
+rent N: rents
+rent V: rented  renting  rents
+rental A:
+rental N: rentals
+renter N: renters
+renumber V: renumbered  renumbering  renumbers
+renunciation N: renunciations
+reoccupation N: ~reoccupations
+reoccupy V: reoccupied  reoccupying  reoccupies
+reoccur V: reoccurred  reoccurring  reoccurs
+reopen V: reopened  reopening  reopens
+reorder N: reorders
+reorder V: reordered  reordering  reorders
+reorganization N: reorganizations
+reorganize V: reorganized  reorganizing  reorganizes
+-reorient A:
+reorient V: reoriented  reorienting  reorients
+reorientation N: ~reorientations
+rep N: reps
+repack V: repacked  repacking  repacks
+repackage V: repackaged  repackaging  repackages
+-repaint N: repaints
+repaint V: repainted  repainting  repaints
+repair N: repairs
+repair V: repaired  repairing  repairs
+repairable A:
+repairer N: repairers
+repairman N: repairmen
+reparable A:
+reparation N: ~reparations
+reparations N:
+repartee N: ~repartees
+repast N: repasts
+repatriate N: repatriates
+repatriate V: repatriated  repatriating  repatriates
+repatriation N: ~repatriations
+repave V: repaved  repaving  repaves
+repay V: repaid  repaying  repays
+repayable A:
+repayment N: repayments
+repeal N: repeals
+repeal V: repealed  repealing  repeals
+repeat N: repeats
+repeat V: repeated  repeating  repeats
+repeatable A:
+repeatedly A:
+repeater N: repeaters
+repeating N: ~repeatings
+repel V: repelled  repelling  repels
+repellant A:
+repellant N: repellants
+repellent A:
+repellent N: repellents
+-repent A:
+repent V: repented  repenting  repents
+repentance N: ~repentances
+repentant A:
+repentantly A:
+repercussion N: repercussions
+repertoire N: repertoires
+repertory N: repertories
+repetition N: repetitions
+repetitious A:
+repetitiously A:
+repetitiousness N: ~repetitiousnesses
+repetitive A:
+repetitively A:
+repetitiveness N: ~repetitivenesses
+-rephotograph N: rephotographs
+rephotograph V: rephotographed  rephotographing  rephotographs
+rephrase V: rephrased  rephrasing  rephrases
+repine V: repined  repining  repines
+replace V: replaced  replacing  replaces
+replaceable A:
+replacement N: replacements
+replant V: replanted  replanting  replants
+replay N: replays
+replay V: replayed  replaying  replays
+replenish V: replenished  replenishing  replenishes
+replenishment N: ~replenishments
+replete A:
+repleteness N: ~repletenesses
+repletion N: ~repletions
+replica N: replicas
+replicate V: replicated  replicating  replicates
+replication N: replications
+reply N: replies
+reply V: replied  replying  replies
+repopulate V: repopulated  repopulating  repopulates
+report N: reports
+report V: reported  reporting  reports
+reportage N: ~reportages
+reportedly A:
+reporter N: reporters
+reportorial A:
+repose N: ~reposes
+repose V: reposed  reposing  reposes
+reposeful A:
+repository N: repositories
+repossess V: repossessed  repossessing  repossesses
+repossession N: repossessions
+reprehend V: reprehended  reprehending  reprehends
+reprehensibility N: ~reprehensibilities
+reprehensible A:
+reprehensibly A:
+reprehension N: ~reprehensions
+represent V: represented  representing  represents
+representation N: representations
+representational A:
+representative A:
+representative N: representatives
+repress V: repressed  repressing  represses
+repression N: repressions
+repressive A:
+repressively A:
+reprice V: repriced  repricing  reprices
+reprieve N: reprieves
+reprieve V: reprieved  reprieving  reprieves
+reprimand N: reprimands
+reprimand V: reprimanded  reprimanding  reprimands
+reprint N: reprints
+reprint V: reprinted  reprinting  reprints
+reprisal N: reprisals
+reprise N: reprises
+reprise V: reprised  reprising  reprises
+reproach N: reproaches
+reproach V: reproached  reproaching  reproaches
+reproachable A:
+reproachful A:
+reproachfully A:
+reprobate A:
+reprobate N: reprobates
+-reprobate V: reprobated  reprobating  reprobates
+reprocess V: reprocessed  reprocessing  reprocesses
+reproduce V: reproduced  reproducing  reproduces
+reproducer N: reproducers
+reproducible A:
+reproduction N: reproductions
+reproductive A:
+-reproductive N: reproductives
+reprogram V: reprogrammed (reprogramed)  reprogramming (reprograming)  reprograms
+reproof N: reproofs
+reprove V: reproved  reproving  reproves
+reprovingly A:
+-reptile A:
+reptile N: reptiles
+reptilian A:
+reptilian N: reptilians
+republic N: republics
+republican A:
+republican N: republicans
+republicanism N: ~republicanisms
+republication N: republications
+republish V: republished  republishing  republishes
+repudiate V: repudiated  repudiating  repudiates
+repudiation N: repudiations
+repudiator N: repudiators
+repugnance N: ~repugnances
+repugnant A:
+repulse N: repulses
+repulse V: repulsed  repulsing  repulses
+repulsion N: ~repulsions
+repulsive A:
+repulsively A:
+repulsiveness N: ~repulsivenesses
+-repurchase N: ~repurchases
+repurchase V: repurchased  repurchasing  repurchases
+reputability N: ~reputabilities
+reputable A:
+reputably A:
+reputation N: reputations
+repute N: ~reputes
+repute V: reputed  reputing  reputes
+reputedly A:
+request N: requests
+request V: requested  requesting  requests
+requiem N: requiems
+require V: required  requiring  requires
+requirement N: requirements
+requisite A:
+requisite N: requisites
+requisition N: requisitions
+requisition V: requisitioned  requisitioning  requisitions
+requital N: ~requitals
+requite V: requited  requiting  requites
+requiter N: requiters
+reread V: reread  rereading  rereads
+rerecord V: rerecorded  rerecording  rerecords
+reroute V: rerouted  rerouting  reroutes
+rerun N: reruns
+rerun V: reran  rerun  rerunning  reruns
+resalable A:
+resale N: resales
+reschedule V: rescheduled  rescheduling  reschedules
+rescind V: rescinded  rescinding  rescinds
+rescission N: ~rescissions
+rescue N: rescues
+rescue V: rescued  rescuing  rescues
+rescuer N: rescuers
+reseal V: resealed  resealing  reseals
+resealable A:
+research N: researches
+research V: researched  researching  researches
+researcher N: researchers
+resection N: resections
+reseed V: reseeded  reseeding  reseeds
+resell V: resold  reselling  resells
+resemblance N: resemblances
+resemble V: resembled  resembling  resembles
+resent V: resented  resenting  resents
+resentful A:
+resentfully A:
+resentfulness N: ~resentfulnesses
+resentment N: resentments
+reserpine N: ~reserpines
+reservation N: reservations
+reserve A:
+reserve N: reserves
+reserve V: reserved  reserving  reserves
+reservedly A:
+reservedness N: ~reservednesses
+reservist N: reservists
+reservoir N: reservoirs
+reset A:
+reset N: resets
+reset V: reset  resetting  resets
+resettle V: resettled  resettling  resettles
+resettlement N: ~resettlements
+resew V: resewed  resewn  resewing  resews
+reshape V: reshaped  reshaping  reshapes
+resharpen V: resharpened  resharpening  resharpens
+reship V: reshipped  reshipping  reships
+reshipment N: ~reshipments
+reshuffle N: reshuffles
+reshuffle V: reshuffled  reshuffling  reshuffles
+reside V: resided  residing  resides
+residence N: residences
+residency N: residencies
+resident A:
+resident N: residents
+residential A:
+residual A:
+residual N: residuals
+residue N: residues
+residuum N: ~residua
+resign V: resigned  resigning  resigns
+resignation N: resignations
+resigned A:
+resignedly A:
+resilience N: ~resiliences
+resiliency N: ~resiliencies
+resilient A:
+resiliently A:
+resin N: resins
+-resin V: resined  resining  resins
+resinous A:
+resist N: resists
+resist V: resisted  resisting  resists
+resistance N: resistances
+resistant A:
+-resistant N: resistants
+resister N: resisters
+resistible A:
+resistless A:
+resistor N: resistors
+resole V: resoled  resoling  resoles
+resolute A: -resoluter  -resolutest
+resolutely A:
+resoluteness N: ~resolutenesses
+resolution N: resolutions
+resolvable A:
+resolve N: resolves
+resolve V: resolved  resolving  resolves
+resonance N: resonances
+resonant A:
+-resonant N: resonants
+resonantly A:
+resonate V: resonated  resonating  resonates
+resonator N: resonators
+resorption N: ~resorptions
+resort N: resorts
+resort V: resorted  resorting  resorts
+resound V: resounded  resounding  resounds
+resoundingly A:
+resource N: resources
+resource V: resourced  resourcing  resources
+resourceful A:
+resourcefully A:
+resourcefulness N: ~resourcefulnesses
+resow V: resowed  resown (resowed)  resowing  resows
+respect N: respects
+respect V: respected  respecting  respects
+respectability N: ~respectabilities
+respectable A:
+respectably A:
+respecter N: respecters
+respectful A:
+respectfully A:
+respectfulness N: ~respectfulnesses
+respective A:
+respectively A:
+respell V: respelled (respelt)  respelling  respells
+respiration N: ~respirations
+respirator N: respirators
+respiratory A:
+respire V: respired  respiring  respires
+respite N: respites
+-respite V: respited  respiting  respites
+resplendence N: ~resplendences
+resplendent A:
+resplendently A:
+-respond N: responds
+respond V: responded  responding  responds
+respondent A:
+respondent N: respondents
+response N: responses
+responsibility N: responsibilities
+responsible A:
+responsibly A:
+responsive A:
+responsively A:
+responsiveness N: ~responsivenesses
+respray V: resprayed  respraying  resprays
+rest N: rests
+rest V: rested  resting  rests
+restaff V: restaffed  restaffing  restaffs
+restart N: restarts
+restart V: restarted  restarting  restarts
+restate V: restated  restating  restates
+restatement N: restatements
+restaurant N: restaurants
+restauranteur N: restauranteurs
+restaurateur N: restaurateurs
+restful A: restfuller  restfullest
+restfully A:
+restfulness N: ~restfulnesses
+restitch V: restitched  restitching  restitches
+restitution N: ~restitutions
+restive A:
+restively A:
+restiveness N: ~restivenesses
+restless A:
+restlessly A:
+restlessness N: ~restlessnesses
+restock V: restocked  restocking  restocks
+restoration N: restorations
+restorative A:
+restorative N: restoratives
+restore V: restored  restoring  restores
+restorer N: restorers
+restrain V: restrained  restraining  restrains
+restrainer N: restrainers
+restraint N: restraints
+restrengthen V: restrengthened  restrengthening  restrengthens
+restrict V: restricted  restricting  restricts
+restriction N: restrictions
+restrictive A:
+restrictively A:
+restrictiveness N: ~restrictivenesses
+restring V: restrung  restringing  restrings
+restroom N: restrooms
+restructure V: restructured  restructuring  restructures
+restructuring N: restructurings
+-restudy N: restudies
+restudy V: restudied  restudying  restudies
+restyle V: restyled  restyling  restyles
+resubmit V: resubmitted  resubmitting  resubmits
+resubscribe V: resubscribed  resubscribing  resubscribes
+result N: results
+result V: resulted  resulting  results
+resultant A:
+resultant N: resultants
+resume N: resumes
+resume V: resumed  resuming  resumes
+resumption N: resumptions
+resupply V: resupplied  resupplying  resupplies
+resurface V: resurfaced  resurfacing  resurfaces
+resurgence N: resurgences
+resurgent A:
+resurrect V: resurrected  resurrecting  resurrects
+resurrection N: resurrections
+-resurvey N: resurveys
+resurvey V: resurveyed  resurveying  resurveys
+resuscitate V: resuscitated  resuscitating  resuscitates
+resuscitation N: ~resuscitations
+resuscitator N: resuscitators
+retail A:
+retail N: ~retails
+retail V: retailed  retailing  retails
+retailer N: retailers
+retain V: retained  retaining  retains
+retainer N: retainers
+retake N: retakes
+retake V: retook  retaken  retaking  retakes
+retaliate V: retaliated  retaliating  retaliates
+retaliation N: retaliations
+retaliative A:
+retaliatory A:
+retard N: retards
+retard V: retarded  retarding  retards
+retardant A:
+retardant N: retardants
+retardation N: ~retardations
+retarder N: retarders
+-retch N: retches
+retch V: retched  retching  retches
+reteach V: retaught  reteaching  reteaches
+retell V: retold  retelling  retells
+retention N: ~retentions
+retentive A:
+retentively A:
+retentiveness N: ~retentivenesses
+retest N: retests
+retest V: retested  retesting  retests
+rethink N: rethinks
+rethink V: rethought  rethinking  rethinks
+reticence N: ~reticences
+reticent A:
+reticently A:
+reticulation N: reticulations
+retie V: retied  retying  reties
+retina N: retinas (retinae)
+retinal A:
+-retinal N: retinals
+retinue N: retinues
+retire V: retired  retiring  retires
+retiree N: retirees
+retirement N: retirements
+retool V: retooled  retooling  retools
+retort N: retorts
+retort V: retorted  retorting  retorts
+retouch N: retouches
+retouch V: retouched  retouching  retouches
+retrace V: retraced  retracing  retraces
+retract V: retracted  retracting  retracts
+retractable A:
+retractile A:
+retraction N: retractions
+retrain V: retrained  retraining  retrains
+retread N: retreads
+retread V {tire}: retreaded  retreading  retreads
+retread V {walk again}: retrod  retrodden  retreading  retreads
+retreat N: retreats
+retreat V: retreated  retreating  retreats
+retrench V: retrenched  retrenching  retrenches
+retrenchment N: retrenchments
+retrial N: retrials
+retribution N: retributions
+retributive A:
+retrievable A:
+retrieval N: retrievals
+retrieve N: retrieves
+retrieve V: retrieved  retrieving  retrieves
+retriever N: retrievers
+retro A:
+retro N: retros
+retroactive A:
+retroactively A:
+retrofire V: retrofired  retrofiring  retrofires
+retrofit N: retrofits
+retrofit V: retrofitted  retrofitting  retrofits
+retrograde V: retrograded  retrograding  retrogrades
+retrogress V: retrogressed  retrogressing  retrogresses
+retrogression N: ~retrogressions
+retrogressive A:
+retrorocket N: retrorockets
+retrospect N: ~retrospects
+retrospect V: retrospected  retrospecting  retrospects
+retrospection N: ~retrospections
+retrospective A:
+retrospective N: retrospectives
+retrospectively A:
+retrovirus N: retroviruses
+retry V: retried  retrying  retries
+retsina N: ~retsinas
+return A:
+return N: returns
+return V: returned  returning  returns
+returnable A:
+returnable N: returnables
+returnee N: returnees
+returner N: returners
+retype V: retyped  retyping  retypes
+reunification N: ~reunifications
+reunify V: reunified  reunifying  reunifies
+reunion N: reunions
+reunite V: reunited  reuniting  reunites
+reupholster V: reupholstered  reupholstering  reupholsters
+reusable A:
+reuse N: reuses
+reuse V: reused  reusing  reuses
+rev N: revs
+rev V: revved  revving  revs
+revaluation N: revaluations
+revalue V: revalued  revaluing  revalues
+revamp N: revamps
+revamp V: revamped  revamping  revamps
+revamping N: revampings
+-reveal N: reveals
+reveal V: revealed  revealing  reveals
+revealingly A:
+reveille N: ~reveilles
+revel N: revels
+revel V: reveled (revelled)  reveling (revelling)  revels
+revelation N: revelations
+reveler N: revelers
+reveller N: revellers
+revelry N: revelries
+revenge N: ~revenges
+revenge V: revenged  revenging  revenges
+revengeful A:
+revengefully A:
+revenue N: revenues
+revenuer N: revenuers
+reverberate V: reverberated  reverberating  reverberates
+reverberation N: reverberations
+-revere N: reveres
+revere V: revered  revering  reveres
+reverence N: ~reverences
+reverence V: reverenced  reverencing  reverences
+reverend A:
+reverend N: reverends
+reverent A:
+reverential A:
+reverentially A:
+reverently A:
+reverie N: reveries
+revers N: revers
+reversal N: reversals
+reverse A:
+reverse N: reverses
+reverse V: reversed  reversing  reverses
+reversely A:
+reversible A:
+-reversible N: reversibles
+reversibly A:
+reversion N: ~reversions
+-revert N: reverts
+revert V: reverted  reverting  reverts
+revertible A:
+revery N: reveries
+revetment N: revetments
+review A:
+review N: reviews
+review V: reviewed  reviewing  reviews
+reviewer N: reviewers
+revile V: reviled  reviling  reviles
+revilement N: ~revilements
+reviler N: revilers
+revise N: revises
+revise V: revised  revising  revises
+reviser N: revisers
+revision N: revisions
+revisionism N: ~revisionisms
+revisionist A:
+revisionist N: revisionists
+revisit V: revisited  revisiting  revisits
+revitalization N: ~revitalizations
+revitalize V: revitalized  revitalizing  revitalizes
+revival N: revivals
+revivalism N: ~revivalisms
+revivalist A:
+revivalist N: revivalists
+revive V: revived  reviving  revives
+revivification N: ~revivifications
+revivify V: revivified  revivifying  revivifies
+revocable A:
+revocation N: revocations
+revokable A:
+-revoke N: revokes
+revoke V: revoked  revoking  revokes
+revolt N: revolts
+revolt V: revolted  revolting  revolts
+revoltingly A:
+revolution N: revolutions
+revolutionary A:
+revolutionary N: revolutionaries
+revolutionise V: revolutionised  revolutionising  revolutionises
+revolutionist N: revolutionists
+revolutionize V: revolutionized  revolutionizing  revolutionizes
+revolvable A:
+revolve V: revolved  revolving  revolves
+revolver N: revolvers
+revue N: revues
+revulsion N: ~revulsions
+reward N: rewards
+reward V: rewarded  rewarding  rewards
+rewarm V: rewarmed  rewarming  rewarms
+rewash V: rewashed  rewashing  rewashes
+reweave V: rewove (reweaved)  rewoven (reweaved rewove)  reweaving  reweaves
+rewed V: rewedded  rewedding  reweds
+reweigh V: reweighed  reweighing  reweighs
+rewind N: rewinds
+rewind V: rewound (-rewinded)  rewinding  rewinds
+rewire V: rewired  rewiring  rewires
+reword V: reworded  rewording  rewords
+rework V: reworked  reworking  reworks
+rewrite N: rewrites
+rewrite V: rewrote  rewritten  rewriting  rewrites
+rezone V: rezoned  rezoning  rezones
+rhapsodic A:
+rhapsodical A:
+rhapsodize V: rhapsodized  rhapsodizing  rhapsodizes
+rhapsody N: rhapsodies
+rhea N: rheas
+rhenium N: ~rheniums
+rheostat N: rheostats
+rhesus N: rhesuses
+rhetoric N: ~rhetorics
+rhetorical A:
+rhetorically A:
+rhetorician N: rhetoricians
+rheum N: ~rheums
+rheumatic A:
+rheumatic N: rheumatics
+rheumatically A:
+rheumatism N: ~rheumatisms
+rheumatoid A:
+rheumy A: !rheumier  !rheumiest
+rhinestone N: rhinestones
+rhinitis N: ~rhinitides
+rhino N: rhinos
+rhinoceros N: rhinoceroses (rhinoceri) | rhinoceros
+rhizome N: rhizomes
+rho N: rhos
+rhodium N: ~rhodiums
+rhododendron N: rhododendrons
+rhomboid A:
+rhomboid N: rhomboids
+rhomboidal A:
+rhombus N: rhombuses (rhombi)
+rhubarb N: rhubarbs
+rhyme N: rhymes
+rhyme V: rhymed  rhyming  rhymes
+rhymer N: rhymers
+rhymester N: rhymesters
+rhythm N: rhythms
+rhythmic A:
+-rhythmic N: rhythmics
+rhythmical A:
+rhythmically A:
+rial N: rials
+rib N: ribs
+rib V: ribbed  ribbing  ribs
+ribald A:
+-ribald N: ribalds
+ribaldry N: ~ribaldries
+ribber N: ribbers
+ribbon N: ribbons
+-ribbon V: ribboned  ribboning  ribbons
+riboflavin N: ~riboflavins
+rice N: ~rices
+rice V: riced  ricing  rices
+ricer N: ricers
+rich A: richer  richest
+rich N: riches
+richly A:
+richness N: ~richnesses
+rick N: ricks
+rick V: ricked  ricking  ricks
+rickets N:
+rickety A: ricketier  ricketiest
+rickrack N: ~rickracks
+ricksha N: rickshas
+rickshaw N: rickshaws
+ricochet N: ricochets
+ricochet V: ricocheted (ricochetted)  ricocheting (ricochetting)  ricochets
+ricotta N: ~ricottas
+rid V: rid (ridded)  ridding  rids
+riddance N: ~riddances
+riddle N: riddles
+riddle V: riddled  riddling  riddles
+ride N: rides
+ride V: rode  ridden  riding  rides
+rider N: riders
+riderless A:
+ridership N: ~riderships
+ridge N: ridges
+ridge V: ridged  ridging  ridges
+ridgepole N: ridgepoles
+ridgy A: !ridgier  !ridgiest
+ridicule N: ~ridicules
+ridicule V: ridiculed  ridiculing  ridicules
+ridiculous A:
+ridiculously A:
+ridiculousness N: ~ridiculousnesses
+riding N: ~ridings
+rife A: rifer  rifest
+riff N: riffs
+riff V: riffed  riffing  riffs
+riffle N: riffles
+riffle V: riffled  riffling  riffles
+riffraff N:
+rifle N: rifles
+rifle V: rifled  rifling  rifles
+rifleman N: riflemen
+rifler N: riflers
+rifling N: ~riflings
+rift N: rifts
+rift V: rifted  rifting  rifts
+rig N: rigs
+rig V: rigged  rigging  rigs
+rigamarole N: rigamaroles
+rigatoni N: ~rigatoni
+rigger N: riggers
+rigging N: ~riggings
+right A: righter  rightest
+right N: rights
+right V: righted  righting  rights
+righteous A:
+righteously A:
+righteousness N: ~righteousnesses
+rightful A:
+rightfully A:
+rightfulness N: ~rightfulnesses
+rightism N: ~rightisms
+rightist A:
+rightist N: rightists
+rightly A:
+rightmost A:
+rightness N: ~rightnesses
+rightsize V: rightsized  rightsizing  rightsizes
+rightward A:
+rightwards A:
+rigid A: -rigider  -rigidest
+rigidity N: ~rigidities
+rigidly A:
+rigidness N: ~rigidnesses
+rigmarole N: rigmaroles
+rigor N: rigors
+rigorous A:
+rigorously A:
+rigorousness N: ~rigorousnesses
+rigour N: rigours
+rile V: riled  riling  riles
+rill N: rills
+rim N: rims
+rim V: rimmed  rimming  rims
+rime N: rimes
+rime V: rimed  riming  rimes
+rimless A:
+rind N: rinds
+ring N: rings
+ring V {encircle}: ringed  ringing  rings
+ring V {sound}: rang  rung  ringing  rings
+ringer N: ringers
+ringgit N: ringgits
+ringleader N: ringleaders
+ringlet N: ringlets
+ringlike A:
+ringmaster N: ringmasters
+ringside A:
+ringside N: ~ringsides
+ringworm N: ~ringworms
+rink N: rinks
+rinse N: rinses
+rinse V: rinsed  rinsing  rinses
+riot N: riots
+riot V: rioted  rioting  riots
+rioter N: rioters
+rioting N: ~riotings
+riotous A:
+riotously A:
+rip N: rips
+rip V: ripped  ripping  rips
+riparian A:
+-riparian N: riparians
+ripcord N: ripcords
+ripe A: riper  ripest
+ripely A:
+ripen V: ripened  ripening  ripens
+ripeness N: ~ripenesses
+ripoff N: ripoffs
+ripost N: riposts
+ripost V: riposted  riposting  riposts
+riposte N: ripostes
+riposte V: riposted  riposting  ripostes
+ripper N: rippers
+ripple N: ripples
+ripple V: rippled  rippling  ripples
+ripply A: !ripplier  !rippliest
+ripsaw N: ripsaws
+-ripsaw V: ripsawed  ripsawed (ripsawn)  ripsawing  ripsaws
+riptide N: riptides
+rise N: rises
+rise V: rose  risen  rising  rises
+riser N: risers
+risibility N: ~risibilities
+risible A:
+rising N: risings
+risk N: risks
+risk V: risked  risking  risks
+riskily A:
+riskiness N: ~riskinesses
+risky A: riskier  riskiest
+risotto N: risottos
+risque A:
+rite N: rites
+ritual A:
+ritual N: rituals
+ritualism N: ~ritualisms
+ritualistic A:
+ritualistically A:
+ritually A:
+ritzy A: ritzier  ritziest
+rival A:
+rival N: rivals
+rival V: rivaled (rivalled)  rivaling (rivalling)  rivals
+rivalry N: rivalries
+rive V: rived  rived (riven)  riving  rives
+river N: rivers
+riverbank N: riverbanks
+riverbed N: riverbeds
+riverboat N: riverboats
+riverside A:
+riverside N: riversides
+rivet N: rivets
+rivet V: riveted (rivetted)  riveting (rivetting)  rivets
+riveter N: riveters
+rivulet N: rivulets
+riyal N: riyals
+roach N {fish}: roaches | roach
+roach N {insect}: roaches
+-roach V: roached  roaching  roaches
+road N: roads
+roadbed N: roadbeds
+roadblock N: roadblocks
+roadblock V: roadblocked  roadblocking  roadblocks
+roadhouse N: roadhouses
+roadie N: roadies
+roadkill N: ~roadkills
+roadrunner N: roadrunners
+roadshow N: roadshows
+roadside A:
+roadside N: roadsides
+roadster N: roadsters
+roadway N: roadways
+roadwork N: ~roadworks
+roadworthy A: roadworthier  roadworthiest
+-roam N: roams
+roam V: roamed  roaming  roams
+roamer N: roamers
+roaming N: ~roamings
+roan A:
+roan N: roans
+roar N: roars
+roar V: roared  roaring  roars
+roarer N: roarers
+roaring N: ~roarings
+roast A:
+roast N: roasts
+roast V: roasted  roasting  roasts
+roaster N: roasters
+roasting N: roastings
+rob V: robbed  robbing  robs
+robber N: robbers
+robbery N: robberies
+robe N: robes
+robe V: robed  robing  robes
+robin N: robins
+robot N: robots
+robotic A:
+robotics N:
+robotize V: robotized  robotizing  robotizes
+robust A: robuster  robustest
+robustly A:
+robustness N: ~robustnesses
+rock A:
+rock N: rocks
+rock V: rocked  rocking  rocks
+rockabilly N: ~rockabillies
+rockbound A:
+rocker N: rockers
+rocket N: rockets
+rocket V: rocketed  rocketing  rockets
+rocketry N: ~rocketries
+rockfall N: rockfalls
+rockiness N: ~rockinesses
+rocky A: rockier  rockiest
+rococo A:
+rococo N: ~rococos
+rod N: rods
+-rod V: rodded  rodding  rods
+-rode N: rodes
+rodent A:
+rodent N: rodents
+rodeo N: rodeos
+-rodeo V: rodeoed  rodeoing  rodeos
+roe N {deer}: roe | roes
+roe N {eggs}: ~roes
+roebuck N: roebucks | roebuck
+roentgen N: roentgens
+roger I:
+roger V: rogered  rogering  rogers
+rogue A:
+rogue N: rogues
+-rogue V: rogued  roguing (rogueing)  rogues
+roguery N: ~rogueries
+roguish A:
+roguishly A:
+roguishness N: ~roguishnesses
+roil V: roiled  roiling  roils
+roister V: roistered  roistering  roisters
+roisterer N: roisterers
+role N: roles
+roll N: rolls
+roll V: rolled  rolling  rolls
+rollback N: rollbacks
+roller N: rollers
+rollerskating N: ~rollerskatings
+rollick V: rollicked  rollicking  rollicks
+rollicking N: ~rollickings
+rollover N: rollovers
+romaine N: ~romaines
+roman A:
+roman N: ~romans
+romance N: romances
+romance V: romanced  romancing  romances
+romancer N: romancers
+romantic A:
+romantic N: romantics
+romantically A:
+romanticism N: ~romanticisms
+romanticist N: romanticists
+romanticize V: romanticized  romanticizing  romanticizes
+romeo N: romeos
+romp N: romps
+romp V: romped  romping  romps
+romper N: rompers
+rondo N: rondos
+rood N: roods
+roof N: roofs
+roof V: roofed  roofing  roofs
+roofer N: roofers
+roofing N: ~roofings
+roofless A:
+rooftop N: rooftops
+rook N: rooks
+rook V: rooked  rooking  rooks
+rookery N: rookeries
+rookie N: rookies
+room N: rooms
+room V: roomed  rooming  rooms
+roomer N: roomers
+roomette N: roomettes
+roomful N: roomfuls
+roominess N: ~roominesses
+roommate N: roommates
+roomy A: roomier  roomiest
+-roomy N: roomies
+roost N: roosts
+roost V: roosted  roosting  roosts
+rooster N: roosters
+root N: roots
+root V: rooted  rooting  roots
+rooter N: rooters
+rootless A:
+rootlet N: rootlets
+rope N: ropes
+rope V: roped  roping  ropes
+roper N: ropers
+ropy A: ropier  ropiest
+rosary N: rosaries
+rose A:
+rose N: roses
+-rose V: rosed  rosing  roses
+roseate A:
+rosebud N: rosebuds
+rosebush N: rosebushes
+rosemary N: ~rosemaries
+rosette N: rosettes
+rosewater N: ~rosewaters
+rosewood N: rosewoods
+rosily A:
+rosin N: ~rosins
+rosin V: rosined  rosining  rosins
+rosiness N: ~rosinesses
+roster N: rosters
+rostrum N: rostrums (rostra)
+rosy A: rosier  rosiest
+rot N: ~rots
+rot V: rotted  rotting  rots
+rotary A:
+rotary N: rotaries
+-rotate A:
+rotate V: rotated  rotating  rotates
+rotation N: rotations
+rotatory A:
+rote A:
+rote N: ~rotes
+rotgut N: ~rotguts
+rotisserie N: rotisseries
+rotogravure N: rotogravures
+rotor N: rotors
+rototiller N: rototillers
+rotten A: rottener  rottenest
+rottenly A:
+rottenness N: ~rottennesses
+rotund A: -rotunder  -rotundest
+rotunda N: rotundas
+rotundity N: ~rotundities
+rotundness N: ~rotundnesses
+rouble N: roubles
+roue N: roues
+rouge N: ~rouges
+rouge V: rouged  rouging  rouges
+rough A: rougher  roughest
+rough N: ~roughs
+rough V: roughed  roughing  roughs
+roughage N: ~roughages
+roughen V: roughened  roughening  roughens
+roughhouse N: ~roughhouses
+roughhouse V: roughhoused  roughhousing  roughhouses
+roughly A:
+roughneck N: roughnecks
+roughneck V: roughnecked  roughnecking  roughnecks
+roughness N: ~roughnesses
+roughshod A:
+roulette N: ~roulettes
+-roulette V: rouletted  rouletting  roulettes
+round A: rounder  roundest
+round C:
+round N: rounds
+round V: rounded  rounding  rounds
+roundabout A:
+roundabout N: roundabouts
+roundelay N: roundelays
+roundhouse A:
+roundhouse N: roundhouses
+roundish A:
+roundly A:
+roundness N: ~roundnesses
+roundtable N: roundtables
+roundup N: roundups
+roundworm N: roundworms
+rouse V: roused  rousing  rouses
+roust V: rousted  rousting  rousts
+roustabout N: roustabouts
+rout N: routs
+rout V: routed  routing  routs
+route N: routes
+route V: routed  routing  routes
+router N: routers
+routine A:
+routine N: routines
+routinely A:
+routinize V: routinized  routinizing  routinizes
+-rove N: roves
+rove V: roved  roving  roves
+rover N: rovers
+-roving N: rovings
+row N: rows
+row V: rowed  rowing  rows
+rowboat N: rowboats
+rowdily A:
+rowdiness N: ~rowdinesses
+rowdy A: rowdier  rowdiest
+rowdy N: rowdies
+rowdyism N: ~rowdyisms
+rowel N: rowels
+rowel V: roweled (rowelled)  roweling (rowelling)  rowels
+rower N: rowers
+rowing N: ~rowings
+royal A: -royaller  -royallest
+royal N: royals
+royalist A:
+royalist N: royalists
+royally A:
+royalties N:
+royalty N: ~royalties
+rub N: rubs
+rub V: rubbed  rubbing  rubs
+rubato A:
+rubato N: rubatos (rubati)
+rubber A:
+rubber N: rubbers
+-rubber V: rubbered  rubbering  rubbers
+rubberize V: rubberized  rubberizing  rubberizes
+rubberneck N: rubbernecks
+rubberneck V: rubbernecked  rubbernecking  rubbernecks
+rubbernecker N: rubberneckers
+rubbery A: !rubberier  !rubberiest
+rubbish N: ~rubbishes
+rubbishy A:
+rubble N: ~rubbles
+rubdown N: rubdowns
+rube N: rubes
+rubella N: ~rubellas
+rubicund A:
+rubidium N: ~rubidiums
+ruble N: rubles
+-rubric A:
+rubric N: rubrics
+ruby A: rubier  rubiest
+ruby N: rubies
+rucksack N: rucksacks
+ruckus N: ruckuses
+rudder N: rudders
+rudderless A:
+ruddiness N: ~ruddinesses
+ruddy A: ruddier  ruddiest
+rude A: ruder  rudest
+rudely A:
+rudeness N: ~rudenesses
+rudiment N: rudiments
+rudimentary A:
+rue N: ~rues
+rue V: rued  ruing  rues
+rueful A:
+ruefully A:
+ruefulness N: ~ruefulnesses
+ruff N: ruffs
+ruff V: ruffed  ruffing  ruffs
+ruffian N: ruffians
+ruffianly A:
+ruffle N: ruffles
+ruffle V: ruffled  ruffling  ruffles
+ruffly A: -rufflier  -ruffliest
+rug N: rugs
+rugby N: ~rugbies
+rugged A: ruggeder  ruggedest
+ruggedly A:
+ruggedness N: ~ruggednesses
+ruin N: ruins
+ruin V: ruined  ruining  ruins
+ruination N: ~ruinations
+ruinous A:
+ruinously A:
+rule N: rules
+rule V: ruled  ruling  rules
+ruler N: rulers
+ruling N: rulings
+rum A: rummer  rummest
+rum N: rums
+rumba N: rumbas
+rumba V: rumbaed  rumbaing  rumbas
+rumble N: rumbles
+rumble V: rumbled  rumbling  rumbles
+rumbling N: rumblings
+ruminant A:
+ruminant N: ruminants
+ruminate V: ruminated  ruminating  ruminates
+rumination N: ruminations
+ruminative A:
+rummage N: ~rummages
+rummage V: rummaged  rummaging  rummages
+-rummy A: rummier  rummiest
+rummy N: ~rummies
+rumor N: rumors
+rumor V: rumored  rumoring  rumors
+rumormonger N: rumormongers
+rumour N: rumours
+rumour V: rumoured  rumouring  rumours
+-rump A:
+rump N: rumps
+rumple N: rumples
+rumple V: rumpled  rumpling  rumples
+rumply A: -rumplier  -rumpliest
+rumpus N: rumpuses
+run N: runs
+run V: ran  run  running  runs
+runabout N: runabouts
+runaround N: runarounds
+runaway A:
+runaway N: runaways
+rundown N: rundowns
+rune N: runes
+rung N: rungs
+runic A:
+runlet N: runlets
+runnel N: runnels
+runner N: runners
+running N: ~runnings
+runny A: runnier  runniest
+runoff N: runoffs
+runt N: runts
+runty A: runtier  runtiest
+runway N: runways
+rupee N: rupees
+rupiah N: rupiahs (rupiah)
+rupture N: ruptures
+rupture V: ruptured  rupturing  ruptures
+rural A:
+-rural N: rurals
+ruse N: ruses
+rush A:
+rush N: rushes
+rush V: rushed  rushing  rushes
+rusher N: rushers
+rushy A: !rushier  !rushiest
+rusk N: rusks
+russet A:
+russet N: russets
+-rust A:
+rust N: ~rusts
+rust V: rusted  rusting  rusts
+rustic A:
+rustic N: rustics
+rustically A:
+rusticate V: rusticated  rusticating  rusticates
+rustication N: ~rustications
+rusticity N: ~rusticities
+rustiness N: ~rustinesses
+rustle N: rustles
+rustle V: rustled  rustling  rustles
+rustler N: rustlers
+rustproof A:
+rustproof V: rustproofed  rustproofing  rustproofs
+rusty A: rustier  rustiest
+rut N: ruts
+rut V: rutted  rutting  ruts
+rutabaga N: rutabagas
+ruthenium N: ~rutheniums
+rutherfordium N: ~rutherfordiums
+ruthless A:
+ruthlessly A:
+ruthlessness N: ~ruthlessnesses
+rutty A: ruttier  ruttiest
+rye N: ~ryes

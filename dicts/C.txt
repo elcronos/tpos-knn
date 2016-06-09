@@ -1,0 +1,4496 @@
+cab N: cabs
+cab V: cabbed  cabbing  cabs
+cabal N: cabals
+-cabal V: caballed  caballing  cabals
+cabala N: ~cabalas
+caballero N: caballeros
+cabana N: cabanas
+cabaret N: cabarets
+cabbage N: cabbages
+-cabbage V: cabbaged  cabbaging  cabbages
+cabbie N: cabbies
+cabby N: cabbies
+cabdriver N: cabdrivers
+cabin N: cabins
+-cabin V: cabined  cabining  cabins
+cabinet A:
+cabinet N: cabinets
+cabinetmaker N: cabinetmakers
+cabinetmaking N: ~cabinetmakings
+cabinetry N: ~cabinetries
+cabinetwork N: ~cabinetworks
+cable N: cables
+cable V: cabled  cabling  cables
+cablecast N: cablecasts
+cablecast V: cablecast (cablecasted)  cablecasting  cablecasts
+cablegram N: cablegrams
+cabochon A:
+cabochon N: cabochons
+caboodle N: ~caboodles
+caboose N: cabooses
+cabriolet N: cabriolets
+cabstand N: cabstands
+cacao N: cacaos
+cache N: caches
+cache V: cached  caching  caches
+cachepot N: cachepots
+cachet N: cachets
+cackle N: cackles
+cackle V: cackled  cackling  cackles
+cackler N: cacklers
+cacophonous A:
+cacophony N: cacophonies
+cactus N: cacti (cactuses cactus)
+cad N: cads
+cadaver N: cadavers
+cadaverous A:
+caddie N: caddies
+caddie V: caddied  caddying  caddies
+caddish A:
+caddishly A:
+caddishness N: ~caddishnesses
+caddy N: caddies
+caddy V: caddied  caddying  caddies
+cadence N: cadences
+-cadence V: cadenced  cadencing  cadences
+cadenced A:
+cadenza N: cadenzas
+cadet N: cadets
+-cadge N: cadges
+cadge V: cadged  cadging  cadges
+cadger N: cadgers
+cadmium N: ~cadmiums
+cadre N: cadres
+caduceus N: caducei
+caesarean A:
+caesarean N: caesareans
+caesarian A:
+caesarian N: caesarians
+caesura N: caesuras (caesurae)
+cafe N: cafes
+cafeteria N: cafeterias
+caffeine N: ~caffeines
+caftan N: caftans
+cage N: cages
+cage V: caged  caging  cages
+cagey A: cagier  cagiest
+cagily A:
+caginess N: ~caginesses
+cagy A: cagier  cagiest
+cahoot N: cahoots
+caiman N: caimans
+cairn N: cairns
+caisson N: caissons
+caitiff A:
+caitiff N: caitiffs
+cajole V: cajoled  cajoling  cajoles
+cajolement N: ~cajolements
+cajoler N: cajolers
+cajolery N: ~cajoleries
+cake N: cakes
+cake V: caked  caking  cakes
+cakewalk N: cakewalks
+-cakewalk V: cakewalked  cakewalking  cakewalks
+calabash N: calabashes
+calaboose N: calabooses
+calamari N: calamaris
+calamine N: ~calamines
+calamitous A:
+calamitously A:
+calamity N: calamities
+calcareous A:
+calciferous A:
+calcification N: ~calcifications
+calcify V: calcified  calcifying  calcifies
+calcimine N: ~calcimines
+calcimine V: calcimined  calcimining  calcimines
+calcine V: calcined  calcining  calcines
+calcite N: ~calcites
+calcium N: ~calciums
+calculable A:
+calculate V: calculated  calculating  calculates
+calculatedly A:
+calculatingly A:
+calculation N: calculations
+calculative A:
+calculator N: calculators
+calculus N: calculi (calculuses)
+caldera N: calderas
+caldron N: caldrons
+calendar A:
+calendar N: calendars
+calendar V: calendared  calendaring  calendars
+calender N: calenders
+calender V: calendered  calendering  calenders
+calf N {animal}: calves (calfs)
+calf N {leg}: calves
+calfskin N: ~calfskins
+caliber N: calibers
+calibrate V: calibrated  calibrating  calibrates
+calibration N: calibrations
+calibrator N: calibrators
+calibre N: calibres
+calico A:
+calico N: calicoes / calicos
+calif N: califs
+californium N: ~californiums
+caliper N: calipers
+caliper V: calipered  calipering  calipers
+caliph N: caliphs
+caliphate N: caliphates
+calisthenic A:
+calisthenics N:
+calk N: calks
+calk V: calked  calking  calks
+call N: calls
+call V: called  calling  calls
+calla N: callas
+callback N: callbacks
+-caller A:
+caller N: callers
+calligrapher N: calligraphers
+calligraphic A:
+calligraphist N: calligraphists
+calligraphy N: ~calligraphies
+calling N: callings
+calliope N: calliopes
+calliper N: callipers
+calliper V: callipered  callipering  callipers
+callisthenics N:
+callosity N: callosities
+callous A:
+callous V: calloused  callousing  callouses
+callously A:
+callousness N: ~callousnesses
+callow A: callower  callowest
+-callow N: callows
+callowness N: ~callownesses
+callus N: calluses
+callus V: callused  callusing  calluses
+calm A: calmer  calmest
+calm N: ~calms
+calm V: calmed  calming  calms
+calmly A:
+calmness N: ~calmnesses
+caloric A:
+-caloric N: calorics
+calorie N: calories
+calorific A:
+calumet N: calumets
+calumniate V: calumniated  calumniating  calumniates
+calumniation N: ~calumniations
+calumniator N: calumniators
+calumnious A:
+calumny N: calumnies
+calve V: calved  calving  calves
+calypso N: calypsos (-calypsoes)
+calyx N: calyxes (calyces)
+cam N: cams
+-cam V: cammed  camming  cams
+camaraderie N: ~camaraderies
+camber N: cambers
+camber V: cambered  cambering  cambers
+cambial A:
+cambium N: cambiums (cambia)
+cambric N: ~cambrics
+camcorder N: camcorders
+-came N: cames
+camel N: camels
+camelhair N: ~camelhairs
+camellia N: camellias
+cameo A:
+cameo N: cameos
+camera N: cameras | -camerae {chamber}
+cameraman N: cameramen
+camerawoman N: camerawomen
+camisole N: camisoles
+camomile N: camomiles
+camouflage N: ~camouflages
+camouflage V: camouflaged  camouflaging  camouflages
+camouflager N: camouflagers
+camp A: -camper  -campest
+camp N: camps
+camp V: camped  camping  camps
+campaign N: campaigns
+campaign V: campaigned  campaigning  campaigns
+campaigner N: campaigners
+campanile N: campaniles (campanili)
+campanologist N: campanologists
+campanology N: ~campanologies
+camper N: campers
+campfire N: campfires
+campground N: campgrounds
+camphor N: ~camphors
+camping N: ~campings
+campsite N: campsites
+campus A:
+campus N: campuses
+campy A: campier  campiest
+camshaft N: camshafts
+can N: cans
+can V {be able}: could  -  can (@canst)
+can V {preserve}: canned  canning  cans
+canal N: canals
+-canal V: canalled (canaled)  canalling (canaling)  canals
+canalization N: ~canalizations
+canalize V: canalized  canalizing  canalizes
+canape N: canapes
+canard N: canards
+-canary A:
+canary N: canaries
+canasta N: ~canastas
+cancan N: cancans
+-cancel N: cancels
+cancel V: canceled (cancelled)  canceling (cancelling)  cancels
+canceler N: cancelers
+cancellation N: cancellations
+canceller N: cancellers
+cancer N: cancers
+cancerous A:
+candelabra N: candelabras
+candelabrum N: candelabra (candelabrums)
+candid A: -candider  -candidest
+-candid N: candids
+candidacy N: candidacies
+candidate N: candidates
+-candidate V: candidated  candidating  candidates
+candidature N: candidatures
+candidly A:
+candidness N: ~candidnesses
+candle N: candles
+candle V: candled  candling  candles
+candlelight N: ~candlelights
+candlepower N: ~candlepowers
+candler N: candlers
+candlestick N: candlesticks
+candlewick N: candlewicks
+candor N: ~candors
+candour N: ~candours
+candy N: candies
+candy V: candied  candying  candies
+cane N: canes
+cane V: caned  caning  canes
+canebrake N: canebrakes
+caner N: caners
+canid N: canids canis
+canine A:
+canine N: canines
+canister N: canisters
+canker N: cankers
+canker V: cankered  cankering  cankers
+cankerous A:
+cannabis N: cannabises
+cannelloni N:
+cannery N: canneries
+cannibal A:
+cannibal N: cannibals
+cannibalism N: ~cannibalisms
+cannibalistic A:
+cannibalization N: ~cannibalizations
+cannibalize V: cannibalized  cannibalizing  cannibalizes
+cannily A:
+canniness N: ~canninesses
+cannon N: cannons (cannon)
+cannon V: cannoned  cannoning  cannons
+cannonade N: cannonades
+cannonade V: cannonaded  cannonading  cannonades
+-cannonball A:
+cannonball N: cannonballs
+cannot V:
+canny A: cannier  canniest
+canoe N: canoes
+canoe V: canoed  canoeing  canoes
+canoeist N: canoeists
+canola N: ~canolas
+canon N: canons
+canonical A:
+canonically A:
+canonization N: canonizations
+canonize V: canonized  canonizing  canonizes
+canopy N: canopies
+canopy V: canopied  canopying  canopies
+-cant A: -canter  -cantest
+cant N: cants
+cant V: canted  canting  cants
+cantabile A:
+cantaloup N: cantaloups
+cantaloupe N: cantaloupes
+cantankerous A:
+cantankerously A:
+cantankerousness N: ~cantankerousnesses
+cantata N: cantatas
+canteen N: canteens
+canter N: canters
+canter V: cantered  cantering  canters
+canticle N: canticles
+cantilever N: cantilevers
+cantilever V: cantilevered  cantilevering  cantilevers
+canto N: cantos
+canton N: cantons
+-canton V: cantoned  cantoning  cantons
+cantonal A:
+cantonment N: cantonments
+cantor N: cantors
+canvas N: canvases
+canvas V: canvased (canvassed)  canvasing (canvassing)  canvases
+canvasback N: canvasbacks | canvasback
+canvass N: canvasses
+canvass V: canvassed  canvassing  canvasses
+canvasser N: canvassers
+canyon N: canyons
+cap N: caps
+cap V: capped  capping  caps
+capability N: capabilities
+capable A: -capabler  -capablest
+capably A:
+capacious A:
+capaciously A:
+capaciousness N: ~capaciousnesses
+capacitance N: ~capacitances
+capacitor N: capacitors
+capacity A:
+capacity N: capacities
+caparison N: caparisons
+caparison V: caparisoned  caparisoning  caparisons
+cape N: capes
+-cape V: caped  caping  capes
+caped A:
+caper N: capers
+caper V: capered  capering  capers
+capeskin N: ~capeskins
+capillarity N: ~capillarities
+capillary A:
+capillary N: capillaries
+capital A:
+capital N: capitals
+capitalism N: ~capitalisms
+capitalist A:
+capitalist N: capitalists
+capitalistic A:
+capitalistically A:
+capitalization N: ~capitalizations
+capitalize V: capitalized  capitalizing  capitalizes
+capitally A:
+capitation N: capitations
+capitol N: capitols
+capitulate V: capitulated  capitulating  capitulates
+capitulation N: capitulations
+caplet N: caplets
+capo N: capos
+capon N: capons
+cappuccino N: cappuccinos
+caprice N: caprices
+capricious A:
+capriciously A:
+capriciousness N: ~capriciousnesses
+capsicum N: capsicums
+capsize V: capsized  capsizing  capsizes
+capstan N: capstans
+capstone N: capstones
+capsular A:
+capsule A:
+capsule N: capsules
+capsule V: capsuled  capsuling  capsules
+capsulize V: capsulized  capsulizing  capsulizes
+captain N: captains
+captain V: captained  captaining  captains
+captaincy N: captaincies
+caption N: captions
+caption V: captioned  captioning  captions
+captious A:
+captiously A:
+captiousness N: ~captiousnesses
+captivate V: captivated  captivating  captivates
+captivation N: ~captivations
+captivator N: captivators
+captive A:
+captive N: captives
+captivity N: captivities
+captor N: captors
+capture N: captures
+capture V: captured  capturing  captures
+-car A:
+car N: cars
+caracul N: ~caraculs
+carafe N: carafes
+caramel N: caramels
+caramelize V: caramelized  caramelizing  caramelizes
+carapace N: carapaces
+carat N: carats
+caravan N: caravans
+-caravan V: caravaned (caravanned)  caravaning (caravanning)  caravans
+caravansary N: caravansaries
+caravanserai N: caravanserais (caravanserai)
+caravel N: caravels
+caraway N: caraways
+carbide N: carbides
+carbine N: carbines
+carbohydrate N: carbohydrates
+carbon A:
+carbon N: carbons
+carbonaceous A:
+carbonate N: carbonates
+carbonate V: carbonated  carbonating  carbonates
+carbonation N: ~carbonations
+carboniferous A:
+carbonize V: carbonized  carbonizing  carbonizes
+carborundum N: ~carborundums
+carboy N: carboys
+carbuncle N: carbuncles
+carbuncular A:
+carburetor N: carburetors
+carburetter N: carburetters
+carburettor N: carburettors
+carcass N: carcasses
+-carcass V: carcassed  carcassing  carcasses
+carcinogen N: carcinogens
+carcinogenic A:
+carcinogenic N: carcinogenics
+carcinogenicity N: ~carcinogenicities
+carcinoma N: carcinomas (carcinomata)
+card N: cards
+card V: carded  carding  cards
+cardamom N: cardamoms
+cardboard A:
+cardboard N: ~cardboards
+carder N: carders
+cardiac A:
+-cardiac N: cardiacs
+cardigan N: cardigans
+cardinal A:
+cardinal N: cardinals
+cardinally A:
+cardiogram N: cardiograms
+cardiograph N: cardiographs
+cardiologist N: cardiologists
+cardiology N: ~cardiologies
+cardiopulmonary A:
+cardiovascular A:
+cardsharp N: cardsharps
+cardsharper N: cardsharpers
+care N: cares
+care V: cared  caring  cares
+-careen N: careens
+careen V: careened  careening  careens
+career A:
+career N: careers
+career V: careered  careering  careers
+careerist A:
+careerist N: careerists
+carefree A:
+careful A: carefuller  carefullest
+carefully A:
+carefulness N: ~carefulnesses
+caregiver N: caregivers
+careless A:
+carelessly A:
+carelessness N: ~carelessnesses
+carer N: carers
+caress N: caresses
+caress V: caressed  caressing  caresses
+caret N: carets
+caretaker A:
+caretaker N: caretakers
+careworn A:
+carfare N: ~carfares
+cargo N: cargoes (cargos)
+carhop N: carhops
+-carhop V: carhopped  carhopping  carhops
+caribou N: caribou | caribous
+caricature N: caricatures
+caricature V: caricatured  caricaturing  caricatures
+caricaturist N: caricaturists
+caries N:
+carillon N: carillons
+caring N: ~carings
+carious A:
+carjack V: carjacked  carjacking  carjacks
+carjacker N: carjackers
+carjacking N: carjackings
+carload N: carloads
+carmine A:
+carmine N: ~carmines
+carnage N: ~carnages
+carnal A:
+carnality N: ~carnalities
+carnally A:
+carnation A:
+carnation N: carnations
+carnelian N: carnelians
+carney N: carneys
+carnival N: carnivals
+carnivore N: carnivores
+carnivorous A:
+carnivorously A:
+carnivorousness N: ~carnivorousnesses
+-carny A: carnier  carniest
+carny N: carnies
+-carny V: carnied  carnying  carnies
+carob N: ~carobs
+carol N: carols
+carol V: caroled (carolled)  caroling (carolling)  carols
+caroler N: carolers
+caroller N: carollers
+carom N: caroms
+carom V: caromed  caroming  caroms
+carotene N: ~carotenes
+carotid A:
+carotid N: carotids
+carousal N: carousals
+carouse N: carouses
+carouse V: caroused  carousing  carouses
+carousel N: carousels
+carouser N: carousers
+carp N: carp | carps
+carp V: carped  carping  carps
+carpal A:
+carpal N: carpals
+carpel N: carpels
+carpenter N: carpenters
+carpenter V: carpentered  carpentering  carpenters
+carpentry N: ~carpentries
+carper N: carpers
+carpet N: carpets
+carpet V: carpeted  carpeting  carpets
+carpetbag N: carpetbags
+carpetbag V: carpetbagged  carpetbagging  carpetbags
+carpetbagger N: carpetbaggers
+carpeting N: ~carpetings
+carpool N: carpools
+carpool V: carpooled  carpooling  carpools
+carport N: carports
+carpus N: carpi
+carrel N: carrels
+carrell N: carrells
+carriage N: carriages
+carrier N: carriers
+carrion N: ~carrions
+carrot N: carrots
+carroty A: -carrotier  -carrotiest
+carrousel N: carrousels
+carry N: carries
+carry V: carried  carrying  carries
+carryall N: carryalls
+carryout A:
+carryover N: carryovers
+carsick A:
+carsickness N: ~carsicknesses
+cart N: carts
+cart V: carted  carting  carts
+cartage N: ~cartages
+cartel N: cartels
+carter N: carters
+carthorse N: carthorses
+cartilage N: cartilages
+cartilaginous A:
+cartload N: cartloads
+cartographer N: cartographers
+cartographic A:
+cartography N: ~cartographies
+carton N: cartons
+-carton V: cartoned  cartoning  cartons
+cartoon N: cartoons
+cartoon V: cartooned  cartooning  cartoons
+cartoonist N: cartoonists
+cartridge N: cartridges
+cartwheel N: cartwheels
+cartwheel V: cartwheeled  cartwheeling  cartwheels
+carve V: carved  carving  carves
+carver N: carvers
+carving N: carvings
+caryatid N: caryatids (caryatides)
+casaba N: casabas
+cascade N: cascades
+cascade V: cascaded  cascading  cascades
+cascara N: cascaras
+case N: cases
+case V: cased  casing  cases
+caseharden V: casehardened  casehardening  casehardens
+casein N: ~caseins
+caseload N: caseloads
+casement N: casements
+casework N: ~caseworks
+caseworker N: caseworkers
+cash A:
+cash N: ~cashes
+cash V: cashed  cashing  cashes
+cashbook N: cashbooks
+cashew N: cashews
+cashier N: cashiers
+cashier V: cashiered  cashiering  cashiers
+cashless A:
+cashmere N: ~cashmeres
+casing N: casings
+casino N: casinos
+cask N: casks
+-cask V: casked  casking  casks
+casket N: caskets
+-casket V: casketed  casketing  caskets
+cassava N: cassavas
+casserole N: casseroles
+casserole V: casseroled  casseroling  casseroles
+cassette N: cassettes
+cassia N: cassias
+cassino N: ~cassinos
+cassock N: cassocks
+cassowary N: cassowaries
+cast N: casts
+cast V: cast  casting  casts
+castanet N: castanets
+castaway A:
+castaway N: castaways
+caste N: castes
+castellated A:
+caster N: casters
+castigate V: castigated  castigating  castigates
+castigation N: ~castigations
+castigator N: castigators
+casting N: castings
+castle N: castles
+castle V: castled  castling  castles
+castoff A:
+castoff N: castoffs
+castor N: castors
+-castrate N: castrates
+castrate V: castrated  castrating  castrates
+castration N: castrations
+casual A:
+casual N: casuals
+casually A:
+casualness N: ~casualnesses
+casualty N: casualties
+casuist N: casuists
+casuistic A:
+casuistry N: ~casuistries
+cat N: cats
+-cat V: catted  catting  cats
+cataclysm N: cataclysms
+cataclysmal A:
+cataclysmic A:
+catacomb N: catacombs
+catafalque N: catafalques
+catalepsy N: ~catalepsies
+cataleptic A:
+cataleptic N: cataleptics
+catalog N: catalogs
+catalog V: cataloged  cataloging  catalogs
+cataloger N: catalogers
+catalogue N: catalogues
+catalogue V: catalogued  cataloguing  catalogues
+cataloguer N: cataloguers
+catalpa N: catalpas
+catalysis N: ~catalyses
+catalyst N: catalysts
+catalytic A:
+catalytic N: catalytics
+catalyze V: catalyzed  catalyzing  catalyzes
+catamaran N: catamarans
+catapult N: catapults
+catapult V: catapulted  catapulting  catapults
+cataract N: cataracts
+catarrh N: ~catarrhs
+catastrophe N: catastrophes
+catastrophic A:
+catastrophically A:
+catatonia N: ~catatonias
+catatonic A:
+catatonic N: catatonics
+catbird N: catbirds
+catboat N: catboats
+catcall N: catcalls
+catcall V: catcalled  catcalling  catcalls
+catch N: catches
+catch V: caught  catching  catches
+catchall A:
+catchall N: catchalls
+catcher N: catchers
+catchment N: catchments
+catchpenny A:
+-catchpenny N: catchpennies
+catchphrase N: catchphrases
+catchup N: ~catchups
+catchword N: catchwords
+catchy A: catchier  catchiest
+catechism N: catechisms
+catechist N: catechists
+catechize V: catechized  catechizing  catechizes
+categorical A:
+categorically A:
+categorization N: categorizations
+categorize V: categorized  categorizing  categorizes
+category N: categories
+cater V: catered  catering  caters
+catercorner A:
+caterer N: caterers
+caterpillar N: caterpillars
+caterwaul N: caterwauls
+caterwaul V: caterwauled  caterwauling  caterwauls
+catfish N: catfish | catfishes
+catgut N: ~catguts
+catharsis N: catharses
+cathartic A:
+cathartic N: cathartics
+-cathedral A:
+cathedral N: cathedrals
+catheter N: catheters
+catheterize V: catheterized  catheterizing  catheterizes
+cathode N: cathodes
+cathodic A:
+catholic A:
+catholicity N: ~catholicities
+cation N: cations
+catkin N: catkins
+catlike A:
+catnap N: catnaps
+catnap V: catnapped  catnapping  catnaps
+catnip N: ~catnips
+catsup N: ~catsups
+cattail N: cattails
+cattily A:
+cattiness N: ~cattinesses
+cattle N:
+cattleman N: cattlemen
+catty A: cattier  cattiest
+-catty N: catties
+catwalk N: catwalks
+caucus N: caucuses
+caucus V: caucused (caucussed)  caucusing (caucussing)  caucuses
+caudal A:
+caudally A:
+cauldron N: cauldrons
+cauliflower N: cauliflowers
+caulk N: ~caulks
+caulk V: caulked  caulking  caulks
+caulker N: caulkers
+caulking N: ~caulkings
+causal A:
+causality N: causalities
+causally A:
+causation N: ~causations
+causative A:
+-causative N: causatives
+cause N: causes
+cause V: caused  causing  causes
+causeless A:
+causer N: causers
+causerie N: causeries
+causeway N: causeways
+-causeway V: causewayed  causewaying  causeways
+caustic A:
+caustic N: caustics
+caustically A:
+causticity N: ~causticities
+cauterization N: ~cauterizations
+cauterize V: cauterized  cauterizing  cauterizes
+caution N: cautions
+caution V: cautioned  cautioning  cautions
+cautionary A:
+cautious A:
+cautiously A:
+cautiousness N: ~cautiousnesses
+cavalcade N: cavalcades
+cavalier A:
+cavalier N: cavaliers
+-cavalier V: cavaliered  cavaliering  cavaliers
+cavalierly A:
+cavalry N: cavalries
+cavalryman N: cavalrymen
+cave N: caves
+cave V: caved  caving  caves
+caveat N: caveats
+caveman N: cavemen
+cavern N: caverns
+-cavern V: caverned  caverning  caverns
+cavernous A:
+cavernously A:
+caviar N: ~caviars
+caviare N: ~caviares
+cavil N: cavils
+cavil V: caviled (cavilled)  caviling (cavilling)  cavils
+caviler N: cavilers
+caviller N: cavillers
+caving N: ~cavings
+cavity N: cavities
+cavort V: cavorted  cavorting  cavorts
+caw N: caws
+caw V: cawed  cawing  caws
+cay N: cays
+cayenne N: ~cayennes
+cayman N: caymans
+cayuse N: cayuses
+cease N: ~ceases
+cease V: ceased  ceasing  ceases
+ceasefire N: ceasefires
+ceaseless A:
+ceaselessly A:
+ceaselessness N: ~ceaselessnesses
+cecal A:
+cecum N: ceca
+cedar A:
+cedar N: cedars
+cede V: ceded  ceding  cedes
+ceder N: ceders
+cedilla N: cedillas
+ceiling N: ceilings
+celandine N: ~celandines
+celebrant N: celebrants
+celebrate V: celebrated  celebrating  celebrates
+celebration N: celebrations
+celebrator N: celebrators
+celebratory A:
+celebrity N: celebrities
+celerity N: ~celerities
+celery N: ~celeries
+celesta N: celestas
+celestial A:
+-celestial N: celestials
+celestially A:
+celibacy N: ~celibacies
+celibate A:
+celibate N: celibates
+cell N: cells
+cellar N: cellars
+-cellar V: cellared  cellaring  cellars
+celled A:
+cellist N: cellists
+cellmate N: cellmates
+cello N: cellos (celli)
+cellophane N: ~cellophanes
+cellphone N: cellphones
+cellular A:
+cellulite N: ~cellulites
+celluloid A:
+celluloid N: ~celluloids
+cellulose N: ~celluloses
+cement N: ~cements
+cement V: cemented  cementing  cements
+cementer N: cementers
+cementum N: ~cementa / ~cementums
+cemetery N: cemeteries
+cenobite N: cenobites
+cenobitic A:
+cenotaph N: cenotaphs
+censer N: censers
+censor N: censors
+censor V: censored  censoring  censors
+censorial A:
+censorious A:
+censoriously A:
+censoriousness N: ~censoriousnesses
+censorship N: ~censorships
+censurable A:
+censure N: censures
+censure V: censured  censuring  censures
+censurer N: censurers
+census N: censuses
+census V: censused  censusing  censuses
+cent N: cents
+centaur N: centaurs
+centavo N: centavos
+centenarian A:
+centenarian N: centenarians
+centenary A:
+centenary N: centenaries
+centennial A:
+centennial N: centennials
+centennially A:
+center N: centers
+center V: centered  centering  centers
+centerboard N: centerboards
+centerfold N: centerfolds
+centerpiece N: centerpieces
+centigrade A:
+centigram N: centigrams
+centigramme N: centigrammes
+centiliter N: centiliters
+centime N: centimes
+centimeter N: centimeters
+centimetre N: centimetres
+centipede N: centipedes
+central A: -centraler  -centralest
+central N: centrals
+centrality N: ~centralities
+centralization N: ~centralizations
+centralize V: centralized  centralizing  centralizes
+centralizer N: centralizers
+centrally A:
+centre N: centres
+centre V: centred  centring  centres
+centrifugal A:
+-centrifugal N: centrifugals
+centrifugally A:
+centrifuge N: centrifuges
+centrifuge V: centrifuged  centrifuging  centrifuges
+centripetal A:
+centripetally A:
+centrism N: ~centrisms
+centrist A:
+centrist N: centrists
+centurion N: centurions
+century N: centuries
+cephalic A:
+ceramic A:
+ceramic N: ~ceramics
+ceramicist N: ceramicists
+ceramics N:
+ceramist N: ceramists
+cereal A:
+cereal N: cereals
+cerebellar A:
+cerebellum N: cerebellums (cerebella)
+cerebral A:
+-cerebral N: cerebrals
+cerebrate V: cerebrated  cerebrating  cerebrates
+cerebration N: ~cerebrations
+cerebrum N: cerebrums / cerebra
+cerement N: cerements
+ceremonial A:
+ceremonial N: ceremonials
+ceremonially A:
+ceremonious A:
+ceremoniously A:
+ceremoniousness N: ~ceremoniousnesses
+ceremony N: ceremonies
+cerise A:
+cerise N: ~cerises
+cerium N: ~ceriums
+cermet N: ~cermets
+certain A: -certainer  -certainest
+certain P:
+certainly A:
+certainty N: certainties
+certifiable A:
+certifiably A:
+certificate N: certificates
+certificate V: certificated  certificating  certificates
+certification N: certifications
+certify V: certified  certifying  certifies
+certitude N: ~certitudes
+cerulean A:
+cerulean N: ~ceruleans
+cervical A:
+cervix N: cervices (cervixes)
+cesarean A:
+cesarean N: cesareans
+cesium N: ~cesiums
+cessation N: cessations
+cession N: cessions
+cesspool N: cesspools
+cetacean A:
+cetacean N: cetaceans
+-chafe N: chafes
+chafe V: chafed  chafing  chafes
+chaff N: ~chaffs
+chaff V: chaffed  chaffing  chaffs
+chaffinch N: chaffinches
+chagrin N: ~chagrins
+chagrin V: chagrined (chagrinned)  chagrining (chagrinning)  chagrins
+chain N: chains
+chain V: chained  chaining  chains
+chainsaw N: chainsaws
+chainsaw V: chainsawed  chainsawing  chainsaws
+chair N: chairs
+chair V: chaired  chairing  chairs
+chairlift N: chairlifts
+chairman N: chairmen
+-chairman V: chairmaned (chairmanned)  chairmaning (chairmanning)  chairmans
+chairmanship N: ~chairmanships
+chairperson N: chairpersons
+chairwoman N: chairwomen
+chaise N: chaises
+chalcedony N: ~chalcedonies
+chalet N: chalets
+chalice N: chalices
+chalk A:
+chalk N: chalks
+chalk V: chalked  chalking  chalks
+chalkboard N: chalkboards
+chalkiness N: ~chalkinesses
+chalky A: chalkier  chalkiest
+challenge N: challenges
+challenge V: challenged  challenging  challenges
+challenger N: challengers
+challis N: ~challises
+chamber A:
+chamber N: chambers
+-chamber V: chambered  chambering  chambers
+chambered A:
+chamberlain N: chamberlains
+chambermaid N: chambermaids
+chambray N: ~chambrays
+chameleon N: chameleons
+chammy N: chammies
+-chammy V: chammied  chammying  chammies
+chamois N: chamois (chamoix)
+-chamois V: chamoised  chamoising  chamoises
+chamomile N: chamomiles
+champ N: champs
+champ V: champed  champing  champs
+champagne N: champagnes
+champion A:
+champion N: champions
+champion V: championed  championing  champions
+championship N: championships
+chance A:
+chance N: chances
+chance V: chanced  chancing  chances
+chancel N: chancels
+chancellery N: chancelleries
+chancellor N: chancellors
+chancellorship N: ~chancellorships
+chancery N: chanceries
+chanciness N: ~chancinesses
+chancre N: chancres
+chancy A: chancier  chanciest
+chandelier N: chandeliers
+chandler N: chandlers
+change N: changes
+change V: changed  changing  changes
+changeability N: ~changeabilities
+changeable A:
+changeableness N: ~changeablenesses
+changeably A:
+changeless A:
+changelessly A:
+changeling N: changelings
+changeover N: changeovers
+changer N: changers
+channel N: channels
+channel V: channeled (channelled)  channeling (channelling)  channels
+channelization N: ~channelizations
+channelize V: channelized  channelizing  channelizes
+chanson N: chansons
+chant N: chants
+chant V: chanted  chanting  chants
+chanter N: chanters
+chanteuse N: chanteuses
+chantey N: chanteys
+chanticleer N: chanticleers
+chanty N: chanties
+chaos N: ~chaoses
+chaotic A:
+chaotically A:
+chap N: chaps
+chap V: chapped (chapt)  chapping  chaps
+chaparral N: chaparrals
+chapbook N: chapbooks
+chapeau N: chapeaus / chapeaux
+chapel A:
+chapel N: chapels
+-chapel V: chapeled (chapelled)  chapeling (chapelling)  chapels
+chaperon N: chaperons
+chaperon V: chaperoned  chaperoning  chaperons
+chaperonage N: ~chaperonages
+chaperone N: chaperones
+chaperone V: chaperoned  chaperoning  chaperones
+chaplain N: chaplains
+chaplaincy N: chaplaincies
+chaplet N: chaplets
+chapter N: chapters
+-chapter V: chaptered  chaptering  chapters
+char N {charwoman}: chars
+char N {fish}: char | chars
+char V: charred  charring  chars
+charabanc N: charabancs
+character A:
+character N: characters
+-character V: charactered  charactering  characters
+characteristic A:
+characteristic N: characteristics
+characteristically A:
+characterization N: characterizations
+characterize V: characterized  characterizing  characterizes
+characterless A:
+charade N: charades
+charbroil V: charbroiled  charbroiling  charbroils
+charcoal N: charcoals
+-charcoal V: charcoaled  charcoaling  charcoals
+chard N: ~chards
+chardonnay N: chardonnays
+charge N: charges
+charge V: charged  charging  charges
+chargeable A:
+charger N: chargers
+charily A:
+chariness N: ~charinesses
+chariot N: chariots
+-chariot V: charioted  charioting  chariots
+charioteer N: charioteers
+charisma N: ~charismata (~charismas)
+charismatic A:
+charismatic N: charismatics
+charitable A:
+charitableness N: ~charitablenesses
+charitably A:
+charity N: charities
+charlatan N: charlatans
+charlatanism N: ~charlatanisms
+charlatanry N: ~charlatanries
+charm N: charms
+charm V: charmed  charming  charms
+charmer N: charmers
+charming A: -charminger  -charmingest
+charmingly A:
+chart N: charts
+chart V: charted  charting  charts
+charter A:
+charter N: charters
+charter V: chartered  chartering  charters
+charterer N: charterers
+-chartreuse A:
+chartreuse N: ~chartreuses
+charwoman N: charwomen
+chary A: charier  chariest
+chase N: chases
+chase V: chased  chasing  chases
+chaser N: chasers
+chasm N: chasms
+chassis N: chassis
+chaste A: chaster  chastest
+chastely A:
+chasten V: chastened  chastening  chastens
+chasteness N: ~chastenesses
+chastise V: chastised  chastising  chastises
+chastisement N: chastisements
+chastiser N: chastisers
+chastity N: ~chastities
+chasuble N: chasubles
+chat N: chats
+chat V: chatted  chatting  chats
+chateau N: chateaux / chateaus
+chatelaine N: chatelaines
+chattel N: chattels
+chatter N: ~chatters
+chatter V: chattered  chattering  chatters
+chatterbox N: chatterboxes
+chatterer N: chatterers
+chattily A:
+chattiness N: ~chattinesses
+chatty A: chattier  chattiest
+chauffeur N: chauffeurs
+chauffeur V: chauffeured  chauffeuring  chauffeurs
+chauvinism N: ~chauvinisms
+chauvinist A:
+chauvinist N: chauvinists
+chauvinistic A:
+chauvinistically A:
+cheap A: cheaper  cheapest
+-cheap N: cheaps
+cheapen V: cheapened  cheapening  cheapens
+cheaply A:
+cheapness N: ~cheapnesses
+cheapskate N: cheapskates
+cheat N: cheats
+cheat V: cheated  cheating  cheats
+cheater N: cheaters
+check A:
+check I:
+check N: checks
+check V: checked  checking  checks
+checkbook N: checkbooks
+checker N: checkers
+checker V: checkered  checkering  checkers
+checkerboard N: checkerboards
+-checkerboard V: checkerboarded  checkerboarding  checkerboards
+checkers N:
+checklist N: checklists
+checkmate I:
+checkmate N: checkmates
+checkmate V: checkmated  checkmating  checkmates
+checkoff N: checkoffs
+checkout N: checkouts
+checkpoint N: checkpoints
+checkroom N: checkrooms
+checkup N: checkups
+cheddar N: ~cheddars
+cheek N: cheeks
+cheek V: cheeked  cheeking  cheeks
+cheekbone N: cheekbones
+cheekily A:
+cheekiness N: ~cheekinesses
+cheeky A: cheekier  cheekiest
+cheep N: cheeps
+cheep V: cheeped  cheeping  cheeps
+cheer N: cheers
+cheer V: cheered  cheering  cheers
+cheerer N: cheerers
+cheerful A: cheerfuller  cheerfullest
+cheerfully A:
+cheerfulness N: ~cheerfulnesses
+cheerily A:
+cheeriness N: ~cheerinesses
+cheerio I:
+cheerio N: cheerios
+cheerleader N: cheerleaders
+cheerless A:
+cheerlessly A:
+cheerlessness N: ~cheerlessnesses
+cheers I:
+cheery A: cheerier  cheeriest
+cheese N: cheeses
+cheeseburger N: cheeseburgers
+cheesecake N: cheesecakes
+cheesecloth N: ~cheesecloths
+cheeseparing A:
+cheeseparing N: ~cheeseparings
+cheesiness N: ~cheesinesses
+cheesy A: cheesier  cheesiest
+cheetah N: cheetahs
+chef N: chefs
+chemical A:
+chemical N: chemicals
+chemically A:
+chemise N: chemises
+chemist N: chemists
+chemistry N: ~chemistries
+chemo N: ~chemos
+chemotherapeutic A:
+chemotherapy N: ~chemotherapies
+chemurgy N: ~chemurgies
+chenille N: ~chenilles
+cheque N: cheques
+cherish V: cherished  cherishing  cherishes
+cheroot N: cheroots
+cherry A: -cherrier  -cherriest
+cherry N: cherries
+chert N: ~cherts
+cherub N: cherubs | cherubim (cherubims) {angel}
+cherubic A:
+chervil N: ~chervils
+chess N: ~chesses
+chessboard N: chessboards
+chessman N: chessmen
+chest N: chests
+chested A:
+chesterfield N: chesterfields
+chestful N: chestfuls
+chestnut A:
+chestnut N: chestnuts
+chesty A: chestier  chestiest
+chevalier N: chevaliers
+cheviot N: ~cheviots
+chevron N: chevrons
+chew N: chews
+chew V: chewed  chewing  chews
+chewer N: chewers
+chewiness N: ~chewinesses
+chewy A: chewier  chewiest
+chi N: chis
+chiaroscuro N: ~chiaroscuros
+chic A: chicer  chicest
+chic N: ~chics
+chicane N: chicanes
+-chicane V: chicaned  chicaning  chicanes
+chicanery N: chicaneries
+chichi A: -chichier  -chichiest
+chichi N: chichis
+chick N: chicks
+chickadee N: chickadees
+chicken A:
+chicken N: chickens
+chicken V: chickened  chickening  chickens
+chickenfeed N: ~chickenfeeds
+chickenhearted A:
+chickenpox N: ~chickenpoxes
+chickpea N: chickpeas
+chickweed N: ~chickweeds
+chicle N: ~chicles
+chicness N: ~chicnesses
+chicory N: chicories
+chide V: chided (chid)  chided (chid chidden)  chiding  chides
+chidingly A:
+chief A: chiefer  chiefest
+chief N: chiefs
+chiefdom N: ~chiefdoms
+chiefly A:
+chieftain N: chieftains
+chieftainship N: chieftainships
+chiffon A:
+chiffon N: ~chiffons
+chiffonier N: chiffoniers
+chigger N: chiggers
+chignon N: chignons
+chihuahua N: chihuahuas
+chilblain N: chilblains
+child N: children
+childbearing A:
+childbearing N: ~childbearings
+childbirth N: childbirths
+childcare N: ~childcares
+childhood N: childhoods
+childish A:
+childishly A:
+childishness N: ~childishnesses
+childless A:
+childlessness N: ~childlessnesses
+childlike A:
+childproof A:
+childproof V: childproofed  childproofing  childproofs
+chile N: chiles
+chili N: chilies (-chilis)
+chill A: chiller  chillest
+chill N: chills
+chill V: chilled  chilling  chills
+chiller N: chillers
+chilli N: chillies
+chilliness N: ~chillinesses
+chillingly A:
+chillness N: ~chillnesses
+chilly A: chillier  chilliest
+chimaera N: chimaeras
+chime N: chimes
+chime V: chimed  chiming  chimes
+chimer N: chimers
+chimera N: chimeras
+chimeric A:
+chimerical A:
+chimney N: chimneys
+-chimney V: chimneyed  chimneying  chimneys
+chimp N: chimps
+chimpanzee N: chimpanzees
+chin N: chins
+chin V: chinned  chinning  chins
+china A:
+china N: ~chinas
+chinaware N: ~chinawares
+chinchilla N: chinchillas
+chine N: chines
+-chine V: chined  chining  chines
+chink N: chinks
+chink V: chinked  chinking  chinks
+chino N: chinos
+chinstrap N: chinstraps
+chintz N: ~chintzes
+chintzy A: chintzier  chintziest
+chip N: chips
+chip V: chipped  chipping  chips
+chipmunk N: chipmunks
+chipper A:
+chipper N: chippers
+-chipper V: chippered  chippering  chippers
+chirography N: ~chirographies
+chiropodist N: chiropodists
+chiropody N: ~chiropodies
+chiropractic N: chiropractics
+chiropractor N: chiropractors
+chirp N: chirps
+chirp V: chirped  chirping  chirps
+chirpy A: chirpier  chirpiest
+chirrup N: chirrups
+chirrup V: chirruped (chirrupped)  chirruping (chirrupping)  chirrups
+chisel N: chisels
+chisel V: chiseled (chiselled)  chiseling (chiselling)  chisels
+chiseler N: chiselers
+chiseller N: chisellers
+chit N: chits
+chitchat N: ~chitchats
+chitchat V: chitchatted  chitchatting  chitchats
+chitin N: ~chitins
+chitinous A:
+chitlings N:
+chitlins N:
+chitterlings N:
+chivalrous A:
+chivalrously A:
+chivalrousness N: ~chivalrousnesses
+chivalry N: ~chivalries
+chive N: chives
+chlamydia N: chlamydiae / chlamydias
+chloral N: ~chlorals
+chlordane N: ~chlordanes
+chloride N: chlorides
+chlorinate V: chlorinated  chlorinating  chlorinates
+chlorination N: ~chlorinations
+chlorine N: ~chlorines
+chlorofluorocarbon N: chlorofluorocarbons
+chloroform N: ~chloroforms
+chloroform V: chloroformed  chloroforming  chloroforms
+chlorophyl N: ~chlorophyls
+chlorophyll N: ~chlorophylls
+chloroplast N: chloroplasts
+chocaholic N: chocaholics
+chock A:
+chock N: chocks
+chock V: chocked  chocking  chocks
+chockablock A:
+chocoholic N: chocoholics
+chocolate A:
+chocolate N: chocolates
+chocolatey A:
+chocolaty A:
+choice A: choicer  choicest
+choice N: choices
+choir N: choirs
+-choir V: choired  choiring  choirs
+choirboy N: choirboys
+choirmaster N: choirmasters
+choke N: chokes
+choke V: choked  choking  chokes
+chokecherry N: chokecherries
+choker N: chokers
+choler N: ~cholers
+cholera N: ~choleras
+choleric A:
+cholesterol N: ~cholesterols
+chomp N: chomps
+chomp V: chomped  chomping  chomps
+choose V: chose  chosen  choosing  chooses
+chooser N: choosers
+choosey A: choosier  choosiest
+choosiness N: ~choosinesses
+choosy A: choosier  choosiest
+chop N: chops
+chop V: chopped  chopping  chops
+chophouse N: chophouses
+chopper N: choppers
+chopper V: choppered  choppering  choppers
+choppily A:
+choppiness N: ~choppinesses
+choppy A: choppier  choppiest
+chopstick N: chopsticks
+choral A:
+choral N: chorals
+chorale N: chorales
+chorally A:
+chord N: chords
+-chord V: chorded  chording  chords
+chordal A:
+chordate A:
+chordate N: chordates
+chore N: chores
+chorea N: ~choreas
+choreograph V: choreographed  choreographing  choreographs
+choreographer N: choreographers
+choreographic A:
+choreographically A:
+choreography N: ~choreographies
+chorister N: choristers
+-choroid A:
+choroid N: choroids
+chortle N: chortles
+chortle V: chortled  chortling  chortles
+chortler N: chortlers
+chorus N: choruses
+chorus V: chorused (chorussed)  chorusing (chorussing)  choruses
+-chose N: choses
+chow N: chows
+chow V: chowed  chowing  chows
+chowder N: chowders
+chrism N: ~chrisms
+christen V: christened  christening  christens
+christening N: christenings
+chromatic A:
+chromatically A:
+chromatin N: ~chromatins
+chrome A:
+chrome N: ~chromes
+chrome V: chromed  chroming  chromes
+chromium N: ~chromiums
+chromosomal A:
+chromosome N: chromosomes
+chronic A:
+chronically A:
+chronicle N: chronicles
+chronicle V: chronicled  chronicling  chronicles
+chronicler N: chroniclers
+chronograph N: chronographs
+chronological A:
+chronologically A:
+chronologist N: chronologists
+chronology N: chronologies
+chronometer N: chronometers
+chrysalis N: chrysalises (chrysalides)
+chrysanthemum N: chrysanthemums
+chub N: chub | chubs
+chubbiness N: ~chubbinesses
+chubby A: chubbier  chubbiest
+chuck N: chucks
+chuck V: chucked  chucking  chucks
+chuckhole N: chuckholes
+chuckle N: chuckles
+chuckle V: chuckled  chuckling  chuckles
+chug N: chugs
+chug V: chugged  chugging  chugs
+chukka N: chukkas
+chum N: chums
+chum V: chummed  chumming  chums
+chummily A:
+chumminess N: ~chumminesses
+chummy A: chummier  chummiest
+chump N: chumps
+-chump V: chumped  chumping  chumps
+chunk N: chunks
+-chunk V: chunked  chunking  chunks
+chunkiness N: ~chunkinesses
+chunky A: chunkier  chunkiest
+church N: churches
+-church V: churched  churching  churches
+churchgoer N: churchgoers
+churchgoing A:
+churchgoing N: ~churchgoings
+churchman N: churchmen
+churchwarden N: churchwardens
+churchyard N: churchyards
+churl N: churls
+churlish A:
+churlishly A:
+churlishness N: ~churlishnesses
+churn N: churns
+churn V: churned  churning  churns
+churner N: churners
+chute N: chutes
+-chute V: chuted  chuting  chutes
+chutney N: ~chutneys
+chutzpa N: ~chutzpas
+chutzpah N: ~chutzpahs
+chyme N: ~chymes
+ciao I:
+cicada N: cicadas (cicadae)
+cicatrice N: cicatrices
+cicatrix N: cicatrices (cicatrixes)
+cicerone N: ciceroni / cicerones
+cider N: ciders
+cigar N: cigars
+cigaret N: cigarets
+cigarette N: cigarettes
+cigarillo N: cigarillos
+cilantro N: ~cilantros
+cilium N: cilia
+cinch N: cinches
+cinch V: cinched  cinching  cinches
+cinchona N: cinchonas
+cincture N: cinctures
+-cincture V: cinctured  cincturing  cinctures
+cinder N: cinders
+cinder V: cindered  cindering  cinders
+cinema N: cinemas
+cinematic A:
+cinematographer N: cinematographers
+cinematographic A:
+cinematography N: ~cinematographies
+cinnabar N: ~cinnabars
+cinnamon A:
+cinnamon N: ~cinnamons
+cipher N: ciphers
+cipher V: ciphered  ciphering  ciphers
+circa A:
+circa C:
+circadian A:
+circle N: circles
+circle V: circled  circling  circles
+circlet N: circlets
+circuit N: circuits
+circuit V: circuited  circuiting  circuits
+circuital A:
+circuitous A:
+circuitously A:
+circuitousness N: ~circuitousnesses
+circuitry N: ~circuitries
+circuity N: ~circuities
+circular A:
+circular N: circulars
+circularity N: ~circularities
+circularize V: circularized  circularizing  circularizes
+circularly A:
+circulate V: circulated  circulating  circulates
+circulation N: circulations
+circulatory A:
+circumcise V: circumcised  circumcising  circumcises
+circumcision N: circumcisions
+circumference N: circumferences
+circumferential A:
+-circumflex A:
+circumflex N: circumflexes
+-circumflex V: circumflexed  circumflexing  circumflexes
+circumlocution N: circumlocutions
+circumnavigate V: circumnavigated  circumnavigating  circumnavigates
+circumnavigation N: circumnavigations
+circumpolar A:
+circumscribe V: circumscribed  circumscribing  circumscribes
+circumscription N: circumscriptions
+circumspect A:
+circumspection N: ~circumspections
+circumspectly A:
+circumstance N: circumstances
+circumstance V: circumstanced  circumstancing  circumstances
+circumstantial A:
+circumstantially A:
+circumvent V: circumvented  circumventing  circumvents
+circumvention N: ~circumventions
+circus A:
+circus N: circuses
+cirque N: cirques
+cirrhosis N: ~cirrhoses
+cirrhotic A:
+cirrhotic N: cirrhotics
+cirrus N: ~cirri (-cirrus)
+cistern N: cisterns
+citadel N: citadels
+citation N: citations
+cite N: cites
+cite V: cited  citing  cites
+citified A:
+citizen N: citizens
+citizenry N: ~citizenries
+citizenship N: ~citizenships
+citric A:
+citron N: citrons
+citronella N: ~citronellas
+citrous A:
+citrus A:
+citrus N: citruses (citrus)
+city A:
+city N: cities
+civet N: civets
+civic A:
+civics N:
+civies N:
+civil A:
+civilian A:
+civilian N: civilians
+civilisation N: civilisations
+civilise V: civilised  civilising  civilises
+civility N: civilities
+civilization N: civilizations
+civilize V: civilized  civilizing  civilizes
+civilly A:
+civvies N:
+clack N: clacks
+clack V: clacked  clacking  clacks
+clad A:
+-clad V: clad  cladding  clads
+cladding N: ~claddings
+claim N: claims
+claim V: claimed  claiming  claims
+claimable A:
+claimant N: claimants
+claimer N: claimers
+clairvoyance N: ~clairvoyances
+clairvoyant A:
+clairvoyant N: clairvoyants
+clam N: clams
+clam V: clammed  clamming  clams
+clambake N: clambakes
+clamber N: clambers
+clamber V: clambered  clambering  clambers
+clamberer N: clamberers
+clammily A:
+clamminess N: ~clamminesses
+clammy A: clammier  clammiest
+clamor N: clamors
+clamor V: clamored  clamoring  clamors
+clamorous A:
+clamour N: clamours
+clamour V: clamoured  clamouring  clamours
+clamp N: clamps
+clamp V: clamped  clamping  clamps
+clampdown N: clampdowns
+clan N: clans
+clandestine A:
+clandestinely A:
+clang N: clangs
+clang V: clanged  clanging  clangs
+clangor N: ~clangors
+-clangor V: clangored  clangoring  clangors
+clangorous A:
+clangorously A:
+clangour N: ~clangours
+-clangour V: clangoured  clangouring  clangours
+clank N: clanks
+clank V: clanked  clanking  clanks
+clannish A:
+clannishness N: ~clannishnesses
+clansman N: clansmen
+clap N: claps
+clap V: clapped  clapping  claps
+clapboard A:
+clapboard N: clapboards
+clapboard V: clapboarded  clapboarding  clapboards
+clapper N: clappers
+clapping N: ~clappings
+claptrap N: ~claptraps
+claque N: claques
+claret A:
+claret N: clarets
+clarification N: clarifications
+clarify V: clarified  clarifying  clarifies
+clarinet N: clarinets
+clarinetist N: clarinetists
+clarinettist N: clarinettists
+clarion A:
+clarion N: clarions
+clarity N: ~clarities
+clash N: clashes
+clash V: clashed  clashing  clashes
+clasp N: clasps
+clasp V: clasped  clasping  clasps
+class A:
+class N: classes
+class V: classed  classing  classes
+classic A:
+classic N: classics
+classical A:
+classical N: ~classicals
+classically A:
+classicism N: ~classicisms
+classicist N: classicists
+classifiable A:
+classification N: classifications
+classified N: classifieds
+classifier N: classifiers
+classify V: classified  classifying  classifies
+classiness N: ~classinesses
+classless A:
+classmate N: classmates
+classroom N: classrooms
+classwork N: ~classworks
+classy A: classier  classiest
+clatter N: clatters
+clatter V: clattered  clattering  clatters
+clausal A:
+clause N: clauses
+claustrophobia N: ~claustrophobias
+claustrophobic A:
+clavichord N: clavichords
+clavicle N: clavicles
+clavier N: claviers
+claw N: claws
+claw V: clawed  clawing  claws
+clay N: ~clays
+-clay V: clayed  claying  clays
+clayey A: clayier  clayiest
+clean A: cleaner  cleanest
+clean V: cleaned  cleaning  cleans
+cleanable A:
+cleaner N: cleaners
+cleaning N: cleanings
+cleanliness N: ~cleanlinesses
+cleanly A: cleanlier  cleanliest
+cleanness N: ~cleannesses
+cleanse V: cleansed  cleansing  cleanses
+cleanser N: cleansers
+cleanup A:
+cleanup N: cleanups
+clear A: clearer  clearest
+clear N: clears
+clear V: cleared  clearing  clears
+clearance N: clearances
+clearheaded A:
+clearing N: clearings
+clearinghouse N: clearinghouses
+clearly A:
+clearness N: ~clearnesses
+cleat N: cleats
+-cleat V: cleated  cleating  cleats
+cleavage N: cleavages
+cleave V {cling}: cleaved  cleaving  cleaves
+cleave V {split}: cleaved / clove / cleft  cleaved / cleft / cloven  cleaving  cleaves
+cleaver N: cleavers
+clef N: clefs
+cleft A:
+cleft N: clefts
+clematis N: clematises
+clemency N: ~clemencies
+clement A:
+clemently A:
+clench N: clenches
+clench V: clenched  clenching  clenches
+clerestory N: clerestories
+clergy N: clergies
+clergyman N: clergymen
+clergywoman N: clergywomen
+cleric N: clerics
+clerical A:
+-clerical N: clericals
+clericalism N: ~clericalisms
+clerically A:
+clerk N: clerks
+clerk V: clerked  clerking  clerks
+clerkship N: ~clerkships
+clever A: cleverer  cleverest
+cleverly A:
+cleverness N: ~clevernesses
+clevis N: clevises
+clew N: clews
+clew V: clewed  clewing  clews
+cliche N: cliches
+cliched A:
+click N: clicks
+click V: clicked  clicking  clicks
+clicker N: clickers
+client N: clients
+clientele N: clienteles
+cliff N: cliffs
+cliffhanger N: cliffhangers
+climacteric A:
+climacteric N: ~climacterics
+climactic A:
+climate N: climates
+climatic A:
+climatically A:
+climatologist N: climatologists
+climatology N: ~climatologies
+climax N: climaxes
+climax V: climaxed  climaxing  climaxes
+climb N: climbs
+climb V: climbed  climbing  climbs
+climbable A:
+climber N: climbers
+climbing N: ~climbings
+clime N: climes
+clinch N: clinches
+clinch V: clinched  clinching  clinches
+clincher N: clinchers
+cling N: ~clings
+cling V: clung  clinging  clings
+clinger N: clingers
+clingy A: clingier  clingiest
+clinic N: clinics
+clinical A:
+clinically A:
+clinician N: clinicians
+clink N: clinks
+clink V: clinked  clinking  clinks
+clinker N: clinkers
+-clinker V: clinkered  clinkering  clinkers
+cliometric A:
+cliometrician N: cliometricians
+cliometrics N:
+clip N: clips
+clip V {cut}: clipped  clipped (clipt)  clipping  clips
+clip V {fasten}: clipped  clipping  clips
+clipboard N: clipboards
+clipper N: clippers
+clipping N: clippings
+clique N: cliques
+-clique V: cliqued  cliquing  cliques
+cliquey A: !cliquier  !cliquiest
+cliquish A:
+cliquishly A:
+cliquishness N: ~cliquishnesses
+clitoral A:
+clitoris N: clitorises (clitorides)
+cloaca N: cloacae (cloacas)
+cloak N: cloaks
+cloak V: cloaked  cloaking  cloaks
+cloakroom N: cloakrooms
+clobber N: ~clobbers
+clobber V: clobbered  clobbering  clobbers
+cloche N: cloches
+clock N: clocks
+clock V: clocked  clocking  clocks
+clockwise A:
+clockwork N: clockworks
+clod N: clods
+cloddish A:
+clodhopper N: clodhoppers
+clog N: clogs
+clog V: clogged  clogging  clogs
+cloisonne A:
+cloisonne N: ~cloisonnes
+cloister N: cloisters
+cloister V: cloistered  cloistering  cloisters
+cloistral A:
+clomp V: clomped  clomping  clomps
+clonal A:
+clone N: clones
+clone V: cloned  cloning  clones
+clonk N: clonks
+clonk V: clonked  clonking  clonks
+clop N: clops
+clop V: clopped  clopping  clops
+close A: closer  closest
+close N: closes
+close V: closed  closing  closes
+closefisted A:
+closely A:
+closemouthed A:
+closeness N: ~closenesses
+closeout A:
+closeout N: closeouts
+closet A:
+closet N: closets
+closet V: closeted  closeting  closets
+closeup N: closeups
+closing N: closings
+closure N: closures
+-closure V: closured  closuring  closures
+clot N: clots
+clot V: clotted  clotting  clots
+cloth N: cloths
+clothe V: clothed (clad)  clothing  clothes
+clotheshorse N: clotheshorses
+clothesline N: clotheslines
+clothespin N: clothespins
+clothier N: clothiers
+clothing N: ~clothings
+cloture N: clotures
+-cloture V: clotured  cloturing  clotures
+cloud N: clouds
+cloud V: clouded  clouding  clouds
+cloudburst N: cloudbursts
+cloudiness N: ~cloudinesses
+cloudless A:
+cloudy A: cloudier  cloudiest
+clout N: clouts
+clout V: clouted  clouting  clouts
+clove N: cloves
+clover N: clovers | clover
+cloverleaf A:
+cloverleaf N: cloverleafs (cloverleaves)
+clown N: clowns
+clown V: clowned  clowning  clowns
+clownish A:
+clownishly A:
+clownishness N: ~clownishnesses
+cloy V: cloyed  cloying  cloys
+club N: clubs
+club V: clubbed  clubbing  clubs
+clubfoot N: clubfeet | -clubfoots
+clubfooted A:
+clubhouse N: clubhouses
+cluck N: clucks
+cluck V: clucked  clucking  clucks
+clue N: clues
+clue V: clued  cluing (clueing)  clues
+clueless A:
+clump N: clumps
+clump V: clumped  clumping  clumps
+clumpy A: clumpier  clumpiest
+clumsily A:
+clumsiness N: ~clumsinesses
+clumsy A: clumsier  clumsiest
+clunk N: clunks
+clunk V: clunked  clunking  clunks
+clunker N: clunkers
+clunky A: clunkier  clunkiest
+cluster N: clusters
+cluster V: clustered  clustering  clusters
+clutch A:
+clutch N: clutches
+clutch V: clutched  clutching  clutches
+clutter N: ~clutters
+clutter V: cluttered  cluttering  clutters
+-cnidarian A:
+cnidarian N: cnidarians
+coach A:
+coach N: coaches
+coach V: coached  coaching  coaches
+coachman N: coachmen
+coadjutor N: coadjutors
+coagulant N: coagulants
+-coagulate A:
+coagulate V: coagulated  coagulating  coagulates
+coagulation N: ~coagulations
+coagulator N: coagulators
+coal N: coals
+coal V: coaled  coaling  coals
+coalesce V: coalesced  coalescing  coalesces
+coalescence N: ~coalescences
+coalescent A:
+coalface N: coalfaces
+coalition N: coalitions
+coalitionist N: coalitionists
+coarse A: coarser  coarsest
+coarsely A:
+coarsen V: coarsened  coarsening  coarsens
+coarseness N: ~coarsenesses
+coast N: coasts
+coast V: coasted  coasting  coasts
+coastal A:
+coaster N: coasters
+coastline N: coastlines
+coat N: coats
+coat V: coated  coating  coats
+coating N: coatings
+coattail A:
+coattail N: coattails
+coauthor N: coauthors
+coauthor V: coauthored  coauthoring  coauthors
+coax V: coaxed  coaxing  coaxes
+coaxer N: coaxers
+coaxial A:
+coaxingly A:
+cob N: cobs
+cobalt A:
+cobalt N: ~cobalts
+cobble N: cobbles
+cobble V: cobbled  cobbling  cobbles
+cobbler N: cobblers
+cobblestone N: cobblestones
+cobra N: cobras
+cobweb N: cobwebs
+-cobweb V: cobwebbed  cobwebbing  cobwebs
+cobwebby A: cobwebbier  cobwebbiest
+coca N: ~cocas
+cocain N: ~cocains
+cocaine N: ~cocaines
+coccus N: cocci
+coccyx N: coccyges (coccyxes)
+cochineal N: ~cochineals
+cochlea N: cochleae / cochleas
+cochlear A:
+cock N: cocks
+cock V: cocked  cocking  cocks
+cockade N: cockades
+cockamamie A:
+cockatoo N: cockatoos
+cockatrice N: cockatrices
+cockcrow N: cockcrows
+cockerel N: cockerels
+cockeyed A:
+cockfight N: cockfights
+-cockfighting A:
+cockfighting N: ~cockfightings
+cockily A:
+cockiness N: ~cockinesses
+cockle N: cockles
+-cockle V: cockled  cockling  cockles
+cockleshell N: cockleshells
+cockney A:
+cockney N: cockneys
+cockpit N: cockpits
+cockroach N: cockroaches
+cockscomb N: cockscombs
+cocksucker N: cocksuckers
+cocksure A:
+cocktail A:
+cocktail N: cocktails
+-cocktail V: cocktailed  cocktailing  cocktails
+cocky A: cockier  cockiest
+-cocky N: cockies
+coco N: cocos
+cocoa N: cocoas
+cocoanut N: cocoanuts
+coconut N: coconuts
+cocoon N: cocoons
+cocoon V: cocooned  cocooning  cocoons
+cod N: cod | cods
+coda N: codas
+coddle V: coddled  coddling  coddles
+code N: codes
+code V: coded  coding  codes
+codeine N: ~codeines
+codependency N: ~codependencies
+codependent A:
+codependent N: codependents
+coder N: coders
+codex N: codices
+codfish N: codfish | codfishes
+codger N: codgers
+codicil N: codicils
+codification N: codifications
+codifier N: codifiers
+codify V: codified  codifying  codifies
+codpiece N: codpieces
+coed A:
+coed N: coeds
+coeducation N: ~coeducations
+coeducational A:
+coefficient N: coefficients
+-coelenterate A:
+coelenterate N: coelenterates
+coequal A:
+coequal N: coequals
+coequally A:
+coerce V: coerced  coercing  coerces
+coercer N: coercers
+coercion N: ~coercions
+coercive A:
+coeval A:
+coeval N: coevals
+coevally A:
+coexist V: coexisted  coexisting  coexists
+coexistence N: ~coexistences
+coexistent A:
+coextensive A:
+coffee A:
+coffee N: coffees
+coffeecake N: coffeecakes
+coffeehouse N: coffeehouses
+-coffeehouse V: coffeehoused  coffeehousing  coffeehouses
+coffeemaker N: coffeemakers
+coffeepot N: coffeepots
+coffer N: coffers
+-coffer V: coffered  coffering  coffers
+cofferdam N: cofferdams
+coffin N: coffins
+coffin V: coffined  coffining  coffins
+cog N: cogs
+-cog V: cogged  cogging  cogs
+cogency N: ~cogencies
+cogent A:
+cogently A:
+cogitate V: cogitated  cogitating  cogitates
+cogitation N: ~cogitations
+cogitative A:
+cogitator N: cogitators
+cognac N: cognacs
+cognate A:
+cognate N: cognates
+cognition N: ~cognitions
+cognitional A:
+cognitive A:
+cognitively A:
+cognizable A:
+cognizance N: ~cognizances
+cognizant A:
+cognomen N: cognomens (cognomina)
+cognoscente N: cognoscenti
+cogwheel N: cogwheels
+cohabit V: cohabited  cohabiting  cohabits
+cohabitant N: cohabitants
+cohabitation N: ~cohabitations
+coheir N: coheirs
+cohere V: cohered  cohering  coheres
+coherence N: ~coherences
+coherency N: ~coherencies
+coherent A:
+coherently A:
+cohesion N: ~cohesions
+cohesive A:
+cohesively A:
+cohesiveness N: ~cohesivenesses
+coho N: coho | cohos
+cohort N: cohorts
+coif N: coifs
+coif V: coiffed / coifed  coiffing / coifing  coifs
+coiffure N: coiffures
+coiffure V: coiffured  coiffuring  coiffures
+coil N: coils
+coil V: coiled  coiling  coils
+coin A:
+coin N: coins
+coin V: coined  coining  coins
+coinage N: coinages
+coincide V: coincided  coinciding  coincides
+coincidence N: coincidences
+coincident A:
+coincidental A:
+coincidentally A:
+coiner N: coiners
+coinsurance N: ~coinsurances
+coital A:
+coitus N: ~coituses
+coke N: ~cokes
+coke V: coked  coking  cokes
+cola N: colas
+colander N: colanders
+cold A: colder  coldest
+cold N: colds
+coldblooded A:
+coldly A:
+coldness N: ~coldnesses
+coleslaw N: ~coleslaws
+coleus N: coleuses
+colic N: ~colics
+colicky A:
+coliseum N: coliseums
+colitis N: ~colitises
+collaborate V: collaborated  collaborating  collaborates
+collaboration N: collaborations
+collaborative A:
+collaborator N: collaborators
+collage N: collages
+-collage V: collaged  collaging  collages
+collapse N: collapses
+collapse V: collapsed  collapsing  collapses
+collapsible A:
+collar N: collars
+collar V: collared  collaring  collars
+collarbone N: collarbones
+collard N: collards
+collarless A:
+collate V: collated  collating  collates
+collateral A:
+collateral N: ~collaterals
+collateralize V: collateralized  collateralizing  collateralizes
+collaterally A:
+collation N: collations
+collator N: collators
+colleague N: colleagues
+collect A:
+collect N: collects
+collect V: collected  collecting  collects
+collectable A:
+collectable N: collectables
+collectedly A:
+collectible A:
+collectible N: collectibles
+collection N: collections
+collective A:
+collective N: collectives
+collectively A:
+collectivism N: ~collectivisms
+collectivist A:
+collectivist N: collectivists
+collectivization N: ~collectivizations
+collectivize V: collectivized  collectivizing  collectivizes
+collector N: collectors
+colleen N: colleens
+college N: colleges
+collegiality N: ~collegialities
+collegian N: collegians
+collegiate A:
+-collegiate N: collegiates
+collide V: collided  colliding  collides
+collie N: collies
+collier N: colliers
+colliery N: collieries
+collision N: collisions
+collocate N: collocates
+collocate V: collocated  collocating  collocates
+collocation N: collocations
+-colloid A:
+colloid N: colloids
+colloidal A:
+colloquial A:
+colloquialism N: colloquialisms
+colloquially A:
+colloquium N: colloquiums (colloquia)
+colloquy N: colloquies
+collude V: colluded  colluding  colludes
+collusion N: ~collusions
+collusive A:
+cologne N: colognes
+colon N {money}: colones
+colon N {organ}: colons (cola)
+colon N {punctuation}: colons
+colonel N: colonels
+colonelcy N: ~colonelcies
+colonial A:
+colonial N: colonials
+colonialism N: ~colonialisms
+colonialist A:
+colonialist N: colonialists
+colonially A:
+colonist N: colonists
+colonization N: ~colonizations
+colonize V: colonized  colonizing  colonizes
+colonizer N: colonizers
+colonnade N: colonnades
+colonnaded A:
+colony N: colonies
+colophon N: colophons
+color A:
+color N: colors
+color V: colored  coloring  colors
+colorant N: colorants
+coloration N: ~colorations
+coloratura N: coloraturas
+colorblind A:
+colorblindness N: ~colorblindnesses
+colored N: coloreds
+colorfast A:
+colorfastness N: ~colorfastnesses
+colorful A:
+colorfully A:
+colorfulness N: ~colorfulnesses
+coloring N: ~colorings
+colorization N: ~colorizations
+colorize V: colorized  colorizing  colorizes
+colorless A:
+colorlessly A:
+colorlessness N: ~colorlessnesses
+colossal A:
+colossally A:
+colossus N: colossi (colossuses)
+colostomy N: colostomies
+colostrum N: ~colostrums
+colour A:
+colour N: colours
+colour V: coloured  colouring  colours
+colt N: colts
+coltish A:
+-columbine A:
+columbine N: columbines
+column N: columns
+columnar A:
+columned A:
+columnist N: columnists
+coma N: comas {medicine} | -comae {optics}
+comaker N: comakers
+comatose A:
+comb N: combs
+comb V: combed  combing  combs
+combat N: combats
+combat V: combated (combatted)  combating (combatting)  combats
+combatant A:
+combatant N: combatants
+combative A:
+combativeness N: ~combativenesses
+comber N: combers
+combination N: combinations
+combine N: combines
+combine V: combined  combining  combines
+combiner N: combiners
+combings N:
+combo N: combos
+combustibility N: ~combustibilities
+combustible A:
+combustible N: combustibles
+combustion N: ~combustions
+combustive A:
+come I:
+come N: ~comes
+come V: came  come  coming  comes
+comeback N: comebacks
+comedian N: comedians
+comedic A:
+comedienne N: comediennes
+comedown N: comedowns
+comedy N: comedies
+comeliness N: ~comelinesses
+comely A: comelier  comeliest
+comer N: comers
+comestible A:
+comestible N: comestibles
+comet N: comets
+comeuppance N: comeuppances
+comfit N: comfits
+comfort N: comforts
+comfort V: comforted  comforting  comforts
+comfortable A:
+comfortableness N: ~comfortablenesses
+comfortably A:
+comforter N: comforters
+comfortingly A:
+comfy A: comfier  comfiest
+comic A:
+comic N: comics
+comical A:
+comicality N: ~comicalities
+comically A:
+coming N: comings
+comity N: ~comities
+comma N: commas
+command A:
+command N: commands
+command V: commanded  commanding  commands
+commandant N: commandants
+commandeer V: commandeered  commandeering  commandeers
+commander N: commanders
+commandment N: commandments
+commando N: commandos (commandoes)
+commemorate V: commemorated  commemorating  commemorates
+commemoration N: commemorations
+commemorative A:
+-commemorative N: commemoratives
+commemorator N: commemorators
+commence V: commenced  commencing  commences
+commencement N: commencements
+commend V: commended  commending  commends
+commendable A:
+commendably A:
+commendation N: commendations
+commendatory A:
+commensurable A:
+commensurate A:
+commensurately A:
+comment N: comments
+comment V: commented  commenting  comments
+commentary N: commentaries
+commentate V: commentated  commentating  commentates
+commentator N: commentators
+commerce N: ~commerces
+commercial A:
+commercial N: commercials
+commercialism N: ~commercialisms
+commercialization N: ~commercializations
+commercialize V: commercialized  commercializing  commercializes
+commercially A:
+-commie A:
+commie N: commies
+commingle V: commingled  commingling  commingles
+commiserate V: commiserated  commiserating  commiserates
+commiseration N: commiserations
+commiserative A:
+commissar N: commissars
+commissariat N: commissariats
+commissary N: commissaries
+commission N: commissions
+commission V: commissioned  commissioning  commissions
+commissioner N: commissioners
+commit V: committed  committing  commits
+commitment N: commitments
+committal N: committals
+committee N: committees
+committeeman N: committeemen
+committeewoman N: committeewomen
+commode N: commodes
+commodious A:
+commodiously A:
+commodity N: commodities
+commodore N: commodores
+common A: commoner  commonest
+common N: commons
+commonalty N: ~commonalties
+commoner N: commoners
+commonly A:
+commonness N: ~commonnesses
+commonplace A:
+commonplace N: commonplaces
+commonsense A:
+commonweal N: ~commonweals
+commonwealth N: commonwealths
+commotion N: commotions
+communal A:
+communally A:
+commune N: communes
+commune V: communed  communing  communes
+communicability N: ~communicabilities
+communicable A:
+communicably A:
+-communicant A:
+communicant N: communicants
+communicate V: communicated  communicating  communicates
+communication N: communications
+communicative A:
+communicator N: communicators
+communion N: communions
+communique N: communiques
+communism N: ~communisms
+communist A:
+communist N: communists
+communistic A:
+community N: communities
+commutable A:
+commutation N: commutations
+commutative A:
+commutator N: commutators
+commute N: commutes
+commute V: commuted  commuting  commutes
+commuter N: commuters
+comp N: comps
+comp V: comped  comping  comps
+compact A: compacter  compactest
+compact N: compacts
+compact V: compacted  compacting  compacts
+compactly A:
+compactness N: ~compactnesses
+compactor N: compactors
+companion N: companions
+-companion V: companioned  companioning  companions
+companionable A:
+companionably A:
+companionship N: ~companionships
+companionway N: companionways
+company N: companies
+-company V: companied  companying  companies
+comparability N: ~comparabilities
+comparable A:
+comparably A:
+comparative A:
+comparative N: comparatives
+comparatively A:
+compare N: ~compares
+compare V: compared  comparing  compares
+comparison N: comparisons
+compartment N: compartments
+-compartment V: compartmented  compartmenting  compartments
+compartmental A:
+compartmentalization N: ~compartmentalizations
+compartmentalize V: compartmentalized  compartmentalizing  compartmentalizes
+compass N: compasses
+compass V: compassed  compassing  compasses
+compassion N: ~compassions
+-compassion V: compassioned  compassioning  compassions
+compassionate A:
+-compassionate V: compassionated  compassionating  compassionates
+compassionately A:
+compatibility N: ~compatibilities
+compatible A:
+compatible N: compatibles
+compatibly A:
+compatriot A:
+compatriot N: compatriots
+compeer N: compeers
+-compeer V: compeered  compeering  compeers
+compel V: compelled  compelling  compels
+compellingly A:
+compendious A:
+compendium N: compendiums (compendia)
+compensate V: compensated  compensating  compensates
+compensation N: compensations
+compensatory A:
+compete V: competed  competing  competes
+competence N: competences
+competency N: competencies
+competent A:
+competently A:
+competition N: competitions
+competitive A:
+competitively A:
+competitiveness N: ~competitivenesses
+competitor N: competitors
+compilation N: compilations
+compile V: compiled  compiling  compiles
+compiler N: compilers
+complacence N: ~complacences
+complacency N: ~complacencies
+complacent A:
+complacently A:
+complain V: complained  complaining  complains
+complainant N: complainants
+complainer N: complainers
+complaint N: complaints
+complaisance N: ~complaisances
+complaisant A:
+complaisantly A:
+complected A:
+complement N: complements
+complement V: complemented  complementing  complements
+complementary A:
+-complementary N: complementaries
+complete A: completer  completest
+complete V: completed  completing  completes
+completely A:
+completeness N: ~completenesses
+completion N: ~completions
+complex A: -complexer  -complexest
+complex N: complexes
+-complex V: complexed  complexing  complexes
+complexion N: complexions
+complexional A:
+complexioned A:
+complexity N: complexities
+complexly A:
+compliance N: ~compliances
+compliant A:
+compliantly A:
+-complicate A:
+complicate V: complicated  complicating  complicates
+complicatedly A:
+complication N: complications
+complicit A:
+complicity N: ~complicities
+compliment N: compliments
+compliment V: complimented  complimenting  compliments
+complimentary A:
+comply V: complied  complying  complies
+component A:
+component N: components
+comport V: comported  comporting  comports
+comportment N: ~comportments
+compose V: composed  composing  composes
+composedly A:
+composer N: composers
+composite A:
+composite N: composites
+-composite V: composited  compositing  composites
+compositely A:
+composition N: compositions
+compositor N: compositors
+compost N: ~composts
+compost V: composted  composting  composts
+composure N: ~composures
+compote N: compotes
+compound A:
+compound N: compounds
+compound V: compounded  compounding  compounds
+compoundable A:
+comprehend V: comprehended  comprehending  comprehends
+comprehensibility N: ~comprehensibilities
+comprehensible A:
+comprehensibly A:
+comprehension N: comprehensions
+comprehensive A:
+comprehensive N: comprehensives
+comprehensively A:
+comprehensiveness N: ~comprehensivenesses
+compress N: compresses
+compress V: compressed  compressing  compresses
+compressible A:
+compression N: ~compressions
+compressor N: compressors
+comprise V: comprised  comprising  comprises
+compromise N: compromises
+compromise V: compromised  compromising  compromises
+comptroller N: comptrollers
+compulsion N: compulsions
+compulsive A:
+-compulsive N: compulsives
+compulsively A:
+compulsiveness N: ~compulsivenesses
+compulsorily A:
+compulsory A:
+compulsory N: compulsories
+compunction N: compunctions
+computation N: computations
+computational A:
+-compute N: computes
+compute V: computed  computing  computes
+computer N: computers
+computerization N: ~computerizations
+computerize V: computerized  computerizing  computerizes
+computing N: ~computings
+comrade N: comrades
+comradely A:
+comradeship N: ~comradeships
+con A:
+con N: cons
+con V: conned  conning  cons
+concatenate A:
+concatenate V: concatenated  concatenating  concatenates
+concatenation N: concatenations
+concave A:
+-concave V: concaved  concaving  concaves
+concavely A:
+concaveness N: ~concavenesses
+concavity N: concavities
+conceal V: concealed  concealing  conceals
+concealable A:
+concealer N: concealers
+concealment N: ~concealments
+concede V: conceded  conceding  concedes
+conceit N: conceits
+-conceit V: conceited  conceiting  conceits
+conceited A:
+conceitedly A:
+conceitedness N: ~conceitednesses
+conceivable A:
+conceivably A:
+conceive V: conceived  conceiving  conceives
+concentrate N: concentrates
+concentrate V: concentrated  concentrating  concentrates
+concentration N: concentrations
+concentric A:
+concentrically A:
+concept N: concepts
+conception N: conceptions
+conceptional A:
+conceptual A:
+conceptualization N: conceptualizations
+conceptualize V: conceptualized  conceptualizing  conceptualizes
+conceptually A:
+concern N: concerns
+concern V: concerned  concerning  concerns
+concert N: concerts
+concert V: concerted  concerting  concerts
+concertedly A:
+concertina N: concertinas
+concertina V: concertinaed  concertinaing  concertinas
+concertize V: concertized  concertizing  concertizes
+concertmaster N: concertmasters
+concerto N: concertos (concerti)
+concession N: concessions
+concessionaire N: concessionaires
+concessional A:
+concessionary A:
+-concessionary N: concessionaries
+conch N: conchs (conches)
+concierge N: concierges
+conciliate V: conciliated  conciliating  conciliates
+conciliation N: ~conciliations
+conciliator N: conciliators
+conciliatory A:
+concise A: conciser  concisest
+concisely A:
+conciseness N: ~concisenesses
+concision N: ~concisions
+conclave N: conclaves
+conclude V: concluded  concluding  concludes
+conclusion N: conclusions
+conclusive A:
+conclusively A:
+conclusiveness N: ~conclusivenesses
+concoct V: concocted  concocting  concocts
+concoction N: concoctions
+concomitant A:
+concomitant N: concomitants
+concomitantly A:
+concord N: ~concords
+concordance N: concordances
+concordant A:
+concordat N: concordats
+concourse N: concourses
+concrete A:
+concrete N: ~concretes
+concrete V: concreted  concreting  concretes
+concretely A:
+concreteness N: ~concretenesses
+concretion N: concretions
+concubinage N: ~concubinages
+concubine N: concubines
+concupiscence N: ~concupiscences
+concupiscent A:
+concur V: concurred  concurring  concurs
+concurrence N: concurrences
+concurrent A:
+-concurrent N: concurrents
+concurrently A:
+concuss V: concussed  concussing  concusses
+concussion N: concussions
+concussive A:
+condemn V: condemned  condemning  condemns
+condemnation N: condemnations
+condemnatory A:
+condemner N: condemners
+condensate N: condensates
+condensation N: condensations
+condense V: condensed  condensing  condenses
+condenser N: condensers
+condescend V: condescended  condescending  condescends
+condescendingly A:
+condescension N: ~condescensions
+condign A:
+condiment N: condiments
+condition N: conditions
+condition V: conditioned  conditioning  conditions
+conditional A:
+conditional N: conditionals
+conditionally A:
+conditioner N: conditioners
+conditioning N: ~conditionings
+condo N: condos (condoes)
+condole V: condoled  condoling  condoles
+condolence N: condolences
+condom N: condoms
+condominium N: condominiums (-condominia)
+condone V: condoned  condoning  condones
+condor N: condors
+conduce V: conduced  conducing  conduces
+conducive A:
+conduct N: ~conducts
+conduct V: conducted  conducting  conducts
+conductance N: ~conductances
+conductibility N: ~conductibilities
+conductible A:
+conduction N: ~conductions
+conductive A:
+conductivity N: ~conductivities
+conductor N: conductors
+conductress N: conductresses
+conduit N: conduits
+cone N: cones
+-cone V: coned  coning  cones
+coney N: coneys
+confab N: confabs
+confab V: confabbed  confabbing  confabs
+confabulate V: confabulated  confabulating  confabulates
+confabulation N: confabulations
+confection N: confections
+-confection V: confectioned  confectioning  confections
+confectioner N: confectioners
+confectionery N: confectioneries
+confederacy N: confederacies
+confederate A:
+confederate N: confederates
+confederate V: confederated  confederating  confederates
+confederation N: confederations
+confer V: conferred  conferring  confers
+conferrable A:
+conferee N: conferees
+conference N: conferences
+-conference V: conferenced  conferencing  conferences
+conferment N: conferments
+conferral N: ~conferrals
+conferrer N: conferrers
+confess V: confessed  confessing  confesses
+confessedly A:
+confession N: confessions
+confessional A:
+confessional N: confessionals
+confessor N: confessors
+confetti N:
+confidant N: confidants
+confidante N: confidantes
+confide V: confided  confiding  confides
+confidence A:
+confidence N: confidences
+confident A:
+-confident N: confidents
+confidential A:
+confidentiality N: ~confidentialities
+confidentially A:
+confidently A:
+confider N: confiders
+configuration N: configurations
+configure V: configured  configuring  configures
+confine N: confines
+confine V: confined  confining  confines
+confinement N: confinements
+confirm V: confirmed  confirming  confirms
+confirmation N: confirmations
+-confiscate A:
+confiscate V: confiscated  confiscating  confiscates
+confiscation N: confiscations
+confiscator N: confiscators
+confiscatory A:
+conflagration N: conflagrations
+conflate V: conflated  conflating  conflates
+conflation N: conflations
+conflict N: conflicts
+conflict V: conflicted  conflicting  conflicts
+confluence N: confluences
+confluent A:
+-confluent N: confluents
+conform V: conformed  conforming  conforms
+conformable A:
+conformance N: ~conformances
+conformation N: conformations
+conformer N: conformers
+conformism N: ~conformisms
+conformist A:
+conformist N: conformists
+conformity N: ~conformities
+confound V: confounded  confounding  confounds
+confraternity N: confraternities
+confrere N: confreres
+confront V: confronted  confronting  confronts
+confrontation N: confrontations
+confrontational A:
+confuse V: confused  confusing  confuses
+confusedly A:
+confusingly A:
+confusion N: ~confusions
+confutation N: ~confutations
+confute V: confuted  confuting  confutes
+conga N: congas
+conga V: congaed  congaing  congas
+congeal V: congealed  congealing  congeals
+congealment N: ~congealments
+congenial A:
+congeniality N: ~congenialities
+congenially A:
+congenital A:
+congenitally A:
+conger N: congers
+congeries N:
+congest V: congested  congesting  congests
+congestion N: ~congestions
+congestive A:
+conglomerate A:
+conglomerate N: conglomerates
+conglomerate V: conglomerated  conglomerating  conglomerates
+conglomeration N: conglomerations
+congrats N:
+congratulate V: congratulated  congratulating  congratulates
+congratulation N: ~congratulations
+congratulations I:
+congratulatory A:
+congregant N: congregants
+-congregate A:
+congregate V: congregated  congregating  congregates
+congregation N: congregations
+congregational A:
+congregationalism N: ~congregationalisms
+congregationalist A:
+congregationalist N: congregationalists
+congress N: congresses
+-congress V: congressed  congressing  congresses
+congressional A:
+congressman N: congressmen
+congressperson N: congresspersons
+congresswoman N: congresswomen
+congruence N: ~congruences
+congruent A:
+congruently A:
+congruity N: congruities
+congruous A:
+conic A:
+conic N: conics
+conical A:
+conically A:
+conifer N: conifers
+coniferous A:
+conjectural A:
+conjecture N: conjectures
+conjecture V: conjectured  conjecturing  conjectures
+conjoin V: conjoined  conjoining  conjoins
+conjoiner N: conjoiners
+conjoint A:
+conjointly A:
+conjugal A:
+conjugally A:
+conjugate A:
+-conjugate N: conjugates
+conjugate V: conjugated  conjugating  conjugates
+conjugation N: conjugations
+conjunct A:
+conjunct N: conjuncts
+conjunction N: conjunctions
+conjunctiva N: conjunctivas (conjunctivae)
+conjunctive A:
+conjunctive N: conjunctives
+conjunctivitis N: ~conjunctivitises
+conjuncture N: conjunctures
+conjuration N: conjurations
+conjure V: conjured  conjuring  conjures
+conjurer N: conjurers
+conjuror N: conjurors
+conk N: conks
+conk V: conked  conking  conks
+conman N: conmen
+connect V: connected  connecting  connects
+connectable A:
+connecter N: connecters
+connectible A:
+connection N: connections
+connective A:
+connective N: connectives
+connectivity N: ~connectivities
+connector N: connectors
+connexion N: connexions
+conniption N: conniptions
+connivance N: ~connivances
+connive V: connived  conniving  connives
+conniver N: connivers
+connoisseur N: connoisseurs
+connotation N: connotations
+connotative A:
+connote V: connoted  connoting  connotes
+connubial A:
+conquer V: conquered  conquering  conquers
+conquerable A:
+conqueror N: conquerors
+conquest N: conquests
+conquistador N: conquistadors (conquistadores)
+consanguineous A:
+consanguinity N: ~consanguinities
+conscience N: consciences
+conscienceless A:
+conscientious A:
+conscientiously A:
+conscientiousness N: ~conscientiousnesses
+conscious A:
+consciously A:
+consciousness N: consciousnesses
+conscript A:
+conscript N: conscripts
+conscript V: conscripted  conscripting  conscripts
+conscription N: ~conscriptions
+-consecrate A:
+consecrate V: consecrated  consecrating  consecrates
+consecration N: consecrations
+consecutive A:
+consecutively A:
+consensual A:
+consensus N: consensuses
+consent N: consents
+consent V: consented  consenting  consents
+consequence N: consequences
+consequent A:
+-consequent N: consequents
+consequential A:
+consequentially A:
+consequently A:
+conservancy N: conservancies
+conservation N: ~conservations
+conservationism N: ~conservationisms
+conservationist N: conservationists
+conservatism N: ~conservatisms
+conservative A:
+conservative N: conservatives
+conservatively A:
+conservator N: conservators
+-conservatory A:
+conservatory N: conservatories
+conserve N: conserves
+conserve V: conserved  conserving  conserves
+consider V: considered  considering  considers
+considerable A:
+-considerable N: considerables
+considerably A:
+considerate A:
+considerately A:
+considerateness N: ~consideratenesses
+consideration N: considerations
+considering C:
+consign V: consigned  consigning  consigns
+consignee N: consignees
+consignment N: consignments
+consignor N: consignors
+consist V: consisted  consisting  consists
+consistence N: consistences
+consistency N: consistencies
+consistent A:
+consistently A:
+consistory N: consistories
+consolable A:
+consolation N: consolations
+consolatory A:
+console N: consoles
+console V: consoled  consoling  consoles
+consolidate V: consolidated  consolidating  consolidates
+consolidation N: consolidations
+consolidator N: consolidators
+consolingly A:
+consomme N: ~consommes
+consonance N: consonances
+consonant A:
+consonant N: consonants
+consonantly A:
+consort N: consorts
+consort V: consorted  consorting  consorts
+consortium N: consortia (consortiums)
+conspectus N: conspectuses
+conspicuous A:
+conspicuously A:
+conspicuousness N: ~conspicuousnesses
+conspiracy N: conspiracies
+conspirator N: conspirators
+conspiratorial A:
+conspiratorially A:
+conspire V: conspired  conspiring  conspires
+constable N: constables
+-constabulary A:
+constabulary N: constabularies
+constancy N: ~constancies
+constant A:
+constant N: constants
+constantly A:
+constellation N: constellations
+consternation N: ~consternations
+constipate V: constipated  constipating  constipates
+constipation N: ~constipations
+constituency N: constituencies
+constituent A:
+constituent N: constituents
+constitute V: constituted  constituting  constitutes
+constitution N: constitutions
+constitutional A:
+constitutional N: constitutionals
+constitutionality N: ~constitutionalities
+constitutionally A:
+constitutive A:
+constrain V: constrained  constraining  constrains
+constraint N: constraints
+constrict V: constricted  constricting  constricts
+constriction N: constrictions
+constrictive A:
+constrictor N: constrictors
+construable A:
+construct N: constructs
+construct V: constructed  constructing  constructs
+construction N: constructions
+constructional A:
+constructionist N: constructionists
+constructive A:
+constructively A:
+constructiveness N: ~constructivenesses
+constructor N: constructors
+-construe N: construes
+construe V: construed  construing  construes
+consubstantiation N: ~consubstantiations
+consul N: consuls
+consular A:
+consulate N: consulates
+consulship N: ~consulships
+consult V: consulted  consulting  consults
+consultancy N: consultancies
+consultant N: consultants
+consultation N: consultations
+consultative A:
+consumable A:
+consumable N: consumables
+consume V: consumed  consuming  consumes
+consumer N: consumers
+consumerism N: ~consumerisms
+consumerist A:
+consumerist N: consumerists
+consummate A:
+consummate V: consummated  consummating  consummates
+consummately A:
+consummation N: consummations
+consumption N: ~consumptions
+consumptive A:
+consumptive N: consumptives
+contact A:
+contact N: contacts
+contact V: contacted  contacting  contacts
+contagion N: contagions
+contagious A:
+contagiously A:
+contagiousness N: ~contagiousnesses
+contain V: contained  containing  contains
+containable A:
+container N: containers
+containerization N: ~containerizations
+containerize V: containerized  containerizing  containerizes
+containment N: ~containments
+contaminant N: contaminants
+-contaminate A:
+contaminate V: contaminated  contaminating  contaminates
+contamination N: ~contaminations
+contaminator N: contaminators
+contemn V: contemned  contemning  contemns
+contemplate V: contemplated  contemplating  contemplates
+contemplation N: ~contemplations
+contemplative A:
+contemplative N: contemplatives
+contemporaneity N: ~contemporaneities
+contemporaneous A:
+contemporaneously A:
+contemporary A:
+contemporary N: contemporaries
+contempt N: ~contempts
+contemptible A:
+contemptibly A:
+contemptuous A:
+contemptuously A:
+contemptuousness N: ~contemptuousnesses
+contend V: contended  contending  contends
+contender N: contenders
+content A:
+content N: contents
+content V: contented  contenting  contents
+contentedly A:
+contentedness N: ~contentednesses
+contention N: contentions
+contentious A:
+contentiously A:
+contentiousness N: ~contentiousnesses
+contently A:
+contentment N: ~contentments
+conterminous A:
+conterminously A:
+contest N: contests
+contest V: contested  contesting  contests
+contestable A:
+contestant N: contestants
+context N: contexts
+contextual A:
+contextualize V: contextualized  contextualizing  contextualizes
+contextually A:
+contiguity N: ~contiguities
+contiguous A:
+contiguously A:
+continence N: ~continences
+continent A:
+continent N: continents
+continental A:
+continental N: continentals
+contingency N: contingencies
+contingent A:
+contingent N: contingents
+contingently A:
+continual A:
+continually A:
+continuance N: continuances
+continuation N: continuations
+continue V: continued  continuing  continues
+continuity N: ~continuities
+continuous A:
+continuously A:
+continuum N: continua (continuums)
+contort V: contorted  contorting  contorts
+contortion N: contortions
+contortionist N: contortionists
+contour A:
+contour N: contours
+contour V: contoured  contouring  contours
+contraband A:
+contraband N: ~contrabands
+contraception N: ~contraceptions
+contraceptive A:
+contraceptive N: contraceptives
+contract N: contracts
+contract V: contracted  contracting  contracts
+contractible A:
+contractile A:
+contraction N: contractions
+contractor N: contractors
+contractual A:
+contractually A:
+contradict V: contradicted  contradicting  contradicts
+contradiction N: contradictions
+contradictory A:
+-contradictory N: contradictories
+contradistinction N: contradistinctions
+contrail N: contrails
+contraindicate V: contraindicated  contraindicating  contraindicates
+contraindication N: contraindications
+-contralto A:
+contralto N: contraltos
+contraption N: contraptions
+contrapuntal A:
+contrapuntally A:
+contrariety N: ~contrarieties
+contrarily A:
+contrariness N: ~contrarinesses
+contrariwise A:
+contrary A:
+contrary N: contraries
+contrast N: contrasts
+contrast V: contrasted  contrasting  contrasts
+contravene V: contravened  contravening  contravenes
+contravention N: contraventions
+contretemps N: contretemps
+contribute V: contributed  contributing  contributes
+contribution N: contributions
+contributor N: contributors
+contributory A:
+-contributory N: contributories
+contrite A:
+contritely A:
+contriteness N: ~contritenesses
+contrition N: ~contritions
+contrivance N: contrivances
+contrive V: contrived  contriving  contrives
+contriver N: contrivers
+control N: controls
+control V: controlled  controlling  controls
+controllable A:
+controller N: controllers
+controversial A:
+controversially A:
+controversy N: controversies
+controvert V: controverted  controverting  controverts
+controvertible A:
+contumacious A:
+contumaciously A:
+contumacy N: ~contumacies
+contumelious A:
+contumely N: contumelies
+contuse V: contused  contusing  contuses
+contusion N: contusions
+conundrum N: conundrums
+conurbation N: conurbations
+convalesce V: convalesced  convalescing  convalesces
+convalescence N: convalescences
+convalescent A:
+convalescent N: convalescents
+convection N: ~convections
+convectional A:
+convective A:
+convene V: convened  convening  convenes
+convener N: conveners
+convenience N: conveniences
+convenient A:
+conveniently A:
+convent N: convents
+conventicle N: conventicles
+convention N: conventions
+conventional A:
+conventionality N: ~conventionalities
+conventionalize V: conventionalized  conventionalizing  conventionalizes
+conventionally A:
+converge V: converged  converging  converges
+convergence N: convergences
+convergent A:
+conversant A:
+conversation N: conversations
+conversational A:
+conversationalist N: conversationalists
+conversationally A:
+converse A:
+converse N: converses
+converse V: conversed  conversing  converses
+conversely A:
+conversion N: conversions
+convert N: converts
+convert V: converted  converting  converts
+converter N: converters
+convertibility N: ~convertibilities
+convertible A:
+convertible N: convertibles
+convertor N: convertors
+convex A:
+convexity N: ~convexities
+convexly A:
+convey V: conveyed  conveying  conveys
+conveyable A:
+conveyance N: conveyances
+conveyer N: conveyers
+conveyor N: conveyors
+-convict A:
+convict N: convicts
+convict V: convicted  convicting  convicts
+conviction N: convictions
+convince V: convinced  convincing  convinces
+convincingly A:
+convivial A:
+conviviality N: ~convivialities
+convivially A:
+convocation N: convocations
+convoke V: convoked  convoking  convokes
+convoluted A:
+convolution N: convolutions
+convoy N: convoys
+convoy V: convoyed  convoying  convoys
+convulse V: convulsed  convulsing  convulses
+convulsion N: convulsions
+convulsive A:
+convulsively A:
+cony N: conies
+coo I:
+coo N: coos
+coo V: cooed  cooing  coos
+cook N: cooks
+cook V: cooked  cooking  cooks
+cookbook N: cookbooks
+cooker N: cookers
+cookery N: cookeries
+cookie N: cookies
+cooking N: ~cookings
+cookout N: cookouts
+cookware N: cookwares
+cooky N: cookies
+cool A: cooler  coolest
+cool N: ~cools
+cool V: cooled  cooling  cools
+coolant N: coolants
+cooler N: coolers
+coolie N: coolies
+coolly A:
+coolness N: ~coolnesses
+coon N: coons
+coonskin A:
+coonskin N: coonskins
+coop N: coops
+coop V: cooped  cooping  coops
+cooper N: coopers
+cooper V: coopered  coopering  coopers
+cooperage N: ~cooperages
+cooperate V: cooperated  cooperating  cooperates
+cooperation N: ~cooperations
+cooperative A:
+cooperative N: cooperatives
+cooperatively A:
+cooperativeness N: ~cooperativenesses
+cooperator N: cooperators
+coordinate A:
+coordinate N: coordinates
+coordinate V: coordinated  coordinating  coordinates
+coordinately A:
+coordination N: ~coordinations
+coordinator N: coordinators
+coot N: coots
+cootie N: cooties
+cop N: cops
+cop V: copped  copping  cops
+copacetic A:
+copay N: ~copays
+cope N: copes
+cope V: coped  coping  copes
+copier N: copiers
+copilot N: copilots
+coping N: copings
+copious A:
+copiously A:
+copiousness N: ~copiousnesses
+copper A:
+copper N: coppers
+-copper V: coppered  coppering  coppers
+copperhead N: copperheads
+copperplate N: ~copperplates
+coppery A:
+coppice N: coppices
+copra N: ~copras
+copse N: copses
+copter N: copters
+copula N: copulas (copulae)
+copulate V: copulated  copulating  copulates
+copulation N: ~copulations
+copulative A:
+copulative N: copulatives
+copy N: copies
+copy V: copied  copying  copies
+copybook N: copybooks
+copycat A:
+copycat N: copycats
+copycat V: copycatted  copycatting  copycats
+copyist N: copyists
+copyright A:
+copyright N: copyrights
+copyright V: copyrighted  copyrighting  copyrights
+copywriter N: copywriters
+coquetry N: coquetries
+coquette N: coquettes
+coquette V: coquetted  coquetting  coquettes
+coquettish A:
+coquettishly A:
+coracle N: coracles
+coral A:
+coral N: corals
+corbel N: corbels
+-corbel V: corbeled (corbelled)  corbeling (corbelling)  corbels
+cord N: cords
+cord V: corded  cording  cords
+cordage N: ~cordages
+cordial A:
+cordial N: cordials
+cordiality N: ~cordialities
+cordially A:
+cordillera N: cordilleras
+cordite N: ~cordites
+cordless A:
+cordon N: cordons
+cordon V: cordoned  cordoning  cordons
+cordovan N: ~cordovans
+corduroy A:
+corduroy N: ~corduroys
+-corduroy V: corduroyed  corduroying  corduroys
+corduroys N:
+core N: cores
+core V: cored  coring  cores
+corer N: corers
+corespondent N: corespondents
+corgi N: corgis
+coriander N: ~corianders
+cork A:
+cork N: corks
+cork V: corked  corking  corks
+corker N: corkers
+corkscrew A:
+corkscrew N: corkscrews
+corkscrew V: corkscrewed  corkscrewing  corkscrews
+corm N: corms
+cormorant N: cormorants
+corn N: corns
+corn V: corned  corning  corns
+cornball A:
+cornball N: cornballs
+cornbread N: ~cornbreads
+corncob N: corncobs
+cornea N: corneas
+corneal A:
+corner A:
+corner N: corners
+corner V: cornered  cornering  corners
+cornerstone N: cornerstones
+cornet N: cornets
+cornflakes N:
+cornflower N: cornflowers
+cornice N: cornices
+-cornice V: corniced  cornicing  cornices
+cornily A:
+corniness N: ~corninesses
+cornmeal N: ~cornmeals
+cornrow N: cornrows
+cornrow V: cornrowed  cornrowing  cornrows
+cornstalk N: cornstalks
+cornstarch N: ~cornstarches
+cornucopia N: cornucopias
+corny A: cornier  corniest
+corolla N: corollas
+corollary N: corollaries
+corona N: coronas (coronae)
+coronal A:
+coronal N: coronals
+coronary A:
+coronary N: coronaries
+coronation N: coronations
+coroner N: coroners
+coronet N: coronets
+corporal A:
+corporal N: corporals
+corporate A:
+corporately A:
+corporation N: corporations
+corporeal A:
+corporeality N: ~corporealities
+corporeally A:
+corps N: corps
+corpse N: corpses
+corpsman N: corpsmen
+corpulence N: ~corpulences
+corpulent A:
+corpus N: corpora | corpora (corpuses) {texts}
+corpuscle N: corpuscles
+corpuscular A:
+corral N: corrals
+corral V: corralled  corralling  corrals
+correct A: correcter  correctest
+correct V: corrected  correcting  corrects
+correctable A:
+correction N: corrections
+correctional A:
+corrective A:
+corrective N: correctives
+correctly A:
+correctness N: ~correctnesses
+correlate A:
+correlate N: correlates
+correlate V: correlated  correlating  correlates
+correlation N: correlations
+correlative A:
+correlative N: correlatives
+correspond V: corresponded  corresponding  corresponds
+correspondence N: correspondences
+correspondent A:
+correspondent N: correspondents
+correspondingly A:
+corridor N: corridors
+-corroborate A:
+corroborate V: corroborated  corroborating  corroborates
+corroboration N: corroborations
+corroborative A:
+corroborator N: corroborators
+corroboratory A:
+corrode V: corroded  corroding  corrodes
+corrosion N: ~corrosions
+corrosive A:
+corrosive N: corrosives
+corrosively A:
+-corrugate A:
+corrugate V: corrugated  corrugating  corrugates
+corrugation N: corrugations
+corrupt A: corrupter  corruptest
+corrupt V: corrupted  corrupting  corrupts
+corruptibility N: ~corruptibilities
+corruptible A:
+corruption N: corruptions
+corruptly A:
+corruptness N: ~corruptnesses
+corsage N: corsages
+corsair N: corsairs
+corset N: corsets
+corset V: corseted  corseting  corsets
+cortege N: corteges
+cortex N: cortices (cortexes)
+cortical A:
+cortisone N: ~cortisones
+corundum N: ~corundums
+coruscate V: coruscated  coruscating  coruscates
+coruscation N: ~coruscations
+corvette N: corvettes
+cos C:
+cos N: ~coses
+cosign V: cosigned  cosigning  cosigns
+cosignatory A:
+cosignatory N: cosignatories
+cosigner N: cosigners
+cosily A:
+cosine N: cosines
+cosiness N: ~cosinesses
+cosmetic A:
+cosmetic N: cosmetics
+cosmetically A:
+cosmetician N: cosmeticians
+cosmetologist N: cosmetologists
+cosmetology N: ~cosmetologies
+cosmic A:
+cosmically A:
+cosmogonist N: cosmogonists
+cosmogony N: cosmogonies
+cosmological A:
+cosmologist N: cosmologists
+cosmology N: cosmologies
+cosmonaut N: cosmonauts
+cosmopolitan A:
+cosmopolitan N: cosmopolitans
+cosmopolitanism N: ~cosmopolitanisms
+cosmos N: cosmoses / cosmos
+cosponsor N: cosponsors
+cosponsor V: cosponsored  cosponsoring  cosponsors
+-cosset N: cossets
+cosset V: cosseted  cosseting  cossets
+cost N: costs
+cost V {calculate cost}: costed  costing  costs
+cost V {require payment}: cost  costing  costs
+costar N: costars
+costar V: costarred  costarring  costars
+costliness N: ~costlinesses
+costly A: costlier  costliest
+costume A:
+costume N: costumes
+costume V: costumed  costuming  costumes
+costumer N: costumers
+cosy A: cosier  cosiest
+cosy N: cosies
+-cosy V: cosied  cosying  cosies
+cot N: cots
+cotangent N: cotangents
+cote N: cotes
+-cote V: coted  coting  cotes
+coterie N: coteries
+coterminous A:
+cotillion N: cotillions
+cottage N: cottages
+cottager N: cottagers
+cottar N: cottars
+cotter N: cotters
+-cotter V: cottered  cottering  cotters
+cotton N: cottons
+cotton V: cottoned  cottoning  cottons
+cottonmouth N: cottonmouths
+cottonseed N: cottonseeds / cottonseed
+cottontail N: cottontails
+cottonwood N: cottonwoods
+cottony A:
+cotyledon N: cotyledons
+couch N: couches
+couch V: couched  couching  couches
+cougar N: cougars | cougar
+cough N: coughs
+cough V: coughed  coughing  coughs
+coulee N: coulees
+coulomb N: coulombs
+council N: councils
+councillor N: councillors
+councilman N: councilmen
+councilor N: councilors
+councilperson N: councilpersons
+councilwoman N: councilwomen
+counsel N: counsel {lawyer} | ~counsels {advice}
+counsel V: counseled (counselled)  counseling (counselling)  counsels
+counsellor N: counsellors
+counselor N: counselors
+count N: counts
+count V: counted  counting  counts
+countable A:
+countdown N: countdowns
+countenance N: countenances
+countenance V: countenanced  countenancing  countenances
+counter A:
+counter N: counters
+counter V: countered  countering  counters
+counteract V: counteracted  counteracting  counteracts
+counteraction N: counteractions
+counteractive A:
+counterattack N: counterattacks
+counterattack V: counterattacked  counterattacking  counterattacks
+counterbalance N: counterbalances
+counterbalance V: counterbalanced  counterbalancing  counterbalances
+counterclaim N: counterclaims
+counterclaim V: counterclaimed  counterclaiming  counterclaims
+counterclockwise A:
+counterculture N: ~countercultures
+counterespionage N: ~counterespionages
+counterfeit A:
+counterfeit N: counterfeits
+counterfeit V: counterfeited  counterfeiting  counterfeits
+counterfeiter N: counterfeiters
+counterfoil N: counterfoils
+counterinsurgency N: counterinsurgencies
+counterintelligence N: ~counterintelligences
+counterman N: countermen
+countermand N: countermands
+countermand V: countermanded  countermanding  countermands
+countermeasure N: countermeasures
+counteroffensive N: counteroffensives
+counteroffer N: counteroffers
+counteroffer V: counteroffered  counteroffering  counteroffers
+counterpane N: counterpanes
+counterpart N: counterparts
+counterpoint N: counterpoints
+-counterpoint V: counterpointed  counterpointing  counterpoints
+counterpoise N: counterpoises
+counterpoise V: counterpoised  counterpoising  counterpoises
+counterproductive A:
+counterrevolution N: counterrevolutions
+counterrevolutionary A:
+counterrevolutionary N: counterrevolutionaries
+countersign N: countersigns
+countersign V: countersigned  countersigning  countersigns
+countersignature N: countersignatures
+countersink N: countersinks
+countersink V: countersunk (countersank)  countersunk  countersinking  countersinks
+counterspy N: counterspies
+countertenor N: countertenors
+countervail V: countervailed  countervailing  countervails
+counterweight N: counterweights
+-counterweight V: counterweighted  counterweighting  counterweights
+countess N: countesses
+countless A:
+countrified A:
+country A:
+country N: countries
+countryman N: countrymen
+countryside N: countrysides
+countrywoman N: countrywomen
+county A:
+county N: counties
+coup N: coups
+-coup V: couped  couping  coups
+coupe N: coupes
+couple N: couples
+couple V: coupled  coupling  couples
+couplet N: couplets
+coupling N: couplings
+coupon N: coupons
+courage N: ~courages
+courageous A:
+courageously A:
+courageousness N: ~courageousnesses
+courier N: couriers
+courier V: couriered  couriering  couriers
+course N: courses
+course V: coursed  coursing  courses
+courser N: coursers
+court N: courts
+court V: courted  courting  courts
+courteous A:
+courteously A:
+courteousness N: ~courteousnesses
+courtesan N: courtesans
+courtesy N: courtesies
+-courtesy V: courtesied  courtesying  courtesies
+courthouse N: courthouses
+courtier N: courtiers
+courtliness N: ~courtlinesses
+courtly A: courtlier  courtliest
+courtroom N: courtrooms
+courtship N: courtships
+courtyard N: courtyards
+couscous N: ~couscouses
+cousin N: cousins
+couture N: ~coutures
+couturier N: couturiers
+cove N: coves
+-cove V: coved  coving  coves
+coven N: covens
+covenant N: covenants
+covenant V: covenanted  covenanting  covenants
+cover N: covers
+cover V: covered  covering  covers
+coverage N: ~coverages
+coverall N: coveralls
+covering N: coverings
+coverlet N: coverlets
+covert A:
+covert N: coverts
+covertly A:
+covertness N: ~covertnesses
+coverup N: coverups
+covet V: coveted  coveting  covets
+covetous A:
+covetously A:
+covetousness N: ~covetousnesses
+covey N: coveys
+cow N: cows (@kine)
+cow V: cowed  cowing  cows
+coward A:
+coward N: cowards
+cowardice N: ~cowardices
+cowardliness N: ~cowardlinesses
+cowardly A:
+cowbell N: cowbells
+cowbird N: cowbirds
+cowboy N: cowboys
+cowcatcher N: cowcatchers
+cower V: cowered  cowering  cowers
+cowgirl N: cowgirls
+cowhand N: cowhands
+cowherd N: cowherds
+cowhide N: cowhides
+-cowhide V: cowhided  cowhiding  cowhides
+cowl N: cowls
+-cowl V: cowled  cowling  cowls
+cowlick N: cowlicks
+cowling N: cowlings
+cowman N: cowmen
+coworker N: coworkers
+cowpoke N: cowpokes
+cowpox N: ~cowpoxes
+cowpuncher N: cowpunchers
+cowrie N: cowries
+cowslip N: cowslips
+coxcomb N: coxcombs
+coxswain N: coxswains
+coy A: coyer  coyest
+-coy V: coyed  coying  coys
+coyly A:
+coyness N: ~coynesses
+coyote N: coyotes
+coypu N: coypus
+cozen V: cozened  cozening  cozens
+cozenage N: ~cozenages
+cozily A:
+coziness N: ~cozinesses
+cozy A: cozier  coziest
+cozy N: cozies
+-cozy V: cozied  cozying  cozies
+crab N: crabs
+crab V: crabbed  crabbing  crabs
+crabber N: crabbers
+crabbily A:
+crabbiness N: ~crabbinesses
+crabby A: crabbier  crabbiest
+crabgrass N: ~crabgrasses
+crablike A:
+crack A:
+crack N: cracks
+crack V: cracked  cracking  cracks
+crackdown N: crackdowns
+cracker N: crackers
+crackerjack A:
+crackerjack N: crackerjacks
+crackhead N: crackheads
+crackle N: crackles
+crackle V: crackled  crackling  crackles
+crackling N: cracklings
+crackly A: !cracklier  !crackliest
+crackpot A:
+crackpot N: crackpots
+crackup N: crackups
+cradle N: cradles
+cradle V: cradled  cradling  cradles
+craft N {vehicle}: craft
+craft N: crafts
+craft V: crafted  crafting  crafts
+craftily A:
+craftiness N: ~craftinesses
+craftsman N: craftsmen
+craftsmanship N: ~craftsmanships
+craftswoman N: craftswomen
+crafty A: craftier  craftiest
+crag N: crags
+cragginess N: ~cragginesses
+craggy A: craggier  craggiest
+-cram N: crams
+cram V: crammed  cramming  crams
+cramp N: cramps
+cramp V: cramped  cramping  cramps
+cramping N: ~crampings
+crampon N: crampons
+cranberry N: cranberries
+crane N: cranes
+crane V: craned  craning  cranes
+cranial A:
+cranium N: craniums (crania)
+crank A: -cranker  -crankest
+crank N: cranks
+crank V: cranked  cranking  cranks
+crankcase N: crankcases
+crankily A:
+crankiness N: ~crankinesses
+crankshaft N: crankshafts
+cranky A: crankier  crankiest
+crannied A:
+cranny N: crannies
+crap A:
+crap N: ~craps
+crap V: crapped  crapping  craps
+crape N: crapes
+-crape V: craped  craping  crapes
+crappie N: crappie | crappies
+crappy A: crappier  crappiest
+craps N:
+crapshooter N: crapshooters
+crash A:
+crash N: crashes
+crash V: crashed  crashing  crashes
+crass A: crasser  crassest
+crassly A:
+crassness N: ~crassnesses
+crate N: crates
+crate V: crated  crating  crates
+crater N: craters
+crater V: cratered  cratering  craters
+cravat N: cravats
+crave V: craved  craving  craves
+craven A:
+craven N: cravens
+-craven V: cravened  cravening  cravens
+cravenly A:
+cravenness N: ~cravennesses
+craving N: cravings
+craw N: craws
+crawdad N: crawdads
+crawfish N: crawfish | crawfishes
+-crawfish V: crawfished  crawfishing  crawfishes
+crawl N: crawls
+crawl V: crawled  crawling  crawls
+crawler N: crawlers
+crawlspace N: crawlspaces
+crawly A: crawlier  crawliest
+crawly N: crawlies
+crayfish N: crayfish | crayfishes
+crayon N: crayons
+crayon V: crayoned  crayoning  crayons
+craze N: crazes
+craze V: crazed  crazing  crazes
+crazily A:
+craziness N: ~crazinesses
+crazy A: crazier  craziest
+crazy N: crazies
+creak N: creaks
+creak V: creaked  creaking  creaks
+creakily A:
+creakiness N: ~creakinesses
+creaky A: creakier  creakiest
+cream A:
+cream N: creams
+cream V: creamed  creaming  creams
+creamer N: creamers
+creamery N: creameries
+creamily A:
+creaminess N: ~creaminesses
+creamy A: creamier  creamiest
+crease N: creases
+crease V: creased  creasing  creases
+create V: created  creating  creates
+creation N: creations
+creationism N: ~creationisms
+creationist A:
+creationist N: creationists
+creative A:
+creative N: creatives
+creatively A:
+creativeness N: ~creativenesses
+creativity N: ~creativities
+creator N: creators
+creature N: creatures
+creche N: creches
+credence N: ~credences
+-credential A:
+credential N: credentials
+-credential V: credentialed  credentialing  credentials
+credenza N: credenzas
+credibility N: ~credibilities
+credible A:
+credibly A:
+credit N: credits
+credit V: credited  crediting  credits
+creditable A:
+creditably A:
+creditor N: creditors
+credo N: credos
+credulity N: ~credulities
+credulous A:
+credulously A:
+credulousness N: ~credulousnesses
+creed N: creeds
+creek N: creeks
+creel N: creels
+creep N: creeps
+creep V: crept (creeped)  creeping  creeps
+creeper N: creepers
+creepily A:
+creepiness N: ~creepinesses
+creepy A: creepier  creepiest
+cremains N:
+cremate V: cremated  cremating  cremates
+cremation N: cremations
+crematorium N: crematoriums / crematoria
+crematory A:
+crematory N: crematories
+creme N: cremes
+-crenelate A:
+crenelate V: crenelated  crenelating  crenelates
+crenelation N: crenelations
+-crenellate A:
+crenellate V: crenellated  crenellating  crenellates
+crenellation N: crenellations
+creole A:
+creole N: creoles
+creosote N: ~creosotes
+creosote V: creosoted  creosoting  creosotes
+crepe N: crepes
+-crepe V: creped  creping  crepes
+crescendo A:
+crescendo N: crescendos (crescendi)
+-crescendo V: crescendoed  crescendoing  crescendos
+crescent A:
+crescent N: crescents
+cress N: ~cresses
+crest N: crests
+crest V: crested  cresting  crests
+crestfallen A:
+crestless A:
+cretaceous A:
+cretin N: cretins
+cretinism N: ~cretinisms
+cretinous A:
+cretonne N: ~cretonnes
+crevasse N: crevasses
+-crevasse V: crevassed  crevassing  crevasses
+crevice N: crevices
+crew N: crews
+crew V: crewed  crewing  crews
+crewel N: ~crewels
+crewelwork N: ~crewelworks
+crewman N: crewmen
+crib N: cribs
+crib V: cribbed  cribbing  cribs
+cribbage N: ~cribbages
+cribber N: cribbers
+crick N: cricks
+crick V: cricked  cricking  cricks
+cricket N: crickets
+-cricket V: cricketed  cricketing  crickets
+cricketer N: cricketers
+crier N: criers
+crime N: crimes
+criminal A:
+criminal N: criminals
+criminality N: ~criminalities
+criminally A:
+criminologist N: criminologists
+criminology N: ~criminologies
+crimp N: crimps
+crimp V: crimped  crimping  crimps
+crimson A:
+crimson N: ~crimsons
+crimson V: crimsoned  crimsoning  crimsons
+cringe N: cringes
+cringe V: cringed  cringing  cringes
+crinkle N: crinkles
+crinkle V: crinkled  crinkling  crinkles
+crinkly A: crinklier  crinkliest
+crinoline N: crinolines
+cripple N: cripples
+cripple V: crippled  crippling  cripples
+crippler N: cripplers
+crisis N: crises
+crisp A: crisper  crispest
+crisp N: crisps
+crisp V: crisped  crisping  crisps
+crispiness N: ~crispinesses
+crisply A:
+crispness N: ~crispnesses
+crispy A: crispier  crispiest
+crisscross A:
+crisscross N: crisscrosses
+crisscross V: crisscrossed  crisscrossing  crisscrosses
+criterion N: criteria (criterions)
+critic N: critics
+critical A:
+critically A:
+criticism N: criticisms
+criticize V: criticized  criticizing  criticizes
+criticizer N: criticizers
+critique N: critiques
+critique V: critiqued  critiquing  critiques
+critter N: critters
+croak N: croaks
+croak V: croaked  croaking  croaks
+croaky A: croakier  croakiest
+crochet N: ~crochets
+crochet V: crocheted  crocheting  crochets
+crocheter N: crocheters
+crocheting N: ~crochetings
+crock N: crocks
+-crock V: crocked  crocking  crocks
+crocked A:
+crockery N: ~crockeries
+crocodile N: crocodiles
+crocus N: crocuses (crocus croci)
+croissant N: croissants
+crone N: crones
+crony N: cronies
+cronyism N: ~cronyisms
+crook A: -crooker  -crookest
+crook N: crooks
+crook V: crooked  crooking  crooks
+crooked A: crookeder  crookedest
+crookedly A:
+crookedness N: ~crookednesses
+crookneck N: crooknecks
+croon N: croons
+croon V: crooned  crooning  croons
+crooner N: crooners
+crop N: crops
+crop V: cropped  cropping  crops
+cropland N: croplands
+cropper N: croppers
+croquet N: ~croquets
+-croquet V: croqueted  croqueting  croquets
+croquette N: croquettes
+crosier N: crosiers
+cross A: crosser  crossest
+cross N: crosses
+cross V: crossed  crossing  crosses
+crossbar N: crossbars
+crossbeam N: crossbeams
+crossbones N:
+crossbow N: crossbows
+crossbowman N: crossbowmen
+crossbred A:
+-crossbred N: crossbreds
+crossbreed N: crossbreeds
+crossbreed V: crossbred  crossbreeding  crossbreeds
+crosscheck N: crosschecks
+crosscheck V: crosschecked  crosschecking  crosschecks
+crosscurrent N: crosscurrents
+crosscut A:
+crosscut N: crosscuts
+crosscut V: crosscut  crosscutting  crosscuts
+crossfire N: crossfires
+-crosshatch N: crosshatches
+crosshatch V: crosshatched  crosshatching  crosshatches
+crossing N: crossings
+crossly A:
+crossness N: ~crossnesses
+crossover A:
+crossover N: crossovers
+crosspatch N: crosspatches
+crosspiece N: crosspieces
+crossroad N: crossroads
+crosstown A:
+-crosstown N: crosstowns
+crosswalk N: crosswalks
+crossways A:
+crosswind N: crosswinds
+crosswise A:
+crossword N: crosswords
+crotch N: crotches
+crotchet N: crotchets
+crotchety A:
+crouch N: crouches
+crouch V: crouched  crouching  crouches
+croup N: ~croups
+croupier N: croupiers
+croupy A: croupier  croupiest
+crouton N: croutons
+crow N: crows
+crow V: crowed (crew)  crowing  crows
+crowbar N: crowbars
+-crowbar V: crowbarred  crowbarring  crowbars
+crowd N: crowds
+crowd V: crowded  crowding  crowds
+crowfoot N: crowfoots (crowfeet)
+crown N: crowns
+crown V: crowned  crowning  crowns
+-crowning N: crownings
+crozier N: croziers
+crucial A:
+crucially A:
+crucible N: crucibles
+crucifix N: crucifixes
+crucifixion N: crucifixions
+cruciform A:
+cruciform N: cruciforms
+crucify V: crucified  crucifying  crucifies
+crud N: ~cruds
+-crud V: crudded  crudding  cruds
+cruddy A: cruddier  cruddiest
+crude A: cruder  crudest
+crude N: ~crudes
+crudely A:
+crudeness N: ~crudenesses
+crudites N:
+crudity N: crudities
+cruel A: crueler (crueller)  cruelest (cruellest)
+cruelly A:
+cruelness N: ~cruelnesses
+cruelty N: cruelties
+cruet N: cruets
+cruise N: cruises
+cruise V: cruised  cruising  cruises
+cruiser N: cruisers
+cruller N: crullers
+crumb N: crumbs
+crumb V: crumbed  crumbing  crumbs
+crumble N: crumbles
+crumble V: crumbled  crumbling  crumbles
+crumbliness N: ~crumblinesses
+crumbly A: crumblier  crumbliest
+crumby A: crumbier  crumbiest
+crumminess N: ~crumminesses
+crummy A: crummier  crummiest
+-crummy N: crummies
+crumpet N: crumpets
+crumple N: crumples
+crumple V: crumpled  crumpling  crumples
+crunch N: crunches
+crunch V: crunched  crunching  crunches
+crunchiness N: ~crunchinesses
+crunchy A: crunchier  crunchiest
+crupper N: cruppers
+crusade N: crusades
+crusade V: crusaded  crusading  crusades
+crusader N: crusaders
+cruse N: cruses
+crush N: crushes
+crush V: crushed  crushing  crushes
+crusher N: crushers
+crust N: crusts
+crust V: crusted  crusting  crusts
+crustacean A:
+crustacean N: crustaceans
+crustal A:
+crustily A:
+crustiness N: ~crustinesses
+crusty A: crustier  crustiest
+crutch N: crutches
+-crutch V: crutched  crutching  crutches
+crux N: cruxes (cruces)
+cry N: cries
+cry V: cried  crying  cries
+crybaby N: crybabies
+cryogenic A:
+cryogenics N:
+cryosurgery N: ~cryosurgeries
+crypt N: crypts
+cryptic A:
+cryptically A:
+cryptogram N: cryptograms
+cryptographer N: cryptographers
+cryptography N: ~cryptographies
+crystal A:
+crystal N: crystals
+-crystal V: crystaled (crystalled)  crystaling (crystalling)  crystals
+crystalline A:
+crystallization N: ~crystallizations
+crystallize V: crystallized  crystallizing  crystallizes
+cub N: cubs
+-cub V: cubbed  cubbing  cubs
+cubbyhole N: cubbyholes
+cube N: cubes
+cube V: cubed  cubing  cubes
+cuber N: cubers
+cubic A:
+-cubic N: cubics
+cubical A:
+cubicle N: cubicles
+cubism N: ~cubisms
+cubist A:
+cubist N: cubists
+cubit N: cubits
+cuckold N: cuckolds
+cuckold V: cuckolded  cuckolding  cuckolds
+cuckoldry N: ~cuckoldries
+cuckoo A:
+cuckoo N: cuckoos
+-cuckoo V: cuckooed  cuckooing  cuckoos
+cucumber N: cucumbers
+cud N: cuds
+cuddle N: cuddles
+cuddle V: cuddled  cuddling  cuddles
+cuddly A: cuddlier  cuddliest
+cudgel N: cudgels
+cudgel V: cudgeled (cudgelled)  cudgeling (cudgelling)  cudgels
+cue N: cues
+cue V: cued  cuing (cueing)  cues
+cuff N: cuffs
+cuff V: cuffed  cuffing  cuffs
+cufflink N: cufflinks
+cuisine N: cuisines
+culinary A:
+cull N: culls
+cull V: culled  culling  culls
+cullender N: cullenders
+culminate V: culminated  culminating  culminates
+culmination N: culminations
+culotte N: culottes
+culpability N: ~culpabilities
+culpable A:
+culpably A:
+culprit N: culprits
+cult A:
+cult N: cults
+cultism N: ~cultisms
+cultist N: cultists
+cultivable A:
+cultivatable A:
+cultivate V: cultivated  cultivating  cultivates
+cultivation N: ~cultivations
+cultivator N: cultivators
+cultural A:
+culturally A:
+culture N: cultures
+culture V: cultured  culturing  cultures
+culvert N: culverts
+cum C:
+cum N: ~cums
+cum V: came (-cummed)  cumming  cums
+-cumber N: cumbers
+cumber V: cumbered  cumbering  cumbers
+cumbersome A:
+cumbersomeness N: ~cumbersomenesses
+cumbrous A:
+cumin N: ~cumins
+cummerbund N: cummerbunds
+cumquat N: cumquats
+cumulative A:
+cumulatively A:
+cumulonimbus N: cumulonimbi (cumulonimbuses -cumulonimbus)
+cumulus N: cumuli (-cumulus)
+cuneiform A:
+cuneiform N: ~cuneiforms
+cunnilingus N: ~cunnilinguses
+cunning A: cunninger  cunningest
+cunning N: ~cunnings
+cunningly A:
+cunt N: cunts
+cup N: cups
+cup V: cupped  cupping  cups
+cupboard N: cupboards
+cupcake N: cupcakes
+cupful N: cupfuls (cupsful)
+cupid N: cupids
+cupidity N: ~cupidities
+cupola N: cupolas
+cupolaed A:
+cupric A:
+cur N: curs
+curability N: ~curabilities
+curable A:
+curacy N: curacies
+curare N: ~curares
+curate N: curates
+curate V: curated  curating  curates
+curative A:
+curative N: curatives
+curator N: curators
+curatorial A:
+curb N: curbs
+curb V: curbed  curbing  curbs
+curbing N: ~curbings
+curbstone N: curbstones
+curd N: curds
+-curd V: curded  curding  curds
+curdle V: curdled  curdling  curdles
+cure N: cures
+cure V: cured  curing  cures
+curer N: curers
+curettage N: ~curettages
+curfew N: curfews
+curia N: curiae
+curie N: curies
+curio N: curios
+curiosity N: curiosities
+curious A: -curiouser  -curiousest
+curiously A:
+curiousness N: ~curiousnesses
+curium N: ~curiums
+curl N: curls
+curl V: curled  curling  curls
+curler N: curlers
+curlew N: curlews
+curlicue N: curlicues
+curlicue V: curlicued  curlicuing  curlicues
+curliness N: ~curlinesses
+curling N: ~curlings
+curly A: curlier  curliest
+curlycue N: curlycues
+curmudgeon N: curmudgeons
+curmudgeonly A:
+currant N: currants
+currency N: currencies
+current A:
+current N: currents
+currently A:
+curricular A:
+curriculum N: curricula (curriculums)
+curry N: curries
+curry V: curried  currying  curries
+currycomb N: currycombs
+currycomb V: currycombed  currycombing  currycombs
+curse N: curses
+curse V: cursed (curst)  cursing  curses
+cursed A: -curseder  -cursedest
+cursedly A:
+cursive A:
+cursive N: ~cursives
+cursively A:
+cursor N: cursors
+cursorily A:
+cursoriness N: ~cursorinesses
+cursory A:
+curt A: curter  curtest
+curtail V: curtailed  curtailing  curtails
+curtailment N: curtailments
+curtain N: curtains
+curtain V: curtained  curtaining  curtains
+curtly A:
+curtness N: ~curtnesses
+curtsey N: curtseys
+curtsey V: curtseyed  curtseying  curtseys
+curtsy N: curtsies
+curtsy V: curtsied  curtsying  curtsies
+curvaceous A:
+curvaceousness N: ~curvaceousnesses
+curvacious A:
+curvature N: curvatures
+curve N: curves
+curve V: curved  curving  curves
+curvy A: curvier  curviest
+cushion N: cushions
+cushion V: cushioned  cushioning  cushions
+cushy A: cushier  cushiest
+cusp N: cusps
+cuspid N: cuspids
+cuspidor N: cuspidors
+cuss N: cusses
+cuss V: cussed  cussing  cusses
+custard N: custards
+custodial A:
+-custodial N: custodials
+custodian N: custodians
+custodianship N: ~custodianships
+custody N: ~custodies
+custom A:
+custom N: customs
+customarily A:
+customary A:
+-customary N: customaries
+customer N: customers
+customhouse N: customhouses
+customization N: ~customizations
+customize V: customized  customizing  customizes
+cut A:
+cut N: cuts
+cut V: cut  cutting  cuts
+cutaneous A:
+cutaway A:
+cutaway N: cutaways
+cutback N: cutbacks
+cute A: cuter  cutest
+cutely A:
+cuteness N: ~cutenesses
+cutesie A: !cutesier  !cutesiest
+cutesy A: cutesier  cutesiest
+cuticle N: cuticles
+cutie N: cuties
+cutlas N: cutlases
+cutlass N: cutlasses
+cutler N: cutlers
+cutlery N: ~cutleries
+cutlet N: cutlets
+cutoff A:
+cutoff N: cutoffs
+cutout N: cutouts
+cutter N: cutters
+cutthroat A:
+cutthroat N: cutthroats
+cutting N: cuttings
+cuttingly A:
+cuttlefish N: cuttlefish | cuttlefishes
+cutup N: cutups
+cutworm N: cutworms
+cyan A:
+cyan N: ~cyans
+cyanide N: ~cyanides
+-cyanide V: cyanided  cyaniding  cyanides
+cybernetic A:
+cybernetics N:
+cyberpunk N: cyberpunks
+cyberspace N: ~cyberspaces
+cyborg N: cyborgs
+cyclamen N: cyclamens
+cycle N: cycles
+cycle V: cycled  cycling  cycles
+cyclic A:
+cyclical A:
+-cyclical N: cyclicals
+cyclically A:
+cyclist N: cyclists
+cyclometer N: cyclometers
+cyclone N: cyclones
+cyclonic A:
+cyclopaedia N: cyclopaedias
+cyclopedia N: cyclopedias
+cyclops N: cyclops {flea} | cyclopes {giant}
+cyclotron N: cyclotrons
+cyder N: cyders
+cygnet N: cygnets
+cylinder N: cylinders
+-cylinder V: cylindered  cylindering  cylinders
+cylindrical A:
+cymbal N: cymbals
+cymbalist N: cymbalists
+-cynic A:
+cynic N: cynics
+cynical A:
+cynically A:
+cynicism N: ~cynicisms
+cynosure N: cynosures
+cypher N: cyphers
+cypher V: cyphered  cyphering  cyphers
+cypress N: cypresses
+cyst N: cysts
+cystic A:
+cytologist N: cytologists
+cytology N: ~cytologies
+cytoplasm N: ~cytoplasms
+cytoplasmic A:
+cytosine N: ~cytosines
+czar N: czars
+czarina N: czarinas
+czarist A:
+czarist N: czarists

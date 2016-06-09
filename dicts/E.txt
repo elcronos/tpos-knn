@@ -1,0 +1,1811 @@
+each A:
+eager A: eagerer  eagerest
+-eager N: eagers
+eagerly A:
+eagerness N: ~eagernesses
+eagle N: eagles
+-eagle V: eagled  eagling  eagles
+eaglet N: eaglets
+ear N: ears
+-ear V: eared  earing  ears
+earache N: earaches
+eardrum N: eardrums
+eared A:
+earful N: earfuls
+earl N: earls
+earldom N: earldoms
+earliness N: ~earlinesses
+earlobe N: earlobes
+early A: earlier  earliest
+-early N: earlies
+earmark N: earmarks
+earmark V: earmarked  earmarking  earmarks
+earmuff N: earmuffs
+earn V: earned  earning  earns
+earner N: earners
+earnest A:
+earnest N: earnests
+earnestly A:
+earnestness N: ~earnestnesses
+earnings N:
+earphone N: earphones
+earplug N: earplugs
+earring N: earrings
+earshot N: ~earshots
+earsplitting A:
+earth N: ~earths
+earth V: earthed  earthing  earths
+earthbound A:
+earthen A:
+earthenware A:
+earthenware N: ~earthenwares
+earthiness N: ~earthinesses
+earthling N: earthlings
+earthly A: earthlier  earthliest
+earthquake N: earthquakes
+earthshaking A:
+earthward A:
+earthwards A:
+earthwork N: earthworks
+earthworm N: earthworms
+earthy A: earthier  earthiest
+earwax N: ~earwaxes
+earwig N: earwigs
+-earwig V: earwigged  earwigging  earwigs
+ease N: ~eases
+ease V: eased  easing  eases
+easel N: easels
+easement N: easements
+easily A:
+easiness N: ~easinesses
+east A:
+east N: ~easts
+eastbound A:
+easterly A:
+easterly N: easterlies
+eastern A:
+easterner N: easterners
+easternmost A:
+eastward A:
+-eastward N: eastwards
+eastwards A:
+easy A: easier  easiest
+easy I:
+easygoing A:
+eat V: ate  eaten  eating  eats
+eatable A:
+eatable N: eatables
+eater N: eaters
+eatery N: eateries
+eave N: eaves
+eavesdrop V: eavesdropped  eavesdropping  eavesdrops
+eavesdropper N: eavesdroppers
+ebb N: ebbs
+ebb V: ebbed  ebbing  ebbs
+ebony A:
+ebony N: ebonies
+ebullience N: ~ebulliences
+ebullient A:
+ebulliently A:
+ebullition N: ~ebullitions
+eccentric A:
+eccentric N: eccentrics
+eccentrically A:
+eccentricity N: eccentricities
+ecclesiastic A:
+ecclesiastic N: ecclesiastics
+ecclesiastical A:
+ecclesiastically A:
+echelon N: echelons
+-echelon V: echeloned  echeloning  echelons
+echinoderm N: echinoderms
+echo N: echoes (echos)
+echo V: echoed  echoing  echoes (echos)
+echoic A:
+echolocation N: ~echolocations
+eclair N: eclairs
+eclat N: ~eclats
+eclectic A:
+eclectic N: eclectics
+eclectically A:
+eclecticism N: ~eclecticisms
+eclipse N: eclipses
+eclipse V: eclipsed  eclipsing  eclipses
+ecliptic A:
+ecliptic N: ~ecliptics
+eclogue N: eclogues
+ecocide N: ~ecocides
+ecologic A:
+ecological A:
+ecologically A:
+ecologist N: ecologists
+ecology N: ~ecologies
+economic A:
+economical A:
+economically A:
+economics N:
+economist N: economists
+economize V: economized  economizing  economizes
+economizer N: economizers
+economy A:
+economy N: economies
+ecosystem N: ecosystems
+ecru A:
+ecru N: ~ecrus
+ecstasy N: ecstasies
+ecstatic A:
+-ecstatic N: ecstatics
+ecstatically A:
+ecumenical A:
+ecumenically A:
+ecumenicism N: ~ecumenicisms
+ecumenism N: ~ecumenisms
+eczema N: ~eczemas
+ed N: ~ed / ~eds
+eddy N: eddies
+eddy V: eddied  eddying  eddies
+edelweiss N: ~edelweisses
+edema N: ~edemas (~edemata)
+edge N: edges
+edge V: edged  edging  edges
+edger N: edgers
+edgeways A:
+edgewise A:
+edgily A:
+edginess N: ~edginesses
+edging N: edgings
+edgy A: edgier  edgiest
+edibility N: ~edibilities
+edible A:
+edible N: edibles
+edibleness N: ~ediblenesses
+edict N: edicts
+edification N: ~edifications
+edifice N: edifices
+edifier N: edifiers
+edify V: edified  edifying  edifies
+edit N: edits
+edit V: edited  editing  edits
+edition N: editions
+editor N: editors
+editorial A:
+editorial N: editorials
+editorialize V: editorialized  editorializing  editorializes
+editorially A:
+editorship N: ~editorships
+educability N: ~educabilities
+educable A:
+educate V: educated  educating  educates
+education N: educations
+educational A:
+educationally A:
+educator N: educators
+educe V: educed  educing  educes
+edutainment N: ~edutainments
+eek I:
+eel N: eels | eel
+eerie A: eerier  eeriest
+eerily A:
+eeriness N: ~eerinesses
+eery A: eerier  eeriest
+efface V: effaced  effacing  effaces
+effacement N: ~effacements
+effect N: effects
+effect V: effected  effecting  effects
+effective A:
+-effective N: effectives
+effectively A:
+effectiveness N: ~effectivenesses
+effectual A:
+effectually A:
+effectuate V: effectuated  effectuating  effectuates
+effeminacy N: ~effeminacies
+effeminate A:
+-effeminate V: effeminated  effeminating  effeminates
+effeminately A:
+effendi N: effendis
+efferent A:
+-efferent N: efferents
+effervesce V: effervesced  effervescing  effervesces
+effervescence N: ~effervescences
+effervescent A:
+effervescently A:
+effete A:
+effetely A:
+effeteness N: ~effetenesses
+efficacious A:
+efficaciously A:
+efficacy N: ~efficacies
+efficiency N: ~efficiencies
+efficient A:
+efficiently A:
+effigy N: effigies
+efflorescence N: ~efflorescences
+efflorescent A:
+effluence N: ~effluences
+effluent A:
+effluent N: effluents
+effluvium N: effluvia (effluviums)
+effort N: efforts
+effortless A:
+effortlessly A:
+effortlessness N: ~effortlessnesses
+effrontery N: ~effronteries
+effulgence N: ~effulgences
+effulgent A:
+-effuse A:
+effuse V: effused  effusing  effuses
+effusion N: effusions
+effusive A:
+effusively A:
+effusiveness N: ~effusivenesses
+egad I:
+egalitarian A:
+egalitarian N: egalitarians
+egalitarianism N: ~egalitarianisms
+egg N: eggs
+egg V: egged  egging  eggs
+eggbeater N: eggbeaters
+eggcup N: eggcups
+egghead N: eggheads
+eggnog N: ~eggnogs
+eggplant N: eggplants
+-eggshell A:
+eggshell N: eggshells
+egis N: ~egises
+eglantine N: eglantines
+ego N: egos
+egocentric A:
+egocentric N: egocentrics
+egocentrically A:
+egocentricity N: ~egocentricities
+egoism N: ~egoisms
+egoist N: egoists
+egoistic A:
+egoistical A:
+egoistically A:
+egomania N: ~egomanias
+egomaniac N: egomaniacs
+egotism N: ~egotisms
+egotist N: egotists
+egotistic A:
+egotistical A:
+egotistically A:
+egregious A:
+egregiously A:
+egregiousness N: ~egregiousnesses
+egress N: egresses
+-egress V: egressed  egressing  egresses
+egret N: egrets
+eh I:
+eider N: eiders
+eiderdown N: eiderdowns
+eight A:
+eight N: eights
+eighteen A:
+eighteen N: eighteens
+eighteenth A:
+eighteenth N: eighteenths
+eighth A:
+eighth N: eighths
+eightieth A:
+eightieth N: eightieths
+eighty A:
+eighty N: eighties
+einsteinium N: ~einsteiniums
+either A:
+either C:
+either P:
+-ejaculate N: ejaculates
+ejaculate V: ejaculated  ejaculating  ejaculates
+ejaculation N: ejaculations
+ejaculatory A:
+eject V: ejected  ejecting  ejects
+ejection N: ejections
+ejector N: ejectors
+eke V: eked  eking  ekes
+elaborate A:
+elaborate V: elaborated  elaborating  elaborates
+elaborately A:
+elaborateness N: ~elaboratenesses
+elaboration N: elaborations
+elan N: ~elans
+eland N: eland | elands
+elapse V: elapsed  elapsing  elapses
+elastic A:
+elastic N: elastics
+elastically A:
+elasticity N: ~elasticities
+elasticize V: elasticized  elasticizing  elasticizes
+elate V: elated  elating  elates
+elatedly A:
+elation N: ~elations
+elbow N: elbows
+elbow V: elbowed  elbowing  elbows
+elbowroom N: ~elbowrooms
+elder A:
+elder N: elders
+elderberry N: elderberries
+elderly A:
+-elderly N: elderlies
+elect A:
+elect N: elect
+elect V: elected  electing  elects
+electable A:
+election N: elections
+electioneer V: electioneered  electioneering  electioneers
+elective A:
+elective N: electives
+elector N: electors
+electoral A:
+electorate N: electorates
+electric A:
+-electric N: electrics
+electrical A:
+electrically A:
+electrician N: electricians
+electricity N: ~electricities
+electrification N: ~electrifications
+electrifier N: electrifiers
+electrify V: electrified  electrifying  electrifies
+electrocardiogram N: electrocardiograms
+electrocardiograph N: electrocardiographs
+electrocardiography N: ~electrocardiographies
+electrocute V: electrocuted  electrocuting  electrocutes
+electrocution N: electrocutions
+electrode N: electrodes
+electroencephalogram N: electroencephalograms
+electroencephalograph N: electroencephalographs
+electroencephalographic A:
+electroencephalography N: ~electroencephalographies
+electrologist N: electrologists
+electrolysis N: ~electrolyses
+electrolyte N: electrolytes
+electrolytic A:
+electromagnet N: electromagnets
+electromagnetic A:
+electromagnetically A:
+electromagnetism N: ~electromagnetisms
+electromotive A:
+electron N: electrons
+electronic A:
+electronically A:
+electronics N:
+-electroplate N: electroplates
+electroplate V: electroplated  electroplating  electroplates
+electroscope N: electroscopes
+electroscopic A:
+electroshock A:
+electroshock N: ~electroshocks
+-electroshock V: electroshocked  electroshocking  electroshocks
+electrostatics N:
+electrotype N: electrotypes
+-electrotype V: electrotyped  electrotyping  electrotypes
+eleemosynary A:
+elegance N: ~elegances
+elegant A:
+elegantly A:
+elegiac A:
+elegiac N: elegiacs
+elegiacal A:
+elegy N: elegies
+element N: elements
+elemental A:
+-elemental N: elementals
+elementally A:
+elementary A:
+elephant N: elephants
+elephantiasis N: ~elephantiases
+elephantine A:
+elevate V: elevated  elevating  elevates
+-elevated N: elevateds
+elevation N: elevations
+elevator N: elevators
+eleven A:
+eleven N: elevens
+eleventh A:
+eleventh N: elevenths
+elf N: elves (-elfs)
+elfin A:
+-elfin N: elfins
+elfish A:
+elicit V: elicited  eliciting  elicits
+elicitation N: ~elicitations
+elide V: elided  eliding  elides
+eligibility N: ~eligibilities
+eligible A:
+-eligible N: eligibles
+eliminate V: eliminated  eliminating  eliminates
+elimination N: eliminations
+elision N: elisions
+elite A:
+elite N: elites
+elitism N: ~elitisms
+elitist A:
+elitist N: elitists
+elixir N: elixirs
+elk N: elks | elk
+ell N: ells
+ellipse N: ellipses
+ellipsis N: ellipses
+ellipsoid A:
+ellipsoid N: ellipsoids
+ellipsoidal A:
+elliptic A:
+elliptical A:
+-elliptical N: ellipticals
+elliptically A:
+elm N: elms
+elocution N: ~elocutions
+elocutionary A:
+elocutionist N: elocutionists
+elodea N: elodeas
+-elongate A:
+elongate V: elongated  elongating  elongates
+elongation N: elongations
+elope V: eloped  eloping  elopes
+elopement N: elopements
+eloquence N: ~eloquences
+eloquent A:
+eloquently A:
+else A:
+elsewhere A:
+elucidate V: elucidated  elucidating  elucidates
+elucidation N: elucidations
+elude V: eluded  eluding  eludes
+elusive A:
+elusively A:
+elusiveness N: ~elusivenesses
+elver N: elvers
+em N: ems
+emaciate V: emaciated  emaciating  emaciates
+emaciation N: ~emaciations
+email N: ~emails
+email V: emailed  emailing  emails
+emanate V: emanated  emanating  emanates
+emanation N: emanations
+emancipate V: emancipated  emancipating  emancipates
+emancipation N: ~emancipations
+emancipator N: emancipators
+-emasculate A:
+emasculate V: emasculated  emasculating  emasculates
+emasculation N: ~emasculations
+embalm V: embalmed  embalming  embalms
+embalmer N: embalmers
+embank V: embanked  embanking  embanks
+embankment N: embankments
+embargo N: embargoes
+embargo V: embargoed  embargoing  embargoes
+embark V: embarked  embarking  embarks
+embarkation N: embarkations
+embarrass V: embarrassed  embarrassing  embarrasses
+embarrassingly A:
+embarrassment N: embarrassments
+embassy N: embassies
+embattled A:
+embed V: embedded  embedding  embeds
+embellish V: embellished  embellishing  embellishes
+embellishment N: embellishments
+ember N: embers
+embezzle V: embezzled  embezzling  embezzles
+embezzlement N: ~embezzlements
+embezzler N: embezzlers
+embitter V: embittered  embittering  embitters
+embitterment N: ~embitterments
+emblazon V: emblazoned  emblazoning  emblazons
+emblazonment N: ~emblazonments
+emblem N: emblems
+-emblem V: emblemed  embleming  emblems
+emblematic A:
+embodiment N: ~embodiments
+embody V: embodied  embodying  embodies
+embolden V: emboldened  emboldening  emboldens
+embolism N: embolisms
+emboss V: embossed  embossing  embosses
+embosser N: embossers
+embouchure N: ~embouchures
+embower V: embowered  embowering  embowers
+embrace N: embraces
+embrace V: embraced  embracing  embraces
+embraceable A:
+embrasure N: embrasures
+embrocation N: embrocations
+embroider V: embroidered  embroidering  embroiders
+embroiderer N: embroiderers
+embroidery N: embroideries
+embroil V: embroiled  embroiling  embroils
+embroilment N: ~embroilments
+-embryo A:
+embryo N: embryos
+embryologist N: embryologists
+embryology N: ~embryologies
+embryonic A:
+emcee N: emcees
+emcee V: emceed  emceeing  emcees
+emend V: emended  emending  emends
+emendation N: emendations
+emerald A:
+emerald N: emeralds
+emerge V: emerged  emerging  emerges
+emergence N: ~emergences
+-emergency A:
+emergency N: emergencies
+emergent A:
+-emergent N: emergents
+emerita A:
+-emerita N: emeritae
+emeritus A:
+-emeritus N: emeriti
+emery N: ~emeries
+emetic A:
+emetic N: emetics
+emigrant A:
+emigrant N: emigrants
+emigrate V: emigrated  emigrating  emigrates
+emigration N: emigrations
+emigre N: emigres
+eminence N: eminences
+eminent A:
+eminently A:
+emir N: emirs
+emirate N: emirates
+emissary N: emissaries
+emission N: emissions
+emit V: emitted  emitting  emits
+emitter N: emitters
+emollient A:
+emollient N: emollients
+emolument N: emoluments
+emote V: emoted  emoting  emotes
+emoticon N: emoticons
+emotion N: emotions
+emotional A:
+emotionalism N: ~emotionalisms
+emotionalize V: emotionalized  emotionalizing  emotionalizes
+emotionally A:
+emotive A:
+empanel V: empaneled (empanelled)  empaneling (empanelling)  empanels
+empathetic A:
+empathize V: empathized  empathizing  empathizes
+empathy N: ~empathies
+emperor N: emperors
+emphasis N: emphases
+emphasize V: emphasized  emphasizing  emphasizes
+emphatic A:
+-emphatic N: emphatics
+emphatically A:
+emphysema N: ~emphysemas
+empire N: empires
+empiric A:
+-empiric N: empirics
+empirical A:
+empirically A:
+empiricism N: ~empiricisms
+empiricist A:
+empiricist N: empiricists
+emplacement N: emplacements
+employ N: ~employs
+employ V: employed  employing  employs
+employable A:
+employe N: employes
+employee N: employees
+employer N: employers
+employment N: employments
+emporium N: emporiums (emporia)
+empower V: empowered  empowering  empowers
+empowerment N: ~empowerments
+empress N: empresses
+emptily A:
+emptiness N: ~emptinesses
+empty A: emptier  emptiest
+empty N: empties
+empty V: emptied  emptying  empties
+empyrean N: ~empyreans
+emu N: emus
+emulate V: emulated  emulating  emulates
+emulation N: emulations
+emulative A:
+emulator N: emulators
+emulsification N: ~emulsifications
+emulsifier N: emulsifiers
+emulsify V: emulsified  emulsifying  emulsifies
+emulsion N: emulsions
+en N: ens
+enable V: enabled  enabling  enables
+enabler N: enablers
+enact V: enacted  enacting  enacts
+enactment N: enactments
+enamel A:
+enamel N: ~enamels
+enamel V: enameled (enamelled)  enameling (enamelling)  enamels
+enameler N: enamelers
+enamelware N: ~enamelwares
+enamor V: enamored  enamoring  enamors
+enamour V: enamoured  enamouring  enamours
+encamp V: encamped  encamping  encamps
+encampment N: encampments
+encapsulate V: encapsulated  encapsulating  encapsulates
+encapsulation N: encapsulations
+encase V: encased  encasing  encases
+encasement N: ~encasements
+encephalitic A:
+encephalitis N: ~encephalitides
+enchain V: enchained  enchaining  enchains
+enchant V: enchanted  enchanting  enchants
+enchanter N: enchanters
+enchantingly A:
+enchantment N: enchantments
+enchantress N: enchantresses
+enchilada N: enchiladas
+encipher V: enciphered  enciphering  enciphers
+encircle V: encircled  encircling  encircles
+encirclement N: ~encirclements
+enclave N: enclaves
+-enclave V: enclaved  enclaving  enclaves
+enclose V: enclosed  enclosing  encloses
+enclosure N: enclosures
+encode V: encoded  encoding  encodes
+encoder N: encoders
+encomium N: encomiums (encomia)
+encompass V: encompassed  encompassing  encompasses
+encore I:
+encore N: encores
+encore V: encored  encoring  encores
+encounter N: encounters
+encounter V: encountered  encountering  encounters
+encourage V: encouraged  encouraging  encourages
+encouragement N: encouragements
+encouragingly A:
+encroach V: encroached  encroaching  encroaches
+encroachment N: encroachments
+encrust V: encrusted  encrusting  encrusts
+encrustation N: encrustations
+encumber V: encumbered  encumbering  encumbers
+encumbrance N: encumbrances
+encyclical A:
+encyclical N: encyclicals
+encyclopaedia N: encyclopaedias
+encyclopaedic A:
+encyclopedia N: encyclopedias
+encyclopedic A:
+encyst V: encysted  encysting  encysts
+encystment N: ~encystments
+end A:
+end N: ends
+end V: ended  ending  ends
+endanger V: endangered  endangering  endangers
+endangerment N: ~endangerments
+endear V: endeared  endearing  endears
+endearingly A:
+endearment N: endearments
+endeavor N: endeavors
+endeavor V: endeavored  endeavoring  endeavors
+endeavour N: endeavours
+endeavour V: endeavoured  endeavouring  endeavours
+endemic A:
+endemic N: endemics
+endemically A:
+ending N: endings
+endive N: endives
+endless A:
+endlessly A:
+endlessness N: ~endlessnesses
+endmost A:
+endocrine A:
+endocrine N: endocrines
+endocrinologist N: endocrinologists
+endocrinology N: ~endocrinologies
+endogenous A:
+endogenously A:
+endorphin N: ~endorphins
+endorse V: endorsed  endorsing  endorses
+endorsement N: endorsements
+endorser N: endorsers
+endoscope N: endoscopes
+endoscopic A:
+endoscopy N: ~endoscopies
+endothermic A:
+endow V: endowed  endowing  endows
+endowment N: endowments
+endpoint N: endpoints
+endue V: endued  enduing  endues
+endurable A:
+endurance N: ~endurances
+endure V: endured  enduring  endures
+endways A:
+endwise A:
+enema N: enemas (enemata)
+enemy A:
+enemy N: enemies
+energetic A:
+energetically A:
+energize V: energized  energizing  energizes
+energizer N: energizers
+energy N: energies
+-enervate A:
+enervate V: enervated  enervating  enervates
+enervation N: ~enervations
+enfeeble V: enfeebled  enfeebling  enfeebles
+enfeeblement N: ~enfeeblements
+enfilade N: enfilades
+enfilade V: enfiladed  enfilading  enfilades
+enfold V: enfolded  enfolding  enfolds
+enforce V: enforced  enforcing  enforces
+enforceable A:
+enforcement N: ~enforcements
+enforcer N: enforcers
+enfranchise V: enfranchised  enfranchising  enfranchises
+enfranchisement N: ~enfranchisements
+engage V: engaged  engaging  engages
+engagement N: engagements
+engagingly A:
+engender V: engendered  engendering  engenders
+engine N: engines
+engineer N: engineers
+engineer V: engineered  engineering  engineers
+engineering N: ~engineerings
+engorge V: engorged  engorging  engorges
+engorgement N: ~engorgements
+engram N: engrams
+engrave V: engraved  engraving  engraves
+engraver N: engravers
+engraving N: engravings
+engross V: engrossed  engrossing  engrosses
+engrossment N: ~engrossments
+engulf V: engulfed  engulfing  engulfs
+engulfment N: ~engulfments
+enhance V: enhanced  enhancing  enhances
+enhancement N: enhancements
+enigma N: enigmas (-enigmata)
+enigmatic A:
+enigmatically A:
+enjambement N: enjambements
+enjambment N: enjambments
+enjoin V: enjoined  enjoining  enjoins
+enjoy V: enjoyed  enjoying  enjoys
+enjoyable A:
+enjoyably A:
+enjoyment N: enjoyments
+enlarge V: enlarged  enlarging  enlarges
+enlargeable A:
+enlargement N: enlargements
+enlarger N: enlargers
+enlighten V: enlightened  enlightening  enlightens
+enlightenment N: ~enlightenments
+enlist V: enlisted  enlisting  enlists
+enlistee N: enlistees
+enlistment N: enlistments
+enliven V: enlivened  enlivening  enlivens
+enlivenment N: ~enlivenments
+enmesh V: enmeshed  enmeshing  enmeshes
+enmeshment N: ~enmeshments
+enmity N: enmities
+ennoble V: ennobled  ennobling  ennobles
+ennoblement N: ~ennoblements
+ennui N: ~ennuis
+enormity N: enormities
+enormous A:
+enormously A:
+enormousness N: ~enormousnesses
+enough A:
+enough C:
+enough I:
+enough N: ~enoughs
+enough P:
+enplane V: enplaned  enplaning  enplanes
+enquire V: enquired  enquiring  enquires
+enquiry N: enquiries
+enrage V: enraged  enraging  enrages
+enrapture V: enraptured  enrapturing  enraptures
+enrich V: enriched  enriching  enriches
+enrichment N: ~enrichments
+enrol V: enrolled  enrolling  enrols
+enroll V: enrolled  enrolling  enrolls
+enrollment N: enrollments
+enrolment N: enrolments
+ensconce V: ensconced  ensconcing  ensconces
+ensemble N: ensembles
+enshrine V: enshrined  enshrining  enshrines
+enshrinement N: ~enshrinements
+enshroud V: enshrouded  enshrouding  enshrouds
+ensign N: ensigns
+ensilage N: ~ensilages
+-ensilage V: ensilaged  ensilaging  ensilages
+enslave V: enslaved  enslaving  enslaves
+enslavement N: ~enslavements
+ensnare V: ensnared  ensnaring  ensnares
+ensnarement N: ~ensnarements
+ensue V: ensued  ensuing  ensues
+ensure V: ensured  ensuring  ensures
+ensurer N: ensurers
+-entail N: entails
+entail V: entailed  entailing  entails
+entailment N: ~entailments
+entangle V: entangled  entangling  entangles
+entanglement N: entanglements
+entente N: ententes
+enter V: entered  entering  enters
+enteritis N: ~enteritises / ~enteritides
+enterprise N: enterprises
+enterprising A:
+enterprisingly A:
+entertain V: entertained  entertaining  entertains
+entertainer N: entertainers
+entertaining N: ~entertainings
+entertainingly A:
+entertainment N: entertainments
+enthral V: enthralled  enthralling  enthrals
+enthrall V: enthralled  enthralling  enthralls
+enthrallment N: ~enthrallments
+enthrone V: enthroned  enthroning  enthrones
+enthronement N: enthronements
+enthuse V: enthused  enthusing  enthuses
+enthusiasm N: enthusiasms
+enthusiast N: enthusiasts
+enthusiastic A:
+enthusiastically A:
+entice V: enticed  enticing  entices
+enticement N: enticements
+enticingly A:
+entire A:
+-entire N: entires
+entirely A:
+entirety N: ~entireties
+entitle V: entitled  entitling  entitles
+entitlement N: entitlements
+entity N: entities
+entomb V: entombed  entombing  entombs
+entombment N: ~entombments
+entomological A:
+entomologist N: entomologists
+entomology N: ~entomologies
+entourage N: entourages
+entrails N:
+entrance N: entrances
+entrance V: entranced  entrancing  entrances
+entrancement N: ~entrancements
+entrancingly A:
+entrant N: entrants
+entrap V: entrapped  entrapping  entraps
+entrapment N: ~entrapments
+entreat V: entreated  entreating  entreats
+entreatingly A:
+entreaty N: entreaties
+entree N: entrees
+entrench V: entrenched  entrenching  entrenches
+entrenchment N: entrenchments
+entrepreneur N: entrepreneurs
+entrepreneurial A:
+entropy N: ~entropies
+entrust V: entrusted  entrusting  entrusts
+entry N: entries
+entryway N: entryways
+entwine V: entwined  entwining  entwines
+enumerable A:
+enumerate V: enumerated  enumerating  enumerates
+enumeration N: enumerations
+enumerator N: enumerators
+enunciate V: enunciated  enunciating  enunciates
+enunciation N: ~enunciations
+enure V: enured  enuring  enures
+enuresis N: ~enureses (~enuresises)
+envelop V: enveloped  enveloping  envelops
+envelope N: envelopes
+enveloper N: envelopers
+envelopment N: ~envelopments
+envenom V: envenomed  envenoming  envenoms
+enviable A:
+enviably A:
+envious A:
+enviously A:
+enviousness N: ~enviousnesses
+environment N: environments
+environmental A:
+environmentalism N: ~environmentalisms
+environmentalist N: environmentalists
+environmentally A:
+environs N:
+envisage V: envisaged  envisaging  envisages
+envision V: envisioned  envisioning  envisions
+envoy N: envoys
+envy N: ~envies
+envy V: envied  envying  envies
+envyingly A:
+enzymatic A:
+enzyme N: enzymes
+eolian A:
+eon N: eons
+epaulet N: epaulets
+epaulette N: epaulettes
+epee N: epees
+ephedrine N: ~ephedrines
+-ephemera N {insect}: ephemeras (ephemerae)
+ephemera N:
+ephemeral A:
+-ephemeral N: ephemerals
+ephemerally A:
+epic A:
+epic N: epics
+epicenter N: epicenters
+epicentre N: epicentres
+epicure N: epicures
+epicurean A:
+epicurean N: epicureans
+epidemic A:
+epidemic N: epidemics
+epidemically A:
+epidemiologist N: epidemiologists
+epidemiology N: ~epidemiologies
+epidermal A:
+epidermic A:
+epidermis N: epidermises
+epiglottis N: epiglottises (epiglottides)
+epigram N: epigrams
+epigrammatic A:
+epigraph N: epigraphs
+epigraphy N: ~epigraphies
+epilepsy N: ~epilepsies
+epileptic A:
+epileptic N: epileptics
+epilog N: epilogs
+epilogue N: epilogues
+epinephrin N: ~epinephrins
+epinephrine N: ~epinephrines
+epiphany N: epiphanies
+episcopacy N: ~episcopacies
+episcopal A:
+episcopate N: ~episcopates
+episode N: episodes
+episodic A:
+episodically A:
+epistle N: epistles
+epistolary A:
+epitaph N: epitaphs
+-epitaph V: epitaphed  epitaphing  epitaphs
+epithelial A:
+epithelium N: ~epitheliums (~epithelia)
+epithet N: epithets
+epitome N: epitomes
+epitomize V: epitomized  epitomizing  epitomizes
+epoch N: epochs
+epochal A:
+epoxy A:
+epoxy N: ~epoxies
+epoxy V: epoxied (epoxyed)  epoxying  epoxies
+epsilon N: epsilons
+equability N: ~equabilities
+equable A:
+equably A:
+equal A:
+equal N: equals
+equal V: equaled (equalled)  equaling (equalling)  equals
+equality N: ~equalities
+equalization N: ~equalizations
+equalize V: equalized  equalizing  equalizes
+equalizer N: equalizers
+equally A:
+equanimity N: ~equanimities
+equatable A:
+equate V: equated  equating  equates
+equation N: equations
+equator N: equators
+equatorial A:
+-equatorial N: equatorials
+equerry N: equerries
+equestrian A:
+equestrian N: equestrians
+equestrianism N: ~equestrianisms
+equestrienne N: equestriennes
+equidistant A:
+equidistantly A:
+equilateral A:
+equilateral N: equilaterals
+equilibrium N: ~equilibriums (~equilibria)
+equine A:
+equine N: equines
+equinoctial A:
+-equinoctial N: equinoctials
+equinox N: equinoxes
+equip V: equipped  equipping  equips
+equipage N: equipages
+equipment N: ~equipments
+equipoise N: ~equipoises
+-equipoise V: equipoised  equipoising  equipoises
+equitable A:
+equitably A:
+equitation N: ~equitations
+equity N: equities
+equivalence N: equivalences
+equivalency N: equivalencies
+equivalent A:
+equivalent N: equivalents
+equivalently A:
+equivocal A:
+equivocally A:
+equivocalness N: ~equivocalnesses
+equivocate V: equivocated  equivocating  equivocates
+equivocation N: equivocations
+equivocator N: equivocators
+era N: eras
+eradicable A:
+eradicate V: eradicated  eradicating  eradicates
+eradication N: ~eradications
+eradicator N: eradicators
+erasable A:
+erase V: erased  erasing  erases
+eraser N: erasers
+erasure N: erasures
+erbium N: ~erbiums
+ere C:
+erect A:
+erect V: erected  erecting  erects
+erectile A:
+erection N: erections
+erectly A:
+erectness N: ~erectnesses
+erector N: erectors
+erelong A:
+eremite N: eremites
+erg N: ergs
+ergo A:
+ergo C:
+ergonomic A:
+ergonomically A:
+ergonomics N:
+ergosterol N: ~ergosterols
+ergot N: ~ergots
+ermine N: ermines | ermine
+erode V: eroded  eroding  erodes
+erodible A:
+erogenous A:
+erosion N: ~erosions
+erosive A:
+erotic A:
+-erotic N: erotics
+erotica N:
+erotically A:
+eroticism N: ~eroticisms
+err V: erred  erring  errs
+errand N: errands
+errant A:
+errata N: erratas
+erratic A:
+erratically A:
+erratum N: errata
+erroneous A:
+erroneously A:
+error N: errors
+ersatz A:
+ersatz N: ersatzes
+erst A:
+erstwhile A:
+eruct V: eructed  eructing  eructs
+eructation N: eructations
+erudite A:
+eruditely A:
+erudition N: ~eruditions
+erupt V: erupted  erupting  erupts
+eruption N: eruptions
+eruptive A:
+-eruptive N: eruptives
+erysipelas N: ~erysipelases
+erythrocyte N: erythrocytes
+escalate V: escalated  escalating  escalates
+escalation N: escalations
+escalator N: escalators
+escallop N: escallops
+escallop V: escalloped  escalloping  escallops
+escalop N: escalops
+escalop V: escaloped  escaloping  escalops
+escapade N: escapades
+escape A:
+escape N: escapes
+escape V: escaped  escaping  escapes
+escapee N: escapees
+escapement N: escapements
+escapism N: ~escapisms
+escapist A:
+escapist N: escapists
+escargot N: escargots
+escarole N: escaroles
+escarpment N: escarpments
+eschew V: eschewed  eschewing  eschews
+escort N: escorts
+escort V: escorted  escorting  escorts
+escritoire N: escritoires
+escrow N: escrows
+-escrow V: escrowed  escrowing  escrows
+escudo N: escudos
+escutcheon N: escutcheons
+esophageal A:
+esophagus N: esophagi (-esophaguses)
+esoteric A:
+esoterically A:
+espadrille N: espadrilles
+espalier N: espaliers
+espalier V: espaliered  espaliering  espaliers
+especial A:
+especially A:
+espionage N: ~espionages
+esplanade N: esplanades
+espousal N: ~espousals
+espouse V: espoused  espousing  espouses
+espresso N: espressos
+esprit N: ~esprits
+espy V: espied  espying  espies
+esquire N: esquires
+-esquire V: esquired  esquiring  esquires
+essay N: essays
+essay V: essayed  essaying  essays
+essayer N: essayers
+essayist N: essayists
+essence N: essences
+essential A:
+essential N: essentials
+essentially A:
+establish V: established  establishing  establishes
+establishment N: establishments
+estate N: estates
+-estate V: estated  estating  estates
+esteem N: ~esteems
+esteem V: esteemed  esteeming  esteems
+ester N: esters
+esthete N: esthetes
+esthetic A:
+-esthetic N: esthetics
+esthetically A:
+esthetics N:
+estimable A:
+estimate N: estimates
+estimate V: estimated  estimating  estimates
+estimation N: estimations
+estimator N: estimators
+estrange V: estranged  estranging  estranges
+estrangement N: estrangements
+estrogen N: ~estrogens
+estrous A:
+estrus N: estruses
+estuary N: estuaries
+eta N: etas
+etch V: etched  etching  etches
+etcher N: etchers
+etching N: etchings
+eternal A:
+-eternal N: eternals
+eternally A:
+eternalness N: ~eternalnesses
+eternity N: eternities
+ethane N: ~ethanes
+ethanol N: ~ethanols
+ether N: ~ethers
+ethereal A:
+ethereally A:
+ethic A:
+ethic N: ethics
+ethics N:
+ethical A:
+ethically A:
+ethnic A:
+ethnic N: ethnics
+ethnically A:
+ethnicity N: ~ethnicities
+ethnocentric A:
+ethnocentrism N: ~ethnocentrisms
+ethnological A:
+ethnologist N: ethnologists
+ethnology N: ~ethnologies
+ethological A:
+ethologist N: ethologists
+ethology N: ~ethologies
+ethos N: ~ethoses
+ethyl N: ~ethyls
+-ethylene A:
+ethylene N: ~ethylenes
+etiologic A:
+etiological A:
+etiology N: etiologies
+etiquette N: ~etiquettes
+etude N: etudes
+etymological A:
+etymologically A:
+etymologist N: etymologists
+etymology N: etymologies
+eucalyptus N: eucalyptuses / eucalypti
+euchre N: ~euchres
+euchre V: euchred  euchring  euchres
+euclidean A:
+eugenic A:
+eugenically A:
+eugenicist N: eugenicists
+eugenics N:
+eulogist N: eulogists
+eulogistic A:
+eulogize V: eulogized  eulogizing  eulogizes
+eulogizer N: eulogizers
+eulogy N: eulogies
+eunuch N: eunuchs
+euphemism N: euphemisms
+euphemistic A:
+euphemistically A:
+euphonious A:
+euphoniously A:
+euphony N: ~euphonies
+euphoria N: ~euphorias
+euphoric A:
+euphorically A:
+eureka I:
+euro N: euros
+europium N: ~europiums
+euthanasia N: ~euthanasias
+euthanize V: euthanized  euthanizing  euthanizes
+euthenics N:
+evacuate V: evacuated  evacuating  evacuates
+evacuation N: evacuations
+evacuee N: evacuees
+evade V: evaded  evading  evades
+evader N: evaders
+evaluate V: evaluated  evaluating  evaluates
+evaluation N: evaluations
+evanescence N: ~evanescences
+evanescent A:
+evangelic A:
+evangelical A:
+evangelical N: evangelicals
+evangelicalism N: ~evangelicalisms
+evangelically A:
+evangelism N: ~evangelisms
+evangelist N: evangelists
+evangelistic A:
+evangelize V: evangelized  evangelizing  evangelizes
+evaporate V: evaporated  evaporating  evaporates
+evaporation N: ~evaporations
+evaporator N: evaporators
+evasion N: evasions
+evasive A:
+evasively A:
+evasiveness N: ~evasivenesses
+eve N: eves
+even A: evener  evenest
+even N: evens
+even V: evened  evening  evens
+evenhanded A:
+evenhandedly A:
+evening I:
+evening N: evenings
+evenly A:
+evenness N: ~evennesses
+evensong N: ~evensongs
+event N: events
+eventful A:
+eventfully A:
+eventfulness N: ~eventfulnesses
+eventide N: ~eventides
+eventual A:
+eventuality N: eventualities
+eventually A:
+eventuate V: eventuated  eventuating  eventuates
+ever A:
+everglade N: everglades
+evergreen A:
+evergreen N: evergreens
+everlasting A:
+everlasting N: everlastings
+everlastingly A:
+evermore A:
+every A:
+everybody P:
+everyday A:
+everyone P:
+everyplace A:
+everything P:
+everywhere A:
+evict V: evicted  evicting  evicts
+eviction N: evictions
+evidence N: ~evidences
+evidence V: evidenced  evidencing  evidences
+evident A:
+evidently A:
+evil A: eviler (eviller)  evilest (evillest)
+evil N: evils
+evildoer N: evildoers
+evildoing N: ~evildoings
+evilly A:
+evilness N: ~evilnesses
+evince V: evinced  evincing  evinces
+-eviscerate A:
+eviscerate V: eviscerated  eviscerating  eviscerates
+evisceration N: ~eviscerations
+evocation N: evocations
+evocative A:
+evocatively A:
+evoke V: evoked  evoking  evokes
+evolution N: ~evolutions
+evolutionary A:
+evolutionist A:
+evolutionist N: evolutionists
+evolve V: evolved  evolving  evolves
+ewe N: ewes
+ewer N: ewers
+-ex A:
+ex C:
+ex N: exes
+exacerbate V: exacerbated  exacerbating  exacerbates
+exacerbation N: ~exacerbations
+exact A: exacter  exactest
+exact V: exacted  exacting  exacts
+exactingly A:
+exaction N: ~exactions
+exactitude N: ~exactitudes
+exactly A:
+exactness N: ~exactnesses
+exaggerate V: exaggerated  exaggerating  exaggerates
+exaggeratedly A:
+exaggeration N: exaggerations
+exaggerator N: exaggerators
+exalt V: exalted  exalting  exalts
+exaltation N: ~exaltations
+exam N: exams
+examination N: examinations
+examine V: examined  examining  examines
+examiner N: examiners
+example N: examples
+example V: exampled  exampling  examples
+-exasperate A:
+exasperate V: exasperated  exasperating  exasperates
+exasperation N: ~exasperations
+excavate V: excavated  excavating  excavates
+excavation N: excavations
+excavator N: excavators
+exceed V: exceeded  exceeding  exceeds
+exceedingly A:
+excel V: excelled  excelling  excels
+excellence N: ~excellences
+excellency N: excellencies
+excellent A:
+excellently A:
+excelsior I:
+excelsior N: ~excelsiors
+except C:
+except V: excepted  excepting  excepts
+excepting C:
+exception N: exceptions
+exceptionable A:
+exceptional A:
+exceptionally A:
+excerpt N: excerpts
+excerpt V: excerpted  excerpting  excerpts
+excess A:
+excess N: excesses
+-excess V: excessed  excessing  excesses
+excessive A:
+excessively A:
+exchange N: exchanges
+exchange V: exchanged  exchanging  exchanges
+exchangeable A:
+exchequer N: exchequers
+excise N: excises
+excise V: excised  excising  excises
+excision N: excisions
+excitability N: ~excitabilities
+excitable A:
+excitably A:
+excitation N: ~excitations
+excite V: excited  exciting  excites
+excitedly A:
+excitement N: excitements
+exciter N: exciters
+excitingly A:
+exclaim V: exclaimed  exclaiming  exclaims
+exclamation N: exclamations
+exclamatory A:
+exclude V: excluded  excluding  excludes
+excluding C:
+exclusion N: ~exclusions
+exclusive A:
+exclusive N: exclusives
+exclusively A:
+exclusiveness N: ~exclusivenesses
+exclusivity N: ~exclusivities
+-excommunicate A:
+-excommunicate N: excommunicates
+excommunicate V: excommunicated  excommunicating  excommunicates
+excommunication N: excommunications
+excoriate V: excoriated  excoriating  excoriates
+excoriation N: excoriations
+excrement N: ~excrements
+excremental A:
+excrescence N: excrescences
+excrescent A:
+excreta N:
+excrete V: excreted  excreting  excretes
+excretion N: excretions
+excretory A:
+excruciating A:
+excruciatingly A:
+exculpate V: exculpated  exculpating  exculpates
+exculpation N: ~exculpations
+exculpatory A:
+excursion A:
+excursion N: excursions
+-excursion V: excursioned  excursioning  excursions
+excursionist N: excursionists
+excursive A:
+excursively A:
+excursiveness N: ~excursivenesses
+excusable A:
+excusably A:
+excuse N: excuses
+excuse V: excused  excusing  excuses
+exec N: execs
+execrable A:
+execrably A:
+execrate V: execrated  execrating  execrates
+execration N: ~execrations
+execute V: executed  executing  executes
+execution N: executions
+executioner N: executioners
+executive A:
+executive N: executives
+executor N: executors
+executrix N: executrices (executrixes)
+exegesis N: exegeses
+exegetic A:
+exegetical A:
+exemplar N: exemplars
+exemplary A:
+exemplification N: exemplifications
+exemplify V: exemplified  exemplifying  exemplifies
+exempt A:
+-exempt N: exempts
+exempt V: exempted  exempting  exempts
+exemption N: exemptions
+exercise N: exercises
+exercise V: exercised  exercising  exercises
+exerciser N: exercisers
+exert V: exerted  exerting  exerts
+exertion N: exertions
+exhalation N: exhalations
+exhale V: exhaled  exhaling  exhales
+exhaust N: exhausts
+exhaust V: exhausted  exhausting  exhausts
+exhaustible A:
+exhaustion N: ~exhaustions
+exhaustive A:
+exhaustively A:
+exhaustiveness N: ~exhaustivenesses
+exhibit N: exhibits
+exhibit V: exhibited  exhibiting  exhibits
+exhibition N: exhibitions
+exhibitionism N: ~exhibitionisms
+exhibitionist A:
+exhibitionist N: exhibitionists
+exhibitor N: exhibitors
+exhilarate V: exhilarated  exhilarating  exhilarates
+exhilaration N: ~exhilarations
+exhort V: exhorted  exhorting  exhorts
+exhortation N: exhortations
+exhumation N: exhumations
+exhume V: exhumed  exhuming  exhumes
+exigence N: exigences
+exigency N: exigencies
+exigent A:
+exiguity N: ~exiguities
+exiguous A:
+exile N: exiles
+exile V: exiled  exiling  exiles
+exist V: existed  existing  exists
+existence N: existences
+existent A:
+-existent N: existents
+existential A:
+existentialism N: ~existentialisms
+existentialist A:
+existentialist N: existentialists
+existentially A:
+exit N: exits
+exit V: exited  exiting  exits
+exobiology N: ~exobiologies
+exodus N: exoduses
+exogenous A:
+exonerate V: exonerated  exonerating  exonerates
+exoneration N: ~exonerations
+exorbitance N: ~exorbitances
+exorbitant A:
+exorbitantly A:
+exorcise V: exorcised  exorcising  exorcises
+exorcism N: exorcisms
+exorcist N: exorcists
+exorcize V: exorcized  exorcizing  exorcizes
+exoskeleton N: exoskeletons
+exosphere N: exospheres
+exothermic A:
+exotic A:
+exotic N: exotics
+exotically A:
+exoticism N: ~exoticisms
+expand V: expanded  expanding  expands
+expandable A:
+expanse N: expanses
+expansible A:
+expansion N: expansions
+expansionary A:
+expansionism N: ~expansionisms
+expansionist A:
+expansionist N: expansionists
+expansive A:
+expansively A:
+expansiveness N: ~expansivenesses
+expatiate V: expatiated  expatiating  expatiates
+expatiation N: ~expatiations
+expatriate A:
+expatriate N: expatriates
+expatriate V: expatriated  expatriating  expatriates
+expatriation N: ~expatriations
+expect V: expected  expecting  expects
+expectancy N: ~expectancies
+expectant A:
+-expectant N: expectants
+expectantly A:
+expectation N: expectations
+expectorant A:
+expectorant N: expectorants
+expectorate V: expectorated  expectorating  expectorates
+expectoration N: ~expectorations
+expedience N: expediences
+expediency N: expediencies
+expedient A:
+expedient N: expedients
+expediently A:
+-expedite A:
+expedite V: expedited  expediting  expedites
+expediter N: expediters
+expedition N: expeditions
+expeditionary A:
+expeditious A:
+expeditiously A:
+expeditiousness N: ~expeditiousnesses
+expeditor N: expeditors
+expel V: expelled  expelling  expels
+expend V: expended  expending  expends
+expendable A:
+expendable N: expendables
+expenditure N: expenditures
+expense N: expenses
+-expense V: expensed  expensing  expenses
+expensive A:
+expensively A:
+expensiveness N: ~expensivenesses
+experience N: experiences
+experience V: experienced  experiencing  experiences
+experiment N: experiments
+experiment V: experimented  experimenting  experiments
+experimental A:
+experimentally A:
+experimentation N: ~experimentations
+experimenter N: experimenters
+expert A:
+expert N: experts
+-expert V: experted  experting  experts
+expertise N: ~expertises
+-expertise V: expertised  expertising  expertises
+expertly A:
+expertness N: ~expertnesses
+expiate V: expiated  expiating  expiates
+expiation N: ~expiations
+expiatory A:
+expiration N: ~expirations
+expire V: expired  expiring  expires
+expiry N: ~expiries
+explain V: explained  explaining  explains
+explainable A:
+explanation N: explanations
+explanatory A:
+-expletive A:
+expletive N: expletives
+explicable A:
+explicate V: explicated  explicating  explicates
+explication N: explications
+explicit A:
+explicitly A:
+explicitness N: ~explicitnesses
+explode V: exploded  exploding  explodes
+exploit N: exploits
+exploit V: exploited  exploiting  exploits
+exploitable A:
+exploitation N: ~exploitations
+exploitative A:
+exploiter N: exploiters
+exploration N: explorations
+exploratory A:
+explore V: explored  exploring  explores
+explorer N: explorers
+explosion N: explosions
+explosive A:
+explosive N: explosives
+explosively A:
+explosiveness N: ~explosivenesses
+expo N: expos
+exponent N: exponents
+exponential A:
+-exponential N: exponentials
+exponentially A:
+export A:
+export N: exports
+export V: exported  exporting  exports
+exportable A:
+exportation N: ~exportations
+exporter N: exporters
+expose N: exposes
+expose V: exposed  exposing  exposes
+exposition N: expositions
+expositor N: expositors
+expository A:
+expostulate V: expostulated  expostulating  expostulates
+expostulation N: expostulations
+exposure N: exposures
+expound V: expounded  expounding  expounds
+expounder N: expounders
+express A:
+express N: expresses
+express V: expressed  expressing  expresses
+expressible A:
+expression N: expressions
+expressionism N: ~expressionisms
+expressionist A:
+expressionist N: expressionists
+expressionistic A:
+expressionless A:
+expressive A:
+expressively A:
+expressiveness N: ~expressivenesses
+expressly A:
+expressway N: expressways
+expropriate V: expropriated  expropriating  expropriates
+expropriation N: expropriations
+expropriator N: expropriators
+expulsion N: expulsions
+expunge V: expunged  expunging  expunges
+expurgate V: expurgated  expurgating  expurgates
+expurgation N: expurgations
+exquisite A:
+-exquisite N: exquisites
+exquisitely A:
+exquisiteness N: ~exquisitenesses
+extant A:
+extemporaneous A:
+extemporaneously A:
+extemporaneousness N: ~extemporaneousnesses
+extempore A:
+extemporization N: ~extemporizations
+extemporize V: extemporized  extemporizing  extemporizes
+extend V: extended  extending  extends
+extendable A:
+extender N: extenders
+extendible A:
+extensible A:
+extension A:
+extension N: extensions
+extensive A:
+extensively A:
+extensiveness N: ~extensivenesses
+extent N: extents
+extenuate V: extenuated  extenuating  extenuates
+extenuation N: ~extenuations
+exterior A:
+exterior N: exteriors
+exterminate V: exterminated  exterminating  exterminates
+extermination N: exterminations
+exterminator N: exterminators
+external A:
+external N: externals
+externalization N: externalizations
+externalize V: externalized  externalizing  externalizes
+externally A:
+extinct A:
+extinct V: extincted  extincting  extincts
+extinction N: extinctions
+extinguish V: extinguished  extinguishing  extinguishes
+extinguishable A:
+extinguisher N: extinguishers
+extirpate V: extirpated  extirpating  extirpates
+extirpation N: ~extirpations
+extol V: extolled  extolling  extols
+extoll V: extolled  extolling  extolls
+extort V: extorted  extorting  extorts
+extortion N: ~extortions
+extortionate A:
+extortionately A:
+extortioner N: extortioners
+extortionist N: extortionists
+extra A:
+extra N: extras
+extra P:
+extract N: extracts
+extract V: extracted  extracting  extracts
+extraction N: extractions
+extractor N: extractors
+extracurricular A:
+extraditable A:
+extradite V: extradited  extraditing  extradites
+extradition N: extraditions
+extralegal A:
+extramarital A:
+extramural A:
+extraneous A:
+extraneously A:
+extraordinarily A:
+extraordinary A:
+extrapolate V: extrapolated  extrapolating  extrapolates
+extrapolation N: extrapolations
+extrasensory A:
+extraterrestrial A:
+extraterrestrial N: extraterrestrials
+extraterritorial A:
+extraterritoriality N: ~extraterritorialities
+extravagance N: extravagances
+extravagant A:
+extravagantly A:
+extravaganza N: extravaganzas
+extravehicular A:
+-extravert A:
+extravert N: extraverts
+-extravert V: extraverted  extraverting  extraverts
+extreme A: extremer  extremest
+extreme N: extremes
+extremely A:
+extremeness N: ~extremenesses
+extremism N: ~extremisms
+extremist A:
+extremist N: extremists
+extremity N: extremities
+extricable A:
+extricate V: extricated  extricating  extricates
+extrication N: ~extrications
+extrinsic A:
+extrinsically A:
+extroversion N: ~extroversions
+extrovert A:
+extrovert N: extroverts
+-extrovert V: extroverted  extroverting  extroverts
+extroverted A:
+extrude V: extruded  extruding  extrudes
+extrusion N: extrusions
+extrusive A:
+exuberance N: ~exuberances
+exuberant A:
+exuberantly A:
+exudation N: ~exudations
+exude V: exuded  exuding  exudes
+exult V: exulted  exulting  exults
+exultant A:
+exultantly A:
+exultation N: ~exultations
+exurb N: exurbs
+exurban A:
+exurbanite N: exurbanites
+exurbia N: ~exurbias
+eye N: eyes (-@eyen -@eyne)
+eye V: eyed  eyeing (eying)  eyes
+eyeball N: eyeballs
+eyeball V: eyeballed  eyeballing  eyeballs
+eyebrow N: eyebrows
+eyedropper N: eyedroppers
+eyeful N: eyefuls
+eyeglass N: eyeglasses
+eyelash N: eyelashes
+eyeless A:
+eyelet N: eyelets
+-eyelet V: eyeleted (eyeletted)  eyeleting (eyeletting)  eyelets
+eyelid N: eyelids
+eyeliner N: eyeliners
+eyeopener N: eyeopeners
+eyeopening A:
+eyepiece N: eyepieces
+eyesight N: ~eyesights
+eyesore N: eyesores
+eyestrain N: ~eyestrains
+eyetooth N: eyeteeth
+eyewash N: ~eyewashes
+eyewitness N: eyewitnesses
+eyrie N: eyries
+eyry N: eyries

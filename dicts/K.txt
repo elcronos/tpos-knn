@@ -1,0 +1,322 @@
+kabob N: kabobs
+kabuki N: ~kabukis
+kaddish N: kaddishes
+kaffeeklatch N: kaffeeklatches
+kaffeeklatsch N: kaffeeklatsches
+kaftan N: kaftans
+kaiser N: kaisers
+kale N: ~kales
+kaleidoscope N: kaleidoscopes
+kaleidoscopic A:
+kaleidoscopically A:
+kamikaze A:
+kamikaze N: kamikazes
+kangaroo N: kangaroos | kangaroo
+kaolin N: ~kaolins
+kapok N: ~kapoks
+kappa N: kappas
+kaput A:
+karakul N: ~karakuls
+karaoke N: karaokes
+karat N: karats
+karate N: ~karates
+karma N: ~karmas
+karmic A:
+kart N: karts
+katydid N: katydids
+kayak N: kayaks
+kayak V: kayaked  kayaking  kayaks
+kayaking N: ~kayakings
+kayo N: kayos
+kayo V: kayoed  kayoing  kayos
+kazoo N: kazoos
+kebab N: kebabs
+kebob N: kebobs
+keel N: keels
+keel V: keeled  keeling  keels
+keelhaul V: keelhauled  keelhauling  keelhauls
+keen A: keener  keenest
+keen N: keens
+keen V: keened  keening  keens
+keenly A:
+keenness N: ~keennesses
+keep N: keeps
+keep V: kept  keeping  keeps
+keeper N: keepers
+keeping N: ~keepings
+keepsake N: keepsakes
+keg N: kegs
+kelp N: ~kelps
+-kelp V: kelped  kelping  kelps
+kelvin A:
+kelvin N: kelvins
+ken N: ~kens
+ken V: kenned (kent)  kenning  kens
+kennel N: kennels
+kennel V: kenneled (kennelled)  kenneling (kennelling)  kennels
+keno N: ~kenos
+kepi N: kepis
+keratin N: ~keratins
+kerb N: kerbs
+-kerb V: kerbed  kerbing  kerbs
+kerchief N: kerchiefs (kerchieves)
+kernel N: kernels
+-kernel V: kerneled (kernelled)  kerneling (kernelling)  kernels
+kerosene N: ~kerosenes
+kerosine N: ~kerosines
+kestrel N: kestrels
+ketch N: ketches
+ketchup N: ~ketchups
+kettle N: kettles
+kettledrum N: kettledrums
+key A:
+key N: keys
+key V: keyed  keying  keys
+keyboard N: keyboards
+keyboard V: keyboarded  keyboarding  keyboards
+keyboarder N: keyboarders
+keyboardist N: keyboardists
+keyhole N: keyholes
+keynote N: keynotes
+keynote V: keynoted  keynoting  keynotes
+keynoter N: keynoters
+keypad N: keypads
+keypunch N: keypunches
+keypunch V: keypunched  keypunching  keypunches
+keypuncher N: keypunchers
+keystone N: keystones
+keystroke N: keystrokes
+keyword N: keywords
+khaki A:
+khaki N: khakis
+khan N: khans
+kibble N: ~kibbles
+kibble V: kibbled  kibbling  kibbles
+kibbutz N: kibbutzim
+kibitz V: kibitzed  kibitzing  kibitzes
+kibitzer N: kibitzers
+kibosh N: ~kiboshes
+-kibosh V: kiboshed  kiboshing  kiboshes
+kick N: kicks
+kick V: kicked  kicking  kicks
+kickback N: kickbacks
+kickball N: ~kickballs
+kicker N: kickers
+kickoff N: kickoffs
+kickstand N: kickstands
+kicky A: kickier  kickiest
+kid A:
+kid N: kids
+kid V: kidded  kidding  kids
+kidder N: kidders
+kiddie A:
+kiddie N: kiddies
+kiddish A:
+kiddo N: kiddos (kiddoes)
+kiddy A:
+kiddy N: kiddies
+kidnap V: kidnapped (kidnaped)  kidnapping (kidnaping)  kidnaps
+kidnaper N: kidnapers
+kidnapper N: kidnappers
+kidnapping N: kidnappings
+kidney N: kidneys
+kidskin N: ~kidskins
+kielbasa N: kielbasas (kielbasi kielbasy)
+kill N: kills
+kill V: killed  killing  kills
+killdeer N: killdeers (killdeer)
+killer A:
+killer N: killers
+killing N: killings
+killjoy N: killjoys
+kiln N: kilns
+kiln V: kilned  kilning  kilns
+kilo N: kilos
+kilobyte N: kilobytes
+kilocycle N: kilocycles
+kilogram N: kilograms
+kilohertz N: kilohertz (kilohertzes)
+kiloliter N: kiloliters
+kilometer N: kilometers
+kilometre N: kilometres
+kiloton N: kilotons
+kilowatt N: kilowatts
+kilt N: kilts
+-kilt V: kilted  kilting  kilts
+kilter N: ~kilters
+kimono N: kimonos
+-kin A:
+kin N: ~kin {family} | -kins {relative}
+kind A: kinder  kindest
+kind N: kinds
+kinda S:
+kindergarten N: kindergartens
+kindergartener N: kindergarteners
+kindergartner N: kindergartners
+kindhearted A:
+kindheartedly A:
+kindheartedness N: ~kindheartednesses
+kindle V: kindled  kindling  kindles
+kindliness N: ~kindlinesses
+kindling N: ~kindlings
+kindly A: kindlier  kindliest
+kindness N: kindnesses
+kindred A:
+kindred N: ~kindreds
+kinematic A:
+kinematics N:
+kinetic A:
+kinetically A:
+kinetics N:
+kinfolk N:
+kinfolks N:
+king A:
+king N: kings
+-king V: kinged  kinging  kings
+kingdom N: kingdoms
+kingfisher N: kingfishers
+kingly A: kinglier  kingliest
+kingpin N: kingpins
+kingship N: ~kingships
+kink N: kinks
+kink V: kinked  kinking  kinks
+kinkily A:
+kinkiness N: ~kinkinesses
+kinky A: kinkier  kinkiest
+kinsfolk N:
+kinsfolks N:
+kinship N: ~kinships
+kinsman N: kinsmen
+kinswoman N: kinswomen
+kiosk N: kiosks
+kip N {money}: kip / kips
+kip N {sleep}: ~kips
+kip V: kipped  kipping  kips
+kipper N: kippers
+kipper V: kippered  kippering  kippers
+kirk N: kirks
+kirsch N: ~kirsches
+kismet N: ~kismets
+kiss N: kisses
+kiss V: kissed  kissing  kisses
+kissable A:
+kisser N: kissers
+kissoff N: kissoffs
+kit N: kits
+-kit V: kitted  kitting  kits
+kitbag N: kitbags
+kitchen A:
+kitchen N: kitchens
+kitchenette N: kitchenettes
+kitchenware N: ~kitchenwares
+kite N: kites
+kite V: kited  kiting  kites
+kith N: ~kiths / -
+kitsch A:
+kitsch N: ~kitsches
+kitschy A: kitschier  kitschiest
+kitten N: kittens
+-kitten V: kittened  kittening  kittens
+kittenish A:
+kitty N: kitties
+kiwi N: kiwis
+kiwifruit N: kiwifruits
+kleptomania N: ~kleptomanias
+kleptomaniac A:
+kleptomaniac N: kleptomaniacs
+klutz N: klutzes
+klutziness N: ~klutzinesses
+klutzy A: klutzier  klutziest
+knack N: knacks
+knackwurst N: knackwursts
+knapsack N: knapsacks
+knave N: knaves
+knavery N: ~knaveries
+knavish A:
+knavishly A:
+knead V: kneaded  kneading  kneads
+kneader N: kneaders
+knee N: knees
+knee V: kneed  kneeing  knees
+kneecap N: kneecaps
+kneecap V: kneecapped  kneecapping  kneecaps
+-kneel N: kneels
+kneel V: knelt (kneeled)  kneeling  kneels
+knell N: knells
+knell V: knelled  knelling  knells
+knickerbockers N:
+knickers N:
+knickknack N: knickknacks
+knife N: knives
+knife V: knifed  knifing  knifes
+knight N: knights
+knight V: knighted  knighting  knights
+knighthood N: knighthoods
+knightliness N: ~knightlinesses
+knightly A: knightlier  knightliest
+knish N: knishes
+knit A:
+knit N: knits
+knit V: knitted (knit)  knitting  knits
+knitter N: knitters
+knitting N: ~knittings
+knitwear N: ~knitwears
+knob N: knobs
+knobby A: knobbier  knobbiest
+knock N: knocks
+knock V: knocked  knocking  knocks
+-knockdown A:
+knockdown N: knockdowns
+knocker N: knockers
+knockoff N: knockoffs
+knockout A:
+knockout N: knockouts
+knockwurst N: knockwursts
+knoll N: knolls
+-knoll V: knolled  knolling  knolls
+knot N: knots
+knot V: knotted  knotting  knots
+knothole N: knotholes
+knotty A: knottier  knottiest
+know N: knows
+know V: knew  known  knowing  knows
+knowable A:
+knowing A: -knowinger  -knowingest
+knowingly A:
+knowledge N: ~knowledges
+knowledgeable A:
+knowledgeably A:
+-known N: knowns
+knuckle N: knuckles
+knuckle V: knuckled  knuckling  knuckles
+knucklehead N: knuckleheads
+knurl N: knurls
+knurl V: knurled  knurling  knurls
+koala N: koalas
+kohlrabi N: kohlrabies
+kola N: kolas
+kook N: kooks
+kookaburra N: kookaburras
+kookie A: kookier  kookiest
+kookiness N: ~kookinesses
+kooky A: kookier  kookiest
+kopeck N: kopecks
+kopek N: kopeks
+kosher A:
+-kosher N: koshers
+kosher V: koshered  koshering  koshers
+kowtow N: kowtows
+kowtow V: kowtowed  kowtowing  kowtows
+kraal N: kraals
+-kraal V: kraaled  kraaling  kraals
+kraut N: krauts
+krill N: ~krills
+krona N: kronor {Sweden} | kronur {Iceland}
+krone N: kroner
+krypton N: ~kryptons
+kuchen N: kuchen / kuchens
+kudos N:
+kudzu N: kudzus
+kumquat N: kumquats
+kvetch N: kvetches
+kvetch V: kvetched  kvetching  kvetches

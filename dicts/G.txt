@@ -1,0 +1,1503 @@
+gab N: ~gabs
+gab V: gabbed  gabbing  gabs
+gabardine N: gabardines
+gabbiness N: ~gabbinesses
+gabble N: ~gabbles
+gabble V: gabbled  gabbling  gabbles
+gabby A: gabbier  gabbiest
+gaberdine N: gaberdines
+gabfest N: gabfests
+gable N: gables
+gabled A:
+-gad N: gads
+gad V: gadded  gadding  gads
+gadabout N: gadabouts
+gadder N: gadders
+gadfly N: gadflies
+gadget N: gadgets
+gadgetry N: ~gadgetries
+gadolinium N: ~gadoliniums
+gaff N: gaffs
+gaff V: gaffed  gaffing  gaffs
+gaffe N: gaffes
+gaffer N: gaffers
+gag N: gags
+gag V: gagged  gagging  gags
+gaga A:
+gage N: gages
+gage V: gaged  gaging  gages
+gaggle N: gaggles
+-gaggle V: gaggled  gaggling  gaggles
+gaiety N: ~gaieties
+gaily A:
+gain N: gains
+gain V: gained  gaining  gains
+gainer N: gainers
+gainful A:
+gainfully A:
+gainsay V: gainsaid  gainsaying  gainsays
+gainsayer N: gainsayers
+gait N: gaits
+-gait V: gaited  gaiting  gaits
+gaiter N: gaiters
+gal N: gals
+gala A:
+gala N: galas
+galactic A:
+galaxy N: galaxies
+gale N: gales
+galena N: ~galenas
+gall N: galls
+gall V: galled  galling  galls
+gallant A: gallanter  gallantest
+gallant N: gallants
+-gallant V: gallanted  gallanting  gallants
+gallantly A:
+gallantry N: ~gallantries
+gallbladder N: gallbladders
+galleon N: galleons
+galleria N: gallerias
+gallery N: galleries
+galley N: galleys
+gallimaufry N: gallimaufries
+gallium N: ~galliums
+gallivant V: gallivanted  gallivanting  gallivants
+gallon N: gallons
+gallop N: gallops
+gallop V: galloped  galloping  gallops
+gallows N: gallows (gallowses)
+gallstone N: gallstones
+galoot N: galoots
+galore A:
+galosh N: galoshes
+galoshe N: galoshes
+galumph V: galumphed  galumphing  galumphs
+galvanic A:
+galvanise V: galvanised  galvanising  galvanises
+galvanism N: ~galvanisms
+galvanization N: ~galvanizations
+galvanize V: galvanized  galvanizing  galvanizes
+galvanometer N: galvanometers
+gambit N: gambits
+gamble N: gambles
+gamble V: gambled  gambling  gambles
+gambler N: gamblers
+gambling N: ~gamblings
+gambol N: gambols
+gambol V: gamboled (gambolled)  gamboling (gambolling)  gambols
+game A: gamer  gamest
+game N: games
+game V: gamed  gaming  games
+gamecock N: gamecocks
+gamekeeper N: gamekeepers
+gamely A:
+gameness N: ~gamenesses
+gamesmanship N: ~gamesmanships
+gamester N: gamesters
+gamete N: gametes
+gametic A:
+gamey A: gamier  gamiest
+gamin N: gamins
+gamine A:
+gamine N: gamines
+gaminess N: ~gaminesses
+gaming N: ~gamings
+gamma N: gammas
+gammon N: ~gammons
+-gammon V: gammoned  gammoning  gammons
+gamut N: gamuts
+gamy A: gamier  gamiest
+gander N: ganders
+-gander V: gandered  gandering  ganders
+gang N: gangs
+gang V: ganged  ganging  gangs
+gangbusters N:
+gangland A:
+gangland N: ~ganglands
+gangling A:
+ganglion N: ganglia (ganglions)
+ganglionic A:
+gangly A: ganglier  gangliest
+gangplank N: gangplanks
+gangrene N: ~gangrenes
+gangrene V: gangrened  gangrening  gangrenes
+gangrenous A:
+gangster N: gangsters
+gangway I:
+gangway N: gangways
+gannet N: gannets (gannet)
+gantlet N: gantlets
+-gantlet V: gantleted  gantleting  gantlets
+gantry N: gantries
+gaol N: gaols
+gaol V: gaoled  gaoling  gaols
+gaoler N: gaolers
+gap N: gaps
+-gap V: gapped  gapping  gaps
+gape N: gapes
+gape V: gaped  gaping  gapes
+gar N: gars | gar
+-gar V: garred  garring  gars
+garage N: garages
+garage V: garaged  garaging  garages
+garb N: ~garbs
+garb V: garbed  garbing  garbs
+garbage N: ~garbages
+garbanzo N: garbanzos
+-garble N: garbles
+garble V: garbled  garbling  garbles
+garcon N: garcons
+garden A:
+garden N: gardens
+garden V: gardened  gardening  gardens
+gardener N: gardeners
+gardenia N: gardenias
+gardening N: ~gardenings
+garfish N: garfish | garfishes
+gargantuan A:
+gargle N: gargles
+gargle V: gargled  gargling  gargles
+gargoyle N: gargoyles
+garish A:
+garishly A:
+garishness N: ~garishnesses
+garland N: garlands
+garland V: garlanded  garlanding  garlands
+garlic N: ~garlics
+garlicky A:
+garment N: garments
+-garment V: garmented  garmenting  garments
+-garner N: garners
+garner V: garnered  garnering  garners
+garnet N: garnets
+garnish N: garnishes
+garnish V: garnished  garnishing  garnishes
+garnishee N: garnishees
+garnishee V: garnisheed  garnisheeing  garnishees
+garnishment N: garnishments
+garote N: garotes
+garote V: garoted  garoting  garotes
+garotte N: garottes
+garotte V: garotted  garotting  garottes
+garret N: garrets
+garrison N: garrisons
+garrison V: garrisoned  garrisoning  garrisons
+garrote N: garrotes
+garrote V: garroted  garroting  garrotes
+garroter N: garroters
+garrotte N: garrottes
+garrotte V: garrotted  garrotting  garrottes
+garrulity N: ~garrulities
+garrulous A:
+garrulously A:
+garrulousness N: ~garrulousnesses
+garter N: garters
+-garter V: gartered  gartering  garters
+gas N: gases (gasses)
+gas V: gassed  gassing  gases (gasses)
+gasbag N: gasbags
+gaseous A:
+-gash A: gasher  gashest
+gash N: gashes
+gash V: gashed  gashing  gashes
+gasket N: gaskets
+gaslight N: gaslights
+gasohol N: ~gasohols
+gasolene N: ~gasolenes
+gasoline N: ~gasolines
+gasp N: gasps
+gasp V: gasped  gasping  gasps
+gassy A: gassier  gassiest
+gastric A:
+gastritis N: ~gastritides / ~gastritises
+gastroenteritis N: ~gastroenteritides
+gastrointestinal A:
+gastronomic A:
+gastronomical A:
+gastronomically A:
+gastronomy N: ~gastronomies
+gastropod A:
+gastropod N: gastropods
+gasworks N:
+gate N: gates
+gate V: gated  gating  gates
+gatecrash V: gatecrashed  gatecrashing  gatecrashes
+gatecrasher N: gatecrashers
+gatehouse N: gatehouses
+gatekeeper N: gatekeepers
+gatepost N: gateposts
+gateway N: gateways
+gather N: gathers
+gather V: gathered  gathering  gathers
+gatherer N: gatherers
+gathering N: gatherings
+gator N: gators
+gauche A: gaucher  gauchest
+gauchely A:
+gaucheness N: ~gauchenesses
+gaucherie N: ~gaucheries
+gaucho N: gauchos
+gaudily A:
+gaudiness N: ~gaudinesses
+gaudy A: gaudier  gaudiest
+-gaudy N: gaudies
+gauge N: gauges
+gauge V: gauged  gauging  gauges
+gaunt A: gaunter  gauntest
+gauntlet N: gauntlets
+-gauntlet V: gauntleted  gauntleting  gauntlets
+gauntness N: ~gauntnesses
+gauze N: ~gauzes
+gauziness N: ~gauzinesses
+gauzy A: gauzier  gauziest
+gavel N: gavels
+-gavel V: gaveled (gavelled)  gaveling (gavelling)  gavels
+gavotte N: gavottes
+-gavotte V: gavotted  gavotting  gavottes
+-gawk N: gawks
+gawk V: gawked  gawking  gawks
+gawkily A:
+gawkiness N: ~gawkinesses
+gawky A: gawkier  gawkiest
+gay A: gayer  gayest
+gay N: gays
+gayety N: ~gayeties
+gayly A:
+gayness N: ~gaynesses
+gaze N: gazes
+gaze V: gazed  gazing  gazes
+gazebo N: gazebos (gazeboes)
+gazelle N: gazelles | gazelle
+gazer N: gazers
+gazette N: gazettes
+gazette V: gazetted  gazetting  gazettes
+gazetteer N: gazetteers
+gazpacho N: ~gazpachos
+gear N: gears
+gear V: geared  gearing  gears
+gearbox N: gearboxes
+gearing N: ~gearings
+gearshift N: gearshifts
+gearwheel N: gearwheels
+gecko N: geckos (geckoes)
+gee I:
+-gee N: gees
+gee V: geed  geeing  gees
+geegaw N: geegaws
+geek N: geeks
+geeky A: geekier  geekiest
+geez I:
+geezer N: geezers
+geisha N: geisha (geishas)
+gel N: gels
+gel V: gelled  gelling  gels
+gelatin N: ~gelatins
+gelatine N: ~gelatines
+gelatinous A:
+gelcap N: gelcaps
+-geld N: gelds
+geld V: gelded (gelt)  gelding  gelds
+gelding N: geldings
+gelid A: -gelider  -gelidest
+gelignite N: ~gelignites
+gem N: gems
+-gem V: gemmed  gemming  gems
+gemmology N: ~gemmologies
+gemological A:
+gemologist N: gemologists
+gemology N: ~gemologies
+gemstone N: gemstones
+gendarme N: gendarmes
+gender N: genders
+-gender V: gendered  gendering  genders
+gene N: genes
+genealogical A:
+genealogically A:
+genealogist N: genealogists
+genealogy N: genealogies
+general A:
+general N: generals
+generalissimo N: generalissimos
+generalist N: generalists
+generality N: generalities
+generalization N: generalizations
+generalize V: generalized  generalizing  generalizes
+generally A:
+generalship N: ~generalships
+generate V: generated  generating  generates
+generation N: generations
+generational A:
+generative A:
+generator N: generators
+generic A:
+generic N: generics
+generically A:
+generosity N: generosities
+generous A:
+generously A:
+generousness N: ~generousnesses
+genesis N: geneses
+genetic A:
+genetically A:
+geneticist N: geneticists
+genetics N:
+genial A:
+geniality N: ~genialities
+genially A:
+genie N: genies (genii)
+genital A:
+genitalia N:
+genitally A:
+genitals N:
+genitive A:
+genitive N: genitives
+genitourinary A:
+genius N: geniuses {brilliance} | genii {spirit}
+genocidal A:
+genocide N: ~genocides
+genome N: genomes
+genre N: genres
+gent N: gents
+genteel A: -genteeler  -genteelest
+genteelly A:
+genteelness N: ~genteelnesses
+gentian N: gentians
+gentile A:
+gentile N: gentiles
+gentility N: ~gentilities
+gentle A: gentler  gentlest
+-gentle N: gentles
+gentle V: gentled  gentling  gentles
+gentlefolk N:
+gentlefolks N:
+gentleman N: gentlemen
+gentlemanly A:
+gentleness N: ~gentlenesses
+gentlewoman N: gentlewomen
+gently A:
+gentrification N: ~gentrifications
+gentrify V: gentrified  gentrifying  gentrifies
+gentry N: gentries / -
+genuflect V: genuflected  genuflecting  genuflects
+genuflection N: genuflections
+genuine A:
+genuinely A:
+genuineness N: ~genuinenesses
+genus N: genera (genuses)
+geocentric A:
+geocentrically A:
+geochemistry N: ~geochemistries
+geode N: geodes
+geodesic A:
+geodesic N: geodesics
+geodesy N: ~geodesies
+geodetic A:
+geographer N: geographers
+geographic A:
+geographical A:
+geographically A:
+geography N: geographies
+geologic A:
+geological A:
+geologically A:
+geologist N: geologists
+geology N: geologies
+geomagnetic A:
+geomagnetism N: ~geomagnetisms
+geometric A:
+-geometric N: geometrics
+geometrical A:
+geometrically A:
+geometry N: geometries
+geophysical A:
+geophysicist N: geophysicists
+geophysics N:
+geopolitical A:
+geopolitics N:
+geostationary A:
+geosynchronous A:
+geosyncline N: geosynclines
+geothermal A:
+geothermic A:
+geranium N: geraniums
+gerbil N: gerbils
+geriatric A:
+-geriatric N: geriatrics
+geriatrics N:
+germ N: germs
+germane A:
+germanium N: ~germaniums
+germicidal A:
+germicide N: germicides
+germinal N:
+germinate V: germinated  germinating  germinates
+germination N: ~germinations
+gerontological A:
+gerontologist N: gerontologists
+gerontology N: ~gerontologies
+gerrymander N: gerrymanders
+gerrymander V: gerrymandered  gerrymandering  gerrymanders
+gerrymandering N:
+gerund N: gerunds
+gestapo N: gestapos
+gestate V: gestated  gestating  gestates
+gestation N: ~gestations
+gestational A:
+gesticulate V: gesticulated  gesticulating  gesticulates
+gesticulation N: gesticulations
+gestural A:
+gesture N: gestures
+gesture V: gestured  gesturing  gestures
+gesundheit I:
+get N: gets
+get V: got  got / gotten  getting  gets
+getaway N: getaways
+getup N: ~getups
+gewgaw N: gewgaws
+geyser N: geysers
+geyser V: geysered  geysering  geysers
+ghastliness N: ~ghastlinesses
+ghastly A: ghastlier  ghastliest
+ghat N: ghats
+gherkin N: gherkins
+ghetto N: ghettos (ghettoes)
+-ghetto V: ghettoed  ghettoing  ghettos (ghettoes)
+ghettoize V: ghettoized  ghettoizing  ghettoizes
+ghost N: ghosts
+ghost V: ghosted  ghosting  ghosts
+ghostliness N: ~ghostlinesses
+ghostly A: ghostlier  ghostliest
+ghostwrite V: ghostwrote  ghostwritten  ghostwriting  ghostwrites
+ghostwriter N: ghostwriters
+ghoul N: ghouls
+ghoulish A:
+ghoulishly A:
+ghoulishness N: ~ghoulishnesses
+giant A:
+giant N: giants
+giantess N: giantesses
+-gibber N: gibbers
+gibber V: gibbered  gibbering  gibbers
+gibberish N: ~gibberishes
+gibbet N: gibbets
+gibbet V: gibbeted  gibbeting  gibbets
+gibbon N: gibbons
+gibbous A:
+gibe N: gibes
+gibe V: gibed  gibing  gibes
+giblet N: giblets
+giddily A:
+giddiness N: ~giddinesses
+giddy A: giddier  giddiest
+-giddy V: giddied  giddying  giddies
+gift N: gifts
+gift V: gifted  gifting  gifts
+gig N: gigs
+gig V: gigged  gigging  gigs
+gigabyte N: gigabytes
+gigahertz N: gigahertz (-gigahertzes)
+gigantic A:
+gigantically A:
+giggle N: giggles
+giggle V: giggled  giggling  giggles
+giggler N: gigglers
+giggly A: gigglier  giggliest
+gigolo N: gigolos
+gild N: gilds
+gild V: gilded (gilt)  gilding  gilds
+gilder N: gilders
+gilding N: ~gildings
+gill N: gills
+-gill V: gilled  gilling  gills
+gilt A:
+gilt N: gilts
+gimbals N:
+gimcrack A:
+gimcrack N: gimcracks
+gimcrackery N: ~gimcrackeries
+gimlet A:
+gimlet N: gimlets
+gimlet V: gimleted  gimleting  gimlets
+gimme S:
+gimme N: gimmes
+gimmick N: gimmicks
+-gimmick V: gimmicked  gimmicking  gimmicks
+gimmickry N: ~gimmickries
+gimmicky A: -gimmickier  -gimmickiest
+gimp N: gimps
+gimp V: gimped  gimping  gimps
+gimpy A: !gimpier  !gimpiest
+gin N: ~gins
+gin V: ginned  ginning  gins
+ginger A:
+ginger N: ~gingers
+-ginger V: gingered  gingering  gingers
+gingerbread A:
+gingerbread N: ~gingerbreads
+gingerly A:
+gingersnap N: gingersnaps
+gingery A:
+gingham N: ~ginghams
+gingivitis N: ~gingivitises
+gingko N: gingkoes (gingkos)
+ginkgo N: ginkgoes (ginkgos)
+ginseng N: ~ginsengs
+gipsy N: gipsies
+-gipsy V: gipsied  gipsying  gipsies
+giraffe N: giraffes
+-gird N: girds
+gird V: girded (girt)  girding  girds
+girder N: girders
+girdle N: girdles
+girdle V: girdled  girdling  girdles
+girl N: girls
+girlfriend N: girlfriends
+girlhood N: girlhoods
+girlish A:
+girlishly A:
+girlishness N: ~girlishnesses
+girly A:
+-girly N: girlies
+girt N: girts
+girt V: girted  girting  girts
+girth N: girths
+-girth V: girthed  girthing  girths
+gismo N: gismos
+gist N: ~gists
+give N: ~gives
+give V: gave  given  giving  gives
+giveaway A:
+giveaway N: giveaways
+giveback N: givebacks
+given C:
+given N: givens
+giver N: givers
+gizmo N: gizmos
+gizzard N: gizzards
+glace A:
+glace V: glaceed  glaceing  glaces
+glacial A:
+glacially A:
+glaciate V: glaciated  glaciating  glaciates
+glaciation N: glaciations
+glacier N: glaciers
+glad A: gladder  gladdest
+glad N: glads
+-glad V: gladded  gladding  glads
+gladden V: gladdened  gladdening  gladdens
+glade N: glades
+gladiator N: gladiators
+gladiatorial A:
+gladiola N: gladiolas
+gladiolus N: gladioli (gladiolus gladioluses)
+gladly A: -gladlier  -gladliest
+gladness N: ~gladnesses
+gladsome A: -gladsomer  -gladsomest
+glamor A:
+glamor N: ~glamors
+glamorization N: ~glamorizations
+glamorize V: glamorized  glamorizing  glamorizes
+glamorous A:
+glamorously A:
+glamour A:
+glamour N: ~glamours
+glamourize V: glamourized  glamourizing  glamourizes
+glamourous A:
+glance N: glances
+glance V: glanced  glancing  glances
+gland N: glands
+glandular A:
+glans N: glandes
+glare N: glares
+glare V: glared  glaring  glares
+glaringly A:
+glasnost N: ~glasnosts
+glass A:
+glass N: glasses
+glass V: glassed  glassing  glasses
+glassblower N: glassblowers
+glassblowing N: ~glassblowings
+glassful N: glassfuls
+glassily A:
+glassiness N: ~glassinesses
+glassware N: ~glasswares
+glassy A: glassier  glassiest
+-glassy N: glassies
+glaucoma N: ~glaucomas
+glaze N: glazes
+glaze V: glazed  glazing  glazes
+glazier N: glaziers
+glazing N: ~glazings
+gleam N: gleams
+gleam V: gleamed  gleaming  gleams
+glean V: gleaned  gleaning  gleans
+gleaner N: gleaners
+gleanings N:
+glee N: ~glees
+-glee V: gleed  gleeing  glees
+gleeful A:
+gleefully A:
+gleefulness N: ~gleefulnesses
+glen N: glens
+glib A: glibber  glibbest
+glibly A:
+glibness N: ~glibnesses
+glide N: glides
+glide V: glided  gliding  glides
+glider N: gliders
+gliding N: ~glidings
+glimmer N: glimmers
+glimmer V: glimmered  glimmering  glimmers
+glimmering N: glimmerings
+glimpse N: glimpses
+glimpse V: glimpsed  glimpsing  glimpses
+glint N: glints
+glint V: glinted  glinting  glints
+glissando A:
+glissando N: glissandi (glissandos)
+glisten N: glistens
+glisten V: glistened  glistening  glistens
+-glister N: glisters
+glister V: glistered  glistering  glisters
+glitch N: glitches
+glitter N: glitters
+glitter V: glittered  glittering  glitters
+glittery A:
+glitz N: ~glitzes
+-glitz V: glitzed  glitzing  glitzes
+glitzy A: glitzier  glitziest
+gloaming N: gloamings
+gloat N: gloats
+gloat V: gloated  gloating  gloats
+gloatingly A:
+glob N: globs
+global A:
+globalism N: ~globalisms
+globalist A:
+globalist N: globalists
+globalization N: ~globalizations
+globalize V: globalized  globalizing  globalizes
+globally A:
+globe N: globes
+-globe V: globed  globing  globes
+globetrotter N: globetrotters
+globular A:
+globule N: globules
+globulin N: ~globulins
+glockenspiel N: glockenspiels
+gloom N: ~glooms
+-gloom V: gloomed  glooming  glooms
+gloomily A:
+gloominess N: ~gloominesses
+gloomy A: gloomier  gloomiest
+glop N: ~glops
+gloppy A: !gloppier  !gloppiest
+glorification N: ~glorifications
+glorify V: glorified  glorifying  glorifies
+glorious A:
+gloriously A:
+glory N: glories
+glory V: gloried  glorying  glories
+gloss N: glosses
+gloss V: glossed  glossing  glosses
+glossary N: glossaries
+glossily A:
+glossiness N: ~glossinesses
+glossolalia N: ~glossolalias
+glossy A: glossier  glossiest
+glossy N: glossies
+glottal A:
+glottis N: glottises (glottides)
+glove N: gloves
+glove V: gloved  gloving  gloves
+glow N: glows
+glow V: glowed  glowing  glows
+glower N: glowers
+glower V: glowered  glowering  glowers
+glowingly A:
+glowworm N: glowworms
+glucose N: ~glucoses
+glue N: glues
+glue V: glued  gluing (glueing)  glues
+gluey A: gluier  gluiest
+glum A: glummer  glummest
+glumly A:
+glumness N: ~glumnesses
+glut N: gluts
+glut V: glutted  glutting  gluts
+gluten N: ~glutens
+glutenous A:
+glutinous A:
+glutinously A:
+glutton N: gluttons
+gluttonous A:
+gluttonously A:
+gluttony N: ~gluttonies
+glycerin N: ~glycerins
+glycerine N: ~glycerines
+glycerol N: ~glycerols
+glycogen N: ~glycogens
+gnarl N: gnarls
+gnarl V: gnarled  gnarling  gnarls
+gnash N: gnashes
+gnash V: gnashed  gnashing  gnashes
+gnat N: gnats
+gnaw V: gnawed  gnawed (gnawn)  gnawing  gnaws
+-gnawing N: gnawings
+gneiss N: ~gneisses
+gnome N: gnomes
+gnomic A:
+gnomish A:
+gnu N: gnu | gnus
+go ANOM: goes {try} | -gos {game}
+go V: went  gone  going  goes
+goad N: goads
+goad V: goaded  goading  goads
+goal N: goals
+goalie N: goalies
+goalkeeper N: goalkeepers
+goalkeeping N: ~goalkeepings
+goalpost N: goalposts
+goaltender N: goaltenders
+goat N: goats (goat)
+goatee N: goatees
+goatherd N: goatherds
+goatskin N: goatskins
+gob N: gobs
+gob V: gobbed  gobbing  gobs
+gobbet N: gobbets
+gobble N: gobbles
+gobble V: gobbled  gobbling  gobbles
+gobbledegook N: ~gobbledegooks
+gobbledygook N: ~gobbledygooks
+gobbler N: gobblers
+goblet N: goblets
+goblin N: goblins
+god N: gods
+-god V: godded  godding  gods
+godchild N: godchildren
+goddammit I:
+goddamn I:
+goddamn A:
+-goddamn V: goddamned  goddamning  goddamns
+goddamned A:
+goddaughter N: goddaughters
+goddess N: goddesses
+godfather N: godfathers
+-godfather V: godfathered  godfathering  godfathers
+godforsaken A:
+godhead N: ~godheads
+godhood N: ~godhoods
+godless A:
+godlessness N: ~godlessnesses
+godlike A:
+godliness N: ~godlinesses
+godly A: godlier  godliest
+godmother N: godmothers
+godparent N: godparents
+godsend N: godsends
+godson N: godsons
+goer N: goers
+gofer N: gofers
+goggle A:
+goggle N: goggles
+goggle V: goggled  goggling  goggles
+goggles N:
+going N: goings
+goiter N: goiters
+goitre N: goitres
+gold A: -golder  -goldest
+gold N: golds
+goldbrick N: goldbricks
+goldbrick V: goldbricked  goldbricking  goldbricks
+goldbricker N: goldbrickers
+golden A: goldener  goldenest
+goldenrod N: ~goldenrods
+goldfinch N: goldfinches
+goldfish N: goldfish | goldfishes
+goldmine N: goldmines
+goldsmith N: goldsmiths
+golf N: ~golfs
+golf V: golfed  golfing  golfs
+golfer N: golfers
+golly I:
+golly N: gollies
+gonad N: gonads
+gonadal A:
+gondola N: gondolas
+gondolier N: gondoliers
+goner N: goners
+gong N: gongs
+gong V: gonged  gonging  gongs
+gonna S:
+gonorrhea N: ~gonorrheas
+gonorrheal A:
+gonorrhoea N: ~gonorrhoeas
+goo N: ~goos
+goober N: goobers
+good A: better  best
+good N: ~goods
+goodby N: goodbys
+goodbye I:
+goodbye N: goodbyes
+goodhearted A:
+goodie I:
+goodie N: goodies
+goodish A:
+goodly A: goodlier  goodliest
+goodness I:
+goodness N: ~goodnesses
+goods N:
+goodwill N: ~goodwills
+goody I:
+goody N: goodies
+gooey A: gooier  gooiest
+goof N: goofs
+goof V: goofed  goofing  goofs
+goofball N: goofballs
+goofiness N: ~goofinesses
+goofy A: goofier  goofiest
+gook N: gooks
+goon N: goons
+goop N: ~goops
+goose N: geese {bird} | -gooses {poke}
+goose V: goosed  goosing  gooses
+gooseberry N: gooseberries
+goosebumps N:
+gooseflesh N: ~goosefleshes
+gopher N: gophers
+-gopher V: gophered  gophering  gophers
+gore N: ~gores
+gore V: gored  goring  gores
+gorge N: gorges
+gorge V: gorged  gorging  gorges
+gorgeous A:
+gorgeously A:
+gorgeousness N: ~gorgeousnesses
+gorgon N: gorgons
+gorilla N: gorillas
+gorily A:
+goriness N: ~gorinesses
+-gormandize N: gormandizes
+gormandize V: gormandized  gormandizing  gormandizes
+gormandizer N: gormandizers
+gorp N: ~gorps
+gorse N: ~gorses
+gory A: gorier  goriest
+gosh I:
+goshawk N: goshawks
+gosling N: goslings
+gospel A:
+gospel N: gospels
+-gospel V: gospeled (gospelled)  gospeling (gospelling)  gospels
+gossamer A:
+gossamer N: ~gossamers
+gossip N: gossips
+gossip V: gossiped (gossipped)  gossiping (gossipping)  gossips
+gossiper N: gossipers
+gossipy A:
+gotcha I:
+gotta S:
+gouge N: gouges
+gouge V: gouged  gouging  gouges
+gouger N: gougers
+goulash N: goulashes
+gourd N: gourds
+gourde N: gourdes
+gourmand N: gourmands
+gourmet A:
+gourmet N: gourmets
+gout N: ~gouts
+gouty A: goutier  goutiest
+govern V: governed  governing  governs
+governable A:
+governance N: ~governances
+governess N: governesses
+-governess V: governessed  governessing  governesses
+government N: governments
+governmental A:
+governor N: governors
+governorship N: ~governorships
+gown N: gowns
+gown V: gowned  gowning  gowns
+grab N: grabs
+grab V: grabbed  grabbing  grabs
+grabber N: grabbers
+grabby A: grabbier  grabbiest
+grace N: graces
+grace V: graced  gracing  graces
+graceful A: -gracefuller  -gracefullest
+gracefully A:
+gracefulness N: ~gracefulnesses
+graceless A:
+gracelessly A:
+gracelessness N: ~gracelessnesses
+gracious A:
+gracious I:
+graciously A:
+graciousness N: ~graciousnesses
+grackle N: grackles
+grad A:
+grad N: grads
+gradate V: gradated  gradating  gradates
+gradation N: gradations
+grade N: grades
+grade V: graded  grading  grades
+grader N: graders
+-gradient A:
+gradient N: gradients
+gradual A:
+-gradual N: graduals
+gradualism N: ~gradualisms
+gradually A:
+gradualness N: ~gradualnesses
+graduate A:
+graduate N: graduates
+graduate V: graduated  graduating  graduates
+graduation N: graduations
+graffito N: graffiti
+graft N: grafts
+graft V: grafted  grafting  grafts
+grafter N: grafters
+graham A:
+grain N: grains
+-grain V: grained  graining  grains
+grained A:
+graininess N: ~graininesses
+grainy A: grainier  grainiest
+gram N: grams
+grammar N: grammars
+grammarian N: grammarians
+grammatical A:
+grammatically A:
+gramme N: grammes
+gramophone N: gramophones
+grampus N: grampuses
+granary N: granaries
+grand A: grander  grandest
+grand N: grands {piano} | grand {money}
+grandam N: grandams
+grandaunt N: grandaunts
+grandchild N: grandchildren
+granddad N: granddads
+granddaddy N: granddaddies
+granddaughter N: granddaughters
+grandee N: grandees
+grandeur N: ~grandeurs
+grandfather N: grandfathers
+grandfather V: grandfathered  grandfathering  grandfathers
+grandfatherly A:
+grandiloquence N: ~grandiloquences
+grandiloquent A:
+grandiose A:
+grandiosely A:
+grandiosity N: ~grandiosities
+grandly A:
+grandma N: grandmas
+grandmother N: grandmothers
+grandmotherly A:
+grandnephew N: grandnephews
+grandness N: ~grandnesses
+grandniece N: grandnieces
+grandpa N: grandpas
+grandparent N: grandparents
+grandson N: grandsons
+grandstand A:
+grandstand N: grandstands
+grandstand V: grandstanded  grandstanding  grandstands
+granduncle N: granduncles
+grange N: granges
+granite N: ~granites
+granitic A:
+grannie A:
+grannie N: grannies
+granny A:
+granny N: grannies
+granola A:
+granola N: ~granolas
+grant N: grants
+grant V: granted  granting  grants
+grantee N: grantees
+granter N: granters
+grantor N: grantors
+grantsmanship N: ~grantsmanships
+granular A:
+granularity N: ~granularities
+granulate V: granulated  granulating  granulates
+granulation N: ~granulations
+granule N: granules
+grape N: grapes
+grapefruit N: grapefruits / grapefruit
+grapeshot N: ~grapeshots
+grapevine N: grapevines
+graph N: graphs
+graph V: graphed  graphing  graphs
+graphic A:
+graphic N: graphics
+graphical A:
+graphically A:
+graphite N: ~graphites
+graphologist N: graphologists
+graphology N: ~graphologies
+grapnel N: grapnels
+grapple N: grapples
+grapple V: grappled  grappling  grapples
+grasp N: grasps
+grasp V: grasped  grasping  grasps
+graspable A:
+grass N: grasses
+grass V: grassed  grassing  grasses
+grasshopper N: grasshoppers
+grassland N: ~grasslands
+grassy A: grassier  grassiest
+grate N: grates
+grate V: grated  grating  grates
+grateful A: -gratefuller  -gratefullest
+gratefully A:
+gratefulness N: ~gratefulnesses
+grater N: graters
+gratification N: gratifications
+gratify V: gratified  gratifying  gratifies
+grating N: gratings
+gratingly A:
+gratis A:
+gratitude N: ~gratitudes
+gratuitous A:
+gratuitously A:
+gratuitousness N: ~gratuitousnesses
+gratuity N: gratuities
+gravamen N: gravamens (gravamina)
+grave A: graver  gravest
+grave N: graves
+grave V: graved  graven (graved)  graving  graves
+gravedigger N: gravediggers
+-gravel A:
+gravel N: ~gravels
+gravel V: graveled (gravelled)  graveling (gravelling)  gravels
+gravelly A:
+gravely A:
+graveness N: ~gravenesses
+graveside A:
+graveside N: gravesides
+gravestone N: gravestones
+graveyard N: graveyards
+gravid A:
+gravimeter N: gravimeters
+gravitate V: gravitated  gravitating  gravitates
+gravitation N: ~gravitations
+gravitational A:
+gravity N: ~gravities
+gravy N: gravies
+gray A: grayer  grayest
+gray N: grays
+gray V: grayed  graying  grays
+graybeard N: graybeards
+grayish A:
+grayness N: ~graynesses
+graze N: grazes
+graze V: grazed  grazing  grazes
+grazer N: grazers
+grease N: ~greases
+grease V: greased  greasing  greases
+greasepaint N: ~greasepaints
+greasily A:
+greasiness N: ~greasinesses
+greasy A: greasier  greasiest
+great A: greater  greatest
+great I:
+great N: greats
+greatcoat N: greatcoats
+greathearted A:
+greatly A:
+greatness N: ~greatnesses
+grebe N: grebes
+greed N: ~greeds
+greedily A:
+greediness N: ~greedinesses
+greedy A: greedier  greediest
+green A: greener  greenest
+green N: greens
+green V: greened  greening  greens
+greenback N: greenbacks
+greenbelt N: greenbelts
+greenery N: ~greeneries
+greengage N: greengages
+greengrocer N: greengrocers
+greenhorn N: greenhorns
+greenhouse N: greenhouses
+greenish A:
+greenly A:
+greenmail N: ~greenmails
+greenness N: ~greennesses
+greenroom N: greenrooms
+greensward N: ~greenswards
+greenwood N: ~greenwoods
+greet V: greeted  greeting  greets
+greeter N: greeters
+greeting N: greetings
+gregarious A:
+gregariously A:
+gregariousness N: ~gregariousnesses
+gremlin N: gremlins
+grenade N: grenades
+grenadier N: grenadiers
+grenadine N: ~grenadines
+grey A: greyer  greyest
+grey N: greys
+grey V: greyed  greying  greys
+greyhound N: greyhounds
+grid N: grids
+griddle N: griddles
+-griddle V: griddled  griddling  griddles
+griddlecake N: griddlecakes
+gridiron N: gridirons
+-gridiron V: gridironed  gridironing  gridirons
+gridlock N: gridlocks
+gridlocked A:
+grief N: griefs
+grievance N: grievances
+grieve V: grieved  grieving  grieves
+griever N: grievers
+grievous A:
+grievously A:
+grievousness N: ~grievousnesses
+griffin N: griffins
+griffon N: griffons
+grill N: grills
+grill V: grilled  grilling  grills
+grille N: grilles
+grim A: grimmer  grimmest
+grimace N: grimaces
+grimace V: grimaced  grimacing  grimaces
+grime N: ~grimes
+grime V: grimed  griming  grimes
+griminess N: ~griminesses
+grimly A:
+grimness N: ~grimnesses
+grimy A: grimier  grimiest
+grin N: grins
+grin V: grinned  grinning  grins
+grind N: grinds
+grind V: ground  grinding  grinds
+grinder N: grinders
+grindstone N: grindstones
+gringo N: gringos
+grip N: grips
+grip V: gripped (gript)  gripping  grips
+gripe N: gripes
+gripe V: griped  griping  gripes
+griper N: gripers
+grippe N: ~grippes
+gripper N: grippers
+grisliness N: ~grislinesses
+grisly A: grislier  grisliest
+grist N: ~grists
+gristle N: ~gristles
+gristly A: !gristlier  !gristliest
+gristmill N: gristmills
+grit N: ~grits
+grit V: gritted  gritting  grits
+grits N:
+gritter N: gritters
+grittiness N: ~grittinesses
+gritty A: grittier  grittiest
+grizzled A:
+grizzly A: grizzlier  grizzliest
+grizzly N: grizzlies
+groan N: groans
+groan V: groaned  groaning  groans
+groat N: groats
+grocer N: grocers
+grocery N: groceries
+grog N: ~grogs
+groggily A:
+grogginess N: ~grogginesses
+groggy A: groggier  groggiest
+groin N: groins
+-groin V: groined  groining  groins
+grommet N: grommets
+-grommet V: grommeted  grommeting  grommets
+groom N: grooms
+groom V: groomed  grooming  grooms
+groomer N: groomers
+grooming N: ~groomings
+groomsman N: groomsmen
+groove N: grooves
+groove V: grooved  grooving  grooves
+groovy A: groovier  grooviest
+grope N: gropes
+grope V: groped  groping  gropes
+groper N: gropers
+grosbeak N: grosbeaks
+grosgrain N: ~grosgrains
+gross A: grosser  grossest
+gross N: gross {12 dozen} | grosses {total}
+gross V: grossed  grossing  grosses
+grossly A:
+grossness N: ~grossnesses
+grotesque A: -grotesquer  -grotesquest
+grotesque N: grotesques
+grotesquely A:
+grotesqueness N: ~grotesquenesses
+grotto N: grottoes (grottos)
+grouch N: grouches
+grouch V: grouched  grouching  grouches
+grouchily A:
+grouchiness N: ~grouchinesses
+grouchy A: grouchier  grouchiest
+ground N: grounds
+ground V: grounded  grounding  grounds
+groundbreaking N: groundbreakings
+grounder N: grounders
+groundhog N: groundhogs
+grounding N: groundings
+groundless A:
+groundlessly A:
+groundnut N: groundnuts
+groundswell N: groundswells
+groundwater N: ~groundwaters
+groundwork N: ~groundworks
+group N: groups
+group V: grouped  grouping  groups
+grouper N: groupers | grouper
+groupie N: groupies
+grouping N: groupings
+groupware N: ~groupwares
+-grouse A: grouser  grousest
+grouse N: grouse / grouses
+grouse V: groused  grousing  grouses
+grouser N: grousers
+grout N: ~grouts
+grout V: grouted  grouting  grouts
+grove N: groves
+grovel V: groveled (grovelled)  groveling (grovelling)  grovels
+groveler N: grovelers
+groveller N: grovellers
+grow V: grew  grown  growing  grows
+grower N: growers
+growl N: growls
+growl V: growled  growling  growls
+growler N: growlers
+grownup N: grownups
+growth A:
+growth N: growths
+grub N: grubs
+grub V: grubbed  grubbing  grubs
+grubber N: grubbers
+grubbily A:
+grubbiness N: ~grubbinesses
+grubby A: grubbier  grubbiest
+-grubby N: grubbies
+grubstake N: ~grubstakes
+-grubstake V: grubstaked  grubstaking  grubstakes
+grudge N: grudges
+grudge V: grudged  grudging  grudges
+grudgingly A:
+gruel N: ~gruels
+grueling A:
+-grueling N: gruelings
+gruelling A:
+-gruelling N: gruellings
+gruesome A: gruesomer  gruesomest
+gruesomely A:
+gruesomeness N: ~gruesomenesses
+gruff A: gruffer  gruffest
+gruffly A:
+gruffness N: ~gruffnesses
+grumble N: grumbles
+grumble V: grumbled  grumbling  grumbles
+grumbler N: grumblers
+grump N: grumps
+-grump V: grumped  grumping  grumps
+grumpily A:
+grumpiness N: ~grumpinesses
+grumpy A: grumpier  grumpiest
+grunge A:
+grunge N: ~grunges
+grungy A: grungier  grungiest
+grunion N: grunions
+grunt N: grunts
+grunt V: grunted  grunting  grunts
+gryphon N: gryphons
+guacamole N: ~guacamoles
+guanine N: ~guanines
+guano N: ~guanos
+guarani N: guaranis / guarani / guaranies
+guarantee N: guarantees
+guarantee V: guaranteed  guaranteeing  guarantees
+guarantor N: guarantors
+guaranty N: guaranties
+guaranty V: guarantied  guarantying  guaranties
+guard N: guards
+guard V: guarded  guarding  guards
+guardedly A:
+guarder N: guarders
+guardhouse N: guardhouses
+guardian A:
+guardian N: guardians
+guardianship N: ~guardianships
+guardrail N: guardrails
+guardroom N: guardrooms
+guardsman N: guardsmen
+guava N: guavas
+gubernatorial A:
+guerilla N: guerillas
+guerrilla N: guerrillas
+guess N: guesses
+guess V: guessed  guessing  guesses
+guesser N: guessers
+guesstimate N: guesstimates
+guesstimate V: guesstimated  guesstimating  guesstimates
+guesswork N: ~guessworks
+guest A:
+guest N: guests
+guest V: guested  guesting  guests
+guff N: ~guffs
+guffaw N: guffaws
+guffaw V: guffawed  guffawing  guffaws
+guidance N: ~guidances
+guide N: guides
+guide V: guided  guiding  guides
+guidebook N: guidebooks
+guideline N: guidelines
+guidepost N: guideposts
+guider N: guiders
+guild N: guilds
+guilder N: guilders
+guildhall N: guildhalls
+guile N: ~guiles
+guileful A:
+guileless A:
+guilelessly A:
+guilelessness N: ~guilelessnesses
+guillotine N: guillotines
+guillotine V: guillotined  guillotining  guillotines
+guilt N: ~guilts
+guilt V: guilted  guilting  guilts
+guiltily A:
+guiltiness N: ~guiltinesses
+guiltless A:
+guilty A: guiltier  guiltiest
+guinea N: guineas
+guise N: guises
+-guise V: guised  guising  guises
+guitar N: guitars
+guitarist N: guitarists
+gulag N: gulags
+gulch N: gulches
+gulden N: guldens (gulden)
+gulf N: gulfs
+-gulf V: gulfed  gulfing  gulfs
+gull N: gulls
+gull V: gulled  gulling  gulls
+gullet N: gullets
+-gullet V: gullet  gulleting  gullets
+gulley N: gulleys
+gullibility N: ~gullibilities
+gullible A:
+gully N: gullies
+-gully V: gullied  gullying  gullies
+gulp N: gulps
+gulp V: gulped  gulping  gulps
+gulper N: gulpers
+gum N: gums
+gum V: gummed  gumming  gums
+gumbo N: gumbos
+gumboil N: gumboils
+gumdrop N: gumdrops
+gummy A: gummier  gummiest
+gumption N: ~gumptions
+gumshoe N: gumshoes
+gumshoe V: gumshoed  gumshoeing  gumshoes
+gun N: guns
+gun V: gunned  gunning  guns
+gunboat N: gunboats
+gunfight N: gunfights
+gunfighter N: gunfighters
+gunfire N: ~gunfires
+gunk N: ~gunks
+gunky A: !gunkier  !gunkiest
+gunman N: gunmen
+gunmetal A:
+gunmetal N: ~gunmetals
+gunnel N: gunnels
+gunner N: gunners
+gunnery N: ~gunneries
+gunny N: ~gunnies
+gunnysack N: gunnysacks
+gunpoint N: ~gunpoints
+gunpowder N: ~gunpowders
+gunrunner N: gunrunners
+gunrunning N: ~gunrunnings
+gunship N: gunships
+gunshot N: gunshots
+gunslinger N: gunslingers
+gunsmith N: gunsmiths
+gunwale N: gunwales
+guppy N: guppies
+gurgle N: gurgles
+gurgle V: gurgled  gurgling  gurgles
+-gurgling N: gurglings
+gurney N: gurneys
+guru N: gurus
+gush N: gushes
+gush V: gushed  gushing  gushes
+gusher N: gushers
+gushy A: gushier  gushiest
+gusset N: gussets
+gusset V: gusseted  gusseting  gussets
+gussy V: gussied  gussying  gussies
+gust N: gusts
+gust V: gusted  gusting  gusts
+gustatory A:
+gustily A:
+gusto N: ~gustoes
+gusty A: gustier  gustiest
+gut A:
+gut N: guts
+gut V: gutted  gutting  guts
+gutless A:
+gutlessness N: ~gutlessnesses
+-guts V: gutsed  gutsing  gutses
+gutsy A: gutsier  gutsiest
+gutter N: gutters
+gutter V: guttered  guttering  gutters
+guttersnipe N: guttersnipes
+guttural A:
+guttural N: gutturals
+gutty A: guttier  guttiest
+guy N: guys
+guy V: guyed  guying  guys
+guzzle V: guzzled  guzzling  guzzles
+guzzler N: guzzlers
+gym N: gyms
+gymkhana N: gymkhanas
+gymnasium N: gymnasiums (gymnasia)
+gymnast N: gymnasts
+gymnastic A:
+gymnastically A:
+gymnastics N:
+gymnosperm N: gymnosperms
+gynaecology N: ~gynaecologies
+gynecologic A:
+gynecological A:
+gynecologist N: gynecologists
+gynecology N: ~gynecologies
+gyp N: gyps
+gyp V: gypped  gypping  gyps
+gypper N: gyppers
+gypster N: gypsters
+gypsum N: ~gypsums
+-gypsy A:
+gypsy N: gypsies
+-gypsy V: gypsied  gypsying  gypsies
+-gyrate A:
+gyrate V: gyrated  gyrating  gyrates
+gyration N: gyrations
+gyrator N: gyrators
+gyrfalcon N: gyrfalcons
+gyro N: gyros
+gyroscope N: gyroscopes
+gyroscopic A:
+gyve N: gyves
+gyve V: gyved  gyving  gyves

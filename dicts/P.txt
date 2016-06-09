@@ -1,0 +1,3775 @@
+pa N: pas
+pablum N: ~pablums
+pabulum N: ~pabulums
+pace C:
+pace N: paces
+pace V: paced  pacing  paces
+pacemaker N: pacemakers
+pacer N: pacers
+pacesetter N: pacesetters
+pachyderm N: pachyderms
+pachysandra N: pachysandras
+pacific A:
+pacifically A:
+pacification N: ~pacifications
+pacifier N: pacifiers
+pacifism N: ~pacifisms
+pacifist A:
+pacifist N: pacifists
+pacifistic A:
+pacify V: pacified  pacifying  pacifies
+pack A:
+pack N: packs
+pack V: packed  packing  packs
+package A:
+package N: packages
+package V: packaged  packaging  packages
+packager N: packagers
+packaging N: ~packagings
+packer N: packers
+packet N: packets
+-packet V: packeted  packeting  packets
+packing N: ~packings
+packinghouse N: packinghouses
+packsaddle N: packsaddles
+pact N: pacts
+pad N: pads
+pad V: padded  padding  pads
+padding N: ~paddings
+paddle N: paddles
+paddle V: paddled  paddling  paddles
+paddler N: paddlers
+paddock N: paddocks
+paddock V: paddocked  paddocking  paddocks
+paddy N: paddies
+padlock N: padlocks
+padlock V: padlocked  padlocking  padlocks
+padre N: padres
+paean N: paeans
+paediatric A:
+paediatrician N: paediatricians
+paediatrics N:
+paella N: ~paellas
+pagan A:
+pagan N: pagans
+paganism N: ~paganisms
+page N: pages
+page V: paged  paging  pages
+pageant N: pageants
+pageantry N: ~pageantries
+pageboy N: pageboys
+pager N: pagers
+paginate V: paginated  paginating  paginates
+pagination N: ~paginations
+pagoda N: pagodas
+pail N: pails
+pailful N: pailfuls (pailsful)
+pain N: pains
+pain V: pained  paining  pains
+painful A: painfuller  painfullest
+painfully A:
+painfulness N: ~painfulnesses
+painkiller N: painkillers
+painkilling A:
+painless A:
+painlessly A:
+painlessness N: ~painlessnesses
+painstaking A:
+painstaking N: ~painstakings
+painstakingly A:
+paint N: paints
+paint V: painted  painting  paints
+paintbox N: paintboxes
+paintbrush N: paintbrushes
+painter N: painters
+painting N: paintings
+pair N: pairs (pair)
+pair V: paired  pairing  pairs
+paisley A:
+paisley N: paisleys
+pajama A:
+pajamas N:
+pal N: pals
+pal V: palled  palling  pals
+palace N: palaces
+paladin N: paladins
+palanquin N: palanquins
+palatable A:
+palatal A:
+palatal N: palatals
+palatalization N: ~palatalizations
+palatalize V: palatalized  palatalizing  palatalizes
+palate N: palates
+palatial A:
+palatially A:
+palatinate N: palatinates
+palatine A:
+palatine N: palatines
+palaver N: palavers
+palaver V: palavered  palavering  palavers
+pale A: paler  palest
+pale N: pales
+pale V: paled  paling  pales
+paleface N: palefaces
+palely A:
+paleness N: ~palenesses
+paleographer N: paleographers
+paleography N: ~paleographies
+paleolithic A:
+paleontologist N: paleontologists
+paleontology N: ~paleontologies
+palette N: palettes
+palfrey N: palfreys
+palimony N: ~palimonies
+palimpsest N: palimpsests
+palindrome N: palindromes
+paling N: palings
+palisade N: palisades
+-palisade V: palisaded  palisading  palisades
+palish A:
+pall N: palls
+pall V: palled  palling  palls
+palladium N: ~palladiums
+pallbearer N: pallbearers
+pallet N: pallets
+-pallet V: palleted  palleting  pallets
+palliate V: palliated  palliating  palliates
+palliation N: ~palliations
+palliative A:
+palliative N: palliatives
+pallid A: pallider  pallidest
+pallidly A:
+pallidness N: ~pallidnesses
+pallor N: ~pallors
+palm N: palms
+palm V: palmed  palming  palms
+palmate A:
+palmetto N: palmettos (palmettoes)
+palmist N: palmists
+palmistry N: ~palmistries
+palmtop N: palmtops
+palmy A: palmier  palmiest
+palomino N: palominos
+palpable A:
+palpably A:
+palpate A:
+palpate V: palpated  palpating  palpates
+palpation N: ~palpations
+palpitate V: palpitated  palpitating  palpitates
+palpitation N: palpitations
+-palsy A: palsier  palsiest
+palsy N: palsies
+palsy V: palsied  palsying  palsies
+paltriness N: ~paltrinesses
+paltry A: paltrier  paltriest
+pampas N:
+pamper V: pampered  pampering  pampers
+pamphlet N: pamphlets
+pamphlet V: pamphleted  pamphleting  pamphlets
+pamphleteer N: pamphleteers
+-pamphleteer V: pamphleteered  pamphleteering  pamphleteers
+pan N: pans
+pan V: panned  panning  pans
+panacea N: panaceas
+panache N: ~panaches
+panama N: panamas
+pancake N: pancakes
+pancake V: pancaked  pancaking  pancakes
+panchromatic A:
+pancreas N: pancreases
+pancreatic A:
+panda N: pandas
+pandemic A:
+pandemic N: pandemics
+pandemonium N: ~pandemoniums
+pander N: panders
+pander V: pandered  pandering  panders
+panderer N: panderers
+pane N: panes
+panegyric N: panegyrics
+panel N: panels
+panel V: paneled (panelled)  paneling (panelling)  panels
+paneling N: ~panelings
+panelist N: panelists
+panelling N: ~panellings
+pang N: pangs
+panhandle N: panhandles
+panhandle V: panhandled  panhandling  panhandles
+panhandler N: panhandlers
+panic A:
+panic N: panics
+panic V: panicked  panicking  panics
+panicky A: !panickier  !panickiest
+panier N: paniers
+pannier N: panniers
+panoply N: panoplies
+panorama N: panoramas
+panoramic A:
+panpipes N:
+pansy N: pansies
+pant A:
+pant N: pants
+pant V: panted  panting  pants
+pantaloons N:
+pantheism N: ~pantheisms
+pantheist N: pantheists
+pantheistic A:
+pantheon N: pantheons
+panther N: panthers | panther
+pantie N: panties
+pantomime N: pantomimes
+pantomime V: pantomimed  pantomiming  pantomimes
+pantomimic A:
+pantomimist N: pantomimists
+pantry N: pantries
+pantsuit N: pantsuits
+panty N: panties
+pantyhose N:
+pantyliner N: pantyliners
+pantywaist N: pantywaists
+pap N: paps
+papa N: papas
+papacy N: papacies
+papal A:
+paparazzi N:
+papaw N: papaws
+papaya N: papayas
+paper A:
+paper N: papers
+paper V: papered  papering  papers
+paperback A:
+paperback N: paperbacks
+paperboard A:
+paperboard N: ~paperboards
+paperboy N: paperboys
+paperer N: paperers
+papergirl N: papergirls
+paperhanger N: paperhangers
+paperhanging N: ~paperhangings
+paperweight N: paperweights
+paperwork N: ~paperworks
+papery A: paperier  paperiest
+papilla N: papillae
+papillary A:
+papist A:
+papist N: papists
+papoose N: papooses
+-pappy A: pappier  pappiest
+pappy N: pappies
+paprika N: ~paprikas
+papyrus N: papyri (papyruses)
+par A:
+par N: pars
+par V: parred  parring  pars
+para N: paras {paramedic} | paras (para) {money}
+parable N: parables
+parabola N: parabolas
+parabolic A:
+parachute N: parachutes
+parachute V: parachuted  parachuting  parachutes
+parachutist N: parachutists
+parade N: parades
+parade V: paraded  parading  parades
+parader N: paraders
+paradigm N: paradigms
+paradigmatic A:
+paradisaical A:
+paradise N: paradises
+paradox N: paradoxes
+paradoxical A:
+paradoxically A:
+paraffin N: ~paraffins
+-paraffin V: paraffined  paraffining  paraffins
+paragon N: paragons
+-paragon V: paragoned  paragoning  paragons
+paragraph N: paragraphs
+paragraph V: paragraphed  paragraphing  paragraphs
+parakeet N: parakeets
+paralegal A:
+paralegal N: paralegals
+parallax N: parallaxes
+parallel A:
+parallel N: parallels
+parallel V: paralleled (parallelled)  paralleling (parallelling)  parallels
+parallelism N: parallelisms
+parallelogram N: parallelograms
+paralyse V: paralysed  paralysing  paralyses
+paralysis N: paralyses
+paralytic A:
+paralytic N: paralytics
+paralyze V: paralyzed  paralyzing  paralyzes
+paralyzingly A:
+paramecium N: paramecia (parameciums)
+paramedic A:
+paramedic N: paramedics
+paramedical A:
+paramedical N: paramedicals
+parameter N: parameters
+parametric A:
+paramilitary A:
+paramilitary N: paramilitaries
+paramount A:
+-paramount N: paramounts
+paramour N: paramours
+paranoia N: ~paranoias
+paranoiac A:
+paranoiac N: paranoiacs
+paranoid A:
+paranoid N: paranoids
+paranormal A:
+parapet N: parapets
+paraphernalia N: ~paraphernalias
+paraphrase N: paraphrases
+paraphrase V: paraphrased  paraphrasing  paraphrases
+paraplegia N: ~paraplegias
+paraplegic A:
+paraplegic N: paraplegics
+paraprofessional A:
+paraprofessional N: paraprofessionals
+parapsychologist N: parapsychologists
+parapsychology N: ~parapsychologies
+paraquat N: ~paraquats
+parasite N: parasites
+parasitic A:
+parasitically A:
+parasitism N: ~parasitisms
+parasol N: parasols
+parasympathetic A:
+parathion N: ~parathions
+parathyroid A:
+parathyroid N: parathyroids
+paratrooper N: paratroopers
+paratroops N:
+paratyphoid N: ~paratyphoids
+parboil V: parboiled  parboiling  parboils
+-parcel A:
+parcel N: parcels
+parcel V: parceled (parcelled)  parceling (parcelling)  parcels
+parch V: parched  parching  parches
+parchment N: parchments
+pardon I:
+pardon N: pardons
+pardon V: pardoned  pardoning  pardons
+pardonable A:
+pardonably A:
+pardoner N: pardoners
+pare V: pared  paring  pares
+paregoric N: ~paregorics
+parent A:
+parent N: parents
+parent V: parented  parenting  parents
+parentage N: ~parentages
+parental A:
+parenthesis N: parentheses
+parenthesize V: parenthesized  parenthesizing  parenthesizes
+parenthetic A:
+parenthetical A:
+parenthetically A:
+parenthood N: ~parenthoods
+parenting N: ~parentings
+parer N: parers
+paresis N: ~pareses
+parfait N: parfaits
+pariah N: pariahs
+parietal A:
+-parietal N: parietals
+parimutuel N: parimutuels
+paring N: parings
+parish N: parishes
+parishioner N: parishioners
+parity N: ~parities
+park N: parks
+park V: parked  parking  parks
+parka N: parkas
+parking N: ~parkings
+parkway N: parkways
+parlance N: ~parlances
+parlay N: parlays
+parlay V: parlayed  parlaying  parlays
+parley N: parleys
+parley V: parleyed  parleying  parleys
+parliament N: parliaments
+parliamentarian N: parliamentarians
+parliamentary A:
+parlor N: parlors
+parlour N: parlours
+parlous A:
+parmigiana A:
+parmigiano A:
+parochial A:
+parochialism N: ~parochialisms
+parochially A:
+parodist N: parodists
+parody N: parodies
+parody V: parodied  parodying  parodies
+parole A:
+parole N: ~paroles
+parole V: paroled  paroling  paroles
+parolee N: parolees
+paroxysm N: paroxysms
+paroxysmal A:
+parquet N: ~parquets
+parquet V: parqueted  parqueting  parquets
+parquetry N: ~parquetries
+parrakeet N: parrakeets
+parricidal A:
+parricide N: parricides
+parrot N: parrots
+parrot V: parroted  parroting  parrots
+parry N: parries
+parry V: parried  parrying  parries
+parse V: parsed  parsing  parses
+parsec N: parsecs
+parsimonious A:
+parsimoniously A:
+parsimony N: ~parsimonies
+parsley N: ~parsleys
+parsnip N: parsnips
+parson N: parsons
+parsonage N: parsonages
+part A:
+part N: parts
+part V: parted  parting  parts
+partake V: partook  partaken  partaking  partakes
+partaker N: partakers
+parterre N: parterres
+parthenogenesis N: ~parthenogeneses
+partial A:
+partial N: partials
+partiality N: ~partialities
+partially A:
+participant A:
+participant N: participants
+participate V: participated  participating  participates
+participation N: ~participations
+participator N: participators
+participatory A:
+participial N:
+participle N: participles
+particle N: particles
+particleboard N: ~particleboards
+particular A:
+particular N: particulars
+particularity N: particularities
+particularization N: ~particularizations
+particularize V: particularized  particularizing  particularizes
+particularly A:
+particulate A:
+particulate N: particulates
+parting N: partings
+partisan A:
+partisan N: partisans
+partisanship N: ~partisanships
+partition N: partitions
+partition V: partitioned  partitioning  partitions
+partitive A:
+partitive N: partitives
+partizan A:
+partizan N: partizans
+partly A:
+partner N: partners
+partner V: partnered  partnering  partners
+partnership N: partnerships
+partridge N: partridges
+parturition N: ~parturitions
+partway A:
+party A:
+party N: parties
+party V: partied  partying  parties
+parvenu A:
+parvenu N: parvenus
+pascal N: pascals
+paschal A:
+-paschal N: paschals
+pasha N: pashas
+pass N: passes
+pass V: passed  passing  passes
+passable A:
+passably A:
+passage N: passages
+-passage V: passaged  passaging  passages
+passageway N: passageways
+passbook N: passbooks
+passe A:
+-passe N: passes
+passel N: passels
+passenger N: passengers
+passer N: passers
+passerby N: passersby
+passim A:
+passing N: ~passings
+passingly A:
+passion N: passions
+passionate A:
+passionately A:
+passionflower N: passionflowers
+passionless A:
+passive A:
+passive N: passives
+passively A:
+passiveness N: ~passivenesses
+passivity N: ~passivities
+passkey N: passkeys
+passport N: passports
+password N: passwords
+past A:
+past C:
+past N: pasts
+pasta N: pastas
+paste N: pastes
+paste V: pasted  pasting  pastes
+pasteboard N: ~pasteboards
+pastel A:
+pastel N: pastels
+pastern N: pasterns
+pasteurization N: ~pasteurizations
+pasteurize V: pasteurized  pasteurizing  pasteurizes
+pasteurizer N: pasteurizers
+pastiche N: pastiches
+pastille N: pastilles
+pastime N: pastimes
+pastiness N: ~pastinesses
+pastor N: pastors
+-pastor V: pastored  pastoring  pastors
+pastoral A:
+pastoral N: pastorals
+pastorate N: pastorates
+pastrami N: ~pastramis
+pastry N: pastries
+pasturage N: ~pasturages
+pasture N: pastures
+pasture V: pastured  pasturing  pastures
+pastureland N: ~pasturelands
+pasty A: pastier  pastiest
+pasty N: pasties
+pat A:
+pat N: pats
+pat V: patted  patting  pats
+patch N: patches
+patch V: patched  patching  patches
+patchily A:
+patchiness N: ~patchinesses
+patchwork A:
+patchwork N: patchworks
+patchy A: patchier  patchiest
+pate N: pates
+patella N: patellas / patellae
+patent A:
+patent N: patents
+patent V: patented  patenting  patents
+patently A:
+paterfamilias N: patresfamilias {Roman} | paterfamiliases {contemporary}
+paternal A:
+paternalism N: ~paternalisms
+paternalistic A:
+paternally A:
+paternity A:
+paternity N: ~paternities
+paternoster N: paternosters
+path N: paths
+pathetic A:
+pathetically A:
+pathfinder N: pathfinders
+pathless A:
+pathogen N: pathogens
+pathogenic A:
+pathological A:
+pathologically A:
+pathologist N: pathologists
+pathology N: ~pathologies
+pathos N: ~pathoses
+pathway N: pathways
+patience N: ~patiences
+patient A: patienter  patientest
+patient N: patients
+patiently A:
+patina N: patinas (patinae)
+patio N: patios
+patois N: patois
+patriarch N: patriarchs
+patriarchal A:
+patriarchate N: patriarchates
+patriarchy N: patriarchies
+patrician A:
+patrician N: patricians
+patricide N: patricides
+patrimonial A:
+patrimony N: patrimonies
+patriot N: patriots
+patriotic A:
+patriotically A:
+patriotism N: ~patriotisms
+patrol N: patrols
+patrol V: patrolled  patrolling  patrols
+patrolman N: patrolmen
+patrolwoman N: patrolwomen
+patron N: patrons
+patronage N: ~patronages
+patroness N: patronesses
+patronize V: patronized  patronizing  patronizes
+patronizer N: patronizers
+patronizingly A:
+patronymic A:
+patronymic N: patronymics
+patronymically A:
+patroon N: patroons
+patsy N: patsies
+patter N: patters
+patter V: pattered  pattering  patters
+pattern N: patterns
+pattern V: patterned  patterning  patterns
+patty N: patties
+paucity N: ~paucities
+paunch N: paunches
+paunchy A: paunchier  paunchiest
+pauper N: paupers
+-pauper V: paupered  paupering  paupers
+pauperism N: ~pauperisms
+pauperize V: pauperized  pauperizing  pauperizes
+pause N: pauses
+pause V: paused  pausing  pauses
+pave V: paved  paving  paves
+pavement N: pavements
+pavilion N: pavilions
+-pavilion V: pavilioned  pavilioning  pavilions
+paving N: pavings
+paw N: paws
+paw V: pawed  pawing  paws
+pawl N: pawls
+pawn N: pawns
+pawn V: pawned  pawning  pawns
+pawnbroker N: pawnbrokers
+pawnbroking N: ~pawnbrokings
+pawnshop N: pawnshops
+pawpaw N: pawpaws
+pay A:
+pay N: ~pays
+pay V: paid {purchase} | payed {slacken}  paying  pays
+payable A:
+-payable N: payables
+payback N: paybacks
+paycheck N: paychecks
+payday N: paydays
+payee N: payees
+payer N: payers
+payload N: payloads
+paymaster N: paymasters
+payment N: payments
+-payoff A:
+payoff N: payoffs
+payola N: ~payolas
+payout N: payouts
+payroll N: payrolls
+payslip N: payslips
+pea A:
+pea N: peas (pease)
+peace N: peaces
+-peace V: peaced  peacing  peaces
+peaceable A:
+peaceably A:
+peaceful A: -peacefuller  -peacefullest
+peacefully A:
+peacefulness N: ~peacefulnesses
+peacekeeper N: peacekeepers
+peacekeeping N: ~peacekeepings
+peacemaker N: peacemakers
+peacemaking N: ~peacemakings
+peacetime N: ~peacetimes
+peach N: peaches
+-peach V: peached  peaching  peaches
+peachy A: peachier  peachiest
+peacock N: peacocks | peacock
+-peacock V: peacocked  peacocking  peacocks
+peafowl N: peafowls | peafowl
+peahen N: peahens
+peak A:
+peak N: peaks
+peak V: peaked  peaking  peaks
+peal N: peals
+peal V: pealed  pealing  peals
+-peanut A:
+peanut N: peanuts
+pear N: pears
+pearl A:
+pearl N: pearls
+pearl V: pearled  pearling  pearls
+pearly A: pearlier  pearliest
+-pearly N: pearlies
+peasant A:
+peasant N: peasants
+peasantry N: ~peasantries
+peashooter N: peashooters
+peat N: ~peats
+peaty A: peatier  peatiest
+pebble N: pebbles
+pebble V: pebbled  pebbling  pebbles
+pebbly A: !pebblier  !pebbliest
+pecan N: pecans
+peccadillo N: peccadilloes (peccadillos)
+peccary N: peccaries
+peck N: pecks
+peck V: pecked  pecking  pecks
+pectic A:
+pectin N: ~pectins
+pectoral A:
+pectoral N: pectorals
+peculate V: peculated  peculating  peculates
+peculation N: ~peculations
+peculator N: peculators
+peculiar A:
+-peculiar N: peculiars
+peculiarity N: peculiarities
+peculiarly A:
+pecuniary A:
+pedagog N: pedagogs
+pedagogic A:
+pedagogical A:
+pedagogue N: pedagogues
+pedagogy N: ~pedagogies
+pedal A:
+pedal N: pedals
+pedal V: pedaled (pedalled)  pedaling (pedalling)  pedals
+pedant N: pedants
+pedantic A:
+pedantically A:
+pedantry N: ~pedantries
+peddle V: peddled  peddling  peddles
+peddler N: peddlers
+pederast N: pederasts
+pederasty N: ~pederasties
+pedestal N: pedestals
+-pedestal V: pedestaled (pedestalled)  pedestaling (pedestalling)  pedestals
+pedestrian A:
+pedestrian N: pedestrians
+pedestrianize V: pedestrianized  pedestrianizing  pedestrianizes
+pediatric A:
+pediatrician N: pediatricians
+pediatrics N:
+pedicab N: pedicabs
+pedicure N: pedicures
+pedicure V: pedicured  pedicuring  pedicures
+pedicurist N: pedicurists
+pedigree A:
+pedigree N: pedigrees
+pedigreed A:
+pediment N: pediments
+pedlar N: pedlars
+pedometer N: pedometers
+peduncle N: peduncles
+pee N: pees
+pee V: peed  peeing  pees
+peek N: peeks
+peek V: peeked  peeking  peeks
+peekaboo A:
+peekaboo I:
+peekaboo N: ~peekaboos
+peel N: peels
+peel V: peeled  peeling  peels
+peeler N: peelers
+peeling N: peelings
+peen N: peens
+-peen V: peened  peening  peens
+peep N: peeps
+peep V: peeped  peeping  peeps
+peeper N: peepers
+peephole N: peepholes
+peepshow N: peepshows
+peer N: peers
+peer V: peered  peering  peers
+peerage N: peerages
+peeress N: peeresses
+peerless A:
+peeve N: peeves
+peeve V: peeved  peeving  peeves
+peevish A:
+peevishly A:
+peevishness N: ~peevishnesses
+peewee A:
+peewee N: peewees
+peg N: pegs
+peg V: pegged  pegging  pegs
+pegboard N: pegboards
+peignoir N: peignoirs
+pejoration N: ~pejorations
+pejorative A:
+pejorative N: pejoratives
+pejoratively A:
+peke N: pekes
+pekinese N: pekinese
+pekingese N: pekingese
+pekoe N: ~pekoes
+pelagic A:
+pelf N: ~pelfs
+pelican N: pelicans
+pellagra N: ~pellagras
+pellet N: pellets
+pellet V: pelleted  pelleting  pellets
+pellmell A:
+-pellmell N: pellmells
+pellucid A:
+pelt N: pelts
+pelt V: pelted  pelting  pelts
+pelvic A:
+pelvis N: pelvises (pelves)
+pemmican N: ~pemmicans
+pen N: pens
+pen V: penned {write} | penned (-pent) {enclose}  penning  pens
+penal A:
+penalization N: ~penalizations
+penalize V: penalized  penalizing  penalizes
+penalty N: penalties
+penance N: penances
+penchant N: penchants
+pencil N: pencils
+pencil V: penciled (pencilled)  penciling (pencilling)  pencils
+pend V: pended  pending  pends
+pendant A:
+pendant N: pendants
+pendent A:
+pendent N: pendents
+pending C:
+pendulous A:
+pendulum N: pendulums
+penetrability N: ~penetrabilities
+penetrable A:
+penetrate V: penetrated  penetrating  penetrates
+penetratingly A:
+penetration N: penetrations
+penetrative A:
+penguin N: penguins
+penicillin N: ~penicillins
+penile A:
+peninsula N: peninsulas
+peninsular A:
+penis N: penises (penes)
+penitence N: ~penitences
+penitent A:
+penitent N: penitents
+penitential A:
+-penitential N: penitentials
+penitentiary A:
+penitentiary N: penitentiaries
+penitently A:
+penknife N: penknives
+penlight N: penlights
+penlite N: penlites
+penman N: penmen
+penmanship N: ~penmanships
+pennant N: pennants
+penniless A:
+pennon N: pennons
+-penny A:
+penny N: pennies | pence {British}
+pennyweight N: pennyweights
+penologist N: penologists
+penology N: ~penologies
+pension N: pensions
+pension V: pensioned  pensioning  pensions
+pensionable A:
+pensioner N: pensioners
+pensive A:
+pensively A:
+pensiveness N: ~pensivenesses
+pent A:
+pentacle N: pentacles
+pentagon N: pentagons
+pentagonal A:
+pentagram N: pentagrams
+pentameter N: pentameters
+pentathlete N: pentathletes
+pentathlon N: pentathlons
+penthouse N: penthouses
+penuche N: ~penuches
+penultimate A:
+penultimate N: penultimates
+penumbra N: penumbrae (penumbras)
+penurious A:
+penuriously A:
+penuriousness N: ~penuriousnesses
+penury N: ~penuries
+peon N: peons
+peonage N: ~peonages
+peony N: peonies
+people N: - {persons} | peoples {tribe}
+people V: peopled  peopling  peoples
+pep N: ~peps
+pep V: pepped  pepping  peps
+pepper N: peppers
+pepper V: peppered  peppering  peppers
+peppercorn A:
+peppercorn N: peppercorns
+peppermint N: peppermints
+pepperoni N: pepperonis
+peppery A: -pepperier  -pepperiest
+peppiness N: ~peppinesses
+peppy A: peppier  peppiest
+pepsin N: ~pepsins
+peptic A:
+peptic N: peptics
+per A:
+per C:
+peradventure A:
+peradventure N: ~peradventures
+perambulate V: perambulated  perambulating  perambulates
+perambulation N: perambulations
+perambulator N: perambulators
+percale N: percales
+perceivable A:
+perceive V: perceived  perceiving  perceives
+percent A:
+percent N: percent / percents
+percentage N: percentages
+percentile N: percentiles
+perceptible A:
+perceptibly A:
+perception N: perceptions
+perceptional A:
+perceptive A:
+perceptively A:
+perceptiveness N: ~perceptivenesses
+perceptual A:
+perceptually A:
+perch N: perch | perches
+perch V: perched  perching  perches
+perchance A:
+percipience N: ~percipiences
+percipient A:
+-percipient N: percipients
+-percolate N: percolates
+percolate V: percolated  percolating  percolates
+percolation N: ~percolations
+percolator N: percolators
+percussion A:
+percussion N: ~percussions
+percussionist N: percussionists
+perdition N: ~perditions
+perdurable A:
+peregrinate V: peregrinated  peregrinating  peregrinates
+peregrination N: peregrinations
+peregrine N: peregrines
+peremptorily A:
+peremptory A:
+perennial A:
+perennial N: perennials
+perennially A:
+perestroika N: ~perestroikas
+perfect A: perfecter  perfectest
+perfect N: perfects
+perfect V: perfected  perfecting  perfects
+perfecta N: perfectas
+perfectibility N: ~perfectibilities
+perfectible A:
+perfection N: perfections
+perfectionism N: ~perfectionisms
+perfectionist A:
+perfectionist N: perfectionists
+perfectly A:
+perfectness N: ~perfectnesses
+perfidious A:
+perfidiously A:
+perfidy N: perfidies
+perforate V: perforated  perforating  perforates
+perforation N: perforations
+perforce A:
+perform V: performed  performing  performs
+performance N: performances
+performer N: performers
+perfume N: perfumes
+perfume V: perfumed  perfuming  perfumes
+perfumer N: perfumers
+perfumery N: perfumeries
+perfunctorily A:
+perfunctory A:
+pergola N: pergolas
+perhaps A:
+pericardium N: pericardia (pericardiums)
+perigee N: perigees
+perihelion N: perihelia (perihelions)
+peril N: perils
+peril V: periled (perilled)  periling (perilling)  perils
+perilous A:
+perilously A:
+perimeter N: perimeters
+perineum N: perinea
+period A:
+period I:
+period N: periods
+periodic A:
+periodical A:
+periodical N: periodicals
+periodically A:
+periodicity N: ~periodicities
+periodontal A:
+periodontics N:
+periodontist N: periodontists
+peripatetic A:
+peripatetic N: peripatetics
+peripheral A:
+peripheral N: peripherals
+peripherally A:
+periphery N: peripheries
+periphrasis N: periphrases
+periphrastic A:
+periscope N: periscopes
+perish V: perished  perishing  perishes
+perishable A:
+perishable N: perishables
+peristalsis N: ~peristalses
+peristaltic A:
+peristyle N: peristyles
+peritoneal A:
+peritoneum N: peritoneums (peritonea)
+peritonitis N: ~peritonitises
+periwig N: periwigs
+periwinkle N: periwinkles
+perjure V: perjured  perjuring  perjures
+perjurer N: perjurers
+perjury N: perjuries
+-perk A:
+perk N: perks
+perk V: perked  perking  perks
+perkily A:
+perkiness N: ~perkinesses
+perky A: perkier  perkiest
+perm N: perms
+perm V: permed  perming  perms
+permafrost N: ~permafrosts
+permanence N: ~permanences
+permanency N: ~permanencies
+permanent A:
+permanent N: permanents
+permanently A:
+permeability N: ~permeabilities
+permeable A:
+permeate V: permeated  permeating  permeates
+permeation N: ~permeations
+permissible A:
+permissibly A:
+permission N: ~permissions
+permissive A:
+permissively A:
+permissiveness N: ~permissivenesses
+permit N: permits
+permit V: permitted  permitting  permits
+permutation N: permutations
+permute V: permuted  permuting  permutes
+pernicious A:
+perniciously A:
+perniciousness N: ~perniciousnesses
+pernickety A:
+peroration N: perorations
+peroxide N: ~peroxides
+peroxide V: peroxided  peroxiding  peroxides
+perpendicular A:
+perpendicular N: perpendiculars
+perpendicularity N: ~perpendicularities
+perpendicularly A:
+perpetrate V: perpetrated  perpetrating  perpetrates
+perpetration N: ~perpetrations
+perpetrator N: perpetrators
+perpetual A:
+perpetual N: perpetuals
+perpetually A:
+perpetuate V: perpetuated  perpetuating  perpetuates
+perpetuation N: ~perpetuations
+perpetuity N: ~perpetuities
+perplex V: perplexed  perplexing  perplexes
+perplexedly A:
+perplexity N: perplexities
+perquisite N: perquisites
+persecute V: persecuted  persecuting  persecutes
+persecution N: persecutions
+persecutor N: persecutors
+perseverance N: ~perseverances
+persevere V: persevered  persevering  perseveres
+persiflage N: ~persiflages
+persimmon N: persimmons
+persist V: persisted  persisting  persists
+persistence N: ~persistences
+persistent A:
+persistently A:
+persnickety A:
+person N: persons (people)
+persona N: personae (personas)
+personable A:
+personage N: personages
+personal A:
+personal N: personals
+personality N: personalities
+personalize V: personalized  personalizing  personalizes
+personally A:
+personalty N: ~personalties
+personification N: personifications
+personify V: personified  personifying  personifies
+personnel A:
+personnel N: ~personnels
+perspective A:
+perspective N: perspectives
+perspicacious A:
+perspicaciously A:
+perspicacity N: ~perspicacities
+perspicuity N: ~perspicuities
+perspicuous A:
+perspiration N: ~perspirations
+perspire V: perspired  perspiring  perspires
+persuadable A:
+persuade V: persuaded  persuading  persuades
+persuader N: persuaders
+persuasion N: persuasions
+persuasive A:
+-persuasive N: persuasives
+persuasively A:
+persuasiveness N: ~persuasivenesses
+pert A: perter  pertest
+pertain V: pertained  pertaining  pertains
+pertinacious A:
+pertinaciously A:
+pertinacity N: ~pertinacities
+pertinence N: ~pertinences
+pertinent A:
+pertinently A:
+pertly A:
+pertness N: ~pertnesses
+perturb V: perturbed  perturbing  perturbs
+perturbation N: perturbations
+pertussis N: ~pertussises
+peruke N: perukes
+perusal N: perusals
+peruse V: perused  perusing  peruses
+pervade V: pervaded  pervading  pervades
+pervasive A:
+pervasively A:
+pervasiveness N: ~pervasivenesses
+perverse A: -perverser  -perversest
+perversely A:
+perverseness N: ~perversenesses
+perversion N: perversions
+perversity N: ~perversities
+pervert N: perverts
+pervert V: perverted  perverting  perverts
+peseta N: pesetas
+peskily A:
+peskiness N: ~peskinesses
+pesky A: peskier  peskiest
+peso N: pesos
+pessimism N: ~pessimisms
+pessimist N: pessimists
+pessimistic A:
+pessimistically A:
+pest N: pests
+pester V: pestered  pestering  pesters
+pesticide N: pesticides
+pestiferous A:
+pestilence N: pestilences
+pestilent A:
+pestilential A:
+pestle N: pestles
+pestle V: pestled  pestling  pestles
+pesto N: ~pestos
+pet A:
+pet N: pets
+pet V: petted  petting  pets
+petal N: petals
+petaled A:
+petard N: petards
+petcock N: petcocks
+peter N: peters
+peter V: petered  petering  peters
+petiole N: petioles
+petite A:
+petite N: petites
+petition N: petitions
+petition V: petitioned  petitioning  petitions
+petitioner N: petitioners
+petrel N: petrels
+petrifaction N: ~petrifactions
+petrify V: petrified  petrifying  petrifies
+petrochemical A:
+petrochemical N: petrochemicals
+petrodollar N: petrodollars
+petrol N: ~petrols
+-petrol V: petrolled  petrolling  petrols
+petrolatum N: ~petrolatums
+petroleum N: ~petroleums
+petrologist N: petrologists
+petrology N: ~petrologies
+petticoat A:
+petticoat N: petticoats
+pettifog V: pettifogged  pettifogging  pettifogs
+pettifogger N: pettifoggers
+pettifoggery N: ~pettifoggeries
+pettily A:
+pettiness N: ~pettinesses
+petting N: ~pettings
+pettish A:
+pettishly A:
+petty A: pettier  pettiest
+petulance N: ~petulances
+petulant A:
+petulantly A:
+petunia N: petunias
+pew I:
+pew N: pews
+pewee N: pewees
+pewit N: pewits
+pewter A:
+pewter N: pewters
+peyote N: ~peyotes
+pfennig N: pfennig / pfennigs (pfennige)
+phaeton N: phaetons
+phagocyte N: phagocytes
+phalanger N: phalangers
+phalanx N: phalanxes {army} | phalanges {bone}
+phallic A:
+phallus N: phalli (phalluses)
+phantasm N: phantasms
+phantasmagoria N: phantasmagorias
+phantasmal A:
+phantasy N: phantasies
+phantasy V: phantasied  phantasying  phantasies
+phantom A:
+phantom N: phantoms
+pharaoh N: pharaohs
+pharisaic A:
+pharisee N: pharisees
+pharmaceutic A:
+pharmaceutic N: pharmaceutics
+pharmaceutical A:
+pharmaceutical N: pharmaceuticals
+pharmaceutics N:
+pharmacist N: pharmacists
+pharmacological A:
+pharmacologist N: pharmacologists
+pharmacology N: ~pharmacologies
+pharmacopeia N: pharmacopeias
+pharmacopoeia N: pharmacopoeias
+pharmacy N: pharmacies
+pharyngeal A:
+-pharyngeal N: pharyngeals
+pharyngitis N: ~pharyngitides
+pharynx N: pharynges (pharynxes)
+phase N: phases
+phase V: phased  phasing  phases
+phaseout N: phaseouts
+phat A: phatter  phattest
+pheasant N: pheasants (pheasant)
+phenacetin N: ~phenacetins
+phenobarbital N: ~phenobarbitals
+phenol N: ~phenols
+phenom N: phenoms
+phenomenal A:
+phenomenally A:
+phenomenon N: phenomena (phenomenons) {science} | phenomenons {celebrity}
+pheromone N: pheromones
+phew I:
+phi N: phis
+phial N: phials
+philander V: philandered  philandering  philanders
+philanderer N: philanderers
+philandering N: ~philanderings
+philanthropic A:
+philanthropically A:
+philanthropist N: philanthropists
+philanthropy N: philanthropies
+philatelic A:
+philatelist N: philatelists
+philately N: ~philatelies
+philharmonic A:
+philharmonic N: philharmonics
+philippic N: philippics
+philistine A:
+philistine N: philistines
+philistinism N: ~philistinisms
+philodendron N: philodendrons (philodendra)
+philological A:
+philologist N: philologists
+philology N: ~philologies
+philosopher N: philosophers
+philosophic A:
+philosophical A:
+philosophically A:
+philosophize V: philosophized  philosophizing  philosophizes
+philosophizer N: philosophizers
+philosophy N: philosophies
+philter N: philters
+-philter V: philtered  philtering  philters
+philtre N: philtres
+-philtre V: philtred  philtring  philtres
+phlebitis N: ~phlebitides
+phlegm N: ~phlegms
+phlegmatic A:
+phlegmatically A:
+phloem N: ~phloems
+phlox N: phlox (phloxes)
+phobia N: phobias
+phobic A:
+phobic N: phobics
+phoebe N: phoebes
+phoenix N: phoenixes
+phone N: phones
+phone V: phoned  phoning  phones
+phoneme N: phonemes
+phonemic A:
+phonemically A:
+phonetic A:
+-phonetic N: phonetics
+phonetically A:
+phonetician N: phoneticians
+phonetics N:
+phoney A: phonier  phoniest
+phoney N: phoneys
+phoney V: phoneyed  phoneying  phoneys
+phonic A:
+phonically A:
+phonics N:
+phoniness N: ~phoninesses
+phonograph N: phonographs
+phonographic A:
+phonological A:
+phonologically A:
+phonologist N: phonologists
+phonology N: ~phonologies
+phony A: phonier  phoniest
+phony N: phonies
+phony V: phonied  phonying  phonies
+phooey I:
+phosphate N: phosphates
+phosphor N: phosphors
+phosphorescence N: ~phosphorescences
+phosphorescent A:
+phosphorescently A:
+phosphoric A:
+phosphorous A:
+phosphorus N: ~phosphoruses (~phosphori)
+photo A:
+photo N: photos
+photo V: photoed  photoing  photos
+photocell N: photocells
+photocopier N: photocopiers
+photocopy N: photocopies
+photocopy V: photocopied  photocopying  photocopies
+photoelectric A:
+photoelectrically A:
+photoengrave V: photoengraved  photoengraving  photoengraves
+photoengraver N: photoengravers
+photoengraving N: photoengravings
+photofinishing N: ~photofinishings
+photogenic A:
+photogenically A:
+photograph N: photographs
+photograph V: photographed  photographing  photographs
+photographer N: photographers
+photographic A:
+photographically A:
+photography N: ~photographies
+photojournalism N: ~photojournalisms
+photojournalist N: photojournalists
+photometer N: photometers
+photon N: photons
+photosensitive A:
+photostat A:
+photostat N: protostats
+photostat V: photostatted (photostated)  photostatting (photostating)  photostats
+photostatic A:
+photosynthesis N: ~photosyntheses
+photosynthesize V: photosynthesized  photosynthesizing  photosynthesizes
+photosynthetic A:
+phrasal A:
+phrase N: phrases
+phrase V: phrased  phrasing  phrases
+phraseology N: ~phraseologies
+phrasing N: phrasings
+phrenetic A:
+-phrenetic N: phrenetics
+phrenologist N: phrenologists
+phrenology N: ~phrenologies
+phylactery N: phylacteries
+phylogeny N: ~phylogenies
+phylum N: phyla
+physic N: ~physics
+physic V: physicked  physicking  physics
+physical A:
+physical N: physicals
+physically A:
+physician N: physicians
+physicist N: physicists
+physics N:
+physiognomy N: physiognomies
+physiography N: ~physiographies
+physiologic A:
+physiological A:
+physiologically A:
+physiologist N: physiologists
+physiology N: ~physiologies
+physiotherapist N: physiotherapists
+physiotherapy N: ~physiotherapies
+physique N: physiques
+pi N: pis {Greek} | pies {printing}
+pi V: pied  pieing / piing  pies
+pianissimo A:
+pianissimo N: pianissimos (pianissimi)
+pianist N: pianists
+piano A:
+piano N: pianos
+pianoforte N: pianofortes
+piaster N: piasters
+piastre N: piastres
+piazza N: piazzas (piazze)
+pibroch N: pibrochs
+pic N: pics
+pica N: ~picas
+picador N: picadors
+picaresque A:
+picayune A:
+-picayune N: picayunes
+piccalilli N: ~piccalillis
+piccolo N: piccolos
+pick N: picks
+pick V: picked  picking  picks
+pickaback A:
+-pickaback N: pickabacks
+pickaback V: pickabacked  pickabacking  pickabacks
+pickax N: pickaxes
+pickax V: pickaxed  pickaxing  pickaxes
+pickaxe N: pickaxes
+pickaxe V: pickaxed  pickaxing  pickaxes
+picker N: pickers
+pickerel N: pickerel | pickerels
+picket N: pickets
+picket V: picketed  picketing  pickets
+pickings N:
+pickle N: pickles
+pickle V: pickled  pickling  pickles
+pickpocket N: pickpockets
+pickup A:
+pickup N: pickups
+picky A: pickier  pickiest
+picnic N: picnics
+picnic V: picnicked  picnicking  picnics
+picnicker N: picnickers
+picot N: picots
+pictograph N: pictographs
+pictorial A:
+pictorial N: pictorials
+pictorially A:
+picture N: pictures
+picture V: pictured  picturing  pictures
+picturesque A:
+picturesquely A:
+picturesqueness N: ~picturesquenesses
+piddle N: ~piddles
+piddle V: piddled  piddling  piddles
+piddly A:
+pidgin A:
+pidgin N: pidgins
+pie N: pies
+-pie V: pied  pieing  pies
+piebald A:
+piebald N: piebalds
+piece N: pieces
+piece V: pieced  piecing  pieces
+piecemeal A:
+piecework N: ~pieceworks
+pieceworker N: pieceworkers
+pied A:
+pier N: piers
+pierce V: pierced  piercing  pierces
+piercing N: piercings
+piercingly A:
+piety N: ~pieties
+piffle N: ~piffles
+-piffle V: piffled  piffling  piffles
+piffling A:
+pig N: pigs
+pig V: pigged  pigging  pigs
+pigeon N: pigeons
+pigeonhole N: pigeonholes
+pigeonhole V: pigeonholed  pigeonholing  pigeonholes
+piggish A:
+piggishly A:
+piggishness N: ~piggishnesses
+piggy A: piggier  piggiest
+piggy N: piggies
+piggyback A:
+piggyback N: piggybacks
+piggyback V: piggybacked  piggybacking  piggybacks
+pigheaded A:
+pigheadedly A:
+pigheadedness N: ~pigheadednesses
+piglet N: piglets
+pigment N: pigments
+-pigment V: pigmented  pigmenting  pigments
+pigmentation N: ~pigmentations
+pigmy A:
+pigmy N: pigmies
+pigpen N: pigpens
+pigskin N: pigskins
+pigsty N: pigsties
+pigtail N: pigtails
+pike N {fish}: pikes | pike
+pike N {weapon}: pikes
+pike V: piked  piking  pikes
+piker N: pikers
+pikestaff N: pikestaffs / pikestaves
+pilaf N: pilafs
+pilaff N: pilaffs
+pilaster N: pilasters
+pilau N: pilaus
+pilchard N: pilchards
+pile N: piles
+pile V: piled  piling  piles
+pileup N: pileups
+pilfer V: pilfered  pilfering  pilfers
+pilferage N: ~pilferages
+pilferer N: pilferers
+pilgrim N: pilgrims
+pilgrimage N: pilgrimages
+-pilgrimage V: pilgrimaged  pilgrimaging  pilgrimages
+piling N: pilings
+pill N: pills
+pill V: pilled  pilling  pills
+pillage N: ~pillages
+pillage V: pillaged  pillaging  pillages
+pillager N: pillagers
+pillar N: pillars
+-pillar V: pillared  pillaring  pillars
+pillbox N: pillboxes
+pillion N: pillions
+pillory N: pillories
+pillory V: pilloried  pillorying  pillories
+pillow N: pillows
+pillow V: pillowed  pillowing  pillows
+pillowcase N: pillowcases
+pillowslip N: pillowslips
+pilot A:
+pilot N: pilots
+pilot V: piloted  piloting  pilots
+pilothouse N: pilothouses
+pimento N: pimentos (pimento)
+pimiento N: pimientos
+pimp N: pimps
+pimp V: pimped  pimping  pimps
+pimpernel N: pimpernels
+pimple N: pimples
+pimpled A:
+pimply A: pimplier  pimpliest
+pin N: pins
+pin V: pinned  pinning  pins
+pinafore N: pinafores
+pinata N: pinatas
+pinball N: ~pinballs
+pincer N: pincers
+-pincer V: pincered  pincering  pincers
+pinch N: pinches
+pinch V: pinched  pinching  pinches
+pincushion N: pincushions
+pine N: pines
+pine V: pined  pining  pines
+pineapple N: pineapples
+piney A: pinier  piniest
+pinfeather N: pinfeathers
+ping N: pings
+ping V: pinged  pinging  pings
+pinhead N: pinheads
+pinhole N: pinholes
+pinion N: pinions
+pinion V: pinioned  pinioning  pinions
+pink A: pinker  pinkest
+pink N: pinks
+pink V: pinked  pinking  pinks
+pinkeye N: ~pinkeyes
+pinkie N: pinkies
+pinkish A:
+pinkness N: ~pinknesses
+pinko A:
+pinko N: pinkos (pinkoes)
+pinky N: pinkies
+pinnacle N: pinnacles
+-pinnacle V: pinnacled  pinnacling  pinnacles
+pinnate A:
+pinochle N: ~pinochles
+pinocle N: ~pinocles
+pinon N: pinons (pinones)
+pinpoint A:
+pinpoint N: pinpoints
+pinpoint V: pinpointed  pinpointing  pinpoints
+pinprick N: pinpricks
+pinsetter N: pinsetters
+pinstripe A:
+pinstripe N: pinstripes
+pinstriped A:
+pint N: pints
+pinto A:
+pinto N: pintos (pintoes)
+pinup A:
+pinup N: pinups
+pinwheel N: pinwheels
+pinwheel V: pinwheeled  pinwheeling  pinwheels
+piny A: pinier  piniest
+pinyin N: ~pinyin
+pinyon N: pinyons
+pioneer A:
+pioneer N: pioneers
+pioneer V: pioneered  pioneering  pioneers
+pious A:
+piously A:
+piousness N: ~piousnesses
+pip N: pips
+pip V: pipped  pipping  pips
+pipe N: pipes
+pipe V: piped  piping  pipes
+pipeline N: pipelines
+-pipeline V: pipelined  pipelining  pipelines
+piper N: pipers
+pipette N: pipettes
+-pipette V: pipetted  pipetting  pipettes
+piping N: ~pipings
+pipit N: pipits
+pippin N: pippins
+pipsqueak N: pipsqueaks
+piquancy N: ~piquancies
+piquant A:
+piquantly A:
+-pique A:
+pique N: ~piques
+pique V: piqued  piquing  piques
+piracy N: ~piracies
+piranha N: piranha | piranhas
+pirate N: pirates
+pirate V: pirated  pirating  pirates
+piratical A:
+piratically A:
+pirogi N:
+piroshki N:
+pirouette N: pirouettes
+pirouette V: pirouetted  pirouetting  pirouettes
+piscatorial A:
+pismire N: pismires
+piss N: pisses
+piss V: pissed  pissing  pisses
+pissed A:
+pistachio N: pistachios
+pistil N: pistils
+pistillate A:
+pistol N: pistols
+-pistol V: pistoled (pistolled)  pistoling (pistolling)  pistols
+piston N: pistons
+pit N: pits
+pit V: pitted  pitting  pits
+pita N: ~pitas
+pitapat A:
+pitapat N: pitapats
+-pitapat V: pitapatted  pitapatting  pitapats
+pitch N: pitches
+pitch V: pitched  pitching  pitches
+pitchblende N: ~pitchblendes
+pitcher N: pitchers
+pitchfork N: pitchforks
+pitchfork V: pitchforked  pitchforking  pitchforks
+pitchman N: pitchmen
+piteous A:
+piteously A:
+piteousness N: ~piteousnesses
+pitfall N: pitfalls
+pith N: ~piths
+-pith V: pithed  pithing  piths
+pithily A:
+pithiness N: ~pithinesses
+pithy A: pithier  pithiest
+pitiable A:
+pitiably A:
+pitiful A: -pitifuller  -pitifullest
+pitifully A:
+pitiless A:
+pitilessly A:
+pitilessness N: ~pitilessnesses
+piton N: pitons
+pittance N: pittances
+pituitary A:
+pituitary N: pituitaries
+pity N: ~pities
+pity V: pitied  pitying  pities
+pivot N: pivots
+pivot V: pivoted  pivoting  pivots
+pivotal A:
+pix N:
+pixel N: pixels
+pixie A:
+pixie N: pixies
+pixy A:
+pixy N: pixies
+pizazz N: ~pizazzes
+pizza N: pizzas
+pizzazz N: ~pizzazzes
+pizzeria N: pizzerias
+pizzicato A:
+pizzicato N: pizzicati (pizzicatos)
+placard N: placards
+placard V: placarded  placarding  placards
+placate V: placated  placating  placates
+placation N: ~placations
+placatory A:
+place N: places
+place V: placed  placing  places
+placebo N: placebos (placeboes)
+placeholder N: placeholders
+placekick N: placekicks
+placekick V: placekicked  placekicking  placekicks
+placekicker N: placekickers
+placement N: placements
+placenta N: placentas (placentae)
+placental A:
+placer N: placers
+placid A: -placider  -placidest
+placidity N: ~placidities
+placidly A:
+placket N: plackets
+plagiarism N: plagiarisms
+plagiarist N: plagiarists
+plagiarize V: plagiarized  plagiarizing  plagiarizes
+plagiarizer N: plagiarizers
+plagiary N: ~plagiaries
+plague N: plagues
+plague V: plagued  plaguing  plagues
+plaid A:
+plaid N: plaids
+plain A: plainer  plainest
+plain N: plains
+-plain V: plained  plaining  plains
+plainclothes A:
+plainclothesman N: plainclothesmen
+plainly A:
+plainness N: ~plainnesses
+plainsman N: plainsmen
+plainsong N: ~plainsongs
+plainspoken A:
+plaint N: plaints
+plaintiff N: plaintiffs
+plaintive A:
+plaintively A:
+plait N: plaits
+plait V: plaited  plaiting  plaits
+plan N: plans
+plan V: planned  planning  plans
+plane A:
+plane N: planes
+plane V: planed  planing  planes
+planeload N: planeload
+planer N: planers
+planet N: planets
+planetarium N: planetariums (planetaria)
+planetary A:
+-planetary N: planetaries
+plangency N: ~plangencies
+plangent A:
+plank N: planks
+plank V: planked  planking  planks
+planking N: ~plankings
+plankton N: ~planktons
+planner N: planners
+plant N: plants
+plant V: planted  planting  plants
+plantain N: plantains
+plantar A:
+plantation N: plantations
+planter N: planters
+planting N: plantings
+plantlike A:
+plaque N: plaques
+plash N: plashes
+plash V: plashed  plashing  plashes
+plasma N: ~plasmas
+plaster N: plasters
+plaster V: plastered  plastering  plasters
+plasterboard N: ~plasterboards
+plastered A:
+plasterer N: plasterers
+plastic A:
+plastic N: plastics
+plasticity N: ~plasticities
+plasticize V: plasticized  plasticizing  plasticizes
+plat N: plats
+plat V: platted  platting  plats
+plate N: plates
+plate V: plated  plating  plates
+plateau N: plateaus (plateaux)
+plateau V: plateaued  plateauing  plateaus
+plated A:
+plateful N: platefuls (-platesful)
+platelet N: platelets
+platen N: platens
+platform N: platforms
+platform V: platformed  platforming  platforms
+plating N: ~platings
+platinum A:
+platinum N: ~platinums
+platitude N: platitudes
+platitudinous A:
+platonic A:
+platoon N: platoons
+platoon V: platooned  platooning  platoons
+platter N: platters
+-platy A: platier  platiest
+platy N: platys (platies) | platy
+platypus N: platypuses (platypi platypus)
+plaudit N: plaudits
+plausibility N: ~plausibilities
+plausible A:
+plausibly A:
+play N: plays
+play V: played  playing  plays
+playable A:
+playact V: playacted  playacting  playacts
+playacting N: ~playactings
+playback N: playbacks
+playbill N: playbills
+playbook N: playbooks
+playboy N: playboys
+player N: players
+playfellow N: playfellows
+playful A:
+playfully A:
+playfulness N: ~playfulnesses
+playgirl N: playgirls
+playgoer N: playgoers
+playground N: playgrounds
+playhouse N: playhouses
+playmate N: playmates
+playoff N: playoffs
+playpen N: playpens
+playroom N: playrooms
+plaything N: playthings
+playtime N: ~playtimes
+playwright N: playwrights
+plaza N: plazas
+plea N: pleas
+plead V: pleaded (pled)  pleading  pleads
+pleader N: pleaders
+pleading N: pleadings
+pleasant A: pleasanter  pleasantest
+pleasantly A:
+pleasantness N: ~pleasantnesses
+pleasantry N: pleasantries
+please A:
+please I:
+please V: pleased  pleasing  pleases
+pleasingly A:
+pleasurable A:
+pleasurably A:
+pleasure N: pleasures
+pleasure V: pleasured  pleasuring  pleasures
+pleasureful A:
+pleat N: pleats
+pleat V: pleated  pleating  pleats
+plebe N: plebes
+plebeian A:
+plebeian N: plebeians
+plebiscite N: plebiscites
+plectrum N: plectra / plectrums
+pledge N: pledges
+pledge V: pledged  pledging  pledges
+plenary A:
+plenary N: plenaries
+plenipotentiary A:
+plenipotentiary N: plenipotentiaries
+plenitude N: plenitudes
+plenteous A:
+plentiful A:
+plentifully A:
+plenty A:
+plenty P:
+plenty N: ~plenties
+pleonasm N: pleonasms
+plethora N: ~plethoras
+pleura N: pleurae (-pleuras)
+pleurisy N: ~pleurisies
+plexiglass N: ~plexiglasses
+plexus N: plexuses (plexus)
+pliability N: ~pliabilities
+pliable A:
+pliancy N: ~pliancies
+pliant A:
+pliers N:
+plight N: plights
+plight V: plighted  plighting  plights
+plinth N: plinths
+-plod N: plods
+plod V: plodded  plodding  plods
+plodder N: plodders
+plop A:
+plop N: plops
+plop V: plopped  plopping  plops
+plot N: plots
+plot V: plotted  plotting  plots
+plotter N: plotters
+plough N: ploughs
+plough V: ploughed  ploughing  ploughs
+plover N: plover | plovers
+plow N: plows
+plow V: plowed  plowing  plows
+plowman N: plowmen
+plowshare N: plowshares
+ploy N: ploys
+-ploy V: ployed  ploying  ploys
+pluck N: plucks
+pluck V: plucked  plucking  plucks
+pluckily A:
+pluckiness N: ~pluckinesses
+plucky A: pluckier  pluckiest
+plug N: plugs
+plug V: plugged  plugging  plugs
+plum A: plummer  plummest
+plum N: plums
+plumage N: ~plumages
+plumb A:
+plumb N: plumbs
+plumb V: plumbed  plumbing  plumbs
+plumber N: plumbers
+plumbing N: ~plumbings
+plume N: plumes
+plume V: plumed  pluming  plumes
+plummet N: plummets
+plummet V: plummeted  plummeting  plummets
+plump A: plumper  plumpest
+plump N: plumps
+plump V: plumped  plumping  plumps
+plumply A:
+plumpness N: ~plumpnesses
+plumy A: plumier  plumiest
+plunder N: ~plunders
+plunder V: plundered  plundering  plunders
+plunderer N: plunderers
+plunge N: plunges
+plunge V: plunged  plunging  plunges
+plunger N: plungers
+plunk A:
+plunk N: plunks
+plunk V: plunked  plunking  plunks
+pluperfect A:
+pluperfect N: pluperfects
+plural A:
+plural N: plurals
+pluralism N: ~pluralisms
+pluralist A:
+pluralist N: pluralists
+pluralistic A:
+plurality N: pluralities
+pluralization N: ~pluralizations
+pluralize V: pluralized  pluralizing  pluralizes
+plus A:
+plus C:
+plus N: pluses (plusses)
+plush A: plusher  plushest
+plush N: ~plushes
+plushly A:
+plushness N: ~plushnesses
+plushy A: plushier  plushiest
+plutocracy N: plutocracies
+plutocrat N: plutocrats
+plutocratic A:
+plutonium N: ~plutoniums
+pluvial A:
+-pluvial N: pluvials
+ply N: ~plies
+ply V: plied  plying  plies
+plywood N: ~plywoods
+pneumatic A:
+-pneumatic N: pneumatics
+pneumatically A:
+pneumonia N: ~pneumonias
+poach V: poached  poaching  poaches
+poacher N: poachers
+poaching N: ~poachings
+pock N: pocks
+pocked A:
+pocket A:
+pocket N: pockets
+pocket V: pocketed  pocketing  pockets
+pocketbook A:
+pocketbook N: pocketbooks
+pocketful N: pocketfuls (pocketsful)
+pocketknife N: pocketknives
+pockmark N: pockmarks
+pockmark V: pockmarked  pockmarking  pockmarks
+pockmarked A:
+pod N: pods
+pod V: podded  podding  pods
+podiatrist N: podiatrists
+podiatry N: ~podiatries
+podium N: podiums (podia)
+poem N: poems
+poesy N: ~poesies
+poet N: poets
+poetaster N: poetasters
+poetess N: poetesses
+poetic A:
+-poetic N: poetics
+poetical A:
+poetically A:
+poetry N: ~poetries
+pogrom N: pogroms
+poi N: ~poi / ~pois
+poignancy N: ~poignancies
+poignant A:
+poignantly A:
+poinciana N: poincianas
+poinsettia N: poinsettias
+point N: points
+point V: pointed  pointing  points
+pointedly A:
+pointer N: pointers
+pointillism N: ~pointillisms
+pointillist A:
+pointillist N: pointillists
+pointless A:
+pointlessly A:
+pointlessness N: ~pointlessnesses
+pointy A: pointier  pointiest
+poise N: ~poises
+poise V: poised  poising  poises
+poison A:
+poison N: poisons
+poison V: poisoned  poisoning  poisons
+poisoner N: poisoners
+poisoning N: poisonings
+poisonous A:
+poisonously A:
+poke N: pokes
+poke V: poked  poking  pokes
+poker N: pokers
+pokey A: pokier  pokiest
+pokey N: pokeys
+poky A: pokier  pokiest
+-poky N: pokies
+pol N: pols
+polar A:
+polarity N: polarities
+polarization N: ~polarizations
+polarize V: polarized  polarizing  polarizes
+pole N: poles
+pole V: poled  poling  poles
+polecat N: polecat | polecats
+polemic A:
+polemic N: polemics
+polemical A:
+polemically A:
+polemicist N: polemicists
+polemics N:
+polestar N: polestars
+police N: police
+police V: policed  policing  polices
+policeman N: policemen
+policewoman N: policewomen
+policy N: policies
+policyholder N: policyholders
+polio A:
+polio N: polios
+poliomyelitis N: ~poliomyelitides
+polish N: polishes
+polish V: polished  polishing  polishes
+polisher N: polishers
+politburo N: politburos
+polite A: politer  politest
+politely A:
+politeness N: ~politenesses
+politesse N: ~politesses
+politic A:
+political A:
+politically A:
+politician N: politicians
+politicization N: ~politicizations
+politicize V: politicized  politicizing  politicizes
+politicking N: ~politickings
+politico N: politicos (politicoes)
+politics N:
+polity N: polities
+polka N: polkas
+polka V: polkaed  polkaing  polkas
+poll N: polls
+poll V: polled  polling  polls
+pollack N: pollack | pollacks
+pollen N: ~pollens
+-pollen V: pollened  pollening  pollens
+pollinate V: pollinated  pollinating  pollinates
+pollination N: ~pollinations
+pollinator N: pollinators
+polling N: ~pollings
+polliwog N: polliwogs
+pollock N: pollock | pollocks
+pollster N: pollsters
+pollutant N: pollutants
+pollute V: polluted  polluting  pollutes
+polluter N: polluters
+pollution N: ~pollutions
+pollywog N: pollywogs
+polo N: ~polos
+polonaise N: polonaises
+polonium N: ~poloniums
+poltergeist N: poltergeists
+-poltroon A:
+poltroon N: poltroons
+polyandrous A:
+polyandry N: ~polyandries
+polyclinic N: polyclinics
+polyester N: polyesters
+polyethylene N: ~polyethylenes
+polygamist N: polygamists
+polygamous A:
+polygamy N: ~polygamies
+polyglot A:
+polyglot N: polyglots
+polygon N: polygons
+polygonal A:
+polygraph N: polygraphs
+polygraph V: polygraphed  polygraphing  polygraphs
+polyhedral A:
+polyhedron N: polyhedrons (polyhedra)
+polymath N: polymaths
+polymer N: polymers
+polymeric A:
+polymerization N: ~polymerizations
+polymerize V: polymerized  polymerizing  polymerizes
+polynomial A:
+polynomial N: polynomials
+polyp N: polyps
+polyphonic A:
+polyphony N: ~polyphonies
+polypropylene N: ~polypropylenes
+polystyrene N: ~polystyrenes
+polysyllabic A:
+polysyllable N: polysyllables
+polytechnic A:
+polytechnic N: polytechnics
+polytheism N: ~polytheisms
+polytheist A:
+polytheist N: polytheists
+polytheistic A:
+polyunsaturated A:
+polyurethane N: polyurethanes
+polyvinyl A:
+pomade N: ~pomades
+pomade V: pomaded  pomading  pomades
+pomander N: pomanders
+pomegranate N: pomegranates
+pommel N: pommels
+pommel V: pommeled (pommelled)  pommeling (pommelling)  pommels
+pomp N: ~pomps
+pompadour N: pompadours
+pompano N: pompano | pompanos
+pompom N: pompoms
+pompon N: pompons
+pomposity N: ~pomposities
+pompous A:
+pompously A:
+pompousness N: ~pompousnesses
+poncho N: ponchos
+pond N: ponds
+-pond V: ponded  ponding  ponds
+ponder V: pondered  pondering  ponders
+ponderer N: ponderers
+ponderous A:
+ponderously A:
+ponderousness N: ~ponderousnesses
+pone N: pones
+pongee N: ~pongees
+poniard N: poniards
+-poniard V: poniarded  poniarding  poniards
+pontiff N: pontiffs
+pontifical A:
+-pontifical N: pontificals
+pontifically A:
+pontificate N: pontificates
+pontificate V: pontificated  pontificating  pontificates
+pontoon N: pontoons
+pony N: ponies
+-pony V: ponied  ponying  ponies
+ponytail N: ponytails
+pooch N: pooches
+poodle N: poodles
+poof I:
+poof N: poofs
+pooh I:
+pooh N: poohs
+pooh V: poohed  poohing  poohs
+pool N: pools
+pool V: pooled  pooling  pools
+poolroom N: poolrooms
+poop N: poops
+poop V: pooped  pooping  poops
+poor A: poorer  poorest
+poorboy N: poorboys
+poorhouse N: poorhouses
+poorly A: -poorlier  -poorliest
+poorness N: ~poornesses
+pop A:
+pop N: pops
+pop V: popped  popping  pops
+popcorn N: ~popcorns
+pope N: popes
+popgun N: popguns
+popinjay N: popinjays
+poplar N: poplars
+poplin N: ~poplins
+popover N: popovers
+poppa N: poppas
+popper N: poppers
+poppy N: poppies
+poppycock N: ~poppycocks
+populace N: populaces
+popular A:
+popularity N: ~popularities
+popularization N: ~popularizations
+popularize V: popularized  popularizing  popularizes
+popularly A:
+populate V: populated  populating  populates
+population N: populations
+populism N: ~populisms
+populist A:
+populist N: populists
+populous A:
+populousness N: ~populousnesses
+porcelain N: ~porcelains
+porch N: porches
+porcine A:
+porcupine N: porcupines
+pore N: pores
+pore V: pored  poring  pores
+porgy N: porgy | porgies
+pork N: ~porks
+porker N: porkers
+porky A: porkier  porkiest
+porky N: porkies
+porn N: ~porns
+porno A:
+porno N: ~pornos
+pornographer N: pornographers
+pornographic A:
+pornographically A:
+pornography N: ~pornographies
+porosity N: ~porosities
+porous A:
+porousness N: ~porousnesses
+porphyritic A:
+porphyry N: ~porphyries
+porpoise N: porpoise | porpoises
+porpoise V: porpoised  porpoising  porpoises
+porridge N: ~porridges
+porringer N: porringers
+port A:
+port N: ports
+port V: ported  porting  ports
+portability N: ~portabilities
+portable A:
+portable N: portables
+portage N: ~portages
+portage V: portaged  portaging  portages
+portal N: portals
+portcullis N: portcullises
+portend V: portended  portending  portends
+portent N: portents
+portentous A:
+portentously A:
+porter N: porters
+porterhouse N: porterhouses
+portfolio N: portfolios
+porthole N: portholes
+portico N: porticoes (porticos)
+portiere N: portieres
+portion N: portions
+portion V: portioned  portioning  portions
+portliness N: ~portlinesses
+portly A: portlier  portliest
+portmanteau A:
+portmanteau N: portmanteaus (portmanteaux)
+portrait A:
+portrait N: portraits
+portraitist N: portraitists
+portraiture N: ~portraitures
+portray V: portrayed  portraying  portrays
+portrayal N: portrayals
+portulaca N: ~portulacas
+pose N: poses
+pose V: posed  posing  poses
+poser N: posers
+poseur N: poseurs
+posh A: posher  poshest
+-posit N: posits
+posit V: posited  positing  posits
+position N: positions
+position V: positioned  positioning  positions
+positive A: -positiver  -positivest
+positive N: positives
+positively A:
+positively I:
+positiveness N: ~positivenesses
+positron N: positrons
+posse N: posses
+possess V: possessed  possessing  possesses
+possession N: possessions
+possessive A:
+possessive N: possessives
+possessively A:
+possessiveness N: ~possessivenesses
+possessor N: possessors
+possibility N: possibilities
+possible A: -possibler  -possiblest
+possible N: possibles
+possibly A:
+possum N: possum | possums
+-post A:
+post N: posts
+post V: posted  posting  posts
+postage N: ~postages
+postal A:
+-postal N: postals
+postcard N: postcards
+-postcard V: postcarded  postcarding  postcards
+postconsonantal A:
+postdate V: postdated  postdating  postdates
+postdoctoral A:
+poster N: posters
+posterior A:
+posterior N: posteriors
+posterity N: ~posterities
+postgraduate A:
+postgraduate N: postgraduates
+posthaste A:
+-posthaste N: posthastes
+posthumous A:
+posthumously A:
+posthypnotic A:
+postilion N: postilions
+postillion N: postillions
+postindustrial A:
+posting N: postings
+postlude N: postludes
+postman N: postmen
+postmark N: postmarks
+postmark V: postmarked  postmarking  postmarks
+postmaster N: postmasters
+postmenopausal A:
+postmeridian A:
+postmistress N: postmistresses
+postmodern A:
+postmodernism N: ~postmodernisms
+postmodernist A:
+postmodernist N: postmodernists
+postmortem A:
+postmortem N: postmortems
+postnasal A:
+postnatal A:
+postoperative A:
+postpaid A:
+postpartum A:
+postpone V: postponed  postponing  postpones
+postponement N: postponements
+postprandial A:
+postscript N: postscripts
+postseason A:
+postseason N: postseasons
+postulate N: postulates
+postulate V: postulated  postulating  postulates
+postulation N: postulations
+posture N: postures
+posture V: postured  posturing  postures
+posturing N: posturings
+postwar A:
+posy N: posies
+pot N: pots
+pot V: potted  potting  pots
+potability N: ~potabilities
+potable A:
+potable N: potables
+potash N: ~potashes
+potassium N: ~potassiums
+potato N: potatoes
+potbellied A:
+potbelly N: potbellies
+potboiler N: potboilers
+potency N: ~potencies
+potent A:
+-potent N: potents
+potentate N: potentates
+potential A:
+potential N: ~potentials
+potentiality N: potentialities
+potentially A:
+potently A:
+potful N: potfuls
+pothead N: potheads
+pother N: pothers
+pother V: pothered  pothering  pothers
+potherb N: potherbs
+potholder N: potholders
+pothole N: potholes
+pothole V: potholed  potholing  potholes
+pothook N: pothooks
+potion N: potions
+potluck A:
+potluck N: potlucks
+potpie N: potpies
+potpourri N: potpourris
+potsherd N: potsherds
+potshot N: potshots
+pottage N: ~pottages
+potter N: potters
+potter V: pottered  pottering  potters
+pottery N: potteries
+potty A: pottier  pottiest
+potty N: potties
+pouch N: pouches
+pouch V: pouched  pouching  pouches
+poulterer N: poulterers
+poultice N: poultices
+poultice V: poulticed  poulticing  poultices
+poultry N: ~poultries
+pounce N: pounces
+pounce V: pounced  pouncing  pounces
+pound N: pound | pounds
+pound V: pounded  pounding  pounds
+poundage N: ~poundages
+pounding N: poundings
+-pour N: pours
+pour V: poured  pouring  pours
+pout N: pouts
+pout V: pouted  pouting  pouts
+pouter N: pouters
+poverty N: ~poverties
+powder N: powders
+powder V: powdered  powdering  powders
+powdery A: -powderier  -powderiest
+power A:
+power N: powers
+power V: powered  powering  powers
+powerboat N: powerboats
+powerful A:
+powerfully A:
+powerhouse N: powerhouses
+powerless A:
+powerlessly A:
+powerlessness N: ~powerlessnesses
+powwow N: powwows
+powwow V: powwowed  powwowing  powwows
+pox N: poxes (pox)
+practicability N: ~practicabilities
+practicable A:
+practicably A:
+practical A:
+practicality N: practicalities
+practically A:
+practical N: practicals
+practice N: practices
+practice V: practiced  practicing  practices
+practicum N: practicums
+practise N: practises
+practise V: practised  practising  practises
+practitioner N: practitioners
+praetor N: praetors
+praetorian A:
+-praetorian N: praetorians
+pragmatic A:
+pragmatic N: pragmatics
+pragmatical A:
+pragmatically A:
+pragmatism N: ~pragmatisms
+pragmatist A:
+pragmatist N: pragmatists
+prairie N: prairies
+praise N: ~praises
+praise V: praised  praising  praises
+praiseworthiness N: ~praiseworthinesses
+praiseworthy A: praiseworthier  praiseworthiest
+praline N: pralines
+pram N: prams
+prance N: prances
+prance V: pranced  prancing  prances
+prancer N: prancers
+prancingly A:
+prank N: pranks
+-prank V: pranked  pranking  pranks
+prankster N: pranksters
+praseodymium N: ~praseodymiums
+prate N: ~prates
+prate V: prated  prating  prates
+prater N: praters
+pratfall N: pratfalls
+prattle N: ~prattles
+prattle V: prattled  prattling  prattles
+prattler N: prattlers
+prawn N: prawns
+prawn V: prawned  prawning  prawns
+pray A:
+pray V: prayed  praying  prays
+prayer N: prayers
+prayerful A:
+prayerfully A:
+preach V: preached  preaching  preaches
+preacher N: preachers
+preachment N: ~preachments
+preachy A: preachier  preachiest
+preadolescence N: preadolescences
+preamble N: preambles
+prearrange V: prearranged  prearranging  prearranges
+prearrangement N: ~prearrangements
+preassigned A:
+precancel N: precancels
+precancel V: precanceled (precancelled)  precanceling (precancelling)  precancels
+precancerous A:
+precarious A:
+precariously A:
+precariousness N: ~precariousnesses
+precaution N: precautions
+-precaution V: precautioned  precautioning  precautions
+precautionary A:
+precede V: preceded  preceding  precedes
+precedence N: ~precedences
+precedent A:
+precedent N: precedents
+precept N: precepts
+preceptor N: preceptors
+precinct N: precincts
+preciosity N: ~preciosities
+precious A:
+-precious N: preciouses
+preciously A:
+preciousness N: ~preciousnesses
+precipice N: precipices
+precipitant A:
+precipitant N: precipitants
+precipitate A:
+precipitate N: precipitates
+precipitate V: precipitated  precipitating  precipitates
+precipitately A:
+precipitation N: precipitations
+precipitous A:
+precipitously A:
+precis N: precis
+precis V: precised  precising  precises
+precise A: preciser  precisest
+precisely A:
+preciseness N: ~precisenesses
+precision A:
+precision N: ~precisions
+preclude V: precluded  precluding  precludes
+preclusion N: ~preclusions
+precocious A:
+precociously A:
+precociousness N: ~precociousnesses
+precocity N: ~precocities
+precognition N: ~precognitions
+precognitive A:
+precolonial A:
+preconceive V: preconceived  preconceiving  preconceives
+preconception N: preconceptions
+precondition N: preconditions
+precondition V: preconditioned  preconditioning  preconditions
+precook V: precooked  precooking  precooks
+precursor N: precursors
+precursory A:
+predawn A:
+predate V: predated  predating  predates
+predator N: predators
+predatory A:
+-predecease N: predeceases
+predecease V: predeceased  predeceasing  predeceases
+predecessor N: predecessors
+predesignate V: predesignated  predesignating  predesignates
+predestination N: ~predestinations
+predestine V: predestined  predestining  predestines
+predetermination N: ~predeterminations
+predetermine V: predetermined  predetermining  predetermines
+predeterminer N: predeterminers
+predicable A:
+-predicable N: predicables
+predicament N: predicaments
+predicate A:
+predicate N: predicates
+predicate V: predicated  predicating  predicates
+predication N: ~predications
+predicative A:
+predict V: predicted  predicting  predicts
+predictability N: ~predictabilities
+predictable A:
+predictably A:
+prediction N: predictions
+predictive A:
+predictor N: predictors
+predigest V: predigested  predigesting  predigests
+predilection N: predilections
+predispose V: predisposed  predisposing  predisposes
+predisposition N: predispositions
+predominance N: ~predominances
+predominant A:
+predominantly A:
+predominate V: predominated  predominating  predominates
+preemie N: preemies
+preeminence N: ~preeminences
+preeminent A:
+preeminently A:
+-preempt N: preempts
+preempt V: preempted  preempting  preempts
+preemption N: ~preemptions
+preemptive A:
+-preen N: preens
+preen V: preened  preening  preens
+preexist V: preexisted  preexisting  preexists
+preexistence N: ~preexistences
+prefab A:
+prefab N: prefabs
+prefab V: prefabbed  prefabbing  prefabs
+prefabricate V: prefabricated  prefabricating  prefabricates
+prefabrication N: ~prefabrications
+preface N: prefaces
+preface V: prefaced  prefacing  prefaces
+prefatory A:
+prefect N: prefects
+prefecture N: prefectures
+prefer V: preferred  preferring  prefers
+preferable A:
+preferably A:
+preference N: preferences
+preferential A:
+preferentially A:
+preferment N: ~preferments
+prefigure V: prefigured  prefiguring  prefigures
+prefix N: prefixes
+prefix V: prefixed  prefixing  prefixes
+-preform N: preforms
+preform V: preformed  preforming  preforms
+pregame A:
+pregame N: pregames
+pregnancy N: pregnancies
+pregnant A:
+preheat V: preheated  preheating  preheats
+prehensile A:
+prehistoric A:
+prehistorical A:
+prehistorically A:
+prehistory N: ~prehistories
+prejudge V: prejudged  prejudging  prejudges
+prejudgment N: prejudgments
+prejudice N: prejudices
+prejudice V: prejudiced  prejudicing  prejudices
+prejudicial A:
+prekindergarten A:
+prekindergarten N: prekindergartens
+prelacy N: ~prelacies
+prelate N: prelates
+prelim A:
+prelim N: prelims
+preliminary A:
+preliminary N: preliminaries
+preliterate A:
+prelude N: preludes
+-prelude V: preluded  preluding  preludes
+premarital A:
+premature A:
+-premature N: prematures
+prematurely A:
+premed A:
+premed N: premeds
+premedical A:
+premeditate V: premeditated  premeditating  premeditates
+premeditation N: ~premeditations
+premenstrual A:
+premier A:
+premier N: premiers
+premier V: premiered  premiering  premiers
+premiere A:
+premiere N: premieres
+premiere V: premiered  premiering  premieres
+premiership N: premierships
+premise N: premises
+premise V: premised  premising  premises
+premiss N: premisses
+premium A:
+premium N: premiums
+-premix N: premixes
+premix V: premixed (-premixt)  premixing  premixes
+premolar A:
+premolar N: premolars
+premonition N: premonitions
+premonitory A:
+prenatal A:
+prenatally A:
+prenuptial A:
+preoccupation N: preoccupations
+preoccupy V: preoccupied  preoccupying  preoccupies
+preoperative A:
+preordain V: preordained  preordaining  preordains
+prep A:
+prep N: preps
+prep V: prepped  prepping  preps
+prepackage V: prepackaged  prepackaging  prepackages
+preparation N: preparations
+preparatory A:
+prepare V: prepared  preparing  prepares
+preparedness N: ~preparednesses
+prepay V: prepaid  prepaying  prepays
+prepayment N: prepayments
+preponderance N: preponderances
+preponderant A:
+preponderantly A:
+preponderate V: preponderated  preponderating  preponderates
+preposition N: prepositions
+prepositional A:
+prepositionally A:
+prepossess V: prepossessed  prepossessing  prepossesses
+prepossession N: prepossessions
+preposterous A:
+preposterously A:
+preppie A: preppier  preppiest
+preppie N: preppies
+preppy A: preppier  preppiest
+preppy N: preppies
+prepubescence N: ~prepubescences
+prepubescent A:
+prepubescent N: prepubescents
+prepuce N: prepuces
+prequel N: prequels
+prerecord V: prerecorded  prerecording  prerecords
+preregister V: preregistered  preregistering  preregisters
+preregistration N: ~preregistrations
+prerequisite A:
+prerequisite N: prerequisites
+prerogative N: prerogatives
+presage N: presages
+presage V: presaged  presaging  presages
+presbyopia N: ~presbyopias
+presbyter N: presbyters
+presbytery N: presbyteries
+preschool A:
+preschool N: preschools
+preschooler N: preschoolers
+prescience N: ~presciences
+prescient A:
+presciently A:
+prescribe V: prescribed  prescribing  prescribes
+-prescript A:
+prescript N: prescripts
+prescription A:
+prescription N: prescriptions
+prescriptive A:
+prescriptively A:
+preseason A:
+preseason N: preseasons
+presence N: presences
+present A:
+present N: presents
+present V: presented  presenting  presents
+presentable A:
+presentably A:
+presentation N: presentations
+presenter N: presenters
+presentiment N: presentiments
+presently A:
+presentment N: presentments
+preservable A:
+preservation N: ~preservations
+preservationist N: preservationists
+preservative A:
+preservative N: preservatives
+preserve N: preserves
+preserve V: preserved  preserving  preserves
+preserver N: preservers
+preset A:
+preset V: preset  presetting  presets
+preshrink V: preshrank (preshrunk)  preshrunk (preshrunken)  preshrinking  preshrinks
+preside V: presided  presiding  presides
+presidency N: presidencies
+president N: presidents
+presidential A:
+presidium N: presidia (presidiums)
+presort V: presorted  presorting  presorts
+press N: presses
+press V: pressed  pressing  presses
+presser N: pressers
+pressing N: pressings
+pressingly A:
+pressman N: pressmen
+pressure N: pressures
+pressure V: pressured  pressuring  pressures
+pressurization N: ~pressurizations
+pressurize V: pressurized  pressurizing  pressurizes
+pressurizer N: pressurizers
+prestidigitation N: ~prestidigitations
+prestige A:
+prestige N: ~prestiges
+prestigious A:
+presto A:
+presto I:
+presto N: prestos
+presumable A:
+presumably A:
+presume V: presumed  presuming  presumes
+presumption N: presumptions
+presumptive A:
+presumptuous A:
+presumptuously A:
+presumptuousness N: ~presumptuousnesses
+presuppose V: presupposed  presupposing  presupposes
+presupposition N: presuppositions
+pretax A:
+preteen A:
+preteen N: preteens
+pretence N: pretences
+pretend A:
+pretend V: pretended  pretending  pretends
+pretender N: pretenders
+pretense N: pretenses
+pretension N: pretensions
+-pretension V: pretensioned  pretensioning  pretensions
+pretentious A:
+pretentiously A:
+pretentiousness N: ~pretentiousnesses
+preterit A:
+preterit N: preterits
+preterite A:
+preterite N: preterites
+preterm A:
+preternatural A:
+preternaturally A:
+pretest V: pretested  pretesting  pretests
+pretext N: pretexts
+pretrial A:
+prettify V: prettified  prettifying  prettifies
+prettily A:
+prettiness N: ~prettinesses
+pretty A: prettier  prettiest
+pretty N: pretties
+pretty V: prettied  prettying  pretties
+pretzel N: pretzels
+prevail V: prevailed  prevailing  prevails
+prevalence N: ~prevalences
+prevalent A:
+prevaricate V: prevaricated  prevaricating  prevaricates
+prevarication N: prevarications
+prevaricator N: prevaricators
+prevent V: prevented  preventing  prevents
+preventable A:
+preventative A:
+preventative N: preventatives
+preventible A:
+prevention N: ~preventions
+preventive A:
+preventive N: preventives
+preview N: previews
+preview V: previewed  previewing  previews
+previous A:
+previously A:
+prevision N: previsions
+prevue N: prevues
+-prevue V: prevued  prevuing  prevues
+prewar A:
+prey N: ~preys
+prey V: preyed  preying  preys
+priapic A:
+price N: prices
+price V: priced  pricing  prices
+priceless A:
+pricey A: pricier  priciest
+prick N: pricks
+prick V: pricked  pricking  pricks
+pricker N: prickers
+prickle N: prickles
+prickle V: prickled  prickling  prickles
+prickliness N: ~pricklinesses
+prickly A: pricklier  prickliest
+pricy A: pricier  priciest
+pride N: prides
+pride V: prided  priding  prides
+prideful A:
+pridefully A:
+prier N: priers
+priest N: priests
+-priest V: priested  priesting  priests
+priestess N: priestesses
+priesthood N: priesthoods
+priestliness N: ~priestlinesses
+priestly A: priestlier  priestliest
+prig N: prigs
+-prig V: prigged  prigging  prigs
+priggish A:
+priggishness N: ~priggishnesses
+prim A: primmer  primmest
+-prim V: primmed  primming  prims
+primacy N: ~primacies
+primaeval A:
+primal A:
+primarily A:
+primary A:
+primary N: primaries
+primate N: primates
+prime A:
+prime N: primes
+prime V: primed  priming  primes
+primer N: primers
+primeval A:
+priming N: ~primings
+primitive A:
+primitive N: primitives
+primitively A:
+primitiveness N: ~primitivenesses
+primly A:
+primness N: ~primnesses
+primogenitor N: primogenitors
+primogeniture N: ~primogenitures
+primordial A:
+primordially A:
+primp V: primped  primping  primps
+primrose A:
+primrose N: primroses
+prince N: princes
+princedom N: princedoms
+princeliness N: ~princelinesses
+princely A: princelier  princeliest
+princess A:
+princess N: princesses
+principal A:
+principal N: principals
+principality N: principalities
+principally A:
+principle N: principles
+principled A:
+print A:
+print N: prints
+print V: printed  printing  prints
+printable A:
+printer N: printers
+printing N: printings
+printout N: printouts
+prior A:
+prior N: priors
+prioress N: prioresses
+prioritize V: prioritized  prioritizing  prioritizes
+priority N: priorities
+priory N: priories
+-prise N: prises
+prise V: prised  prising  prises
+prism N: prisms
+prismatic A:
+prison N: prisons
+prisoner N: prisoners
+prissily A:
+prissiness N: ~prissinesses
+prissy A: prissier  prissiest
+pristine A:
+prithee I:
+privacy N: ~privacies
+private A: privater  privatest
+private N: privates
+privateer N: privateers
+-privateer V: privateered  privateering  privateers
+privately A:
+privation N: privations
+privatization N: privatizations
+privatize V: privatized  privatizing  privatizes
+privet N: privets
+privilege N: privileges
+privilege V: privileged  privileging  privileges
+privileged A:
+privily A:
+privy A: privier  priviest
+privy N: privies
+prize A:
+prize N: prizes
+prize V: prized  prizing  prizes
+prizefight N: prizefights
+prizefighter N: prizefighters
+prizefighting N: ~prizefightings
+prizewinner N: prizewinners
+prizewinning A:
+pro A:
+pro C:
+pro N: pros
+proactive A:
+probability N: probabilities
+probable A:
+probable N: probables
+probably A:
+probate A:
+probate N: probates
+probate V: probated  probating  probates
+probation N: ~probations
+probational A:
+probationary A:
+probationer N: probationers
+probe N: probes
+probe V: probed  probing  probes
+probity N: ~probities
+problem A:
+problem N: problems
+problematic A:
+problematical A:
+problematically A:
+proboscis N: proboscises (proboscides)
+procaine N: ~procaines
+procedural A:
+-procedural N: procedurals
+procedure N: procedures
+proceed V: proceeded  proceeding  proceeds
+proceeding N: proceedings
+proceeds N:
+process A:
+process N: processes
+process V: processed  processing  processes
+procession N: processions
+procession V: processioned  processioning  processions
+processional A:
+processional N: processionals
+processor N: processors
+proclaim V: proclaimed  proclaiming  proclaims
+proclamation N: proclamations
+proclivity N: proclivities
+proconsul N: proconsuls
+proconsular A:
+procrastinate V: procrastinated  procrastinating  procrastinates
+procrastination N: ~procrastinations
+procrastinator N: procrastinators
+procreate V: procreated  procreating  procreates
+procreation N: ~procreations
+procreative A:
+proctor N: proctors
+proctor V: proctored  proctoring  proctors
+procurable A:
+procurator N: procurators
+procure V: procured  procuring  procures
+procurement N: ~procurements
+procurer N: procurers
+prod N: prods
+prod V: prodded  prodding  prods
+prodigal A:
+prodigal N: prodigals
+prodigality N: ~prodigalities
+prodigious A:
+prodigiously A:
+prodigy N: prodigies
+produce N: ~produces
+produce V: produced  producing  produces
+producer N: producers
+producible A:
+product N: products
+production N: productions
+productive A:
+productively A:
+productiveness N: ~productivenesses
+productivity N: ~productivities
+prof N: profs
+profanation N: profanations
+profane A:
+profane V: profaned  profaning  profanes
+profanely A:
+profaneness N: ~profanenesses
+profanity N: profanities
+profess V: professed  professing  professes
+professedly A:
+profession N: professions
+professional A:
+professional N: professionals
+professionalism N: ~professionalisms
+professionalize V: professionalized  professionalizing  professionalizes
+professionally A:
+professor N: professors
+professorial A:
+professorially A:
+professorship N: professorships
+proffer N: proffers
+proffer V: proffered  proffering  proffers
+proficiency N: ~proficiencies
+proficient A:
+proficient N: proficients
+proficiently A:
+profile N: profiles
+profile V: profiled  profiling  profiles
+profit N: profits
+profit V: profited  profiting  profits
+profitability N: ~profitabilities
+profitable A:
+profitably A:
+profiteer N: profiteers
+profiteer V: profiteered  profiteering  profiteers
+profiteering N: ~profiteerings
+profiterole N: profiteroles
+profitless A:
+profligacy N: ~profligacies
+profligate A:
+profligate N: profligates
+profligately A:
+profound A: profounder  profoundest
+-profound N: profounds
+profoundly A:
+profoundness N: ~profoundnesses
+profundity N: profundities
+profuse A: profuser  profusest
+profusely A:
+profuseness N: ~profusenesses
+profusion N: profusions
+progenitor N: progenitors
+progeny N: ~progenies
+progesterone N: ~progesterones
+prognathous A:
+prognosis N: prognoses
+prognostic A:
+prognostic N: prognostics
+prognosticate V: prognosticated  prognosticating  prognosticates
+prognostication N: prognostications
+prognosticator N: prognosticators
+program N: programs
+program V: programmed (programed)  programming (programing)  programs
+programer N: programers
+programmable A:
+programmable N: programmables
+programmatic A:
+programme N: programmes
+programme V: programmed  programming  programmes
+programmer N: programmers
+programming N: ~programmings
+progress N: ~progresses
+progress V: progressed  progressing  progresses
+progression N: progressions
+progressive A:
+progressive N: progressives
+progressively A:
+progressiveness N: ~progressivenesses
+prohibit V: prohibited  prohibiting  prohibits
+prohibition N: prohibitions
+prohibitionist N: prohibitionists
+prohibitive A:
+prohibitively A:
+prohibitory A:
+project N: projects
+project V: projected  projecting  projects
+projectile A:
+projectile N: projectiles
+projection N: projections
+projectionist N: projectionists
+projector N: projectors
+prolapse N: prolapses
+prolapse V: prolapsed  prolapsing  prolapses
+proletarian A:
+proletarian N: proletarians
+proletariat N: ~proletariats
+proliferate V: proliferated  proliferating  proliferates
+proliferation N: ~proliferations
+prolific A:
+prolifically A:
+prolix A:
+prolixity N: ~prolixities
+prolixly A:
+prolog N: prologs
+-prolog V: prologed  prologing  prologs
+prologue N: prologues
+-prologue V: prologued  prologuing  prologues
+prolong V: prolonged  prolonging  prolongs
+prolongation N: prolongations
+prom N: proms
+promenade N: promenades
+promenade V: promenaded  promenading  promenades
+promethium N: ~promethiums
+prominence N: ~prominences
+prominent A:
+prominently A:
+promiscuity N: ~promiscuities
+promiscuous A:
+promiscuously A:
+promise N: promises
+promise V: promised  promising  promises
+promisingly A:
+promissory A:
+promo A:
+promo N: promos
+promo V: promoed  promoing  promos
+promontory N: promontories
+promote V: promoted  promoting  promotes
+promoter N: promoters
+promotion N: promotions
+promotional A:
+prompt A: prompter  promptest
+prompt N: prompts
+prompt V: prompted  prompting  prompts
+prompter N: prompters
+prompting N: promptings
+promptitude N: ~promptitudes
+promptly A:
+promptness N: ~promptnesses
+promulgate V: promulgated  promulgating  promulgates
+promulgation N: ~promulgations
+promulgator N: promulgators
+prone A: proner  pronest
+-prone N: prones
+proneness N: ~pronenesses
+prong N: prongs
+-prong V: pronged  pronging  prongs
+pronged A:
+pronghorn N: pronghorns | pronghorn
+pronominal A:
+pronominal N: pronominals
+pronoun N: pronouns
+pronounce V: pronounced  pronouncing  pronounces
+pronounceable A:
+pronouncement N: pronouncements
+pronto A:
+pronuclear A:
+pronunciation N: pronunciations
+proof A:
+proof N: proofs
+proof V: proofed  proofing  proofs
+proofread V: proofread  proofreading  proofreads
+proofreader N: proofreaders
+prop N: props
+prop V: propped  propping  props
+propaganda N: ~propagandas
+propagandist A:
+propagandist N: propagandists
+propagandize V: propagandized  propagandizing  propagandizes
+propagate V: propagated  propagating  propagates
+propagation N: ~propagations
+propagator N: propagators
+propane N: ~propanes
+propel V: propelled  propelling  propels
+propellant A:
+propellant N: propellants
+propellent A:
+propellent N: propellents
+propeller N: propellers
+propensity N: propensities
+proper A: properer  properest
+proper N: ~propers
+properly A:
+propertied A:
+property N: properties
+prophecy N: prophecies
+prophesier N: prophesiers
+prophesy N: prophesies
+prophesy V: prophesied  prophesying  prophesies
+prophet N: prophets
+prophetess N: prophetesses
+prophetic A:
+prophetical A:
+prophetically A:
+prophylactic A:
+prophylactic N: prophylactics
+prophylaxis N: ~prophylaxes
+propinquity N: ~propinquities
+propitiate V: propitiated  propitiating  propitiates
+propitiation N: ~propitiations
+propitiatory A:
+-propitiatory N: propitiatories
+propitious A:
+propitiously A:
+proponent N: proponents
+proportion N: proportions
+proportion V: proportioned  proportioning  proportions
+proportional A:
+proportionally A:
+proportionate A:
+-proportionate V: proportionated  proportionating  proportionates
+proportionately A:
+proposal N: proposals
+propose V: proposed  proposing  proposes
+proposer N: proposers
+proposition N: propositions
+proposition V: propositioned  propositioning  propositions
+propositional A:
+propound V: propounded  propounding  propounds
+proprietary A:
+proprietary N: proprietaries
+proprieties N:
+proprietor N: proprietors
+proprietorial A:
+proprietorship N: ~proprietorships
+proprietress N: proprietresses
+propriety N: ~proprieties
+propulsion N: ~propulsions
+propulsive A:
+prorate V: prorated  prorating  prorates
+prorogation N: ~prorogations
+prorogue V: prorogued  proroguing  prorogues
+prosaic A:
+prosaically A:
+proscenium N: prosceniums (proscenia)
+prosciutto N: ~prosciutti / ~prosciuttos
+proscribe V: proscribed  proscribing  proscribes
+proscription N: proscriptions
+prose A:
+prose N: ~proses
+-prose V: prosed  prosing  proses
+prosecute V: prosecuted  prosecuting  prosecutes
+prosecution N: prosecutions
+prosecutor N: prosecutors
+proselyte N: proselytes
+proselyte V: proselyted  proselyting  proselytes
+proselytism N: ~proselytisms
+proselytize V: proselytized  proselytizing  proselytizes
+proselytizer N: proselytizers
+prosody N: prosodies
+prospect N: prospects
+prospect V: prospected  prospecting  prospects
+prospective A:
+prospectively A:
+prospector N: prospectors
+prospectus N: prospectuses
+prosper V: prospered  prospering  prospers
+prosperity N: ~prosperities
+prosperous A:
+prosperously A:
+prostate A:
+prostate N: prostates
+prosthesis N: prostheses
+prosthetic A:
+prostitute N: prostitutes
+prostitute V: prostituted  prostituting  prostitutes
+prostitution N: ~prostitutions
+prostrate A:
+prostrate V: prostrated  prostrating  prostrates
+prostration N: prostrations
+prosy A: prosier  prosiest
+protactinium N: ~protactiniums
+protagonist N: protagonists
+protean A:
+protect V: protected  protecting  protects
+protection N: protections
+protectionism N: ~protectionisms
+protectionist A:
+protectionist N: protectionists
+protective A:
+protectively A:
+protectiveness N: ~protectivenesses
+protector N: protectors
+protectorate N: protectorates
+protege N: proteges
+protein N: proteins
+protest N: protests
+protest V: protested  protesting  protests
+protestation N: protestations
+protester N: protesters
+protestor N: protestors
+protocol N: protocols
+-protocol V: protocoled (protocolled)  protocoling (protocolling)  protocols
+proton N: protons
+protoplasm N: ~protoplasms
+protoplasmic A:
+prototype N: prototypes
+-prototype V: prototyped  prototyping  prototypes
+prototypical A:
+protozoan A:
+protozoan N: protozoans / protozoa
+protozoic A:
+protozoon N: protozoa
+protract V: protracted  protracting  protracts
+protraction N: ~protractions
+protractor N: protractors
+protrude V: protruded  protruding  protrudes
+protrusile A:
+protrusion N: protrusions
+protuberance N: protuberances
+protuberant A:
+proud A: prouder  proudest
+proudly A:
+provability N: ~provabilities
+provable A:
+prove V: proved  proved (proven)  proving  proves
+provenance N: ~provenances
+provender N: ~provenders
+provenience N: ~proveniences
+proverb N: proverbs
+-proverb V: proverbed  proverbing  proverbs
+proverbial A:
+proverbially A:
+provide V: provided  providing  provides
+provided C:
+providence N: ~providences
+provident A:
+providential A:
+providentially A:
+providently A:
+provider N: providers
+providing C:
+province N: provinces
+provincial A:
+provincial N: provincials
+provincialism N: ~provincialisms
+provincially A:
+provision N: provisions
+provision V: provisioned  provisioning  provisions
+provisional A:
+-provisional N: provisionals
+provisionally A:
+proviso N: provisos (provisoes)
+provocation N: provocations
+provocative A:
+-provocative N: provocatives
+provocatively A:
+provocativeness N: ~provocativenesses
+provoke V: provoked  provoking  provokes
+provoker N: provokers
+provokingly A:
+provolone N: ~provolones
+provost N: provosts
+-prow A: prower  prowest
+prow N: prows
+prowess N: ~prowesses
+prowl N: prowls
+prowl V: prowled  prowling  prowls
+prowler N: prowlers
+proximate A:
+proximity N: ~proximities
+proxy A:
+proxy N: proxies
+prude N: prudes
+prudence N: ~prudences
+prudent A:
+prudential A:
+prudentially A:
+prudently A:
+prudery N: ~pruderies
+prudish A:
+prudishly A:
+prudishness N: ~prudishnesses
+prune N: prunes
+prune V: pruned  pruning  prunes
+pruner N: pruners
+prurience N: ~pruriences
+prurient A:
+pry N: pries
+pry V: pried  prying  pries
+pryer N: pryers
+psalm N: psalms
+-psalm V: psalmed  psalming  psalms
+psalmist N: psalmists
+psaltery N: psalteries
+pseudo A:
+pseudonym N: pseudonyms
+pseudonymous A:
+pseudoscience N: pseudosciences
+pshaw I:
+pshaw N: pshaws
+-pshaw V: pshawed  pshawing  pshaws
+psi N: psis
+psittacosis N: ~psittacoses
+psoriasis N: ~psoriases
+psst I:
+psych A:
+psych N: ~psychs
+psych V: psyched  psyching  psychs
+psyche N: psyches
+psyche V: psyched  psyching  psyches
+psychedelic A:
+psychedelic N: psychedelics
+psychedelically A:
+psychiatric A:
+psychiatrist N: psychiatrists
+psychiatry N: ~psychiatries
+psychic A:
+psychic N: psychics
+psychical A:
+psychically A:
+psycho A:
+psycho N: psychos
+psychoactive A:
+psychoanalysis N: ~psychoanalyses
+psychoanalyst N: psychoanalysts
+psychoanalytic A:
+psychoanalytical A:
+psychoanalyze V: psychoanalyzed  psychoanalyzing  psychoanalyzes
+psychobabble N: ~psychobabbles
+psychodrama N: psychodramas
+psychogenic A:
+psychological A:
+psychologically A:
+psychologist N: psychologists
+psychology N: psychologies
+psychoneurosis N: ~psychoneuroses
+psychopath N: psychopaths
+psychopathic A:
+psychopathy N: ~psychopathies
+psychosis N: psychoses
+psychosomatic A:
+psychotherapist N: psychotherapists
+psychotherapy N: psychotherapies
+psychotic A:
+psychotic N: psychotics
+psychotically A:
+psychotropic A:
+psychotropic N: psychotropics
+ptarmigan N: ptarmigan | ptarmigans
+pterodactyl N: pterodactyls
+ptomaine N: ptomaines
+pub N: pubs
+pubertal A:
+puberty N: ~puberties
+pubes N: pubes
+pubescence N: ~pubescences
+pubescent A:
+pubic A:
+pubis N: pubes
+public A:
+public N: ~publics
+publican N: publicans
+publication N: publications
+publicist N: publicists
+publicity N: ~publicities
+publicize V: publicized  publicizing  publicizes
+publicly A:
+publish V: published  publishing  publishes
+publisher N: publishers
+publishing N: ~publishings
+puce A:
+puce N: ~puces
+puck N: pucks
+pucker N: puckers
+pucker V: puckered  puckering  puckers
+puckish A:
+puckishly A:
+puckishness N: ~puckishnesses
+pudding N: puddings
+puddle N: puddles
+puddle V: puddled  puddling  puddles
+puddling N: ~puddlings
+pudendum N: pudenda
+pudginess N: ~pudginesses
+pudgy A: pudgier  pudgiest
+pueblo N: pueblos (pueblo)
+puerile A:
+puerility N: ~puerilities
+puerperal A:
+puff N: puffs
+puff V: puffed  puffing  puffs
+puffball N: puffballs
+puffer N: puffers
+puffin N: puffins
+puffiness N: ~puffinesses
+puffy A: puffier  puffiest
+pug N: pugs
+-pug V: pugged  pugging  pugs
+pugilism N: ~pugilisms
+pugilist N: pugilists
+pugilistic A:
+pugnacious A:
+pugnaciously A:
+pugnaciousness N: ~pugnaciousnesses
+pugnacity N: ~pugnacities
+puke N: ~pukes
+puke V: puked  puking  pukes
+pukka A:
+pulchritude N: ~pulchritudes
+pulchritudinous A:
+pule V: puled  puling  pules
+pull N: pulls
+pull V: pulled  pulling  pulls
+pullback N: pullbacks
+puller N: pullers
+pullet N: pullets
+pulley N: pulleys
+pullout A:
+pullout N: pullouts
+pullover A:
+pullover N: pullovers
+pullup N: pullups
+pulmonary A:
+pulp A:
+pulp N: ~pulps
+pulp V: pulped  pulping  pulps
+pulpiness N: ~pulpinesses
+pulpit N: pulpits
+pulpwood N: ~pulpwoods
+pulpy A: pulpier  pulpiest
+pulsar N: pulsars
+pulsate V: pulsated  pulsating  pulsates
+pulsation N: pulsations
+pulse N: pulses
+pulse V: pulsed  pulsing  pulses
+pulverization N: ~pulverizations
+pulverize V: pulverized  pulverizing  pulverizes
+puma N: pumas (puma)
+pumice N: pumices
+-pumice V: pumiced  pumicing  pumices
+pummel V: pummeled (pummelled)  pummeling (pummelling)  pummels
+pump N: pumps
+pump V: pumped  pumping  pumps
+pumper N: pumpers
+pumpernickel N: ~pumpernickels
+pumpkin N: pumpkins
+pun N: puns
+pun V: punned  punning  puns
+punch N: punches
+punch V: punched  punching  punches
+puncheon N: puncheons
+puncher N: punchers
+punchy A: punchier  punchiest
+punctilio N: ~punctilios
+punctilious A:
+punctiliously A:
+punctiliousness N: ~punctiliousnesses
+punctual A:
+punctuality N: ~punctualities
+punctually A:
+punctuate V: punctuated  punctuating  punctuates
+punctuation N: ~punctuations
+puncture N: punctures
+puncture V: punctured  puncturing  punctures
+pundit N: pundits
+punditry N: ~punditries
+pungency N: ~pungencies
+pungent A:
+pungently A:
+puniness N: ~puninesses
+punish V: punished  punishing  punishes
+punishable A:
+punishment N: punishments
+punitive A:
+punitively A:
+punk A: punker  punkest
+punk N: punks
+punkin N: punkins
+punster N: punsters
+punt N: punts | punt {money}
+punt V: punted  punting  punts
+punter N: punters
+puny A: punier  puniest
+pup N: pups
+pup V: pupped  pupping  pups
+pupa N: pupae (pupas)
+pupal A:
+pupil N: pupils
+puppet A:
+puppet N: puppets
+puppeteer N: puppeteers
+puppetry N: ~puppetries
+puppy N: puppies
+purblind A:
+purchasable A:
+purchase N: purchases
+purchase V: purchased  purchasing  purchases
+purchaser N: purchasers
+purdah N: ~purdahs
+pure A: purer  purest
+purebred A:
+purebred N: purebreds
+puree N: purees
+puree V: pureed  pureeing  purees
+purely A:
+pureness N: ~purenesses
+purgative A:
+purgative N: purgatives
+purgatorial A:
+purgatory N: purgatories
+purge N: purges
+purge V: purged  purging  purges
+purger N: purgers
+purification N: ~purifications
+purifier N: purifiers
+purify V: purified  purifying  purifies
+purine N: purines
+purism N: ~purisms
+purist N: purists
+puristic A:
+puritan A:
+puritan N: puritans
+puritanical A:
+puritanically A:
+puritanism N: ~puritanisms
+purity N: ~purities
+purl N: purls
+purl V: purled  purling  purls
+purlieu N: purlieus
+purloin V: purloined  purloining  purloins
+purple A: purpler  purplest
+purple N: purples
+-purple V: purpled  purpling  purples
+purplish A:
+purport N: ~purports
+purport V: purported  purporting  purports
+purportedly A:
+purpose N: purposes
+purpose V: purposed  purposing  purposes
+purposeful A:
+purposefully A:
+purposefulness N: ~purposefulnesses
+purposeless A:
+purposelessly A:
+purposely A:
+purr N: purrs
+purr V: purred  purring  purrs
+purse N: purses
+purse V: pursed  pursing  purses
+purser N: pursers
+pursuance N: ~pursuances
+pursuant A:
+pursue V: pursued  pursuing  pursues
+pursuer N: pursuers
+pursuit N: pursuits
+purulence N: ~purulences
+purulent A:
+purvey V: purveyed  purveying  purveys
+purveyance N: ~purveyances
+purveyor N: purveyors
+purview N: ~purviews
+pus N: ~puses
+push N: pushes
+push V: pushed  pushing  pushes
+pushcart N: pushcarts
+pusher N: pushers
+pushily A:
+pushiness N: ~pushinesses
+pushing C:
+pushover N: pushovers
+pushup N: pushups
+pushy A: pushier  pushiest
+pusillanimity N: ~pusillanimities
+pusillanimous A:
+pusillanimously A:
+puss N: pusses
+pussy A: pussier  pussiest
+pussy N: pussies
+pussycat N: pussycats
+-pussyfoot N: pussyfoots
+pussyfoot V: pussyfooted  pussyfooting  pussyfoots
+pustular A:
+pustule N: pustules
+put N: puts
+put V: put  putting  puts
+putative A:
+putdown N: putdowns
+putout N: putouts
+putrefaction N: ~putrefactions
+putrefactive A:
+putrefy V: putrefied  putrefying  putrefies
+putrescence N: ~putrescences
+putrescent A:
+putrid A: -putrider  -putridest
+putsch N: putsches
+putt N: putts
+putt V: putted  putting  putts
+puttee N: puttees
+putter N: putters
+putter V: puttered  puttering  putters
+putterer N: putterers
+putty N: ~putties
+putty V: puttied  puttying  putties
+puzzle N: puzzles
+puzzle V: puzzled  puzzling  puzzles
+puzzlement N: ~puzzlements
+puzzler N: puzzlers
+pygmy A:
+pygmy N: pygmies
+pyjamas N:
+pylon N: pylons
+pyloric A:
+pylorus N: pylori (-pyloruses)
+pyorrhea N: ~pyorrheas
+pyorrhoea N: ~pyorrhoeas
+pyramid N: pyramids
+pyramid V: pyramided  pyramiding  pyramids
+pyramidal A:
+pyre N: pyres
+pyrimidine N: pyrimidines
+pyrite N: ~pyrites
+pyrites N:
+pyromania N: ~pyromanias
+pyromaniac N: pyromaniacs
+pyrotechnic A:
+pyrotechnical A:
+pyrotechnics N:
+python N: pythons
+pyx N: pyxes

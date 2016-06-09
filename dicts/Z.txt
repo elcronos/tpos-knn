@@ -1,0 +1,80 @@
+zaniness N: ~zaninesses
+zany A: zanier  zaniest
+zany N: zanies
+zap N: zaps
+zap V: zapped  zapping  zaps
+zapper N: zappers
+zeal N: ~zeals
+zealot N: zealots
+zealotry N: ~zealotries
+zealous A:
+zealously A:
+zealousness N: ~zealousnesses
+zebra N: zebras | zebra
+zebu N: zebus
+zed N: zeds
+zeitgeist N: zeitgeists
+zenith N: zeniths
+zephyr N: zephyrs
+zeppelin N: zeppelins
+zero A:
+zero N: zeros (zeroes)
+zero V: zeroed  zeroing  zeros (zeroes)
+zest N: zests
+-zest V: zested  zesting  zests
+zestful A:
+zestfully A:
+zestfulness N: ~zestfulnesses
+zesty A: zestier  zestiest
+zeta N: zetas
+zigzag A:
+zigzag N: zigzags
+zigzag V: zigzagged  zigzagging  zigzags
+zilch N: ~zilches
+-zillion A:
+zillion N: zillions | zillion {counting}
+zinc N: ~zincs
+zinc V: zincked (zinced)  zincking (zincing)  zincs (-zincks)
+zinfandel N: ~zinfandels
+zing N: zings
+zing V: zinged  zinging  zings
+zinger N: zingers
+zingy A: zingier  zingiest
+zinnia N: zinnias
+zip N: zips
+zip V: zipped  zipping  zips
+zipper N: zippers
+zipper V: zippered  zippering  zippers
+zippy A: zippier  zippiest
+zircon N: zircons
+zirconium N: ~zirconiums
+zit N: zits
+zither N: zithers
+zloty N: zlotys
+zodiac N: zodiacs
+zodiacal A:
+zombi N: zombis
+zombie N: zombies
+zonal A:
+zonally A:
+zone N: zones
+zone V: zoned  zoning  zones
+zoning N: ~zonings
+zonked A:
+zoo N: zoos
+zookeeper N: zookeepers
+zoological A:
+zoologically A:
+zoologist N: zoologists
+zoology N: ~zoologies
+zoom N: zooms
+zoom V: zoomed  zooming  zooms
+zoophyte N: zoophytes
+zoophytic A:
+zounds I:
+zucchini N: zucchinis (zucchini)
+zwieback N: ~zwiebacks
+zydeco N: ~zydecos
+zygote N: zygotes
+zygotic A:
+zymurgy N: ~zymurgies

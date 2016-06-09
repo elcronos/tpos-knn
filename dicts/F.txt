@@ -1,0 +1,2050 @@
+fa N: ~fas
+fable N: fables
+-fable V: fabled  fabling  fables
+fabled A:
+fabric N: fabrics
+fabricate V: fabricated  fabricating  fabricates
+fabrication N: fabrications
+fabricator N: fabricators
+fabulous A:
+fabulously A:
+facade N: facades
+face N: faces
+face V: faced  facing  faces
+facecloth N: facecloths
+faceless A:
+facelift N: facelifts
+-facelift V: facelifted  facelifting  facelifts
+facet N: facets
+facet V: faceted (facetted)  faceting (facetting)  facets
+facetious A:
+facetiously A:
+facetiousness N: ~facetiousnesses
+facial A:
+facial N: facials
+facially A:
+facile A:
+facilely A:
+facilitate V: facilitated  facilitating  facilitates
+facilitation N: ~facilitations
+facilitator N: facilitators
+facility N: facilities
+facing N: facings
+facsimile A:
+facsimile N: facsimiles
+facsimile V: facsimiled  facsimileing  facsimiles
+fact N: facts
+faction N: factions
+factional A:
+factionalism N: ~factionalisms
+factious A:
+factitious A:
+factoid N: factoids
+factor N: factors
+factor V: factored  factoring  factors
+factorial A:
+factorial N: factorials
+factory N: factories
+factotum N: factotums
+factual A:
+factually A:
+faculty N: faculties
+fad N: fads
+faddish A:
+faddist N: faddists
+fade N: fades
+fade V: faded  fading  fades
+faecal A:
+faeces N:
+-faerie A:
+faerie N: faeries
+-faery A:
+faery N: faeries
+fag N: fags
+fag V: fagged  fagging  fags
+faggot N: faggots
+faggoting N: ~faggotings
+fagot N: fagots
+fagoting N: ~fagotings
+faience N: ~faiences
+fail N: fails
+fail V: failed  failing  fails
+failing C:
+failing N: failings
+faille N: ~failles
+failure N: failures
+fain A: fainer  fainest
+faint A: fainter  faintest
+faint N: faints
+faint V: fainted  fainting  faints
+fainthearted A:
+faintly A:
+faintness N: ~faintnesses
+fair A: fairer  fairest
+fair N: fairs
+-fair V: faired  fairing  fairs
+fairground N: fairgrounds
+fairing N: fairings
+fairly A:
+fairness N: ~fairnesses
+fairway N: fairways
+fairy A:
+fairy N: fairies
+fairyland N: fairylands
+faith N: faiths
+faithful A:
+faithful N: faithfuls
+faithfully A:
+faithfulness N: ~faithfulnesses
+faithless A:
+faithlessly A:
+faithlessness N: ~faithlessnesses
+fajita N: fajitas
+fajitas N:
+fake A:
+fake N: fakes
+fake V: faked  faking  fakes
+faker N: fakers
+fakir N: fakirs
+falcon N: falcons
+falconer N: falconers
+falconry N: ~falconries
+fall N: falls
+fall V: fell  fallen  falling  falls
+fallacious A:
+fallaciously A:
+fallacy N: fallacies
+fallibility N: ~fallibilities
+fallible A:
+fallibleness N: ~falliblenesses
+fallibly A:
+falloff N: falloffs
+fallout N: ~fallouts
+fallow A: -fallower  -fallowest
+fallow N: ~fallows
+fallow V: fallowed  fallowing  fallows
+false A: falser  falsest
+falsehood N: falsehoods
+falsely A:
+falseness N: ~falsenesses
+falsetto A:
+falsetto N: falsettos
+falsie N: falsies
+falsification N: falsifications
+falsifier N: falsifiers
+falsify V: falsified  falsifying  falsifies
+falsity N: falsities
+falter N: falters
+falter V: faltered  faltering  falters
+falteringly A:
+fame N: ~fames
+-fame V: famed  faming  fames
+famed A:
+familial A:
+familiar A:
+familiar N: familiars
+familiarity N: ~familiarities
+familiarization N: ~familiarizations
+familiarize V: familiarized  familiarizing  familiarizes
+familiarly A:
+family A:
+family N: families
+famine N: famines
+famish V: famished  famishing  famishes
+famous A:
+famously A:
+fan N: fans
+fan V: fanned  fanning  fans
+fanatic A:
+fanatic N: fanatics
+fanatical A:
+fanatically A:
+fanaticism N: ~fanaticisms
+fancier N: fanciers
+fanciful A:
+fancifully A:
+fancifulness N: ~fancifulnesses
+fancily A:
+fanciness N: ~fancinesses
+fancy A: fancier  fanciest
+fancy N: fancies
+fancy V: fancied  fancying  fancies
+fancywork N: ~fancyworks
+fandango N: fandangos (fandangoes)
+fanfare N: fanfares
+fang N: fangs
+-fang V: fanged  fanging  fangs
+fanged A:
+fanlight N: fanlights
+fanny N: fannies
+fantail N: fantails
+fantasia N: fantasias
+fantasize V: fantasized  fantasizing  fantasizes
+fantastic A:
+-fantastic N: fantastics
+fantastical A:
+fantastically A:
+fantasy N: fantasies
+fantasy V: fantasied  fantasying  fantasies
+fanzine N: fanzines
+far A: farther / further  farthest / furthest
+farad N: farads
+faraway A:
+farce N: farces
+-farce V: farced  farcing  farces
+farcical A:
+farcically A:
+fare N: fares
+fare V: fared  faring  fares
+farewell A:
+farewell I:
+farewell N: farewells
+farewell V:
+farfetched A:
+farina N: ~farinas
+farinaceous A:
+farm N: farms
+farm V: farmed  farming  farms
+farmer N: farmers
+farmhand N: farmhands
+farmhouse N: farmhouses
+farming N: ~farmings
+farmland N: ~farmlands
+farmstead N: farmsteads
+farmyard N: farmyards
+faro N: ~faros
+farrago N: farragoes (farragos)
+farrier N: farriers
+-farrow A:
+farrow N: farrows
+farrow V: farrowed  farrowing  farrows
+farseeing A:
+farsighted A:
+farsightedness N: ~farsightednesses
+fart N: farts
+fart V: farted  farting  farts
+farthermost A:
+farthing N: farthings
+fascia N: fascias (fasciae)
+fascicle N: fascicles
+fascinate V: fascinated  fascinating  fascinates
+fascinatingly A:
+fascination N: fascinations
+fascism N: ~fascisms
+fascist A:
+fascist N: fascists
+fascistic A:
+fashion N: fashions
+fashion V: fashioned  fashioning  fashions
+fashionable A:
+-fashionable N: fashionables
+fashionably A:
+fashioner N: fashioners
+fast A: faster  fastest
+fast N: fasts
+fast V: fasted  fasting  fasts
+fastback N: fastbacks
+fastball N: fastballs
+fasten V: fastened  fastening  fastens
+fastener N: fasteners
+fastening N: fastenings
+fastidious A:
+fastidiously A:
+fastidiousness N: ~fastidiousnesses
+fastness N: fastnesses
+fat A: fatter  fattest
+fat N: fats
+-fat V: fatted  fatting  fats
+fatal A:
+fatalism N: ~fatalisms
+fatalist N: fatalists
+fatalistic A:
+fatalistically A:
+fatality N: fatalities
+fatally A:
+fatback N: ~fatbacks
+fate N: fates
+fate V: fated  fating  fates
+fateful A:
+fatefully A:
+fatefulness N: ~fatefulnesses
+fathead N: fatheads
+fatheaded A:
+father N: fathers
+father V: fathered  fathering  fathers
+fatherhood N: ~fatherhoods
+fatherland N: fatherlands
+fatherless A:
+fatherly A:
+fathom N: fathoms
+fathom V: fathomed  fathoming  fathoms
+fathomable A:
+fathomless A:
+-fatigue A:
+fatigue N: ~fatigues
+fatigue V: fatigued  fatiguing  fatigues
+fatigues N:
+fatness N: ~fatnesses
+fatten V: fattened  fattening  fattens
+fattiness N: ~fattinesses
+fatty A: fattier  fattiest
+fatty N: fatties
+fatuity N: ~fatuities
+fatuous A:
+fatuously A:
+fatuousness N: ~fatuousnesses
+fatwa N: fatwas
+faucet N: faucets
+fault N: faults
+fault V: faulted  faulting  faults
+faultfinder N: faultfinders
+faultfinding A:
+faultfinding N: ~faultfindings
+faultily A:
+faultiness N: ~faultinesses
+faultless A:
+faultlessly A:
+faultlessness N: ~faultlessnesses
+faulty A: faultier  faultiest
+faun N: fauns
+fauna N: faunas (faunae)
+fauvism N: ~fauvisms
+fauvist N: fauvists
+favor N: favors
+favor V: favored  favoring  favors
+favorable A:
+favorably A:
+favorite A:
+favorite N: favorites
+favoritism N: ~favoritisms
+favour N: favours
+favour V: favoured  favouring  favours
+fawn A: fawner  fawnest
+fawn N: fawns
+fawn V: fawned  fawning  fawns
+fawner N: fawners
+fax N: faxes
+fax V: faxed  faxing  faxes
+fay A: fayer  fayest
+fay N: fays
+faze V: fazed  fazing  fazes
+fealty N: ~fealties
+fear N: fears
+fear V: feared  fearing  fears
+fearful A: -fearfuller  -fearfullest
+fearfully A:
+fearfulness N: ~fearfulnesses
+fearless A:
+fearlessly A:
+fearlessness N: ~fearlessnesses
+fearsome A:
+feasibility N: ~feasibilities
+feasible A:
+feasibly A:
+feast N: feasts
+feast V: feasted  feasting  feasts
+-feat A: feater  featest
+feat N: feats
+feather N: feathers
+feather V: feathered  feathering  feathers
+featherbedding N: ~featherbeddings
+featherless A:
+featherweight N: featherweights
+feathery A: featherier  featheriest
+feature N: features
+feature V: featured  featuring  features
+featureless A:
+febrile A:
+fecal A:
+feces N:
+feckless A:
+fecklessly A:
+fecund A:
+fecundate V: fecundated  fecundating  fecundates
+fecundation N: ~fecundations
+fecundity N: ~fecundities
+fed N: feds
+federal A:
+federal N: federals
+federalism N: ~federalisms
+federalist A:
+federalist N: federalists
+federalization N: ~federalizations
+federalize V: federalized  federalizing  federalizes
+federally A:
+federate V: federated  federating  federates
+federation N: federations
+fedora N: fedoras
+fee N: fees
+-fee V: feed  feeing  fees
+feeble A: feebler  feeblest
+feebleness N: ~feeblenesses
+feebly A:
+feed N: feeds
+feed V: fed  feeding  feeds
+feedback N: ~feedbacks
+feedbag N: feedbags
+feeder N: feeders
+feeding N: feedings
+feedlot N: feedlots
+feel N: feels
+feel V: felt  feeling  feels
+feeler N: feelers
+feeling N: feelings
+feelingly A:
+feign V: feigned  feigning  feigns
+feint N: feints
+feint V: feinted  feinting  feints
+feisty A: feistier  feistiest
+feldspar N: ~feldspars
+felicitate V: felicitated  felicitating  felicitates
+felicitation N: felicitations
+felicitations I:
+felicitous A:
+felicitously A:
+felicity N: felicities
+feline A:
+feline N: felines
+fell A: feller  fellest
+fell N: fells
+fell V: felled  felling  fells
+fellatio N: ~fellatios
+fellow A:
+fellow N: fellows
+-fellow V: fellowed  fellowing  fellows
+fellowman N: fellowmen
+fellowship N: fellowships
+-fellowship V: fellowshipped (fellowshiped)  fellowshipping (fellowshiping)  fellowships
+-felon A:
+felon N: felons
+felonious A:
+felony N: felonies
+felt N: ~felts
+felt V: felted  felting  felts
+female A:
+female N: females
+femaleness N: ~femalenesses
+feminine A:
+feminine N: feminines
+femininely A:
+femininity N: ~femininities
+feminism N: ~feminisms
+feminist A:
+feminist N: feminists
+femoral A:
+femur N: femurs (femora)
+fen N {money}: fen
+fen N {swamp}: fens
+fence N: fences
+fence V: fenced  fencing  fences
+fencer N: fencers
+fencing N: ~fencings
+fend V: fended  fending  fends
+fender N: fenders
+fenestration N: ~fenestrations
+fennel N: ~fennels
+feral A:
+ferment N: ~ferments
+ferment V: fermented  fermenting  ferments
+fermentation N: ~fermentations
+fermium N: ~fermiums
+fern N: ferns
+ferny A: fernier  ferniest
+ferocious A:
+ferociously A:
+ferociousness N: ~ferociousnesses
+ferocity N: ~ferocities
+ferret N: ferrets
+ferret V: ferreted  ferreting  ferrets
+ferric A:
+ferromagnetic A:
+ferrous A:
+ferrule N: ferrules
+-ferrule V: ferruled  ferruling  ferrules
+ferry N: ferries
+ferry V: ferried  ferrying  ferries
+ferryboat N: ferryboats
+ferryman N: ferrymen
+fertile A: -fertiler  -fertilest
+fertility N: ~fertilities
+fertilization N: ~fertilizations
+fertilize V: fertilized  fertilizing  fertilizes
+fertilizer N: fertilizers
+ferule N: ferules
+-ferule V: feruled  feruling  ferules
+fervency N: ~fervencies
+fervent A: -ferventer  -ferventest
+fervently A:
+fervid A: -fervider  -fervidest
+fervidly A:
+fervor N: ~fervors
+fervour N: ~fervours
+-fess N: fesses
+fess V: fessed  fessing  fesses
+fest N: fests
+festal A:
+fester N: festers
+fester V: festered  festering  festers
+festival N: festivals
+festive A:
+festively A:
+festiveness N: ~festivenesses
+festivity N: festivities
+festoon N: festoons
+festoon V: festooned  festooning  festoons
+feta N: ~fetas
+fetal A:
+-fetch N: fetches
+fetch V: fetched  fetching  fetches
+fetcher N: fetchers
+fetchingly A:
+fete N: fetes
+fete V: feted  feting  fetes
+fetich N: fetiches
+fetid A: -fetider  -fetidest
+fetidness N: ~fetidnesses
+fetish N: fetishes
+fetishism N: ~fetishisms
+fetishist N: fetishists
+fetishistic A:
+fetlock N: fetlocks
+fetter N: fetters
+fetter V: fettered  fettering  fetters
+fettle N: ~fettles
+-fettle V: fettled  fettling  fettles
+fettuccine N: ~fettuccines (~fettuccine)
+fetus N: fetuses
+feud N: feuds
+feud V: feuded  feuding  feuds
+feudal A:
+feudalism N: ~feudalisms
+feudalistic A:
+fever N: fevers
+-fever V: fevered  fevering  fevers
+fevered A:
+feverish A:
+feverishly A:
+feverishness N: ~feverishnesses
+few A: fewer  fewest
+few N:
+few P:
+fewness N: ~fewnesses
+fey A:
+fez N: fezzes (fezes)
+fiance N: fiances
+fiancee N: fiancees
+fiasco N: fiascoes / fiascos
+fiat N: fiats
+fib N: fibs
+fib V: fibbed  fibbing  fibs
+fibber N: fibbers
+fiber N: fibers
+fiberboard N: ~fiberboards
+fiberfill N: ~fiberfills
+fiberglass N: ~fiberglasses
+-fiberglass V: fiberglassed  fiberglassing  fiberglasses
+fibre N: fibres
+fibril N: fibrils
+fibrillate V: fibrillated  fibrillating  fibrillates
+fibrillation N: ~fibrillations
+fibrin N: ~fibrins
+fibroid A:
+-fibroid N: fibroids
+fibrosis N: ~fibroses
+fibrous A:
+fibula N: fibulae (fibulas)
+fibular A:
+fiche N: fiches
+fichu N: fichus
+fickle A: fickler  ficklest
+fickleness N: ~ficklenesses
+fiction N: fictions
+fictional A:
+fictionalization N: fictionalizations
+fictionalize V: fictionalized  fictionalizing  fictionalizes
+fictionally A:
+fictitious A:
+fictitiously A:
+fictive A:
+ficus N: ficus (-ficuses)
+fiddle N: fiddles
+fiddle V: fiddled  fiddling  fiddles
+fiddler N: fiddlers
+fiddlesticks I:
+fidelity N: ~fidelities
+fidget N: fidgets
+fidget V: fidgeted  fidgeting  fidgets
+fidgety A:
+fiduciary A:
+fiduciary N: fiduciaries
+fie I:
+fief N: fiefs
+fiefdom N: fiefdoms
+field N: fields
+field V: fielded  fielding  fields
+fielder N: fielders
+fieldwork N: ~fieldworks
+fieldworker N: fieldworkers
+fiend N: fiends
+fiendish A:
+fiendishly A:
+fierce A: fiercer  fiercest
+fiercely A:
+fierceness N: ~fiercenesses
+fieriness N: ~fierinesses
+fiery A: fierier  fieriest
+fiesta N: fiestas
+fife N: fifes
+-fife V: fifed  fifing  fifes
+fifer N: fifers
+fifteen A:
+fifteen N: fifteens
+fifteenth A:
+fifteenth N: fifteenths
+fifth A:
+fifth N: fifths
+fifthly A:
+fiftieth A:
+fiftieth N: fiftieths
+fifty A:
+fifty N: fifties
+fig N: figs
+fight N: fights
+fight V: fought  fighting  fights
+fighter N: fighters
+fighting N: ~fightings
+figment N: figments
+figuration N: ~figurations
+figurative A:
+figuratively A:
+figure N: figures
+figure V: figured  figuring  figures
+figurehead N: figureheads
+figurine N: figurines
+filament N: filaments
+filamentous A:
+filbert N: filberts
+filch V: filched  filching  filches
+file N: files
+file V: filed  filing  files
+filer N: filers
+filet N: filets
+filet V: fileted  fileting  filets
+filial A:
+filibuster N: filibusters
+filibuster V: filibustered  filibustering  filibusters
+filibusterer N: filibusterers
+filigree N: ~filigrees
+filigree V: filigreed  filigreeing  filigrees
+filing N: filings
+fill N: ~fills
+fill V: filled  filling  fills
+filler N {money}: fillers (filler)
+filler N: fillers
+fillet N: fillets
+fillet V: filleted  filleting  fillets
+filling N: fillings
+fillip N: fillips
+fillip V: filliped  filliping  fillips
+filly N: fillies
+film N: films
+film V: filmed  filming  films
+filminess N: ~filminesses
+filmmaker N: filmmakers
+filmstrip N: filmstrips
+filmy A: filmier  filmiest
+filter N: filters
+filter V: filtered  filtering  filters
+filterable A:
+filterer N: filterers
+filth N: ~filths
+filthily A:
+filthiness N: ~filthinesses
+filthy A: filthier  filthiest
+-filthy V: filthied  filthying  filthies
+filtrable A:
+filtrate N: filtrates
+filtrate V: filtrated  filtrating  filtrates
+filtration N: ~filtrations
+fin N: fins
+-fin V: finned  finning  fins
+finagle V: finagled  finagling  finagles
+finagler N: finaglers
+final A:
+final N: finals
+finale N: finales
+finalist N: finalists
+finality N: ~finalities
+finalization N: ~finalizations
+finalize V: finalized  finalizing  finalizes
+finally A:
+finance N: finances
+finance V: financed  financing  finances
+financial A:
+financially A:
+financier N: financiers
+-financier V: financiered  financiering  financiers
+financing N: ~financings
+finch N: finches
+find N: finds
+find V: found  finding  finds
+finder N: finders
+finding N: findings
+findings N:
+fine A: finer  finest
+fine I:
+fine N: fines
+fine V: fined  fining  fines
+finely A:
+fineness N: ~finenesses
+finery N: ~fineries
+finespun A:
+finesse N: finesses
+finesse V: finessed  finessing  finesses
+finger N: fingers
+finger V: fingered  fingering  fingers
+fingerboard N: fingerboards
+fingering N: fingerings
+fingerling N: fingerlings
+fingernail N: fingernails
+fingerprint N: fingerprints
+fingerprint V: fingerprinted  fingerprinting  fingerprints
+fingertip N: fingertips
+finial N: finials
+finical A:
+finickiness N: ~finickinesses
+finicky A: finickier  finickiest
+finis N: finises
+finish N: finishes
+finish V: finished  finishing  finishes
+finisher N: finishers
+finite A:
+-finite N: finites
+finitely A:
+fink N: finks
+fink V: finked  finking  finks
+finned A:
+finny A: !finnier  !finniest
+fiord N: fiords
+fir N: firs
+fire N: fires
+fire V: fired  firing  fires
+firearm N: firearms
+fireball N: fireballs
+firebomb N: firebombs
+firebomb V: firebombed  firebombing  firebombs
+firebox N: fireboxes
+firebrand N: firebrands
+firebreak N: firebreaks
+firebrick N: firebricks
+firebug N: firebugs
+firecracker N: firecrackers
+firedamp N: ~firedamps
+firefight N: firefights
+firefighter N: firefighters
+firefighting N: ~firefightings
+firefly N: fireflies
+firehouse N: firehouses
+firelight N: ~firelights
+fireman N: firemen
+fireplace N: fireplaces
+fireplug N: fireplugs
+firepower N: ~firepowers
+fireproof A:
+fireproof V: fireproofed  fireproofing  fireproofs
+firer N: firers
+fireside N: firesides
+firestorm N: firestorms
+firetrap N: firetraps
+firetruck N: firetrucks
+firewall N: firewalls
+firewater N: ~firewaters
+firewood N: ~firewoods
+firework N: fireworks
+firm A: firmer  firmest
+firm N: firms
+firm V: firmed  firming  firms
+firmament N: firmaments
+firmly A:
+firmness N: ~firmnesses
+firmware N: ~firmwares
+first A:
+first N: firsts
+firstborn A:
+firstborn N: firstborn / firstborns
+firsthand A:
+firstly A:
+firth N: firths
+fiscal A:
+fiscal N: fiscals
+fiscally A:
+fish N: fish | fishes
+fish V: fished  fishing  fishes
+fishbowl N: fishbowls
+fishcake N: fishcakes
+fisher N: fishers
+fisherman N: fishermen
+fishery N: fisheries
+fishhook N: fishhooks
+fishily A:
+fishiness N: ~fishinesses
+fishing N: ~fishings
+fishmonger N: fishmongers
+fishnet N: fishnets
+fishpond N: fishponds
+-fishtail N: fishtails
+fishtail V: fishtailed  fishtailing  fishtails
+fishwife N: fishwives
+fishy A: fishier  fishiest
+fissile A:
+fission N: ~fissions
+-fission V: fissioned  fissioning  fissions
+fissionable A:
+-fissionable N: fissionables
+fissure N: fissures
+-fissure V: fissured  fissuring  fissures
+fist N: fists
+-fist V: fisted  fisting  fists
+fistfight N: fistfights
+fistful N: fistfuls
+fisticuffs N:
+fistula N: fistulas (fistulae)
+fistulous N:
+fit A: fitter  fittest
+fit N: fits
+fit V: fitted (fit)  fitting  fits
+fitful A:
+fitfully A:
+fitfulness N: ~fitfulnesses
+fitly A: -fitlier  -fitliest
+fitness N: ~fitnesses
+fitter N: fitters
+fitting N: fittings
+fittingly A:
+five A:
+five N: fives
+fix N: fixes
+fix V: fixed  fixing  fixes
+fixable A:
+fixate V: fixated  fixating  fixates
+fixation N: fixations
+fixative A:
+fixative N: fixatives
+fixedly A:
+fixer N: fixers
+fixings N:
+fixity N: ~fixities
+fixture N: fixtures
+fizz N: ~fizzes
+fizz V: fizzed  fizzing  fizzes
+fizzle N: fizzles
+fizzle V: fizzled  fizzling  fizzles
+fizzy A: fizzier  fizziest
+fjord N: fjords
+flab N: ~flabs
+flabbergast V: flabbergasted  flabbergasting  flabbergasts
+flabbily A:
+flabbiness N: ~flabbinesses
+flabby A: flabbier  flabbiest
+flaccid A: -flaccider  -flaccidest
+flaccidity N: ~flaccidities
+flaccidly A:
+flack N: flacks
+-flack V: flacked  flacking  flacks
+flag N: flags
+flag V: flagged  flagging  flags
+-flagellate N: flagellates
+flagellate V: flagellated  flagellating  flagellates
+flagellation N: ~flagellations
+flagellum N: flagella (flagellums)
+-flagging N: flaggings
+flagman N: flagmen
+flagon N: flagons
+flagpole N: flagpoles
+flagrance N: ~flagrances
+flagrancy N: ~flagrancies
+flagrant A:
+flagrantly A:
+flagship N: flagships
+flagstaff N: flagstaffs (-flagstaves)
+flagstone N: flagstones
+flail N: flails
+flail V: flailed  flailing  flails
+flair N: flairs
+flak N: ~flak
+flake N: flakes
+flake V: flaked  flaking  flakes
+flakiness N: ~flakinesses
+flaky A: flakier  flakiest
+flambe A:
+flambe N: flambes
+flambe V: flambeed  flambeing  flambes
+flamboyance N: ~flamboyances
+flamboyancy N: ~flamboyancies
+flamboyant A:
+-flamboyant N: flamboyants
+flamboyantly A:
+flame N: flames
+flame V: flamed  flaming  flames
+flamenco N: flamencos
+flameproof A:
+flameproof V: flameproofed  flameproofing  flameproofs
+flamethrower N: flamethrowers
+flamingo N: flamingos (flamingoes)
+flammability N: ~flammabilities
+flammable A:
+flammable N: flammables
+flan N: flans (-flanes)
+flange N: flanges
+-flange V: flanged  flanging  flanges
+flank N: flanks
+flank V: flanked  flanking  flanks
+flanker N: flankers
+flannel N: flannels
+flannel V: flanneled (flannelled)  flanneling (flannelling)  flannels
+flannelet N: ~flannelets
+flannelette N: ~flannelettes
+flap N: flaps
+flap V: flapped  flapping  flaps
+flapjack N: flapjacks
+flapper N: flappers
+flare N: flares
+flare V: flared  flaring  flares
+flareup N: flareups
+flash A: flasher  flashest
+flash N: flashes
+flash V: flashed  flashing  flashes
+flashback N: flashbacks
+flashbulb N: flashbulbs
+flashcard N: flashcards
+flashcube N: flashcubes
+flasher N: flashers
+flashgun N: flashguns
+flashily A:
+flashiness N: ~flashinesses
+flashing N: ~flashings
+flashlight N: flashlights
+flashpoint N: flashpoints
+flashy A: flashier  flashiest
+flask N: flasks
+flat A: flatter  flattest
+flat N: flats
+flat V: flatted  flatting  flats
+flatbed N: flatbeds
+flatboat N: flatboats
+flatcar N: flatcars
+flatfish N: flatfish | flatfishes
+flatfoot N: flatfeet {foot} | flatfoots {cop}
+flatfooted A:
+flatiron N: flatirons
+flatland N: ~flatlands
+flatly A:
+flatness N: ~flatnesses
+flatten V: flattened  flattening  flattens
+flatter V: flattered  flattering  flatters
+flatterer N: flatterers
+flatteringly A:
+flattery N: ~flatteries
+flattish A:
+flattop N: flattops
+flatulence N: ~flatulences
+flatulent A:
+flatus N: ~flatuses
+flatware N: ~flatwares
+flatworm N: flatworms
+flaunt N: flaunts
+flaunt V: flaunted  flaunting  flaunts
+flauntingly A:
+flautist N: flautists
+flavor N: flavors
+flavor V: flavored  flavoring  flavors
+flavorful A:
+flavoring N: flavorings
+flavorless A:
+flavorsome A:
+flavour N: flavours
+flavour V: flavoured  flavouring  flavours
+flaw N: flaws
+flaw V: flawed  flawing  flaws
+flawless A:
+flawlessly A:
+flawlessness N: ~flawlessnesses
+flax N: ~flaxes
+flaxen A:
+flay V: flayed  flaying  flays
+flea N: fleas
+fleabag N: fleabags
+fleck N: flecks
+fleck V: flecked  flecking  flecks
+fledgeling N: fledgelings
+fledgling A:
+fledgling N: fledglings
+flee V: fled  fleeing  flees
+fleece N: fleeces
+fleece V: fleeced  fleecing  fleeces
+fleecer N: fleecers
+fleeciness N: ~fleecinesses
+fleecy A: fleecier  fleeciest
+fleet A: fleeter  fleetest
+fleet N: fleets
+fleet V: fleeted  fleeting  fleets
+fleetingly N:
+fleetingness N: ~fleetingnesses
+fleetly A:
+fleetness N: ~fleetnesses
+flesh N: ~fleshes
+flesh V: fleshed  fleshing  fleshes
+fleshly A: fleshlier  fleshliest
+fleshpot N: fleshpots
+fleshy A: fleshier  fleshiest
+-flew N: flews
+flex N: flexes
+flex V: flexed  flexing  flexes
+flexibility N: ~flexibilities
+flexible A:
+flexibly A:
+flexitime N: ~flexitimes
+flextime N: ~flextimes
+flibbertigibbet N: flibbertigibbets
+flick N: flicks
+flick V: flicked  flicking  flicks
+flicker N: flickers
+flicker V: flickered  flickering  flickers
+flier N: fliers
+flight N: flights
+-flight V: flighted  flighting  flights
+flightiness N: ~flightinesses
+flightless A:
+flighty A: flightier  flightiest
+flimflam N: flimflams
+flimflam V: flimflammed  flimflamming  flimflams
+flimsily A:
+flimsiness N: ~flimsinesses
+flimsy A: flimsier  flimsiest
+-flimsy N: flimsies
+flinch N: flinches
+flinch V: flinched  flinching  flinches
+fling N: flings
+fling V: flung  flinging  flings
+flint N: flints
+-flint V: flinted  flinting  flints
+flintlock N: flintlocks
+flinty A: flintier  flintiest
+flip A: flipper  flippest
+flip N: flips
+flip V: flipped  flipping  flips
+flippancy N: ~flippancies
+flippant A:
+flippantly A:
+flipper N: flippers
+flirt N: flirts
+flirt V: flirted  flirting  flirts
+flirtation N: flirtations
+flirtatious A:
+flirtatiously A:
+flirtatiousness N: ~flirtatiousnesses
+flit N: flits
+flit V: flitted  flitting  flits
+float N: floats
+float V: floated  floating  floats
+floater N: floaters
+flock N: flocks
+flock V: flocked  flocking  flocks
+flocking N: ~flockings
+floe N: floes
+flog V: flogged  flogging  flogs
+flogger N: floggers
+flogging N: floggings
+flood N: floods
+flood V: flooded  flooding  floods
+floodgate N: floodgates
+floodlight N: floodlights
+floodlight V: floodlighted (floodlit)  floodlighting  floodlights
+floodplain N: floodplains
+floodwater N: ~floodwaters
+floor N: floors
+floor V: floored  flooring  floors
+floorboard N: floorboards
+flooring N: ~floorings
+floorwalker N: floorwalkers
+floozie N: floozies
+floozy N: floozies
+flop A:
+flop N: flops
+flop V: flopped  flopping  flops
+flophouse N: flophouses
+floppily A:
+floppiness N: ~floppinesses
+floppy A: floppier  floppiest
+floppy N: floppies
+flora N: floras (florae)
+floral A:
+-floral N: florals
+florescence N: ~florescences
+florescent A:
+floret N: florets
+florid A: florider  floridest
+floridly A:
+floridness N: ~floridnesses
+florin N: florins
+florist N: florists
+floss N: ~flosses
+floss V: flossed  flossing  flosses
+flossy A: flossier  flossiest
+flotation N: flotations
+flotilla N: flotillas
+flotsam N: ~flotsams
+flounce N: flounces
+flounce V: flounced  flouncing  flounces
+flouncy A: !flouncier  !flounciest
+flounder N: flounder | flounders
+flounder V: floundered  floundering  flounders
+flour N: ~flours
+flour V: floured  flouring  flours
+flourish N: flourishes
+flourish V: flourished  flourishing  flourishes
+floury A: -flourier  -flouriest
+flout N: flouts
+flout V: flouted  flouting  flouts
+flouter N: flouters
+flow N: flows
+flow V: flowed  flowing  flows
+flowchart N: flowcharts
+flower N: flowers
+flower V: flowered  flowering  flowers
+flowerbed N: flowerbeds
+flowered A:
+floweriness N: ~flowerinesses
+flowerless A:
+flowerpot N: flowerpots
+flowery A: flowerier  floweriest
+flu N: ~flus
+flub N: flubs
+flub V: flubbed  flubbing  flubs
+fluctuate V: fluctuated  fluctuating  fluctuates
+fluctuation N: fluctuations
+flue N: flues
+fluency N: ~fluencies
+fluent A:
+fluently A:
+fluff N: fluffs
+fluff V: fluffed  fluffing  fluffs
+fluffiness N: ~fluffinesses
+fluffy A: fluffier  fluffiest
+fluid A:
+fluid N: fluids
+fluidity N: ~fluidities
+fluidly A:
+fluke N: flukes
+flukey A: flukier  flukiest
+fluky A: flukier  flukiest
+flume N: flumes
+-flume V: flumed  fluming  flumes
+flummox V: flummoxed  flummoxing  flummoxes
+flunk N: flunks
+flunk V: flunked  flunking  flunks
+flunkey N: flunkeys
+flunky N: flunkies
+fluoresce V: fluoresced  fluorescing  fluoresces
+fluorescence N: ~fluorescences
+fluorescent A:
+-fluorescent N: fluorescents
+fluoridate V: fluoridated  fluoridating  fluoridates
+fluoridation N: ~fluoridations
+fluoride N: fluorides
+fluorine N: ~fluorines
+fluorite N: ~fluorites
+fluorocarbon N: fluorocarbons
+fluoroscope N: fluoroscopes
+-fluoroscope V: fluoroscoped  fluoroscoping  fluoroscopes
+fluoroscopic A:
+flurry N: flurries
+flurry V: flurried  flurrying  flurries
+flush A: flusher  flushest
+flush N: flushes
+flush V: flushed  flushing  flushes
+fluster N: ~flusters
+fluster V: flustered  flustering  flusters
+flute N: flutes
+flute V: fluted  fluting  flutes
+fluting N: ~flutings
+flutist N: flutists
+flutter N: flutters
+flutter V: fluttered  fluttering  flutters
+fluttery A:
+flux N: fluxes
+flux V: fluxed  fluxing  fluxes
+fly A: flier  fliest
+fly N: flies
+fly V {baseball}: flied  flying  flies
+fly V {flight}: flew  flown  flying  flies
+flyable A:
+flyblown A:
+flyby N: flybys
+flycatcher N: flycatchers
+flyer N: flyers
+flying N: ~flyings
+flyleaf N: flyleaves
+flypaper N: flypapers
+flyspeck N: flyspecks
+flyspeck V: flyspecked  flyspecking  flyspecks
+flyswatter N: flyswatters
+flyway N: flyways
+flyweight N: flyweights
+flywheel N: flywheels
+foal N: foals
+foal V: foaled  foaling  foals
+foam N: ~foams
+foam V: foamed  foaming  foams
+foaminess N: ~foaminesses
+foamy A: foamier  foamiest
+fob N: fobs
+fob V: fobbed  fobbing  fobs
+focal A:
+focally A:
+focus N: focuses (foci)
+focus V: focused (focussed)  focusing (focussing)  focuses (focusses)
+fodder N: fodders
+-fodder V: foddered  foddering  fodders
+foe N: foes
+foetal A:
+foetus N: foetuses (-foeti)
+fog N: fogs
+fog V: fogged  fogging  fogs
+fogbound A:
+fogey N: fogeys
+foggily A:
+fogginess N: ~fogginesses
+foggy A: foggier  foggiest
+foghorn N: foghorns
+fogy N: fogies
+fogyish A:
+foible N: foibles
+foil N: foils
+foil V: foiled  foiling  foils
+foist V: foisted  foisting  foists
+fold N: folds
+fold V: folded  folding  folds
+foldaway A:
+-foldaway N: foldaways
+folder N: folders
+foldout N: foldouts
+foliage N: ~foliages
+-folio A:
+folio N: folios
+-folio V: folioed  folioing  folios
+folk A:
+folk N: folks / folk
+folklore N: ~folklores
+folkloric A:
+folklorist N: folklorists
+folksiness N: ~folksinesses
+folksinger N: folksingers
+folksinging N: ~folksingings
+folksy A: folksier  folksiest
+folktale N: folktales
+folkway N: folkways
+follicle N: follicles
+-follow N: follows
+follow V: followed  following  follows
+follower N: followers
+following C:
+following N: followings
+folly N: follies
+foment V: fomented  fomenting  foments
+fomentation N: ~fomentations
+fond A: fonder  fondest
+-fond N: fonds
+fondant N: fondants
+fondle V: fondled  fondling  fondles
+fondly A:
+fondness N: ~fondnesses
+-fondu A:
+fondu N: fondus
+fondue N: fondues
+font N: fonts
+fontanel N: fontanels
+fontanelle N: fontanelles
+food N: foods
+foodie N: foodies
+foodstuff N: foodstuffs
+fool A:
+fool N: fools
+fool V: fooled  fooling  fools
+foolery N: fooleries
+foolhardily A:
+foolhardiness N: ~foolhardinesses
+foolhardy A: foolhardier  foolhardiest
+foolish A: -foolisher  -foolishest
+foolishly A:
+foolishness N: ~foolishnesses
+foolproof A:
+foolscap N: ~foolscaps
+foot A:
+foot N: feet (foot)
+foot V: footed  footing  foots
+footage N: ~footages
+football N: footballs
+-football V: footballed  footballing  footballs
+footballer N: footballers
+footbridge N: footbridges
+footfall N: footfalls
+foothill N: foothills
+foothold N: footholds
+footing N: footings
+footless A:
+footlights N:
+footling N: footlings
+footlocker N: footlockers
+footloose A:
+footman N: footmen
+footnote N: footnotes
+footnote V: footnoted  footnoting  footnotes
+footpath N: footpaths
+footprint N: footprints
+footrace N: footraces
+footrest N: footrests
+footsie N: footsies
+footsore A:
+footstep N: footsteps
+footstool N: footstools
+footwear N: ~footwears
+footwork N: ~footworks
+fop N: fops
+foppery N: ~fopperies
+foppish A:
+foppishness N: ~foppishnesses
+for C:
+forage N: ~forages
+forage V: foraged  foraging  forages
+forager N: foragers
+foray N: forays
+foray V: forayed  foraying  forays
+forbear N: forbears
+forbear V: forbore  forborne  forbearing  forbears
+forbearance N: ~forbearances
+forbid V: forbade (forbad forbid)  forbidden (forbid)  forbidding  forbids
+forbiddingly A:
+force N: forces
+force V: forced  forcing  forces
+forceful A:
+forcefully A:
+forcefulness N: ~forcefulnesses
+forceps N: forceps (-forcipes -forcepses)
+forcible A:
+forcibly A:
+ford N: fords
+ford V: forded  fording  fords
+fordable A:
+fore A:
+fore I:
+fore N: fores
+forearm N: forearms
+forearm V: forearmed  forearming  forearms
+forebear N: forebears
+forebode V: foreboded  foreboding  forebodes
+foreboding N: forebodings
+forecast N: forecasts
+forecast V: forecast (forecasted)  forecasting  forecasts
+forecaster N: forecasters
+forecastle N: forecastles
+foreclose V: foreclosed  foreclosing  forecloses
+foreclosure N: foreclosures
+forecourt N: forecourts
+foredoom V: foredoomed  foredooming  foredooms
+forefather N: forefathers
+forefinger N: forefingers
+forefoot N: forefeet
+forefront N: forefronts
+foregather V: foregathered  foregathering  foregathers
+forego V: forewent  foregone  foregoing  foregoes
+foreground N: foregrounds
+foreground V: foregrounded  foregrounding  foregrounds
+forehand A:
+forehand N: forehands
+forehead N: foreheads
+foreign A:
+foreigner N: foreigners
+foreignness N: ~foreignnesses
+foreknow V: foreknew  foreknown  foreknowing  foreknows
+foreknowledge N: ~foreknowledges
+foreleg N: forelegs
+forelimb N: forelimbs
+forelock N: forelocks
+-forelock V: forelocked  forelocking  forelocks
+foreman N: foremen
+foremast N: foremasts
+foremost A:
+forename N: forenames
+forenamed A:
+forenoon N: forenoons
+forensic N: forensics
+forensically A:
+forensics N:
+foreordain V: foreordained  foreordaining  foreordains
+forepart N: foreparts
+foreperson N: forepersons (-forepeople)
+foreplay N: ~foreplays
+forequarter N: forequarters
+forerunner N: forerunners
+foresail N: foresails
+foresee V: foresaw  foreseen  foreseeing  foresees
+foreseeable A:
+foreseer N: foreseers
+foreshadow V: foreshadowed  foreshadowing  foreshadows
+foreshorten V: foreshortened  foreshortening  foreshortens
+foresight N: ~foresights
+foresighted A:
+foresightedness N: ~foresightednesses
+foreskin N: foreskins
+forest N: forests
+forest V: forested  foresting  forests
+forestall V: forestalled  forestalling  forestalls
+forestation N: ~forestations
+forester N: foresters
+forestland N: ~forestlands
+forestry N: ~forestries
+foreswear V: foreswore  foresworn  foreswearing  foreswears
+foretaste N: foretastes
+foretaste V: foretasted  foretasting  foretastes
+foretell V: foretold  foretelling  foretells
+forethought N: ~forethoughts
+forever A:
+forever N: ~forevers
+forevermore A:
+forewarn V: forewarned  forewarning  forewarns
+forewoman N: forewomen
+foreword N: forewords
+forfeit A:
+forfeit N: forfeits
+forfeit V: forfeited  forfeiting  forfeits
+forfeiture N: ~forfeitures
+forgather V: forgathered  forgathering  forgathers
+forge N: forges
+forge V: forged  forging  forges
+forger N: forgers
+forgery N: forgeries
+forget V: forgot  forgotten  forgetting  forgets
+forgetful A:
+forgetfully A:
+forgetfulness N: ~forgetfulnesses
+forgettable A:
+forging N: forgings
+forgivable A:
+forgive V: forgave  forgiven  forgiving  forgives
+forgiveness N: ~forgivenesses
+forgiver N: forgivers
+forgo V: forwent  forgone  forgoing  forgoes
+forgoer N: forgoers
+fork N: forks
+fork V: forked  forking  forks
+forkful N: forkfuls (-forksful)
+forklift N: forklifts
+-forklift V: forklifted  forklifting  forklifts
+forlorn A: -forlorner  -forlornest
+forlornly A:
+form N: forms
+form V: formed  forming  forms
+formal A:
+formal N: formals
+formaldehyde N: ~formaldehydes
+formalism N: ~formalisms
+formalist A:
+formalist N: formalists
+formality N: formalities
+formalization N: ~formalizations
+formalize V: formalized  formalizing  formalizes
+formally A:
+format N: formats
+format V: formatted (formated)  formatting (formating)  formats
+formation N: formations
+formative A:
+-formative N: formatives
+formatting N: ~formattings
+former A:
+former N: ~formers
+formerly A:
+formfitting A:
+formic A:
+formidable A:
+formidably A:
+formless A:
+formlessly A:
+formlessness N: ~formlessnesses
+formula N: formulas (formulae)
+formulaic A:
+formulate V: formulated  formulating  formulates
+formulation N: formulations
+formulator N: formulators
+fornicate V: fornicated  fornicating  fornicates
+fornication N: ~fornications
+fornicator N: fornicators
+forsake V: forsook  forsaken  forsaking  forsakes
+forsooth A:
+forswear V: forswore  forsworn  forswearing  forswears
+forsythia N: forsythias
+fort N: forts
+forte A:
+forte N: fortes
+forth A:
+forthcoming N: ~forthcomings
+forthright A:
+-forthright N: forthrights
+forthrightly A:
+forthrightness N: ~forthrightnesses
+forthwith A:
+fortieth A:
+fortieth N: fortieths
+fortification N: fortifications
+fortifier N: fortifiers
+fortify V: fortified  fortifying  fortifies
+fortissimo A:
+-fortissimo N: fortissimos (fortissimi)
+fortitude N: ~fortitudes
+fortnight N: fortnights
+fortnightly A:
+-fortnightly N: fortnightlies
+fortress N: fortresses
+fortuitous A:
+fortuitously A:
+fortuitousness N: ~fortuitousnesses
+fortuity N: ~fortuities
+fortunate A:
+fortunately A:
+fortune N: fortunes
+-fortune V: fortuned  fortuning  fortunes
+fortuneteller N: fortunetellers
+fortunetelling N: ~fortunetellings
+forty A:
+forty N: forties
+forum N: forums (fora)
+forward A: forwarder  forwardest
+forward N: forwards
+forward V: forwarded  forwarding  forwards
+forwarder N: forwarders
+forwardly A:
+forwardness N: ~forwardnesses
+fossil A:
+fossil N: fossils
+fossilization N: ~fossilizations
+fossilize V: fossilized  fossilizing  fossilizes
+foster A:
+foster V: fostered  fostering  fosters
+foul A: fouler  foulest
+foul N: fouls
+foul V: fouled  fouling  fouls
+foulard N: ~foulards
+foully A:
+foulmouthed A:
+foulness N: ~foulnesses
+-found N: founds
+found V: founded  founding  founds
+foundation N: foundations
+founder N: founders
+founder V: foundered  foundering  founders
+foundling N: foundlings
+foundry N: foundries
+fount N: founts
+fountain N: fountains
+fountainhead N: fountainheads
+four A:
+four N: fours
+fourfold A:
+fourposter N: fourposters
+fourscore A:
+fourscore N: ~fourscores
+foursome N: foursomes
+foursquare A:
+-foursquare N: foursquares
+fourteen A:
+fourteen N: fourteens
+fourteenth A:
+fourteenth N: fourteenths
+fourth A:
+fourth N: fourths
+fourthly A:
+fowl N: fowl | fowls
+fowl V: fowled  fowling  fowls
+fox N: foxes
+fox V: foxed  foxing  foxes
+foxfire N: ~foxfires
+foxglove N: foxgloves
+foxhole N: foxholes
+foxhound N: foxhounds
+foxily A:
+foxiness N: ~foxinesses
+foxtrot N: foxtrots
+foxtrot V: foxtrotted  foxtrotting  foxtrots
+foxy A: foxier  foxiest
+foyer N: foyers
+fracas N: fracases (fracas)
+fractal A:
+fractal N: fractals
+fraction N: fractions
+-fraction V: fractioned  fractioning  fractions
+fractional A:
+fractionally A:
+fractious A:
+fractiously A:
+fractiousness N: ~fractiousnesses
+fracture N: fractures
+fracture V: fractured  fracturing  fractures
+fragile A: fragiler  fragilest
+fragility N: ~fragilities
+fragment N: fragments
+fragment V: fragmented  fragmenting  fragments
+fragmentary N:
+fragmentation N: ~fragmentations
+fragrance N: fragrances
+fragrant A:
+fragrantly A:
+frail A: frailer  frailest
+-frail N: frails
+frailly A:
+frailness N: ~frailnesses
+frailty N: frailties
+frame A:
+frame N: frames
+frame V: framed  framing  frames
+framer N: framers
+framework N: frameworks
+franc N: francs
+franchise N: franchises
+franchise V: franchised  franchising  franchises
+franchisee N: franchisees
+franchiser N: franchisers
+franchisor N: franchisors
+francium N: ~franciums
+frangibility N: ~frangibilities
+frangible A:
+frank A: franker  frankest
+frank N: franks
+frank V: franked  franking  franks
+frankfurter N: frankfurters
+frankincense N: ~frankincenses
+frankly A:
+frankness N: ~franknesses
+frantic A:
+frantically A:
+frappe A:
+frappe N: frappes
+-frappe V: frappeed  frappeing  frappes
+frat N: frats
+fraternal A:
+fraternally A:
+fraternity N: fraternities
+fraternization N: ~fraternizations
+fraternize V: fraternized  fraternizing  fraternizes
+fraternizer N: fraternizers
+fratricidal A:
+fratricide N: fratricides
+fraud N: frauds
+fraudulence N: ~fraudulences
+fraudulent A:
+fraudulently A:
+fraught A: -fraughter  -fraughtest
+-fraught N: fraughts
+fray N: frays
+fray V: frayed  fraying  frays
+frazzle N: frazzles
+frazzle V: frazzled  frazzling  frazzles
+freak A:
+freak N: freaks
+freak V: freaked  freaking  freaks
+freakish A:
+freakishly A:
+freakishness N: ~freakishnesses
+freakout N: freakouts
+freaky A: freakier  freakiest
+freckle N: freckles
+freckle V: freckled  freckling  freckles
+freckly A: !frecklier  !freckliest
+free A: freer  freest
+free V: freed  freeing  frees
+freebase N: ~freebases
+freebase V: freebased  freebasing  freebases
+freebee N: freebees
+freebie N: freebies
+freebooter N: freebooters
+freeborn A:
+freedman N: freedmen
+freedom N: freedoms
+freehand A:
+freehold A:
+freehold N: freeholds
+freeholder N: freeholders
+freelance A:
+freelance N: freelances
+freelance V: freelanced  freelancing  freelances
+freelancer N: freelancers
+freeload V: freeloaded  freeloading  freeloads
+freeloader N: freeloaders
+freely A:
+freeman N: freemen
+freestanding A:
+freestone N: freestones
+freestyle N: freestyles
+freethinker N: freethinkers
+freethinking N: ~freethinkings
+freeware N: ~freewares
+freeway N: freeways
+-freewheel N: freewheels
+freewheel V: freewheeled  freewheeling  freewheels
+freewill A:
+freezable A:
+freeze N: freezes
+freeze V: froze  frozen  freezing  freezes
+freezer N: freezers
+freezing N: ~freezings
+freight N: freights
+freight V: freighted  freighting  freights
+freighter N: freighters
+frenetic A:
+-frenetic N: frenetics
+frenetically A:
+frenzied A:
+frenziedly A:
+frenzy N: frenzies
+-frenzy V: frenzied  frenzying  frenzies
+frequency N: frequencies
+frequent A: frequenter  frequentest
+frequent V: frequented  frequenting  frequents
+frequenter N: frequenters
+frequently A:
+fresco N: frescoes (frescos)
+-fresco V: frescoed  frescoing  frescoes (frescos)
+fresh A: fresher  freshest
+-fresh N: freshes
+-fresh V: freshed  freshing  freshes
+freshen V: freshened  freshening  freshens
+freshener N: fresheners
+freshet N: freshets
+freshly A:
+-freshman A:
+freshman N: freshmen
+freshness N: ~freshnesses
+freshwater A:
+freshwater N: ~freshwaters
+fret N: frets
+fret V: fretted  fretting  frets
+fretful A:
+fretfully A:
+fretfulness N: ~fretfulnesses
+fretsaw N: fretsaws
+fretwork N: ~fretworks
+friable A:
+friar N: friars
+friary N: friaries
+fricassee N: fricassees
+fricassee V: fricasseed  fricasseeing  fricassees
+fricative A:
+fricative N: fricatives
+friction N: ~frictions
+frictional A:
+fridge N: fridges
+friedcake N: friedcakes
+friend N: friends
+-friend V: friended  friending  friends
+friendless A:
+friendliness N: ~friendlinesses
+friendly A: friendlier  friendliest
+friendly N: friendlies
+friendship N: friendships
+frier N: friers
+frieze N: friezes
+frig V: frigged  frigging  frigs
+frigate N: frigates
+fright N: frights
+fright V: frighted  frighting  frights
+frighten V: frightened  frightening  frightens
+frighteningly A:
+frightful A:
+frightfully A:
+frightfulness N: ~frightfulnesses
+frigid A: -frigider  -frigidest
+frigidity N: ~frigidities
+frigidly A:
+frigidness N: ~frigidnesses
+frill N: frills
+-frill V: frilled  frilling  frills
+frilly A: frillier  frilliest
+fringe A:
+fringe N: fringes
+fringe V: fringed  fringing  fringes
+frippery N: fripperies
+-frisk N: frisks
+frisk V: frisked  frisking  frisks
+friskily A:
+friskiness N: ~friskinesses
+frisky A: friskier  friskiest
+fritter N: fritters
+fritter V: frittered  frittering  fritters
+fritz N: ~fritzes
+frivolity N: frivolities
+frivolous A:
+frivolously A:
+frivolousness N: ~frivolousnesses
+friz N: frizzes
+friz V: frizzed  frizzing  frizzes
+frizz N: frizzes
+frizz V: frizzed  frizzing  frizzes
+frizzle N: frizzles
+frizzle V: frizzled  frizzling  frizzles
+frizzly A: !frizzlier  !frizzliest
+frizzy A: frizzier  frizziest
+fro A:
+-fro N: fros
+frock N: frocks
+-frock V: frocked  frocking  frocks
+frog N: frogs
+-frog V: frogged  frogging  frogs
+frogman N: frogmen
+-frolic A:
+frolic N: frolics
+frolic V: frolicked  frolicking  frolics
+frolicker N: frolickers
+frolicsome A:
+from C:
+frond N: fronds
+front A:
+front N: fronts
+front V: fronted  fronting  fronts
+frontage N: frontages
+frontal A:
+-frontal N: frontals
+frontally A:
+frontier A:
+frontier N: frontiers
+frontiersman N: frontiersmen
+frontispiece N: frontispieces
+frontrunner N: frontrunners
+frontward A:
+frontwards A:
+frosh N: frosh
+frost N: frosts
+frost V: frosted  frosting  frosts
+frostbite N: ~frostbites
+frostbite V: frostbit  frostbitten  frostbiting  frostbites
+-frosted N: frosteds
+frostily A:
+frostiness N: ~frostinesses
+frosting N: ~frostings
+frosty A: frostier  frostiest
+froth N: ~froths
+froth V: frothed  frothing  froths
+frothiness N: ~frothinesses
+frothy A: frothier  frothiest
+froufrou N: ~froufrous
+froward A:
+frowardness N: ~frowardnesses
+frown N: frowns
+frown V: frowned  frowning  frowns
+frowsy A: frowsier  frowsiest
+frowzily A:
+frowziness N: ~frowzinesses
+frowzy A: frowzier  frowziest
+fructify V: fructified  fructifying  fructifies
+fructose N: ~fructoses
+frugal A:
+frugality N: ~frugalities
+frugally A:
+fruit N: fruits | fruit
+fruit V: fruited  fruiting  fruits
+fruitcake N: fruitcakes
+fruitful A: -fruitfuller  -fruitfullest
+fruitfully A:
+fruitfulness N: ~fruitfulnesses
+fruitiness N: ~fruitinesses
+fruition N: ~fruitions
+fruitless A:
+fruitlessly A:
+fruitlessness N: ~fruitlessnesses
+fruity A: fruitier  fruitiest
+frump N: frumps
+frumpish A:
+frumpy A: frumpier  frumpiest
+-frustrate A:
+frustrate V: frustrated  frustrating  frustrates
+frustratingly A:
+frustration N: frustrations
+frustum N: frustums (frusta)
+fry N: fries {potatoes} | fry {fish}
+fry V: fried  frying  fries
+fryer N: fryers
+fuchsia A:
+fuchsia N: fuchsias
+fuck I:
+fuck N: fucks
+fuck V: fucked  fucking  fucks
+fucker N: fuckers
+-fucking N: fuckings
+fuddle N: fuddles
+fuddle V: fuddled  fuddling  fuddles
+fudge I:
+fudge N: ~fudges
+fudge V: fudged  fudging  fudges
+fuehrer N: fuehrers
+fuel N: fuels
+fuel V: fueled (fuelled)  fueling (fuelling)  fuels
+fugal A:
+fugitive A:
+fugitive N: fugitives
+fugue N: fugues
+-fugue V: fugued  fuguing  fugues
+fuhrer N: fuhrers
+fulcrum N: fulcrums (fulcra)
+-fulcrum V: fulcrumed  fulcruming  fulcrums
+fulfil V: fulfilled  fulfilling  fulfils
+fulfill V: fulfilled  fulfilling  fulfills
+fulfillment N: ~fulfillments
+fulfilment N: ~fulfilments
+full A: fuller  fullest
+full N: ~fulls
+full V: fulled  fulling  fulls
+fullback N: fullbacks
+fuller N: fullers
+-fuller V: fullered  fullering  fullers
+fullness N: ~fullnesses
+fully A:
+-fulminate N: fulminates
+fulminate V: fulminated  fulminating  fulminates
+fulmination N: fulminations
+fulness N: ~fulnesses
+fulsome A: -fulsomer  -fulsomest
+fulsomely A:
+fulsomeness N: ~fulsomenesses
+fumble N: fumbles
+fumble V: fumbled  fumbling  fumbles
+fumbler N: fumblers
+fumblingly A:
+fume N: fumes
+fume V: fumed  fuming  fumes
+fumigant N: fumigants
+fumigate V: fumigated  fumigating  fumigates
+fumigation N: ~fumigations
+fumigator N: fumigators
+fumy A: fumier  fumiest
+fun A: funner  funnest
+fun N: ~funs
+-fun V: funned  funning  funs
+function N: functions
+function V: functioned  functioning  functions
+functional A:
+-functional N: functionals
+functionally A:
+functionary N: functionaries
+fund N: funds
+fund V: funded  funding  funds
+fundamental A:
+fundamental N: fundamentals
+fundamentalism N: ~fundamentalisms
+fundamentalist A:
+fundamentalist N: fundamentalists
+fundamentally A:
+funding N: ~fundings
+fundraiser N: fundraisers
+funeral A:
+funeral N: funerals
+funerary A:
+funereal A:
+funereally A:
+fungal A:
+fungible A:
+fungible N: fungibles
+fungicidal A:
+fungicide N: fungicides
+fungoid A:
+-fungoid N: fungoids
+fungous A:
+fungus N: fungi (funguses)
+funicular A:
+funicular N: funiculars
+funk N: funks
+funk V: funked  funking  funks
+funkiness N: ~funkinesses
+funky A: funkier  funkiest
+funnel N: funnels
+funnel V: funneled (funnelled)  funneling (funnelling)  funnels
+funnily A:
+funniness N: ~funninesses
+funny A: funnier  funniest
+funny N: funnies
+funnyman N: funnymen
+fur A:
+fur N: furs
+fur V: furred  furring  furs
+furbelow N: ~furbelows
+-furbelow V: furbelowed  furbelowing  furbelows
+furbish V: furbished  furbishing  furbishes
+furious A:
+furiously A:
+furl N: furls
+furl V: furled  furling  furls
+furlong N: furlongs
+furlough N: furloughs
+furlough V: furloughed  furloughing  furloughs
+furnace N: furnaces
+-furnace V: furnaced  furnacing  furnaces
+furnish V: furnished  furnishing  furnishes
+furnishings N:
+furniture N: ~furnitures
+furor N: furors
+furore N: furores
+furred A:
+furrier N: furriers
+furriness N: ~furrinesses
+furring N: ~furrings
+furrow N: furrows
+furrow V: furrowed  furrowing  furrows
+furry A: furrier  furriest
+further V: furthered  furthering  furthers
+furtherance N: ~furtherances
+furthermore A:
+furthermost A:
+furtive A:
+furtively A:
+furtiveness N: ~furtivenesses
+fury N: furies
+furze N: ~furzes
+fuse N: fuses
+fuse V: fused  fusing  fuses
+fusee N: fusees
+fuselage N: fuselages
+fusibility N: ~fusibilities
+fusible A:
+fusileer N: fusileers
+fusilier N: fusiliers
+fusillade N: fusillades
+-fusillade V: fusilladed  fusillading  fusillades
+fusion N: ~fusions
+fuss N: fusses
+fuss V: fussed  fussing  fusses
+fussbudget N: fussbudgets
+fussily A:
+fussiness N: ~fussinesses
+fusspot N: fusspots
+fussy A: fussier  fussiest
+fustian A:
+fustian N: ~fustians
+fustiness N: ~fustinesses
+fusty A: fustier  fustiest
+futile A: -futiler  -futilest
+futilely A:
+futility N: ~futilities
+futon N: futons
+future A:
+future N: futures
+futurism N: ~futurisms
+futurist N: futurists
+futuristic A:
+futurity N: futurities
+futurologist N: futurologists
+futurology N: ~futurologies
+futz V: futzed  futzing  futzes
+fuze N: fuzes
+fuze V: fuzed  fuzing  fuzes
+fuzz N: ~fuzzes {fluff} | fuzz {cop}
+fuzz V: fuzzed  fuzzing  fuzzes
+fuzzily A:
+fuzziness N: ~fuzzinesses
+fuzzy A: fuzzier  fuzziest

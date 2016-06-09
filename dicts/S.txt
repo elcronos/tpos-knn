@@ -1,0 +1,5305 @@
+sabbatical A:
+sabbatical N: sabbaticals
+saber N: sabers
+-saber V: sabered  sabering  sabers
+sable A:
+sable N {animal}: sable | sables
+sable N {fur}: ~sables
+sabot N: sabots
+sabotage N: ~sabotages
+sabotage V: sabotaged  sabotaging  sabotages
+saboteur N: saboteurs
+sabra N: sabras
+sabre N: sabres
+-sabre V: sabred  sabring  sabres
+sac N: sacs
+saccharin N: ~saccharins
+saccharine A:
+sacerdotal A:
+sachem N: sachems
+sachet N: sachets
+sack N: sacks
+sack V: sacked  sacking  sacks
+sackcloth N: ~sackcloths
+sackful N: sackfuls (-sacksful)
+sacking N: ~sackings
+sacrament N: sacraments
+sacramental A:
+-sacramental N: sacramentals
+sacred A:
+sacredly A:
+sacredness N: ~sacrednesses
+sacrifice N: sacrifices
+sacrifice V: sacrificed  sacrificing  sacrifices
+sacrificial A:
+sacrificially A:
+sacrilege N: sacrileges
+sacrilegious A:
+sacrilegiously A:
+sacristan N: sacristans
+sacristy N: sacristies
+sacroiliac N: sacroiliacs
+sacrosanct A:
+sacrosanctness N: ~sacrosanctnesses
+sacrum N: sacra (-sacrums)
+sad A: sadder  saddest
+sadden V: saddened  saddening  saddens
+saddle N: saddles
+saddle V: saddled  saddling  saddles
+saddlebag N: saddlebags
+sadism N: ~sadisms
+sadist A:
+sadist N: sadists
+sadistic A:
+sadistically A:
+sadly A:
+sadness N: ~sadnesses
+sadomasochism N: ~sadomasochisms
+sadomasochist N: sadomasochists
+sadomasochistic A:
+safari N: safaris
+safari V: safaried  safariing  safaris
+safe A: safer  safest
+safe N: safes
+safeguard N: safeguards
+safeguard V: safeguarded  safeguarding  safeguards
+safekeeping N: ~safekeepings
+safely A:
+safeness N: ~safenesses
+safety A:
+safety N: safeties
+safflower N: safflowers
+saffron N: saffrons
+sag N: sags
+sag V: sagged  sagging  sags
+saga N: sagas
+sagacious A:
+sagaciously A:
+sagacity N: ~sagacities
+sage A: sager  sagest
+sage N: sages
+sagebrush N: ~sagebrushes
+sagely A:
+saggy A: saggier  saggiest
+sago N: ~sagos
+saguaro N: saguaros
+sahib N: sahibs
+-said N: saids
+sail N: sails
+sail V: sailed  sailing  sails
+sailboard N: sailboards
+sailboarder N: sailboarders
+sailboarding N: ~sailboardings
+sailboat N: sailboats
+sailcloth N: ~sailcloths
+sailfish N: sailfish | sailfishes
+sailing N: sailings
+sailor N: sailors
+sailplane N: sailplanes
+-sailplane V: sailplaned  sailplaning  sailplanes
+saint A:
+saint N: saints
+-saint V: sainted  sainting  saints
+sainted A:
+sainthood N: ~sainthoods
+saintlike A:
+saintliness N: ~saintlinesses
+saintly A: saintlier  saintliest
+sake N: ~sakes
+saki N: ~sakis
+salaam N: salaams
+salaam V: salaamed  salaaming  salaams
+salable A:
+salacious A:
+salaciously A:
+salaciousness N: ~salaciousnesses
+salacity N: ~salacities
+salad N: salads
+salamander N: salamanders
+salami N: salamis
+salaried A:
+salary N: salaries
+sale N: sales
+saleable A:
+salesclerk N: salesclerks
+salesgirl N: salesgirls
+saleslady N: salesladies
+salesman N: salesmen
+salesmanship N: ~salesmanships
+salespeople N:
+salesperson N: salespersons (salespeople)
+saleswoman N: saleswomen
+salience N: ~saliences
+salient A:
+salient N: salients
+saliently A:
+saline A:
+saline N: salines
+salinity N: ~salinities
+saliva N: ~salivas
+salivary A:
+salivate V: salivated  salivating  salivates
+salivation N: ~salivations
+sallow A: sallower  sallowest
+-sallow N: sallows
+-sallow V: sallowed  sallowing  sallows
+sallowness N: ~sallownesses
+sally N: sallies
+sally V: sallied  sallying  sallies
+salmon N: salmon | salmons
+salmonella N: salmonellae (salmonellas salmonella)
+salon N: salons
+saloon N: saloons
+salsa N: salsas
+-salsa V: salsaed  salsaing  salsas
+salt A: salter  saltest
+salt N: salts
+salt V: salted  salting  salts
+saltbox N: saltboxes
+saltcellar N: saltcellars
+saltine N: saltines
+saltiness N: ~saltinesses
+saltpeter N: ~saltpeters
+saltpetre N: ~saltpetres
+saltshaker N: saltshakers
+saltwater A:
+saltwater N: ~saltwaters
+salty A: saltier  saltiest
+salubrious A:
+salutary A:
+salutation N: salutations
+salutatorian N: salutatorians
+salutatory A:
+-salutatory N: salutatories
+salute N: salutes
+salute V: saluted  saluting  salutes
+salvage N: ~salvages
+salvage V: salvaged  salvaging  salvages
+salvageable A:
+salvation N: ~salvations
+salve N: salves
+salve V: salved  salving  salves
+salver N: salvers
+salvo N: salvos (salvoes)
+-salvo V: salvoed  salvoing  salvos (salvoes)
+samarium N: ~samariums
+samba N: sambas
+samba V: sambaed  sambaing  sambas
+same A:
+same P:
+sameness N: ~samenesses
+samovar N: samovars
+sampan N: sampans
+sample A:
+sample N: samples
+sample V: sampled  sampling  samples
+sampler N: samplers
+samurai A:
+samurai N: samurai (-samurais)
+sanatorium N: sanatoriums (sanatoria)
+sanctification N: ~sanctifications
+sanctify V: sanctified  sanctifying  sanctifies
+sanctimonious A:
+sanctimoniously A:
+sanctimoniousness N: ~sanctimoniousnesses
+sanctimony N: ~sanctimonies
+sanction N: sanctions
+sanction V: sanctioned  sanctioning  sanctions
+sanctity N: ~sanctities
+sanctuary N: sanctuaries
+sanctum N: sanctums (sancta)
+sand N: sands
+sand V: sanded  sanding  sands
+sandal N: sandals
+-sandal V: sandaled (sandalled)  sandaling (sandalling)  sandals
+sandalwood N: ~sandalwoods
+sandbag N: sandbags
+sandbag V: sandbagged  sandbagging  sandbags
+sandbank N: sandbanks
+sandbar N: sandbars
+sandblast N: sandblasts
+sandblast V: sandblasted  sandblasting  sandblasts
+sandblaster N: sandblasters
+sandbox N: sandboxes
+sandcastle N: sandcastles
+sander N: sanders
+sandhog N: sandhogs
+sandiness N: ~sandinesses
+sandlot A:
+sandlot N: sandlots
+sandlotter N: sandlotters
+sandman N: sandmen
+sandpaper N: ~sandpapers
+sandpaper V: sandpapered  sandpapering  sandpapers
+sandpiper N: sandpipers
+sandstone N: ~sandstones
+sandstorm N: sandstorms
+sandwich N: sandwiches
+sandwich V: sandwiched  sandwiching  sandwiches
+sandy A: sandier  sandiest
+sane A: saner  sanest
+sanely A:
+saneness N: ~sanenesses
+sangfroid N: ~sangfroids
+sangria N: ~sangrias
+sanguinary A:
+sanguine A:
+-sanguine N: sanguines
+sanguinely A:
+-sanitarian A:
+sanitarian N: sanitarians
+sanitarium N: sanitariums (sanitaria)
+sanitary A:
+sanitation N: ~sanitations
+sanitize V: sanitized  sanitizing  sanitizes
+sanity N: ~sanities
+sans C:
+sap N: saps
+sap V: sapped  sapping  saps
+sapience N: ~sapiences
+sapient A:
+sapless A:
+sapling N: saplings
+sapphire A:
+sapphire N: sapphires
+sappiness N: ~sappinesses
+sappy A: sappier  sappiest
+saprophyte N: saprophytes
+saprophytic A:
+sapsucker N: sapsuckers
+sapwood N: ~sapwoods
+saran N: ~sarans
+sarape N: sarapes
+sarcasm N: sarcasms
+sarcastic A:
+sarcastically A:
+sarcoma N: sarcomas (sarcomata)
+sarcophagus N: sarcophagi (sarcophaguses)
+sardine N: sardines | sardine
+sardonic A:
+sardonically A:
+saree N: sarees
+sarge N: sarges
+sari N: saris
+sarong N: sarongs
+sarsaparilla N: sarsaparillas
+sartorial A:
+sartorially A:
+sash N {clothing}: sashes
+sash N {window}: sashes / sash
+-sash V: sashed  sashing  sashes
+sashay N: sashays
+sashay V: sashayed  sashaying  sashays
+sass N: ~sasses
+sass V: sassed  sassing  sasses
+sassafras N: sassafrases
+sassy A: sassier  sassiest
+-sassy N: sassies
+satanic A:
+satanical A:
+satanically A:
+satanism N: ~satanisms
+satanist A:
+satanist N: satanists
+satchel N: satchels
+sate V: sated  sating  sates
+sateen N: ~sateens
+satellite A:
+satellite N: satellites
+satiable A:
+satiate A:
+satiate V: satiated  satiating  satiates
+satiation N: ~satiations
+satiety N: ~satieties
+satin A:
+satin N: ~satins
+satinwood N: satinwoods
+satiny A:
+satire N: satires
+satiric A:
+satirical A:
+satirically A:
+satirist N: satirists
+satirize V: satirized  satirizing  satirizes
+satisfaction N: satisfactions
+satisfactorily A:
+satisfactory A:
+satisfy V: satisfied  satisfying  satisfies
+satisfyingly A:
+satori N: ~satoris
+satrap N: satraps
+saturate A:
+saturate V: saturated  saturating  saturates
+saturation N: ~saturations
+saturnine A:
+satyr N: satyrs
+satyriasis N: ~satyriases
+satyric A:
+sauce N: sauces
+sauce V: sauced  saucing  sauces
+saucepan N: saucepans
+saucer N: saucers
+saucily A:
+sauciness N: ~saucinesses
+saucy A: saucier  sauciest
+sauerkraut N: ~sauerkrauts
+sauna N: saunas
+sauna V: saunaed  saunaing  saunas
+saunter N: saunters
+saunter V: sauntered  sauntering  saunters
+saurian A:
+-saurian N: saurians
+sauropod A:
+sauropod N: sauropods
+sausage N: sausages
+saute A:
+saute N: sautes
+saute V: sauteed (sauted)  sauteing  sautes
+sauterne N: sauternes
+sauternes N: sauternes
+savable A:
+savage A: savager  savagest
+savage N: savages
+savage V: savaged  savaging  savages
+savagely A:
+savageness N: ~savagenesses
+savagery N: savageries
+savanna N: savannas
+savannah N: savannahs
+savant N: savants
+save C:
+save N: saves
+save V: saved  saving  saves
+saveable A:
+saver N: savers
+saving N: savings
+savings N:
+savior N: saviors
+saviour N: saviours
+savor N: ~savors
+savor V: savored  savoring  savors
+savoriness N: ~savorinesses
+savory A: savorier  savoriest
+savory N: savories
+savour N: ~savours
+savour V: savoured  savouring  savours
+savoury A: savourier  savouriest
+savoury N: savouries
+savoy N: savoys
+savvy A: savvier  savviest
+savvy N: ~savvies
+savvy V: savvied  savvying  savvies
+saw N: saws
+saw V: sawed  sawed (sawn)  sawing  saws
+sawbones N: sawbones (sawboneses)
+sawbuck N: sawbucks
+sawdust N: ~sawdusts
+sawfly N: sawflies
+sawhorse N: sawhorses
+sawmill N: sawmills
+sawyer N: sawyers
+sax N: saxes
+saxifrage N: saxifrages
+saxophone N: saxophones
+saxophonist N: saxophonists
+say A:
+say I:
+say N: ~says
+say V: said  saying  says (@saith)
+saying N: sayings
+scab N: scabs
+scab V: scabbed  scabbing  scabs
+scabbard N: scabbards
+-scabbard V: scabbarded  scabbarding  scabbards
+scabbiness N: ~scabbinesses
+scabby A: scabbier  scabbiest
+scabies N:
+scabrous A:
+scad N: scads
+scaffold N: scaffolds
+-scaffold V: scaffolded  scaffolding  scaffolds
+scaffolding N: ~scaffoldings
+scalawag N: scalawags
+-scald A:
+scald N: scalds
+scald V: scalded  scalding  scalds
+scale N: scales
+scale V: scaled  scaling  scales
+scaleless A:
+scalene A:
+scaliness N: ~scalinesses
+scallion N: scallions
+scallop N: scallops
+scallop V: scalloped  scalloping  scallops
+scalp N: scalps
+scalp V: scalped  scalping  scalps
+scalpel N: scalpels
+scalper N: scalpers
+scaly A: scalier  scaliest
+scam N: scams
+scam V: scammed  scamming  scams
+scamp N: scamps
+-scamp V: scamped  scamping  scamps
+scamper N: scampers
+scamper V: scampered  scampering  scampers
+scampi N: scampi (scampies)
+scan N: scans
+scan V: scanned  scanning  scans
+scandal N: scandals
+-scandal V: scandaled (scandalled)  scandaling (scandalling)  scandals
+scandalize V: scandalized  scandalizing  scandalizes
+scandalmonger N: scandalmongers
+scandalous A:
+scandalously A:
+scandium N: ~scandiums
+scanner N: scanners
+scansion N: ~scansions
+scant A: scanter  scantest
+scant V: scanted  scanting  scants
+scantily A:
+scantiness N: ~scantinesses
+scantly A:
+scantness N: ~scantnesses
+scanty A: scantier  scantiest
+scapegoat N: scapegoats
+scapegoat V: scapegoated  scapegoating  scapegoats
+scapegrace N: scapegraces
+scapula N: scapulae (scapulas)
+scapular A:
+scapular N: scapulars
+scar N: scars
+scar V: scarred  scarring  scars
+scarab N: scarabs
+scarce A: scarcer  scarcest
+scarcely A:
+scarceness N: ~scarcenesses
+scarcity N: ~scarcities
+scare N: scares
+scare V: scared  scaring  scares
+scarecrow N: scarecrows
+scared A: scareder  scaredest
+scaremonger N: scaremongers
+scarf N: scarves (scarfs)
+scarf V: scarfed  scarfing  scarfs
+scarification N: ~scarifications
+scarify V: scarified  scarifying  scarifies
+scarily A:
+scariness N: ~scarinesses
+scarlatina N: ~scarlatinas
+scarlet A:
+scarlet N: ~scarlets
+scarp N: scarps
+scarp V: scarped  scarping  scarps
+scary A: scarier  scariest
+scat A:
+scat N: ~scats
+scat V: scatted  scatting  scats
+scathing A:
+scathingly A:
+scatological A:
+scatology N: ~scatologies
+scatter N: scatters
+scatter V: scattered  scattering  scatters
+scatterbrain N: scatterbrains
+scatterbrained A:
+scattering N: scatterings
+scavenge V: scavenged  scavenging  scavenges
+scavenger N: scavengers
+scenario N: scenarios
+scenarist N: scenarists
+scene N: scenes
+scenery N: ~sceneries
+scenic A:
+-scenic N: scenics
+scenically A:
+scent N: scents
+scent V: scented  scenting  scents
+scentless A:
+scepter N: scepters
+-scepter V: sceptered  sceptering  scepters
+sceptic A:
+sceptic N: sceptics
+sceptical A:
+scepticism N: ~scepticisms
+sceptre N: sceptres
+-sceptre V: sceptred  sceptring  sceptres
+schedule N: schedules
+schedule V: scheduled  scheduling  schedules
+schematic A:
+schematic N: schematics
+schematically A:
+scheme N: schemes
+scheme V: schemed  scheming  schemes
+schemer N: schemers
+scherzo A:
+scherzo N: scherzos (scherzi)
+schilling N: schillings
+schism N: schisms
+schismatic A:
+schismatic N: schismatics
+schist N: ~schists
+schizo A:
+schizo N: schizos
+schizoid A:
+schizoid N: schizoids
+schizophrenia N: ~schizophrenias
+schizophrenic A:
+schizophrenic N: schizophrenics
+schlemiel N: schlemiels
+schlep N: schleps
+schlep V: schlepped  schlepping  schleps
+schlepp N: schlepps
+schlepp V: schlepped  schlepping  schlepps
+schlock A:
+schlock N: ~schlocks
+schlocky A: -schlockier  -schlockiest
+schmaltz N: ~schmaltzes
+schmaltzy A: schmaltzier  schmaltziest
+schmalz N: ~schmalzes
+schmo N: schmoes (schmos)
+schmoe N: schmoes
+-schmooze N: schmoozes
+schmooze V: schmoozed  schmoozing  schmoozes
+schmuck N: schmucks
+schnapps N: ~schnapps
+schnaps N: ~schnaps
+schnauzer N: schnauzers
+schnitzel N: schnitzels
+schnook N: schnooks
+schnoz N: schnozes
+schnozzle N: schnozzles
+scholar N: scholars
+scholarly A:
+scholarship N: scholarships
+scholastic A:
+-scholastic N: scholastics
+scholastically A:
+school A:
+school N: schools
+school V: schooled  schooling  schools
+schoolbag N: schoolbags
+schoolbook N: schoolbooks
+schoolboy N: schoolboys
+schoolchild N: schoolchildren
+schoolfellow N: schoolfellows
+schoolgirl N: schoolgirls
+schoolhouse N: schoolhouses
+schooling N: ~schoolings
+schoolmarm N: schoolmarms
+schoolmarmish A:
+schoolmaster N: schoolmasters
+-schoolmaster V: schoolmastered  schoolmastering  schoolmasters
+schoolmate N: schoolmates
+schoolmistress N: schoolmistresses
+schoolroom N: schoolrooms
+schoolteacher N: schoolteachers
+schoolwork N: ~schoolworks
+schoolyard N: schoolyards
+schooner N: schooners
+schrod N: schrod (schrods)
+schuss N: schusses
+schuss V: schussed  schussing  schusses
+schussboomer N: schussboomers
+schwa N: schwas
+sciatic A:
+-sciatic N: sciatics
+sciatica N: ~sciaticas
+science N: sciences
+scientific A:
+scientifically A:
+scientist N: scientists
+scimitar N: scimitars
+scintilla N: scintillas (-scintillae)
+scintillate V: scintillated  scintillating  scintillates
+scintillating A:
+scintillation N: ~scintillations
+scion N: scions
+scissor V: scissored  scissoring  scissors
+sclerosis N: ~scleroses
+sclerotic A:
+scoff N: scoffs
+scoff V: scoffed  scoffing  scoffs
+scoffer N: scoffers
+scofflaw N: scofflaws
+scold N: scolds
+scold V: scolded  scolding  scolds
+scolding N: scoldings
+scoliosis N: ~scolioses
+scollop N: scollops
+scollop V: scolloped  scolloping  scollops
+sconce N: sconces
+-sconce V: sconced  sconcing  sconces
+scone N: scones
+scoop N: scoops
+scoop V: scooped  scooping  scoops
+scoopful N: scoopfuls
+scoot I:
+-scoot N: scoots
+scoot V: scooted  scooting  scoots
+scooter N: scooters
+scope N: scopes
+scope V: scoped  scoping  scopes
+scorbutic A:
+scorch N: scorches
+scorch V: scorched  scorching  scorches
+scorcher N: scorchers
+score N: scores | score {twenty}
+score V: scored  scoring  scores
+scoreboard N: scoreboards
+scorecard N: scorecards
+scorekeeper N: scorekeepers
+scoreless A:
+scorer N: scorers
+scorn N: ~scorns
+scorn V: scorned  scorning  scorns
+scorner N: scorners
+scornful A:
+scornfully A:
+scorpion N: scorpions
+scotch N: scotches
+scotch V: scotched  scotching  scotches
+scoundrel N: scoundrels
+-scour N: scours
+scour V: scoured  scouring  scours
+scourer N: scourers
+scourge N: scourges
+scourge V: scourged  scourging  scourges
+scout N: scouts
+scout V: scouted  scouting  scouts
+scouting N: ~scoutings
+scoutmaster N: scoutmasters
+scow N: scows
+-scow V: scowed  scowing  scows
+scowl N: scowls
+scowl V: scowled  scowling  scowls
+scrabble N: scrabbles
+scrabble V: scrabbled  scrabbling  scrabbles
+scrabbler N: scrabblers
+scrag N: scrags
+-scrag V: scragged  scragging  scrags
+scraggly A: scragglier  scraggliest
+scraggy A: scraggier  scraggiest
+scram V: scrammed  scramming  scrams
+scramble N: scrambles
+scramble V: scrambled  scrambling  scrambles
+scrambler N: scramblers
+scrap A:
+scrap N: scraps
+scrap V: scrapped  scrapping  scraps
+scrapbook N: scrapbooks
+scrape N: scrapes
+scrape V: scraped  scraping  scrapes
+scraper N: scrapers
+scrapheap N: scrapheaps
+scrapper N: scrappers
+scrappy A: scrappier  scrappiest
+scrapyard N: scrapyards
+scratch A:
+scratch N: scratches
+scratch V: scratched  scratching  scratches
+scratchily A:
+scratchiness N: ~scratchinesses
+scratchy A: scratchier  scratchiest
+scrawl N: scrawls
+scrawl V: scrawled  scrawling  scrawls
+scrawly A: !scrawlier  !scrawliest
+scrawniness N: ~scrawninesses
+scrawny A: scrawnier  scrawniest
+scream N: screams
+scream V: screamed  screaming  screams
+screamer N: screamers
+scree N: screes
+screech N: screeches
+screech V: screeched  screeching  screeches
+screechy A: screechier  screechiest
+screen N: screens
+screen V: screened  screening  screens
+screening N: screenings
+screenplay N: screenplays
+screenwriter N: screenwriters
+screenwriting N: ~screenwritings
+screw N: screws
+screw V: screwed  screwing  screws
+screwball A:
+screwball N: screwballs
+screwdriver N: screwdrivers
+screwiness N: ~screwinesses
+screwworm N: screwworms
+screwy A: screwier  screwiest
+scribal A:
+scribble N: scribbles
+scribble V: scribbled  scribbling  scribbles
+scribbler N: scribblers
+scribe N: scribes
+-scribe V: scribed  scribing  scribes
+scrim N: scrims
+scrimmage N: scrimmages
+scrimmage V: scrimmaged  scrimmaging  scrimmages
+scrimp V: scrimped  scrimping  scrimps
+scrimshaw N: ~scrimshaws
+scrimshaw V: scrimshawed  scrimshawing  scrimshaws
+scrip N: scrips
+script N: scripts
+script V: scripted  scripting  scripts
+scriptural A:
+scripture N: scriptures
+scriptwriter N: scriptwriters
+scrivener N: scriveners
+scrod N: scrod (scrods)
+scrofula N: ~scrofulas
+scrofulous A:
+scroll N: scrolls
+scroll V: scrolled  scrolling  scrolls
+scrooge N: scrooges
+-scrooge V: scrooged  scrooging  scrooges
+scrotal A:
+scrotum N: scrota (scrotums)
+scrounge V: scrounged  scrounging  scrounges
+scrounger N: scroungers
+scroungy A: scroungier  scroungiest
+scrub A:
+scrub N: scrubs
+scrub V: scrubbed  scrubbing  scrubs
+scrubber N: scrubbers
+scrubby A: scrubbier  scrubbiest
+scruff N: scruffs
+scruffily A:
+scruffiness N: ~scruffinesses
+scruffy A: scruffier  scruffiest
+scrumptious A:
+scrumptiously A:
+scrunch N: scrunches
+scrunch V: scrunched  scrunching  scrunches
+scrunchie N: scrunchies
+scrunchy N: scrunchies
+scruple N: scruples
+scruple V: scrupled  scrupling  scruples
+scrupulosity N: ~scrupulosities
+scrupulous A:
+scrupulously A:
+scrupulousness N: ~scrupulousnesses
+scrutinize V: scrutinized  scrutinizing  scrutinizes
+scrutiny N: ~scrutinies
+scuba N: scubas
+scuba V: scubaed  scubaing  scubas
+scud N: ~scuds
+scud V: scudded  scudding  scuds
+scuff N: scuffs
+scuff V: scuffed  scuffing  scuffs
+scuffle N: scuffles
+scuffle V: scuffled  scuffling  scuffles
+scull N: sculls
+scull V: sculled  sculling  sculls
+sculler N: scullers
+scullery N: sculleries
+scullion N: scullions
+sculpt V: sculpted  sculpting  sculpts
+sculptor N: sculptors
+sculptress N: sculptresses
+sculptural A:
+sculpture N: sculptures
+sculpture V: sculptured  sculpturing  sculptures
+scum N: ~scums
+scum V: scummed  scumming  scums
+scumbag N: scumbags
+scummy A: scummier  scummiest
+scupper N: scuppers
+scupper V: scuppered  scuppering  scuppers
+scurf N: ~scurfs
+scurfy A: !scurfier  !scurfiest
+scurrility N: ~scurrilities
+scurrilous A:
+scurrilously A:
+scurrilousness N: ~scurrilousnesses
+scurry N: scurries
+scurry V: scurried  scurrying  scurries
+scurvily A:
+scurvy A: scurvier  scurviest
+scurvy N: ~scurvies
+scutcheon N: scutcheons
+scuttle N: scuttles
+scuttle V: scuttled  scuttling  scuttles
+scuttlebutt N: ~scuttlebutts
+scuzzy A: scuzzier  scuzziest
+scythe N: scythes
+scythe V: scythed  scything  scythes
+sea A:
+sea N: seas
+seabed N: seabeds
+seabird N: seabirds
+seaboard A:
+seaboard N: seaboards
+seaborne A:
+seacoast N: seacoasts
+seafarer N: seafarers
+seafaring N: ~seafarings
+seafloor N: seafloors
+seafood N: ~seafoods
+seafront N: seafronts
+seagoing A:
+seagull N: seagulls
+seahorse N: seahorses
+seal N {animal}: seals | seal
+seal N: seals
+seal V: sealed  sealing  seals
+sealant N: sealants
+sealer N: sealers
+sealskin N: ~sealskins
+seam N: seams
+seam V: seamed  seaming  seams
+seaman N: seamen
+seamanship N: ~seamanships
+seamless A:
+seamlessly A:
+seamstress N: seamstresses
+seamy A: seamier  seamiest
+seance N: seances
+seaplane N: seaplanes
+seaport N: seaports
+-sear A: searer  searest
+sear N: sears
+sear V: seared  searing  sears
+search N: searches
+search V: searched  searching  searches
+searcher N: searchers
+searchingly A:
+searchlight N: searchlights
+seascape N: seascapes
+seashell N: seashells
+seashore N: seashores
+seasick A: -seasicker  -seasickest
+seasickness N: ~seasicknesses
+seaside A:
+seaside N: seasides
+season N: seasons
+season V: seasoned  seasoning  seasons
+seasonable A:
+seasonably A:
+seasonal A:
+seasonally A:
+seasoning N: seasonings
+seat N: seats
+seat V: seated  seating  seats
+seating N: ~seatings
+seatmate N: seatmates
+seawall N: seawalls
+seaward A:
+seaward N: ~seawards
+seawards A:
+seawater N: ~seawaters
+seaway N: seaways
+seaweed N: ~seaweeds
+seaworthiness N: ~seaworthinesses
+seaworthy A: !seaworthier  !seaworthiest
+sebaceous A:
+seborrhea N: ~seborrheas
+seborrhoea N: ~seborrhoeas
+sec A:
+sec N: secs
+secant N: secants
+secede V: seceded  seceding  secedes
+secession N: ~secessions
+secessionist A:
+secessionist N: secessionists
+seclude V: secluded  secluding  secludes
+seclusion N: ~seclusions
+seclusive A:
+second A:
+second N: seconds
+second V: seconded  seconding  seconds
+secondarily A:
+secondary A:
+secondary N: secondaries
+seconder N: seconders
+secondhand A:
+secondly A:
+secrecy N: ~secrecies
+secret A: -secreter  -secretest
+secret N: secrets
+secretarial A:
+secretariat N: secretariats
+secretary N: secretaries
+secretaryship N: ~secretaryships
+secrete V: secreted  secreting  secretes
+secretion N: secretions
+secretive A:
+secretively A:
+secretiveness N: ~secretivenesses
+secretly A:
+secretory A:
+sect N: sects
+sectarian A:
+sectarian N: sectarians
+sectarianism N: ~sectarianisms
+sectary N: sectaries
+section N: sections
+section V: sectioned  sectioning  sections
+sectional A:
+sectional N: sectionals
+sectionalism N: ~sectionalisms
+sector N: sectors
+-sector V: sectored  sectoring  sectors
+secular A:
+-secular N: seculars
+secularism N: ~secularisms
+secularist N: secularists
+secularization N: ~secularizations
+secularize V: secularized  secularizing  secularizes
+secure A: securer  securest
+secure V: secured  securing  secures
+securely A:
+security N: securities
+sedan N: sedans
+sedate A: sedater  sedatest
+sedate V: sedated  sedating  sedates
+sedately A:
+sedateness N: ~sedatenesses
+sedation N: ~sedations
+sedative A:
+sedative N: sedatives
+sedentary A:
+sedge N: ~sedges
+sedgy A: !sedgier  !sedgiest
+sediment N: sediments
+-sediment V: sedimented  sedimenting  sediments
+sedimentary A:
+sedimentation N: ~sedimentations
+sedition N: ~seditions
+seditious A:
+seduce V: seduced  seducing  seduces
+seducer N: seducers
+seduction N: seductions
+seductive A:
+seductively A:
+seductiveness N: ~seductivenesses
+seductress N: seductresses
+sedulous A:
+sedulously A:
+see N: sees
+see V: saw  seen  seeing  sees
+seed A:
+seed N: seeds
+seed V: seeded  seeding  seeds
+seedbed N: seedbeds
+seedcase N: seedcases
+seeder N: seeders
+seediness N: ~seedinesses
+seedless A:
+seedling N: seedlings
+seedpod N: seedpods
+seedy A: seedier  seediest
+seeing C:
+seek V: sought  seeking  seeks
+seeker N: seekers
+seem V: seemed  seeming  seems
+-seeming N: seemings
+seemingly A:
+seemliness N: ~seemlinesses
+seemly A: seemlier  seemliest
+-seep N: seeps
+seep V: seeped  seeping  seeps
+seepage N: ~seepages
+seer N: seers
+seersucker N: ~seersuckers
+seesaw N: seesaws
+seesaw V: seesawed  seesawing  seesaws
+-seethe N: seethes
+seethe V: seethed (-@sod)  seethed (-@sodden -@sod)  seething  seethes
+segment N: segments
+segment V: segmented  segmenting  segments
+segmentation N: ~segmentations
+segregate V: segregated  segregating  segregates
+segregation N: ~segregations
+segregationist A:
+segregationist N: segregationists
+segue N: segues
+segue V: segued  segueing  segues
+seigneur N: seigneurs
+seignior N: seigniors
+seigniorial A:
+seine N: seines
+seine V: seined  seining  seines
+seiner N: seiners
+seismic A:
+seismically A:
+seismograph N: seismographs
+seismographer N: seismographers
+seismographic A:
+seismography N: ~seismographies
+seismologic A:
+seismological A:
+seismologist N: seismologists
+seismology N: ~seismologies
+seize V: seized  seizing  seizes
+seizure N: seizures
+seldom A:
+select A:
+select V: selected  selecting  selects
+selection N: selections
+selective A:
+selectively A:
+selectivity N: ~selectivities
+selectman N: selectmen
+selectness N: ~selectnesses
+selector N: selectors
+selenium N: ~seleniums
+selenographer N: selenographers
+selenography N: ~selenographies
+self A:
+self N: selves
+self P:
+-self V: selfed  selfing  selfs
+selfish A:
+selfishly A:
+selfishness N: ~selfishnesses
+selfless A:
+selflessly A:
+selflessness N: ~selflessnesses
+selfsame A:
+sell N: sells
+sell V: sold  selling  sells
+seller N: sellers
+sellout N: sellouts
+seltzer N: ~seltzers
+selvage N: selvages
+selvedge N: selvedges
+semantic A:
+semantically A:
+semanticist N: semanticists
+semantics N:
+semaphore N: semaphores
+semaphore V: semaphored  semaphoring  semaphores
+semblance N: semblances
+semen N: ~semens
+semester N: semesters
+semi N: semis
+semiannual A:
+semiannually A:
+semiarid A:
+semiautomatic A:
+semiautomatic N: semiautomatics
+semicircle N: semicircles
+semicircular A:
+semicolon N: semicolons
+semiconducting A:
+semiconductor N: semiconductors
+semiconscious A:
+semidarkness N: ~semidarknesses
+semidetached A:
+semifinal A:
+semifinal N: semifinals
+semifinalist N: semifinalists
+semigloss A:
+semimonthly A:
+semimonthly N: semimonthlies
+seminal A:
+seminar N: seminars
+seminarian N: seminarians
+seminary N: seminaries
+semiofficial A:
+semiotic A:
+-semiotic N: semiotics
+semiotics N:
+semipermeable A:
+semiprecious A:
+semiprivate A:
+ssemipro A:
+ssemipro N: semipros
+semiprofessional A:
+semiprofessional N: semiprofessionals
+semiretired A:
+semiskilled A:
+semisolid A:
+-semisolid N: semisolids
+semisweet A:
+semitone N: semitones
+semitrailer N: semitrailers
+semitransparent A:
+semitropical A:
+semivowel N: semivowels
+semiweekly A:
+semiweekly N: semiweeklies
+semiyearly A:
+semolina N: ~semolinas
+sempstress N: sempstresses
+senate N: senates
+senator N: senators
+senatorial A:
+-send N: sends
+send V: sent  sending  sends
+sender N: senders
+sendoff N: sendoffs
+senescence N: ~senescences
+senescent A:
+senile A:
+-senile N: seniles
+senility N: ~senilities
+senior A:
+senior N: seniors
+seniority N: ~seniorities
+senna N: ~sennas
+senor N: senors
+senora N: senoras
+senorita N: senoritas
+sensation N: sensations
+sensational A:
+sensationalism N: ~sensationalisms
+sensationalist A:
+sensationalist N: sensationalists
+sensationalize V: sensationalized  sensationalizing  sensationalizes
+sensationally A:
+sense N: senses
+sense V: sensed  sensing  senses
+senseless A:
+senselessly A:
+senselessness N: ~senselessnesses
+sensibility N: sensibilities
+sensible A: -sensibler  -sensiblest
+sensibleness N: ~sensiblenesses
+sensibly A:
+sensitive A:
+sensitive N: sensitives
+sensitively A:
+sensitiveness N: ~sensitivenesses
+sensitivity N: sensitivities
+sensitization N: ~sensitizations
+sensitize V: sensitized  sensitizing  sensitizes
+sensor N: sensors
+sensory A:
+sensual A:
+sensualist N: sensualists
+sensuality N: ~sensualities
+sensually A:
+sensuous A:
+sensuously A:
+sensuousness N: ~sensuousnesses
+sentence N: sentences
+sentence V: sentenced  sentencing  sentences
+sententious A:
+sententiously A:
+sentience N: ~sentiences
+sentient A:
+-sentient N: sentients
+sentiment N: sentiments
+sentimental A:
+sentimentalism N: ~sentimentalisms
+sentimentalist N: sentimentalists
+sentimentality N: ~sentimentalities
+sentimentalization N: ~sentimentalizations
+sentimentalize V: sentimentalized  sentimentalizing  sentimentalizes
+sentimentally A:
+sentinel N: sentinels
+-sentinel V: sentineled (sentinelled)  sentineling (sentinelling)  sentinels
+sentry N: sentries
+sepal N: sepals
+separability N: ~separabilities
+separable A:
+separably A:
+separate A:
+separate N: separates
+separate V: separated  separating  separates
+separately A:
+separateness N: ~separatenesses
+separation N: separations
+separatism N: ~separatisms
+separatist A:
+separatist N: separatists
+separative A:
+separator N: separators
+sepia A:
+sepia N: ~sepias
+sepsis N: ~sepses
+septet N: septets
+septette N: septettes
+septic A:
+septicemia N: ~septicemias
+septicemic A:
+septuagenarian A:
+septuagenarian N: septuagenarians
+septum N: septa (septums)
+sepulcher N: sepulchers
+sepulcher V: sepulchered  sepulchering  sepulchers
+sepulchral A:
+sepulchre N: sepulchres
+sepulchre V: sepulchred  sepulchring  sepulchres
+sequel N: sequels
+sequence N: sequences
+sequence V: sequenced  sequencing  sequences
+sequencing N: ~sequencings
+sequential A:
+sequentially A:
+sequester V: sequestered  sequestering  sequesters
+sequestrate V: sequestrated  sequestrating  sequestrates
+sequestration N: sequestrations
+sequin N: sequins
+sequined A:
+sequinned A:
+sequoia N: sequoias
+seraglio N: seraglios
+serape N: serapes
+seraph N: seraphs (seraphim)
+seraphic A:
+seraphim N: seraphim
+sere A: serer  serest
+-sere N: seres
+serenade N: serenades
+serenade V: serenaded  serenading  serenades
+serendipitous A:
+serendipity N: ~serendipities
+serene A: serener  serenest
+serenely A:
+sereneness N: ~serenenesses
+serenity N: ~serenities
+serf N: serfs
+serfdom N: ~serfdoms
+serge N: ~serges
+-serge V: serged  serging  serges
+sergeant N: sergeants
+serial A:
+serial N: serials
+serialization N: ~serializations
+serialize V: serialized  serializing  serializes
+serially A:
+series N:
+serif N: serifs
+serigraph N: serigraphs
+serious A:
+seriously A:
+seriousness N: ~seriousnesses
+sermon N: sermons
+sermonize V: sermonized  sermonizing  sermonizes
+serology N: ~serologies
+serous A:
+serpent N: serpents
+serpentine A:
+serpentine N: ~serpentines
+-serpentine V: serpentined  serpentining  serpentines
+serrate A:
+-serrate V: serrated  serrating  serrates
+serrated A:
+serration N: serrations
+serried A:
+serum N: serums (sera)
+servant N: servants
+serve N: serves
+serve V: served  serving  serves
+server N: servers
+service A:
+service N: services
+service V: serviced  servicing  services
+serviceability N: ~serviceabilities
+serviceable A:
+serviceman N: servicemen
+servicewoman N: servicewomen
+serviette N: serviettes
+servile A:
+servility N: ~servilities
+serving N: servings
+servitor N: servitors
+servitude N: ~servitudes
+servo A:
+servo N: servos
+-servo V: servoed  servoing  servos
+servomechanism N: servomechanisms
+servomotor N: servomotors
+sesame N: sesames
+sesquicentennial A:
+sesquicentennial N: sesquicentennials
+session N: sessions
+set A:
+set N: sets
+set V: set  setting  sets
+setback N: setbacks
+setscrew N: setscrews
+settee N: settees
+setter N: setters
+setting N: settings
+settle N: settles
+settle V: settled  settling  settles
+settlement N: settlements
+settler N: settlers
+setup N: setups
+seven A:
+seven N: sevens
+seventeen A:
+seventeen N: seventeens
+seventeenth A:
+seventeenth N: seventeenths
+seventh A:
+seventh N: sevenths
+seventieth A:
+seventieth N: seventieths
+seventy A:
+seventy N: seventies
+sever V: severed  severing  severs
+several A:
+several N:
+severally A:
+severance N: severances
+severe A: severer  severest
+severely A:
+severeness N: ~severenesses
+severity N: ~severities
+sew V: sewed  sewn (sewed)  sewing  sews
+sewage N: ~sewages
+sewer N: sewers
+-sewer V: sewered  sewering  sewers
+sewerage N: ~sewerages
+sewing N: ~sewings
+sex N: sexes
+sex V: sexed  sexing  sexes
+sexagenarian A:
+sexagenarian N: sexagenarians
+sexily A:
+sexiness N: ~sexinesses
+sexism N: ~sexisms
+sexist A:
+sexist N: sexists
+sexless A:
+sexologist N: sexologists
+sexology N: ~sexologies
+sexpot N: sexpots
+sextant N: sextants
+sextet N: sextets
+sextette N: sextettes
+sexton N: sextons
+sextuplet N: sextuplets
+sexual A:
+sexuality N: ~sexualities
+sexually A:
+sexy A: sexier  sexiest
+sh I:
+shabbily A:
+shabbiness N: ~shabbinesses
+shabby A: shabbier  shabbiest
+shack N: shacks
+-shack V: shacked  shacking  shacks
+shackle N: shackles
+shackle V: shackled  shackling  shackles
+shad N: shad | shads
+shade N: shades
+shade V: shaded  shading  shades
+shadily A:
+shadiness N: ~shadinesses
+shading N: shadings
+shadow A:
+shadow N: shadows
+shadow V: shadowed  shadowing  shadows
+shadowbox V: shadowboxed  shadowboxing  shadowboxes
+shadowy A: shadowier  shadowiest
+shady A: shadier  shadiest
+shaft N: shafts
+shaft V: shafted  shafting  shafts
+shag N: shags
+shag V: shagged  shagging  shags
+shagginess N: ~shagginesses
+shaggy A: shaggier  shaggiest
+shah N: shahs
+shake N: shakes
+shake V: shook  shaken  shaking  shakes
+shakedown N: shakedowns
+shakeout N: shakeouts
+shaker N: shakers
+shakeup N: shakeups
+shakily A:
+shakiness N: ~shakinesses
+shaky A: shakier  shakiest
+shale N: ~shales
+shall V: should  -  shall (@shalt)
+shallot N: shallots
+shallow A: shallower  shallowest
+shallow N: shallows
+-shallow V: shallowed  shallowing  shallows
+shallowly A:
+shallowness N: ~shallownesses
+shalom I:
+sham A:
+sham N: shams
+sham V: shammed  shamming  shams
+shaman N: shamans
+shamanic A:
+shamble N: shambles
+shamble V: shambled  shambling  shambles
+shambles N:
+shame N: shames
+shame V: shamed  shaming  shames
+shamefaced A:
+shamefacedly A:
+shameful A:
+shamefully A:
+shamefulness N: ~shamefulnesses
+shameless A:
+shamelessly A:
+shamelessness N: ~shamelessnesses
+shammy N: shammies
+-shammy V: shammied  shammying  shammies
+shampoo N: shampoos
+shampoo V: shampooed  shampooing  shampoos
+shampooer N: shampooers
+shamrock N: shamrocks
+shanghai V: shanghaied  shanghaiing  shanghais
+shank N: shanks
+-shank V: shanked  shanking  shanks
+shantung N: ~shantungs
+shanty N: shanties
+-shanty V: shantied  shantying  shanties
+shantytown N: shantytowns
+shape N: shapes
+shape V: shaped  shaping  shapes
+shapeless A:
+shapelessly A:
+shapelessness N: ~shapelessnesses
+shapeliness N: ~shapelinesses
+shapely A: shapelier  shapeliest
+shard N: shards
+share N: shares
+share V: shared  sharing  shares
+sharecrop V: sharecropped  sharecropping  sharecrops
+sharecropper N: sharecroppers
+shareholder N: shareholders
+sharer N: sharers
+shareware N: ~sharewares
+sharia N: ~sharias
+shark N: sharks (shark)
+sharkskin N: ~sharkskins
+sharp A: sharper  sharpest
+sharp N: sharps
+sharp V: sharped  sharping  sharps
+sharpen V: sharpened  sharpening  sharpens
+sharpener N: sharpeners
+sharper N: sharpers
+sharpie N: sharpies
+sharply A:
+sharpness N: ~sharpnesses
+sharpshooter N: sharpshooters
+sharpshooting N: ~sharpshootings
+sharpy N: sharpies
+shatter N: shatters
+shatter V: shattered  shattering  shatters
+shatterproof A:
+shave N: shaves
+shave V: shaved  shaved (shaven)  shaving  shaves
+shaver N: shavers
+shaving N: shavings
+shawl N: shawls
+shay N: shays
+she N: shes
+she P:
+sheaf N: sheaves (-sheafs)
+-sheaf V: sheafed  sheafing  sheafs
+shear N: shears
+shear V: sheared  sheared (shorn)  shearing  shears
+shearer N: shearers
+sheath N: sheaths
+sheath V: sheathed  sheathing  sheaths
+sheathe V: sheathed  sheathing  sheathes
+sheathing N: sheathings
+sheave N: sheaves
+sheave V: sheaved  sheaving  sheaves
+shebang N: shebangs
+shed N: sheds
+shed V: shed  shedding  sheds
+-sheen A:
+sheen N: ~sheens
+-sheen V: sheened  sheening  sheens
+sheeny A: sheenier  sheeniest
+-sheeny N: sheenies
+sheep N: sheep
+sheepdog N: sheepdogs
+sheepfold N: sheepfolds
+sheepherder N: sheepherders
+sheepish A:
+sheepishly A:
+sheepishness N: ~sheepishnesses
+sheepskin A:
+sheepskin N: sheepskins
+sheer A: sheerer  sheerest
+sheer N: sheers
+sheer V: sheered  sheering  sheers
+sheerness N: ~sheernesses
+sheet N: sheets
+-sheet V: sheeted  sheeting  sheets
+sheeting N: ~sheetings
+sheetlike A:
+sheik N: sheiks
+sheikdom N: sheikdoms
+sheikh N: sheikhs
+sheikhdom N: sheikhdoms
+shekel N: shekels
+shelf N: shelves
+-shelf V: shelfed  shelfing  shelfs
+shell N: shells
+shell V: shelled  shelling  shells
+shellac N: shellacs
+shellac V: shellacked  shellacking  shellacs
+shellack N: shellacks
+shellack V: shellacked  shellacking  shellacks
+shellacking N: shellackings
+shellfire N: ~shellfires
+shellfish N: shellfish | shellfishes
+shelter N: shelters
+shelter V: sheltered  sheltering  shelters
+shelve V: shelved  shelving  shelves
+shelving N: ~shelvings
+shenanigan N: shenanigans
+shepherd N: shepherds
+shepherd V: shepherded  shepherding  shepherds
+shepherdess N: shepherdesses
+sherbert N: sherberts
+sherbet N: sherbets
+sherd N: sherds
+sheriff N: sheriffs
+sherry N: sherries
+shew V: shewed  shewn  shewing  shews
+shh I:
+shiatsu N: ~shiatsus
+shibboleth N: shibboleths
+shield N: shields
+shield V: shielded  shielding  shields
+-shier N: shiers
+shift N: shifts
+shift V: shifted  shifting  shifts
+shiftily A:
+shiftiness N: ~shiftinesses
+shiftless A:
+shiftlessly A:
+shiftlessness N: ~shiftlessnesses
+shifty A: shiftier  shiftiest
+shill N: shills
+shill V: shilled  shilling  shills
+shillalah N: shillalahs
+shillelagh N: shillelaghs
+shilling N: shillings
+shim N: shims
+shim V: shimmed  shimming  shims
+shimmer N: shimmers
+shimmer V: shimmered  shimmering  shimmers
+shimmery A:
+shimmy N: shimmies
+shimmy V: shimmied  shimmying  shimmies
+shin N: shins
+shin V: shinned  shinning  shins
+shinbone N: shinbones
+shindig N: shindigs
+shine N: shines
+shine V: shone | shined {polish}  shining  shines
+shiner N: shiners
+shingle N: shingles
+shingle V: shingled  shingling  shingles
+shinguard N: shinguards
+shininess N: ~shininesses
+-shinny N: shinnies
+shinny V: shinnied  shinnying  shinnies
+shinsplints N:
+shiny A: shinier  shiniest
+ship N: ships
+ship V: shipped  shipping  ships
+shipboard A:
+shipboard N: shipboards
+shipbuilder N: shipbuilders
+shipbuilding N: ~shipbuildings
+shipload N: shiploads
+shipmate N: shipmates
+shipment N: shipments
+shipowner N: shipowners
+shipper N: shippers
+shipping N: ~shippings
+shipshape A:
+shipwreck N: shipwrecks
+shipwreck V: shipwrecked  shipwrecking  shipwrecks
+shipwright N: shipwrights
+shipyard N: shipyards
+shire N: shires
+-shirk N: shirks
+shirk V: shirked  shirking  shirks
+shirker N: shirkers
+shirr N: shirrs
+shirr V: shirred  shirring  shirrs
+shirring N: shirrings
+shirt N: shirts
+shirtfront N: shirtfronts
+shirting N: ~shirtings
+shirtless A:
+shirtsleeve A:
+shirtsleeve N: shirtsleeves
+shirttail N: shirttails
+shirtwaist N: shirtwaists
+shit A:
+shit I:
+shit N: shits
+shit V: shit (shat)  shitting  shits
+shitty A: shittier  shittiest
+shiv N: shivs
+shiver N: shivers
+shiver V: shivered  shivering  shivers
+shivery A:
+shlemiel N: shlemiels
+shlep N: shleps
+shlep V: shlepped  shlepping  shleps
+shlepp N: shlepps
+shlepp V: shlepped  shlepping  shlepps
+shlock N: ~shlocks
+shmaltz N: ~shmaltzes
+-shoal A: shoaler  shoalest
+shoal N: shoals
+shoal V: shoaled  shoaling  shoals
+shoat N: shoats
+shock A:
+shock N: shocks
+shock V: shocked  shocking  shocks
+shocker N: shockers
+shockingly A:
+shockproof A:
+shoddily A:
+shoddiness N: ~shoddinesses
+shoddy A: shoddier  shoddiest
+shoddy N: ~shoddies
+shoe N: shoes (shoon)
+shoe V: shod (shoed)  shod (shoed shodden)  shoeing  shoes
+shoehorn N: shoehorns
+shoehorn V: shoehorned  shoehorning  shoehorns
+shoelace N: shoelaces
+shoemaker N: shoemakers
+shoeshine N: shoeshines
+shoestring A:
+shoestring N: shoestrings
+shoetree N: shoetrees
+shogun N: shoguns
+shogunate N: ~shogunates
+shoo I:
+shoo V: shooed  shooing  shoos
+-shook N: shooks
+shoot I:
+shoot N: shoots
+shoot V: shot  shooting  shoots
+shooter N: shooters
+shooting N: shootings
+shootout N: shootouts
+shop N: shops
+shop V: shopped  shopping  shops
+shopkeeper N: shopkeepers
+shoplift V: shoplifted  shoplifting  shoplifts
+shoplifter N: shoplifters
+shoplifting N: ~shopliftings
+shoppe N: shoppes
+shopper N: shoppers
+shopping N: ~shoppings
+shoptalk N: ~shoptalks
+shopworn A:
+-shore A:
+shore N: shores
+shore V: shored  shoring  shores
+shorebird N: shorebirds
+shoreline N: shorelines
+shoring N: ~shorings
+short A: shorter  shortest
+short N: shorts
+short V: shorted  shorting  shorts
+shortage N: shortages
+shortbread N: ~shortbreads
+shortcake N: shortcakes
+shortchange V: shortchanged  shortchanging  shortchanges
+shortcoming N: shortcomings
+shortcut N: shortcuts
+shorten V: shortened  shortening  shortens
+shortening N: shortenings
+shortfall N: shortfalls
+shorthand A:
+shorthand N: ~shorthands
+shorthanded A:
+shorthorn N: shorthorns
+shortie A:
+shortie N: shorties
+shortly A:
+shortness N: ~shortnesses
+shortsighted A:
+shortsightedly A:
+shortsightedness N: ~shortsightednesses
+shortstop N: shortstops
+shortwave A:
+shortwave N: shortwaves
+-shortwave V: shortwaved  shortwaving  shortwaves
+-shorty A:
+shorty N: shorties
+shot A:
+shot N: shots | shot {bullet}
+-shot V: shotted  shotting  shots
+shotgun A:
+shotgun N: shotguns
+shotgun V: shotgunned  shotgunning  shotguns
+shoulder N: shoulders
+shoulder V: shouldered  shouldering  shoulders
+shout N: shouts
+shout V: shouted  shouting  shouts
+shouter N: shouters
+shove N: shoves
+shove V: shoved  shoving  shoves
+shovel N: shovels
+shovel V: shoveled (shovelled)  shoveling (shovelling)  shovels
+shovelful N: shovelfuls (-shovelsful)
+show N: shows
+show V: showed  shown (showed)  showing  shows
+showbiz N: ~showbizzes
+showboat N: showboats
+showboat V: showboated  showboating  showboats
+showcase N: showcases
+showcase V: showcased  showcasing  showcases
+showdown N: showdowns
+shower N: showers
+shower V: showered  showering  showers
+showery A: -showerier  -showeriest
+showgirl N: showgirls
+showily A:
+showiness N: ~showinesses
+showing N: showings
+showman N: showmen
+showmanship N: ~showmanships
+showoff N: showoffs
+showpiece N: showpieces
+showplace N: showplaces
+showroom N: showrooms
+showstopper N: showstoppers
+showy A: showier  showiest
+shrapnel N: ~shrapnels
+shred N: shreds
+shred V: shredded  shredding  shreds
+shredder N: shredders
+shrew N: shrews
+shrewd A: shrewder  shrewdest
+shrewdly A:
+shrewdness N: ~shrewdnesses
+shrewish A:
+shriek N: shrieks
+shriek V: shrieked  shrieking  shrieks
+shrift N: ~shrifts
+shrike N: shrikes
+shrill A: shriller  shrillest
+shrill V: shrilled  shrilling  shrills
+shrillness N: ~shrillnesses
+shrilly A: -shrillier  -shrilliest
+-shrimp A:
+shrimp N: shrimp | shrimps
+shrimp V: shrimped  shrimping  shrimps
+shrine N: shrines
+-shrine V: shrined  shrining  shrines
+shrink N: shrinks
+shrink V: shrank (shrunk)  shrunk (shrunken)  shrinking  shrinks
+shrinkable A:
+shrinkage N: ~shrinkages
+shrive V: shrived (shrove)  shriven (shrived)  shriving  shrives
+shrivel V: shriveled (shrivelled)  shriveling (shrivelling)  shrivels
+shroud N: shrouds
+shroud V: shrouded  shrouding  shrouds
+shrub N: shrubs
+shrubbery N: shrubberies
+shrubby A: shrubbier  shrubbiest
+shrug N: shrugs
+shrug V: shrugged  shrugging  shrugs
+shtick N: shticks
+shuck N: shucks
+shuck V: shucked  shucking  shucks
+shucks I:
+shudder N: shudders
+shudder V: shuddered  shuddering  shudders
+shuffle N: shuffles
+shuffle V: shuffled  shuffling  shuffles
+shuffleboard N: shuffleboards
+shuffler N: shufflers
+shun V: shunned  shunning  shuns
+shunt N: shunts
+shunt V: shunted  shunting  shunts
+shush I:
+shush V: shushed  shushing  shushes
+shut A:
+-shut N: shuts
+shut V: shut  shutting  shuts
+shutdown N: shutdowns
+shuteye N: ~shuteyes
+shutoff N: shutoffs
+shutout N: shutouts
+shutter N: shutters
+shutter V: shuttered  shuttering  shutters
+shutterbug N: shutterbugs
+shuttle N: shuttles
+shuttle V: shuttled  shuttling  shuttles
+shuttlecock N: shuttlecocks
+shuttlecock V: shuttlecocked  shuttlecocking  shuttlecocks
+shy A: shyer (shier)  shyest (shiest)
+shy N: shies
+shy V: shied  shying  shies
+shyly A:
+shyness N: ~shynesses
+shyster N: shysters
+sibilant A:
+sibilant N: sibilants
+sibling N: siblings
+sibyl N: sibyls
+sibylline A:
+sic A:
+sic V: sicked (sicced)  sicking (siccing)  sics
+sick A: sicker  sickest
+sick V: sicked  sicking  sicks
+sickbed N: sickbeds
+sicken V: sickened  sickening  sickens
+sickeningly A:
+sickie N: sickies
+sickish A:
+sickle N: sickles
+sickly A: sicklier  sickliest
+-sickly V: sicklied  sicklying  sicklies
+sickness N: sicknesses
+sicko N: sickos
+sickout N: sickouts
+sickroom N: sickrooms
+side A:
+side N: sides
+side V: sided  siding  sides
+sidearm A:
+sidearm N: sidearms
+sidebar N: sidebars
+sideboard N: sideboards
+sideburns N:
+sidecar N: sidecars
+sidekick N: sidekicks
+sidelight N: sidelights
+sideline N: sidelines
+sideline V: sidelined  sidelining  sidelines
+sidelong A:
+sideman N: sidemen
+sidepiece N: sidepieces
+sidereal A:
+sidesaddle A:
+sidesaddle N: sidesaddles
+sideshow N: sideshows
+sidesplitting A:
+sidestep N: sidesteps
+sidestep V: sidestepped  sidestepping  sidesteps
+sidestroke N: sidestrokes
+sidestroke V: sidestroked  sidestroking  sidestrokes
+sideswipe N: sideswipes
+sideswipe V: sideswiped  sideswiping  sideswipes
+sidetrack N: sidetracks
+sidetrack V: sidetracked  sidetracking  sidetracks
+sidewalk N: sidewalks
+sidewall N: sidewalls
+sideways A:
+sidewinder N: sidewinders
+sidewise A:
+siding N: sidings
+sidle N: sidles
+sidle V: sidled  sidling  sidles
+siege N: sieges
+-siege V: sieged  sieging  sieges
+sienna N: ~siennas
+sierra N: sierras
+siesta N: siestas
+sieve N: sieves
+sieve V: sieved  sieving  sieves
+sift V: sifted  sifting  sifts
+sifter N: sifters
+sigh N: sighs
+sigh V: sighed  sighing  sighs
+sight N: sights
+sight V: sighted  sighting  sights
+sighting N: sightings
+sightless A:
+sightly A: sightlier  sightliest
+sightread V: sightread  sightreading  sightreads
+sightseeing N: ~sightseeings
+sightseer N: sightseers
+sigma N: sigmas
+sign N: signs
+sign V: signed  signing  signs
+signage N: ~signages
+signal A:
+signal N: signals
+signal V: signaled (signalled)  signaling (signalling)  signals
+signaler N: signalers
+signalization N: ~signalizations
+signalize V: signalized  signalizing  signalizes
+signally A:
+signalman N: signalmen
+signatory A:
+signatory N: signatories
+signature A:
+signature N: signatures
+signboard N: signboards
+signer N: signers
+signet N: signets
+-signet V: signeted  signeting  signets
+significance N: ~significances
+significant A:
+-significant N: significants
+significantly A:
+signification N: significations
+signify V: signified  signifying  signifies
+signing N: signings
+signor N: signors / signori
+signora N: signoras / signore
+-signore N: signori
+signorina N: signorinas / signorine
+signpost N: signposts
+signpost V: signposted  signposting  signposts
+silage N: ~silages
+silence N: silences
+silence V: silenced  silencing  silences
+silencer N: silencers
+silent A: silenter  silentest
+silent N: silents
+silently A:
+silhouette N: silhouettes
+silhouette V: silhouetted  silhouetting  silhouettes
+silica N: ~silicas
+silicate N: silicates
+siliceous A:
+silicious A:
+silicon N: ~silicons
+silicone N: ~silicones
+silicosis N: ~silicoses
+silk A:
+silk N: silks
+-silk V: silked  silking  silks
+silken A:
+silkily A:
+silkiness N: ~silkinesses
+-silkscreen A:
+silkscreen N: silkscreens
+silkscreen V: silkscreened  silkscreening  silkscreens
+silkworm N: silkworms
+silky A: silkier  silkiest
+sill N: sills
+silliness N: ~sillinesses
+silly A: sillier  silliest
+silly N: sillies
+silo N: silos
+-silo V: siloed  siloing  silos
+silt N: ~silts
+silt V: silted  silting  silts
+silty A: siltier  siltiest
+silvan A:
+-silvan N: silvans
+silver A:
+silver N: silvers
+silver V: silvered  silvering  silvers
+silverfish N: silverfish | silverfishes
+silversmith N: silversmiths
+silverware N: ~silverwares
+silvery A: -silverier  -silveriest
+simian A:
+simian N: simians
+similar A:
+similarity N: similarities
+similarly A:
+simile N: similes
+similitude N: ~similitudes
+simmer N: simmers
+simmer V: simmered  simmering  simmers
+simonize V: simonized  simonizing  simonizes
+simony N: ~simonies
+simpatico A:
+simper N: simpers
+simper V: simpered  simpering  simpers
+simple A: simpler  simplest
+-simple N: simples
+simpleminded A:
+simpleness N: ~simplenesses
+simpleton N: simpletons
+simplicity N: ~simplicities
+simplification N: simplifications
+simplify V: simplified  simplifying  simplifies
+simplistic A:
+simplistically A:
+simply A:
+simulate V: simulated  simulating  simulates
+simulation N: simulations
+simulator N: simulators
+simulcast N: simulcasts
+simulcast V: simulcast / simulcasted  simulcasting  simulcasts
+simultaneity N: ~simultaneities
+simultaneous A:
+simultaneously A:
+sin N: sins
+sin V: sinned  sinning  sins
+since A:
+since C:
+sincere A: sincerer  sincerest
+sincerely A:
+sincerity N: ~sincerities
+sine N: sines
+sinecure N: sinecures
+sinew N: sinews
+-sinew V: sinewed  sinewing  sinews
+sinewy A: -sinewier  -sinewiest
+sinful A:
+sinfully A:
+sinfulness N: ~sinfulnesses
+sing N: sings
+sing V: sang  sung  singing  sings
+singable A:
+singe N: singes
+singe V: singed  singeing  singes
+singer N: singers
+singing N: ~singings
+single A:
+single N: singles
+single V: singled  singling  singles
+singleness N: ~singlenesses
+singles N: singles
+singleton N: singletons
+singletree N: singletrees
+singly A:
+singsong A:
+singsong N: singsongs
+singular A:
+singular N: singulars
+singularity N: singularities
+singularly A:
+sinister A:
+sink N: sinks
+sink V: sank (sunk)  sunk (sunken)  sinking  sinks
+sinkable A:
+sinker N: sinkers
+sinkhole N: sinkholes
+sinless A:
+sinner N: sinners
+sinuosity N: ~sinuosities
+sinuous A:
+sinus N: sinuses
+sinusitis N: ~sinusitises
+sip N: sips
+sip V: sipped  sipping  sips
+siphon N: siphons
+siphon V: siphoned  siphoning  siphons
+sipper N: sippers
+sir N: sirs
+sire N: sires
+sire V: sired  siring  sires
+siree N: ~sirees
+siren N: sirens
+sirloin N: sirloins
+sirocco N: siroccos
+sirree N: ~sirrees
+sirup N: sirups
+-sirup V: siruped  siruping  sirups
+sis N: sises
+sisal N: ~sisals
+sissified A:
+sissy A: sissier  sissiest
+sissy N: sissies
+sister A:
+sister N: sisters
+sisterhood N: sisterhoods
+sisterliness N: ~sisterlinesses
+sisterly A:
+sit V: sat  sitting  sits
+sitar N: sitars
+sitarist N: sitarists
+sitcom N: sitcoms
+site N: sites
+site V: sited  siting  sites
+sitter N: sitters
+sitting N: sittings
+-situate A:
+situate V: situated  situating  situates
+situation N: situations
+situp N: situps
+six A:
+six N: sixes
+sixfold A:
+sixpence N: sixpence / sixpences
+sixshooter N: sixshooters
+sixteen A:
+sixteen N: sixteens
+sixteenth A:
+sixteenth N: sixteenths
+sixth A:
+sixth N: sixths
+sixtieth A:
+sixtieth N: sixtieths
+sixty A:
+sixty N: sixties
+sizable A:
+size N: sizes
+size V: sized  sizing  sizes
+sizeable A:
+sizing N: ~sizings
+sizzle N: sizzles
+sizzle V: sizzled  sizzling  sizzles
+ska N: ~skas
+skate N {fish}: skates | skate
+skate N {roller}: skates
+skate V: skated  skating  skates
+skateboard N: skateboards
+skateboard V: skateboarded  skateboarding  skateboards
+skateboarder N: skateboarders
+skateboarding N: ~skateboardings
+skater N: skaters
+skating N: ~skatings
+skedaddle N: skedaddles
+skedaddle V: skedaddled  skedaddling  skedaddles
+skeet N: ~skeets
+skein N: skeins
+skeletal A:
+skeleton N: skeletons
+skeptic A:
+skeptic N: skeptics
+skeptical A:
+skeptically A:
+skepticism N: ~skepticisms
+sketch N: sketches
+sketch V: sketched  sketching  sketches
+sketcher N: sketchers
+sketchily A:
+sketchiness N: ~sketchinesses
+sketchy A: sketchier  sketchiest
+skew A:
+skew N: ~skews
+skew V: skewed  skewing  skews
+skewer N: skewers
+skewer V: skewered  skewering  skewers
+ski N: skis (ski)
+ski V: skied  skiing  skis
+skid N: skids
+skid V: skidded  skidding  skids
+skier N: skiers
+skiff N: skiffs
+skiing N: ~skiings
+skilful A:
+skill N: skills
+-skill V: skilled  skilling  skills
+skilled A:
+skillet N: skillets
+skillful A:
+skillfully A:
+skillfulness N: ~skillfulnesses
+skim A:
+skim N: ~skims
+skim V: skimmed  skimming  skims
+skimmer N: skimmers
+skimp V: skimped  skimping  skimps
+skimpily A:
+skimpiness N: ~skimpinesses
+skimpy A: skimpier  skimpiest
+skin A:
+skin N: skins
+skin V: skinned  skinning  skins
+skincare A:
+skincare N: ~skincares
+skinflick N: skinflicks
+skinflint N: skinflints
+skinhead N: skinheads
+skinless A:
+skinniness N: ~skinninesses
+skinny A: skinnier  skinniest
+skinny N: ~skinnies
+skintight A:
+skip N: skips
+skip V: skipped  skipping  skips
+skipper N: skippers
+skipper V: skippered  skippering  skippers
+skirmish N: skirmishes
+skirmish V: skirmished  skirmishing  skirmishes
+skirt N: skirts
+skirt V: skirted  skirting  skirts
+skit N: skits
+skitter V: skittered  skittering  skitters
+skittish A:
+skittishly A:
+skittishness N: ~skittishnesses
+skivvy N: skivvies
+skivvy V: skivvied  skivvying  skivvies
+skoal I:
+skoal N: skoals
+-skoal V: skoaled  skoaling  skoals
+skulduggery N: ~skulduggeries
+-skulk N: skulks
+skulk V: skulked  skulking  skulks
+skulker N: skulkers
+skull N: skulls
+skullcap N: skullcaps
+skullduggery N: ~skullduggeries
+skunk N: skunks | skunk
+skunk V: skunked  skunking  skunks
+sky N: skies
+sky V: skied (skyed)  skying  skies
+skycap N: skycaps
+skydive V: skydived (skydove)  skydiving  skydives
+skydiver N: skydivers
+skydiving N: ~skydivings
+skyjack V: skyjacked  skyjacking  skyjacks
+skyjacker N: skyjackers
+skyjacking N: skyjackings
+skylark N: skylarks
+skylark V: skylarked  skylarking  skylarks
+skylight N: skylights
+skyline N: skylines
+-skyline V: skylined  skylining  skylines
+skyrocket N: skyrockets
+skyrocket V: skyrocketed  skyrocketing  skyrockets
+skyscraper N: skyscrapers
+skyward A:
+skywards A:
+skywriter N: skywriters
+skywriting N: ~skywritings
+slab N: slabs
+slab V: slabbed  slabbing  slabs
+slack A: slacker  slackest
+slack N: ~slacks
+slack V: slacked  slacking  slacks
+slacken V: slackened  slackening  slackens
+slacker N: slackers
+slackly A:
+slackness N: ~slacknesses
+slacks N:
+slag N: ~slags
+-slag V: slagged  slagging  slags
+slake V: slaked  slaking  slakes
+slalom N: slaloms
+slalom V: slalomed  slaloming  slaloms
+slam N: slams
+slam V: slammed  slamming  slams
+slammer N: slammers
+slander N: slanders
+slander V: slandered  slandering  slanders
+slanderer N: slanderers
+slanderous A:
+slang N: ~slangs
+-slang V: slanged  slanging  slangs
+slangy A: slangier  slangiest
+slant A:
+slant N: slants
+slant V: slanted  slanting  slants
+slantingly A:
+slantwise A:
+slap A:
+slap N: slaps
+slap V: slapped  slapping  slaps
+slapdash A:
+slaphappy A: !slaphappier  !slaphappiest
+slapstick A:
+slapstick N: ~slapsticks
+slash N: slashes
+slash V: slashed  slashing  slashes
+slasher N: slashers
+slat N: slats
+-slat V: slatted  slatting  slats
+slate N: slates
+slate V: slated  slating  slates
+slather V: slathered  slathering  slathers
+slattern N: slatterns
+slatternly A:
+slaughter N: slaughters
+slaughter V: slaughtered  slaughtering  slaughters
+slaughterer N: slaughterers
+slaughterhouse N: slaughterhouses
+slave A:
+slave N: slaves
+slave V: slaved  slaving  slaves
+slaveholder N: slaveholders
+slaver N: slavers
+slaver V: slavered  slavering  slavers
+slavery N: ~slaveries
+slavish A:
+slavishly A:
+slavishness N: ~slavishnesses
+slaw N: ~slaws
+slay V: slew  slain  slaying  slays
+slayer N: slayers
+slaying N: slayings
+sleaze N: sleazes
+sleazily A:
+sleaziness N: ~sleazinesses
+sleazy A: sleazier  sleaziest
+sled N: sleds
+sled V: sledded  sledding  sleds
+sledder N: sledders
+sledge N: sledges
+sledge V: sledged  sledging  sledges
+sledgehammer A:
+sledgehammer N: sledgehammers
+sledgehammer V: sledgehammered  sledgehammering  sledgehammers
+sleek A: sleeker  sleekest
+sleek V: sleeked  sleeking  sleeks
+sleekly A:
+sleekness N: ~sleeknesses
+sleep N: sleeps
+sleep V: slept  sleeping  sleeps
+sleeper N: sleepers
+sleepily A:
+sleepiness N: ~sleepinesses
+sleepless A:
+sleeplessly A:
+sleeplessness N: ~sleeplessnesses
+sleepover N: sleepovers
+sleepwalk V: sleepwalked  sleepwalking  sleepwalks
+sleepwalker N: sleepwalkers
+sleepwalking N: ~sleepwalkings
+sleepwear N: ~sleepwears
+sleepy A: sleepier  sleepiest
+sleepyhead N: sleepyheads
+sleet N: ~sleets
+sleet V: sleeted  sleeting  sleets
+sleety A: !sleetier  !sleetiest
+sleeve N: sleeves
+-sleeve V: sleeved  sleeving  sleeves
+sleeved A:
+sleeveless A:
+sleigh N: sleighs
+sleigh V: sleighed  sleighing  sleighs
+sleight N: sleights
+slender A: slenderer  slenderest
+slenderize V: slenderized  slenderizing  slenderizes
+slenderness N: ~slendernesses
+sleuth N: sleuths
+-sleuth V: sleuthed  sleuthing  sleuths
+slew N: slews
+slew V: slewed  slewing  slews
+slice N: slices
+slice V: sliced  slicing  slices
+slicer N: slicers
+slick A: slicker  slickest
+slick N: slicks
+slick V: slicked  slicking  slicks
+slicker N: slickers
+slickly A:
+slickness N: ~slicknesses
+slide N: slides
+slide V: slid  sliding  slides
+slider N: sliders
+slight A: slighter  slightest
+slight N: slights
+slight V: slighted  slighting  slights
+slightly A:
+slightness N: ~slightnesses
+slily A:
+slim A: slimmer  slimmest
+slim V: slimmed  slimming  slims
+slime N: ~slimes
+-slime V: slimed  sliming  slimes
+sliminess N: ~sliminesses
+slimming N: ~slimmings
+slimness N: ~slimnesses
+slimy A: slimier  slimiest
+sling N: slings
+sling V: slung  slinging  slings
+slingshot N: slingshots
+-slink N: slinks
+slink V: slunk (slinked)  slinking  slinks
+slinky A: slinkier  slinkiest
+slip N: slips
+slip V: slipped  slipping  slips
+slipcase N: slipcases
+slipcover N: slipcovers
+-slipcover V: slipcovered  slipcovering  slipcovers
+slipknot N: slipknots
+slippage N: slippages
+slipper N: slippers
+-slipper V: slippered  slippering  slippers
+slipperiness N: ~slipperinesses
+slippery A: slipperier  slipperiest
+slipshod A:
+slipstream N: slipstreams
+-slipstream V: slipstreamed  slipstreaming  slipstreams
+slipway N: slipways
+slit N: slits
+slit V: slit {cut} | -slitted {narrow}  slitting  slits
+slither N: slithers
+slither V: slithered  slithering  slithers
+slithery A: -slitherier  -slitheriest
+sliver N: slivers
+sliver V: slivered  slivering  slivers
+slob N: slobs
+slobber N: ~slobbers
+slobber V: slobbered  slobbering  slobbers
+slobbery A: -slobberier  -slobberiest
+sloe N: sloes
+slog N: slogs
+slog V: slogged  slogging  slogs
+slogan N: slogans
+sloop N: sloops
+slop N: ~slops
+slop V: slopped  slopping  slops
+slope N: slopes
+slope V: sloped  sloping  slopes
+sloppily A:
+sloppiness N: ~sloppinesses
+sloppy A: sloppier  sloppiest
+slops N:
+-slosh N: sloshes
+slosh V: sloshed  sloshing  sloshes
+slot N: slots
+slot V: slotted  slotting  slots
+sloth N: sloths
+slothful A:
+slothfully A:
+slothfulness N: ~slothfulnesses
+slouch N: slouches
+slouch V: slouched  slouching  slouches
+sloucher N: slouchers
+slouchy A: slouchier  slouchiest
+slough N: sloughs
+slough V: sloughed  sloughing  sloughs
+sloven N: slovens
+slovenliness N: ~slovenlinesses
+slovenly A: slovenlier  slovenliest
+slow A: slower  slowest
+slow V: slowed  slowing  slows
+slowdown N: slowdowns
+slowly A:
+slowness N: ~slownesses
+slowpoke N: slowpokes
+sludge N: ~sludges
+sludgy A: sludgier  sludgiest
+slue N: slues
+slue V: slued  sluing  slues
+slug N: slugs
+slug V: slugged  slugging  slugs
+sluggard A:
+sluggard N: sluggards
+slugger N: sluggers
+sluggish A:
+sluggishly A:
+sluggishness N: ~sluggishnesses
+sluice N: sluices
+sluice V: sluiced  sluicing  sluices
+slum N: slums
+slum V: slummed  slumming  slums
+slumber N: slumbers
+slumber V: slumbered  slumbering  slumbers
+slumberous A:
+slumbrous A:
+slumlord N: slumlords
+slummy A: slummier  slummiest
+slump N: slumps
+slump V: slumped  slumping  slumps
+slur N: slurs
+slur V: slurred  slurring  slurs
+slurp N: slurps
+slurp V: slurped  slurping  slurps
+slurry N: ~slurries
+-slurry V: slurried  slurrying  slurries
+slush N: ~slushes
+-slush V: slushed  slushing  slushes
+slushiness N: ~slushinesses
+slushy A: slushier  slushiest
+slut N: sluts
+sluttish A:
+slutty A: sluttier  sluttiest
+sly A: slier (slyer)  sliest (slyest)
+slyly A:
+slyness N: ~slynesses
+smack A:
+smack N: smacks
+smack V: smacked  smacking  smacks
+smacker N: smackers
+small A: smaller  smallest
+small N: smalls
+smallish A:
+smallness N: ~smallnesses
+smallpox N: ~smallpoxes
+smarmy A: smarmier  smarmiest
+smart A: smarter  smartest
+smart N: smarts
+smart V: smarted  smarting  smarts
+smarten V: smartened  smartening  smartens
+smartly A:
+smartness N: ~smartnesses
+smarts N:
+smarty N: smarties
+smartypants N: smartypants
+smash A:
+smash N: smashes
+smash V: smashed  smashing  smashes
+smasher N: smashers
+smashup N: smashups
+smattering N: smatterings
+smear N: smears
+smear V: smeared  smearing  smears
+smeary A: smearier  smeariest
+smell N: smells
+smell V: smelled (smelt)  smelling  smells
+smelliness N: ~smellinesses
+smelly A: smellier  smelliest
+smelt N: smelts | smelt
+smelt V: smelted  smelting  smelts
+smelter N: smelters
+smidgen N: smidgens
+smidgeon N: smidgeons
+smidgin N: smidgins
+smilax N: ~smilaxes
+smile N: smiles
+smile V: smiled  smiling  smiles
+smiley N: smileys
+smilingly A:
+smirch N: smirches
+smirch V: smirched  smirching  smirches
+smirk N: smirks
+smirk V: smirked  smirking  smirks
+smite V: smote  smitten (smote smit)  smiting  smites
+smith N: smiths
+-smith V: smithed  smithing  smiths
+smithereens N:
+smithy N: smithies
+smock N: smocks
+smock V: smocked  smocking  smocks
+smocking N: ~smockings
+smog N: ~smogs
+smoggy A: smoggier  smoggiest
+smoke N: smokes
+smoke V: smoked  smoking  smokes
+smokehouse N: smokehouses
+smokeless A:
+smoker N: smokers
+smokescreen N: smokescreens
+smokestack N: smokestacks
+smokiness N: ~smokinesses
+smoking N: ~smokings
+smoky A: smokier  smokiest
+smolder N: ~smolders
+smolder V: smoldered  smoldering  smolders
+smooch N: smooches
+smooch V: smooched  smooching  smooches
+smooth A: smoother  smoothest
+-smooth N: smooths
+smooth V: smoothed  smoothing  smooths (smoothes)
+smoothie N: smoothies
+smoothly A:
+smoothness N: ~smoothnesses
+smorgasbord N: smorgasbords
+smother N: smothers
+smother V: smothered  smothering  smothers
+smoulder N: ~smoulders
+smoulder V: smouldered  smouldering  smoulders
+smudge N: smudges
+smudge V: smudged  smudging  smudges
+smudgy A: smudgier  smudgiest
+smug A: smugger  smuggest
+smuggle V: smuggled  smuggling  smuggles
+smuggler N: smugglers
+smuggling N: ~smugglings
+smugly A:
+smugness N: ~smugnesses
+smut N: smuts
+-smut V: smutted  smutting  smuts
+smuttiness N: ~smuttinesses
+smutty A: smuttier  smuttiest
+snack N: snacks
+snack V: snacked  snacking  snacks
+snaffle N: snaffles
+snaffle V: snaffled  snaffling  snaffles
+-snafu A:
+snafu N: snafus
+-snafu V: snafued  snafuing  snafus
+snag N: snags
+snag V: snagged  snagging  snags
+snail N: snails
+snake N: snakes
+snake V: snaked  snaking  snakes
+snakebite N: snakebites
+snakelike A:
+snaky A: snakier  snakiest
+snap A:
+snap N: snaps
+snap V: snapped  snapping  snaps
+snapdragon N: snapdragons
+snapper N {fish}: snapper | snappers
+snapper N: snappers
+snappily A:
+snappiness N: ~snappinesses
+snappish A:
+snappishly A:
+snappishness N: ~snappishnesses
+snappy A: snappier  snappiest
+snapshot N: snapshots
+-snapshot V: snapshotted / snapshot  snapshotting  snapshots
+snare N: snares
+snare V: snared  snaring  snares
+snarl N: snarls
+snarl V: snarled  snarling  snarls
+snarlingly A:
+snarly A: snarlier  snarliest
+snatch N: snatches
+snatch V: snatched  snatching  snatches
+snatcher N: snatchers
+snazzily A:
+snazzy A: snazzier  snazziest
+sneak A:
+sneak N: sneaks
+sneak V: sneaked (snuck)  sneaking  sneaks
+sneaker N: sneakers
+sneakily A:
+sneakiness N: ~sneakinesses
+sneakingly A:
+sneaky A: sneakier  sneakiest
+sneer N: sneers
+sneer V: sneered  sneering  sneers
+sneeringly A:
+sneeze N: sneezes
+sneeze V: sneezed  sneezing  sneezes
+snicker N: snickers
+snicker V: snickered  snickering  snickers
+snide A: snider  snidest
+snidely A:
+sniff N: sniffs
+sniff V: sniffed  sniffing  sniffs
+sniffer N: sniffers
+sniffle N: sniffles
+sniffle V: sniffled  sniffling  sniffles
+snifter N: snifters
+snigger N: sniggers
+snigger V: sniggered  sniggering  sniggers
+snip N: snips
+snip V: snipped  snipping  snips
+snipe N: snipe | snipes
+snipe V: sniped  sniping  snipes
+sniper N: snipers
+snippet N: snippets
+snippy A: snippier  snippiest
+snips N:
+snit N: snits
+snitch N: snitches
+snitch V: snitched  snitching  snitches
+snivel N: snivels
+snivel V: sniveled (snivelled)  sniveling (snivelling)  snivels
+sniveler N: snivelers
+snob N: snobs
+snobbery N: ~snobberies
+snobbish A:
+snobbishly A:
+snobbishness N: ~snobbishnesses
+snobby A: snobbier  snobbiest
+snood N: snoods
+-snood V: snooded  snooding  snoods
+snooker N: ~snookers
+snooker V: snookered  snookering  snookers
+snoop N: snoops
+snoop V: snooped  snooping  snoops
+snooper N: snoopers
+snoopy A: snoopier  snoopiest
+snoot N: snoots
+-snoot V: snooted  snooting  snoots
+snootily A:
+snootiness N: ~snootinesses
+snooty A: snootier  snootiest
+snooze N: snoozes
+snooze V: snoozed  snoozing  snoozes
+snore N: snores
+snore V: snored  snoring  snores
+snorer N: snorers
+snorkel N: snorkels
+snorkel V: snorkeled (snorkelled)  snorkeling (snorkelling)  snorkels
+snorkeler N: snorkelers
+snorkeling N: ~snorkelings
+snort N: snorts
+snort V: snorted  snorting  snorts
+snorter N: snorters
+snot N: snots
+snottily A:
+snottiness N: ~snottinesses
+snotty A: snottier  snottiest
+snout N: snouts
+snow N: snows
+snow V: snowed  snowing  snows
+snowball N: snowballs
+snowball V: snowballed  snowballing  snowballs
+snowbank N: snowbanks
+snowbird N: snowbirds
+snowboard N: snowboards
+snowboard V: snowboarded  snowboarding  snowboards
+snowboarder N: snowboarders
+snowboarding N: ~snowboardings
+snowbound A:
+snowdrift N: snowdrifts
+snowdrop N: snowdrops
+snowfall N: snowfalls
+snowfield N: snowfields
+snowflake N: snowflakes
+snowiness N: ~snowinesses
+snowman N: snowmen
+snowmobile N: snowmobiles
+snowmobile V: snowmobiled  snowmobiling  snowmobiles
+snowplow N: snowplows
+snowplow V: snowplowed  snowplowing  snowplows
+snowshoe N: snowshoes
+snowshoe V: snowshoed  snowshoeing  snowshoes
+snowstorm N: snowstorms
+snowsuit N: snowsuits
+snowy A: snowier  snowiest
+snub A:
+snub N: snubs
+snub V: snubbed  snubbing  snubs
+snuff N: snuffs
+snuff V: snuffed  snuffing  snuffs
+snuffbox N: snuffboxes
+snuffer N: snuffers
+snuffle N: snuffles
+snuffle V: snuffled  snuffling  snuffles
+snuffly A: !snufflier  !snuffliest
+snug A: snugger  snuggest
+snug N: snugs
+snug V: snugged  snugging  snugs
+snuggle N: snuggles
+snuggle V: snuggled  snuggling  snuggles
+snugly A:
+snugness N: ~snugnesses
+so A:
+so C:
+so I:
+so N: ~sos
+soak N: soaks
+soak V: soaked  soaking  soaks
+soaking N: soakings
+soap N: soaps
+soap V: soaped  soaping  soaps
+soapbox N: soapboxes
+soapiness N: ~soapinesses
+soapstone N: ~soapstones
+soapsuds N:
+soapy A: soapier  soapiest
+soar N: soars
+soar V: soared  soaring  soars
+-soaring N: soarings
+sob N: sobs
+sob V: sobbed  sobbing  sobs
+sobbingly A:
+sober A: soberer  soberest
+sober V: sobered  sobering  sobers
+soberly A:
+soberness N: ~sobernesses
+sobriety N: ~sobrieties
+sobriquet N: sobriquets
+soccer N: ~soccers
+sociability N: ~sociabilities
+sociable A:
+sociable N: sociables
+sociably A:
+social A:
+social N: socials
+socialism N: ~socialisms
+socialist A:
+socialist N: socialists
+socialistic A:
+socialite N: socialites
+socialization N: ~socializations
+socialize V: socialized  socializing  socializes
+socially A:
+societal A:
+society N: societies
+socioeconomic A:
+sociological A:
+sociologically A:
+sociologist N: sociologists
+sociology N: ~sociologies
+sociopath N: sociopaths
+sock N: socks (sox)
+sock V: socked  socking  socks
+socket N: sockets
+-socket V: socketed  socketing  sockets
+sockeye N: sockeye / sockeyes
+sod N: sods
+sod V: sodded  sodding  sods
+soda N: sodas
+sodden A:
+-sodden V: soddened  soddening  soddens
+soddenly A:
+sodium N: ~sodiums
+sodomite N: sodomites
+sodomize V: sodomized  sodomizing  sodomizes
+sodomy N: ~sodomies
+soever A:
+sofa N: sofas
+sofabed N: sofabeds
+soft A: softer  softest
+soft I:
+-soft N: softs
+softball N: softballs
+softbound A:
+-softbound N: softbounds
+soften V: softened  softening  softens
+softener N: softeners
+softhearted A:
+softie N: softies
+softly A:
+softness N: ~softnesses
+software N: ~softwares
+softwood A:
+softwood N: softwoods
+softy N: softies
+soggily A:
+sogginess N: ~sogginesses
+soggy A: soggier  soggiest
+soigne A:
+soignee A:
+soil N: ~soils
+soil V: soiled  soiling  soils
+soiree N: soirees
+sojourn N: sojourns
+sojourn V: sojourned  sojourning  sojourns
+sojourner N: sojourners
+sol N: sols
+solace N: solaces
+solace V: solaced  solacing  solaces
+solar A:
+-solar N: solars
+solarium N: solaria (solariums)
+solder N: ~solders
+solder V: soldered  soldering  solders
+solderer N: solderers
+soldier N: soldiers
+soldier V: soldiered  soldiering  soldiers
+soldierly A:
+soldiery N: ~soldieries
+sole A:
+sole N {fish}: sole | soles
+sole N {shoe}: soles
+sole V: soled  soling  soles
+solecism N: solecisms
+solely A:
+solemn A: solemner  solemnest
+solemness N: ~solemnesses
+solemnify V: solemnified  solemnifying  solemnifies
+solemnity N: ~solemnities
+solemnization N: ~solemnizations
+solemnize V: solemnized  solemnizing  solemnizes
+solemnly A:
+solemnness N: ~solemnnesses
+solenoid N: solenoids
+solicit V: solicited  soliciting  solicits
+solicitation N: solicitations
+solicitor N: solicitors
+solicitous A:
+solicitously A:
+solicitousness N: ~solicitousnesses
+solicitude N: ~solicitudes
+solid A: solider  solidest
+solid N: solids
+solidarity N: ~solidarities
+solidification N: ~solidifications
+solidify V: solidified  solidifying  solidifies
+solidity N: ~solidities
+solidly A:
+solidness N: ~solidnesses
+solidus N: solidi
+soliloquize V: soliloquized  soliloquizing  soliloquizes
+soliloquy N: soliloquies
+solipsism N: ~solipsisms
+solitaire N: solitaires
+solitariness N: ~solitarinesses
+solitary A:
+solitary N: solitaries
+solitude N: ~solitudes
+solo A:
+solo N: solos (soli)
+solo V: soloed  soloing  solos
+soloist N: soloists
+solstice N: solstices
+solubility N: ~solubilities
+soluble A:
+soluble N: solubles
+solute N: solutes
+solution N: solutions
+solvable A:
+solve V: solved  solving  solves
+solvency N: ~solvencies
+solvent A:
+solvent N: solvents
+solver N: solvers
+somatic A:
+somber A: somberer  somberest
+somberly A:
+somberness N: ~sombernesses
+sombre A: sombrer  sombrest
+sombrero N: sombreros
+some A:
+some P:
+somebody N: somebodies
+somebody P:
+someday A:
+somehow A:
+someone P:
+someplace A:
+somersault N: somersaults
+somersault V: somersaulted  somersaulting  somersaults
+somerset N: somersets
+somerset V: somersetted (-somerseted)  somersetting (-somerseting)  somersets
+something A:
+something P:
+sometime A:
+sometimes A:
+someway A:
+someways A:
+somewhat A:
+somewhat P:
+somewhere A:
+somnambulism N: ~somnambulisms
+somnambulist N: somnambulists
+somnolence N: ~somnolences
+somnolent A:
+son N: sons
+sonar N: sonars
+sonata N: sonatas
+sonatina N: sonatinas
+song N: songs
+songbird N: songbirds
+songbook N: songbooks
+songfest N: songfests
+songster N: songsters
+songstress N: songstresses
+songwriter N: songwriters
+sonic A:
+sonnet N: sonnets
+-sonnet V: sonneted (sonnetted)  sonneting (sonnetting)  sonnets
+sonny N: sonnies
+sonogram N: sonograms
+sonority N: ~sonorities
+sonorous A:
+sonorously A:
+sonorousness N: ~sonorousnesses
+soon A: sooner  soonest
+soot N: ~soots
+-soot V: sooted  sooting  soots
+-sooth A: soother  soothest
+sooth N: ~sooths
+soothe V: soothed  soothing  soothes
+soother N: soothers
+soothingly A:
+soothsayer N: soothsayers
+soothsaying N: ~soothsayings
+sooty A: sootier  sootiest
+sop N: sops
+sop V: sopped  sopping  sops
+sophism N: ~sophisms
+sophist N: sophists
+sophistic A:
+sophistical A:
+sophisticate N: sophisticates
+sophisticate V: sophisticated  sophisticating  sophisticates
+sophisticated A:
+sophistication N: ~sophistications
+sophistry N: sophistries
+-sophomore A:
+sophomore N: sophomores
+sophomoric A:
+soporific A:
+soporific N: soporifics
+soporifically A:
+soppy A: soppier  soppiest
+soprano A:
+soprano N: sopranos
+sorbet N: sorbets
+sorcerer N: sorcerers
+sorceress N: sorceresses
+sorcery N: ~sorceries
+sordid A: -sordider  -sordidest
+sordidly A:
+sordidness N: ~sordidnesses
+sore A: sorer  sorest
+sore N: sores
+sorehead N: soreheads
+sorely A:
+soreness N: ~sorenesses
+sorghum N: ~sorghums
+sorority N: sororities
+sorrel A:
+sorrel N: sorrels
+sorrily A:
+sorriness N: ~sorrinesses
+sorrow N: sorrows
+sorrow V: sorrowed  sorrowing  sorrows
+sorrowful A:
+sorrowfully A:
+sorrowfulness N: ~sorrowfulnesses
+sorry A: sorrier  sorriest
+-sorry N: sorries
+sort N: sorts
+sort V: sorted  sorting  sorts
+sorta S:
+sorter N: sorters
+sortie N: sorties
+sortie V: sortied  sortieing  sorties
+sot N: sots
+sottish A:
+sou N: sous
+soubriquet N: soubriquets
+souffle A:
+souffle N: souffles
+sough N: soughs
+sough V: soughed  soughing  soughs
+soul A:
+soul N: souls
+soulful A:
+soulfully A:
+soulfulness N: ~soulfulnesses
+soulless A:
+soullessly A:
+sound A: sounder  soundest
+sound N: sounds
+sound V: sounded  sounding  sounds
+soundboard N: soundboards
+sounder N: sounders
+sounding N: soundings
+soundless A:
+soundlessly A:
+soundly A:
+soundness N: ~soundnesses
+soundproof A:
+soundproof V: soundproofed  soundproofing  soundproofs
+soundproofing N: ~soundproofings
+soundtrack N: soundtracks
+soup N: soups
+soup V: souped  souping  soups
+soupcon N: soupcons
+soupy A: soupier  soupiest
+sour A: sourer  sourest
+sour N: sours
+sour V: soured  souring  sours
+source N: sources
+source V: sourced  sourcing  sources
+-sourdough A:
+sourdough N: sourdoughs
+sourish A:
+sourly A:
+sourness N: ~sournesses
+sourpuss N: sourpusses
+sousaphone N: sousaphones
+souse N: souses
+souse V: soused  sousing  souses
+south A:
+south N: ~souths
+-south V: southed  southing  souths
+southbound A:
+southeast A:
+southeast N: ~southeasts
+southeaster N: southeasters
+southeasterly A:
+southeastern A:
+southeastward A:
+-southeastward N: southeastwards
+southeastwards A:
+southerly A:
+southerly N: southerlies
+southern A:
+southern N: southerns
+southerner N: southerners
+southernmost A:
+southpaw A:
+southpaw N: southpaws
+southward A:
+southward N: ~southwards
+southwards A:
+southwest A:
+southwest N: ~southwests
+southwester N: southwesters
+southwesterly A:
+southwestern A:
+southwestward A:
+-southwestward N: southwestwards
+southwestwards A:
+souvenir N: souvenirs
+sovereign A:
+sovereign N: sovereigns
+sovereignty N: ~sovereignties
+soviet A:
+soviet N: soviets
+sow N: sows
+sow V: sowed  sown (sowed)  sowing  sows
+sower N: sowers
+soy N: ~soys
+soya N: ~soyas
+soybean N: soybeans
+spa N: spas
+space A:
+space N: spaces
+space V: spaced  spacing  spaces
+spacecraft N: spacecrafts / spacecraft
+spaceflight N: spaceflights
+spaceman N: spacemen
+spaceport N: spaceports
+spacer N: spacers
+spaceship N: spaceships
+spacesuit N: spacesuits
+spacewalk N: spacewalks
+spacewalk V: spacewalked  spacewalking  spacewalks
+spacewoman N: spacewomen
+spacey A: spacier  spaciest
+spaciness N: ~spacinesses
+spacing N: ~spacings
+spacious A:
+spaciously A:
+spaciousness N: ~spaciousnesses
+spacy A: spacier  spaciest
+spade N: spades
+spade V: spaded  spading  spades
+spadeful N: spadefuls
+spadework N: ~spadeworks
+spadix N: spadices (spadixes)
+spaghetti N: ~spaghettis
+span N: spans
+span V: spanned  spanning  spans
+spandex N: ~spandexes
+spangle N: spangles
+spangle V: spangled  spangling  spangles
+spaniel N: spaniels
+spank N: spanks
+spank V: spanked  spanking  spanks
+spanking N: spankings
+spanner N: spanners
+spar N: spars
+spar V: sparred  sparring  spars
+spare A: sparer  sparest
+spare N: spares
+spare V: spared  sparing  spares
+sparely A:
+spareness N: ~sparenesses
+spareribs N:
+sparingly A:
+spark N: sparks
+spark V: sparked  sparking  sparks
+sparkle N: sparkles
+sparkle V: sparkled  sparkling  sparkles
+sparkler N: sparklers
+sparky A: sparkier  sparkiest
+sparrow N: sparrows
+sparse A: sparser  sparsest
+sparsely A:
+sparseness N: ~sparsenesses
+sparsity N: ~sparsities
+spartan A:
+spasm N: spasms
+spasmodic A:
+spasmodically A:
+spastic A:
+spastic N: spastics
+spat N: spats {quarrel} | spats (spat) {oyster}
+spat V: spatted  spatting  spats
+spate N: spates
+spathe N: spathes
+spatial A:
+spatially A:
+spatter N: spatters
+spatter V: spattered  spattering  spatters
+spatula N: spatulas
+spavin N: ~spavins
+spavined A:
+spawn N: spawns
+spawn V: spawned  spawning  spawns
+spay V: spayed  spaying  spays
+speak V: spoke (@spake)  spoken (@spoke)  speaking  speaks
+speakeasy N: speakeasies
+speaker N: speakers
+spear N: spears
+spear V: speared  spearing  spears
+spearfish N: spearfish | spearfishes
+spearfish V: spearfished  spearfishing  spearfishes
+spearhead N: spearheads
+spearhead V: spearheaded  spearheading  spearheads
+spearmint N: ~spearmints
+-spec A:
+spec N: specs
+spec V: -spec'd (specked specced)  -spec'ing (specking speccing)  specs
+special A: -specialer  -specialist
+special N: specials
+specialist N: specialists
+speciality N: specialities
+specialization N: specializations
+specialize V: specialized  specializing  specializes
+specially A:
+specialty N: specialties
+specie N: ~species
+species N: species
+specific A:
+specific N: specifics
+specifically A:
+specification N: specifications
+specificity N: ~specificities
+specify V: specified  specifying  specifies
+specimen N: specimens
+specious A:
+speciously A:
+speciousness N: ~speciousnesses
+speck N: specks
+speck V: specked  specking  specks
+speckle N: speckles
+speckle V: speckled  speckling  speckles
+specs N:
+spectacle N: spectacles
+spectacles N:
+spectacular A:
+spectacular N: spectaculars
+spectacularly A:
+spectator N: spectators
+specter N: specters
+spectral A:
+spectre N: spectres
+spectrometer N: spectrometers
+spectroscope N: spectroscopes
+spectroscopic A:
+spectroscopy N: ~spectroscopies
+spectrum N: spectra (spectrums)
+speculate V: speculated  speculating  speculates
+speculation N: speculations
+speculative A:
+speculatively A:
+speculator N: speculators
+speech N: speeches
+speechless A:
+speechlessly A:
+speechlessness N: ~speechlessnesses
+speed N: speeds
+speed V: sped (speeded)  speeding  speeds
+speedboat N: speedboats
+speeder N: speeders
+speedily A:
+speediness N: ~speedinesses
+speeding N: ~speedings
+speedometer N: speedometers
+speedster N: speedsters
+speedup N: speedups
+speedway N: speedways
+speedwell N: ~speedwells
+speedy A: speedier  speediest
+speleologist N: speleologists
+speleology N: ~speleologies
+spell N: spells
+spell V: spelled (spelt)  spelling  spells
+spellbind V: spellbound  spellbinding  spellbinds
+spellbinder N: spellbinders
+spellbound A:
+spelldown N: spelldowns
+speller N: spellers
+spelling N: spellings
+-spelt N: spelts
+spelunker N: spelunkers
+spelunking N: ~spelunkings
+spend V: spent  spending  spends
+spendable A:
+spender N: spenders
+spending N: ~spendings
+spendthrift A:
+spendthrift N: spendthrifts
+sperm N: sperms
+spermatozoon N: spermatozoa
+spermicidal A:
+spermicide N: spermicides
+spew N: ~spews
+spew V: spewed  spewing  spews
+spewer N: spewers
+sphagnum N: sphagnums
+sphere N: spheres
+-sphere V: sphered  sphering  spheres
+spherical A:
+spherically A:
+spheroid N: spheroids
+spheroidal A:
+sphincter N: sphincters
+sphinx N: sphinxes (sphinges)
+spice N: spices
+spice V: spiced  spicing  spices
+spicily A:
+spiciness N: ~spicinesses
+spicule N: spicules
+spicy A: spicier  spiciest
+spider N: spiders
+spiderweb N: spiderwebs
+-spiderweb V: spiderwebbed  spiderwebbing  spiderwebs
+spidery A: !spiderier  !spideriest
+spiel N: spiels
+spiel V: spieled  spieling  spiels
+spiffy A: spiffier  spiffiest
+spigot N: spigots
+spike N: spikes
+spike V: spiked  spiking  spikes
+spikiness N: ~spikinesses
+spiky A: spikier  spikiest
+spill N: spills
+spill V: spilled (spilt)  spilling  spills
+spillage N: spillages
+spillover N: spillovers
+spillway N: spillways
+spin N: spins
+spin V: spun (@span)  spinning  spins
+spinach N: ~spinaches
+spinal A:
+spinal N: spinals
+spinally A:
+spindle N: spindles
+spindle V: spindled  spindling  spindles
+spindly A: spindlier  spindliest
+spine N: spines
+spineless A:
+spinelessly A:
+spinet N: spinets
+spinnaker N: spinnakers
+spinner N: spinners
+spinneret N: spinnerets
+spinning N: ~spinnings
+spinoff N: spinoffs
+spinster N: spinsters
+spinsterhood N: ~spinsterhoods
+spinsterish A:
+spiny A: spinier  spiniest
+spiracle N: spiracles
+spiraea N: spiraeas
+spiral A:
+spiral N: spirals
+spiral V: spiraled (spiralled)  spiraling (spiralling)  spirals
+spirally A:
+spire N: spires
+-spire V: spired  spiring  spires
+spirea N: spireas
+spirit N: spirits
+spirit V: spirited  spiriting  spirits
+spirited A:
+spiritless A:
+spiritual A:
+spiritual N: spirituals
+spiritualism N: ~spiritualisms
+spiritualist N: spiritualists
+spiritualistic A:
+spirituality N: ~spiritualities
+spiritually A:
+spirituous A:
+spirochete N: spirochetes
+spiry A: -spirier  -spiriest
+spit N: spits
+spit V: spit (spat) {saliva} | spitted {pierce}  spitting  spits
+spitball N: spitballs
+spite N: ~spites
+spite V: spited  spiting  spites
+spiteful A: spitefuller  spitefullest
+spitefully A:
+spitefulness N: ~spitefulnesses
+spitfire N: spitfires
+spittle N: ~spittles
+spittoon N: spittoons
+splash N: splashes
+splash V: splashed  splashing  splashes
+splashdown N: splashdowns
+splashily A:
+splashiness N: ~splashinesses
+splashy A: splashier  splashiest
+splat I:
+splat N: splats
+splat V: splatted  splatting  splats
+splatter N: splatters
+splatter V: splattered  splattering  splatters
+splay A:
+splay N: ~splays
+splay V: splayed  splaying  splays
+-splayfoot A:
+splayfoot N: splayfeet
+splayfooted A:
+spleen N: spleens
+splendid A: splendider  splendidest
+splendidly A:
+splendor N: ~splendors
+splendorous A:
+splendour N: ~splendours
+splenetic A:
+-splenetic N: splenetics
+splice N: splices
+splice V: spliced  splicing  splices
+splicer N: splicers
+splint N: splints
+splint V: splinted  splinting  splints
+splinter N: splinters
+splinter V: splintered  splintering  splinters
+splintery A:
+split A:
+split N: splits
+split V: split  splitting  splits
+splitting N: splittings
+splotch N: splotches
+splotch V: splotched  splotching  splotches
+splotchy A: splotchier  splotchiest
+splurge N: splurges
+splurge V: splurged  splurging  splurges
+splutter N: splutters
+splutter V: spluttered  spluttering  splutters
+spoil N: spoils
+spoil V: spoiled (spoilt)  spoiling  spoils
+spoilage N: ~spoilages
+spoiler N: spoilers
+spoilsport N: spoilsports
+spoke N: spokes
+-spoke V: spoked  spoking  spokes
+spokesman N: spokesmen
+spokesperson N: spokespersons / spokespeople
+spokeswoman N: spokeswomen
+spoliation N: ~spoliations
+sponge N: sponges
+sponge V: sponged  sponging  sponges
+spongecake N: spongecakes
+sponger N: spongers
+sponginess N: ~sponginesses
+spongy A: spongier  spongiest
+sponsor N: sponsors
+sponsor V: sponsored  sponsoring  sponsors
+sponsorship N: ~sponsorships
+spontaneity N: ~spontaneities
+spontaneous A:
+spontaneously A:
+spoof N: spoofs
+spoof V: spoofed  spoofing  spoofs
+spook N: spooks
+spook V: spooked  spooking  spooks
+spookiness N: ~spookinesses
+spooky A: spookier  spookiest
+spool N: spools
+spool V: spooled  spooling  spools
+spoon N: spoons
+spoon V: spooned  spooning  spoons
+spoonbill N: spoonbills
+spoonerism N: spoonerisms
+spoonful N: spoonfuls (spoonsful)
+spoor N: spoors
+spoor V: spoored  spooring  spoors
+sporadic A:
+sporadically A:
+spore N: spores
+spore V: spored  sporing  spores
+sport A:
+sport N: sports
+sport V: sported  sporting  sports
+sportiness N: ~sportinesses
+sportingly A:
+sportive A:
+sportively A:
+sportscast N: sportscasts
+sportscaster N: sportscasters
+sportsman N: sportsmen
+sportsmanlike A:
+sportsmanship N: ~sportsmanships
+sportswear N: ~sportswears
+sportswoman N: sportswomen
+sportswriter N: sportswriters
+sporty A: sportier  sportiest
+spot A:
+spot N: spots
+spot V: spotted  spotting  spots
+spotless A:
+spotlessly A:
+spotlessness N: ~spotlessnesses
+spotlight N: spotlights
+spotlight V: spotlighted (spotlit)  spotlighting  spotlights
+spotter N: spotters
+spottily A:
+spottiness N: ~spottinesses
+spotty A: spottier  spottiest
+spousal A:
+spousal N: spousals
+spouse N: spouses
+-spouse V: spoused  spousing  spouses
+spout N: spouts
+spout V: spouted  spouting  spouts
+sprain N: sprains
+sprain V: sprained  spraining  sprains
+sprat N: sprats | sprat
+sprawl N: ~sprawls
+sprawl V: sprawled  sprawling  sprawls
+spray N: sprays
+spray V: sprayed  spraying  sprays
+sprayer N: sprayers
+spread N: spreads
+spread V: spread  spreading  spreads
+spreadable A:
+spreader N: spreaders
+spreadsheet N: spreadsheets
+spree N: sprees
+sprig N: sprigs
+-sprig V: sprigged  sprigging  sprigs
+sprightliness N: ~sprightlinesses
+sprightly A: sprightlier  sprightliest
+spring A:
+spring N: springs
+spring V: sprang (sprung)  sprung  springing  springs
+springboard N: springboards
+springbok N: springbok | springboks
+springily A:
+springiness N: ~springinesses
+springlike A:
+springtime N: ~springtimes
+springy A: springier  springiest
+sprinkle N: sprinkles
+sprinkle V: sprinkled  sprinkling  sprinkles
+sprinkler N: sprinklers
+sprinkling N: sprinklings
+sprint N: sprints
+sprint V: sprinted  sprinting  sprints
+sprinter N: sprinters
+sprite N: sprites
+spritz N: spritzes
+spritz V: spritzed  spritzing  spritzes
+spritzer N: spritzers
+sprocket N: sprockets
+sprout N: sprouts
+sprout V: sprouted  sprouting  sprouts
+spruce A: sprucer  sprucest
+spruce N: spruces
+spruce V: spruced  sprucing  spruces
+sprucely A:
+spruceness N: ~sprucenesses
+spry A: sprier (spryer)  spriest (spryest)
+spryly A:
+spryness N: ~sprynesses
+spud N: spuds
+-spud V: spudded  spudding  spuds
+spume N: ~spumes
+spume V: spumed  spuming  spumes
+spumone N: ~spumones
+spumoni N: ~spumonis
+spumy A: !spumier  !spumiest
+spunk N: ~spunks
+spunky A: spunkier  spunkiest
+spur N: spurs
+spur V: spurred  spurring  spurs
+spurge N: ~spurges
+spurious A:
+spuriously A:
+spuriousness N: ~spuriousnesses
+-spurn N: spurns
+spurn V: spurned  spurning  spurns
+spurt N: spurts
+spurt V: spurted  spurting  spurts
+sputnik N: sputniks
+sputter N: sputters
+sputter V: sputtered  sputtering  sputters
+sputum N: ~sputa
+spy N: spies
+spy V: spied  spying  spies
+spyglass N: spyglasses
+-squab A: squabber  squabbest
+squab N: squab | squabs
+squabble N: squabbles
+squabble V: squabbled  squabbling  squabbles
+squabbler N: squabblers
+squad N: squads
+squadron N: squadrons
+-squadron V: squadroned  squadroning  squadrons
+squalid A: squalider  squalidest
+squalidly A:
+squalidness N: ~squalidnesses
+squall N: squalls
+squall V: squalled  squalling  squalls
+squally A: !squallier  !squalliest
+squalor N: ~squalors
+squamous A:
+-squander N: squanders
+squander V: squandered  squandering  squanders
+square A: squarer  squarest
+square N: squares
+square V: squared  squaring  squares
+squarely A:
+squareness N: ~squarenesses
+squarish A:
+squash N: squashes (squash)
+squash V: squashed  squashing  squashes
+squashy A: squashier  squashiest
+squat A: squatter  squattest
+squat N: squats
+squat V: squatted  squatting  squats
+squatness N: ~squatnesses
+squatter N: squatters
+squaw N: squaws
+squawk N: squawks
+squawk V: squawked  squawking  squawks
+squawker N: squawkers
+squeak N: squeaks
+squeak V: squeaked  squeaking  squeaks
+squeaker N: squeakers
+squeakily A:
+squeakiness N: ~squeakinesses
+squeaky A: squeakier  squeakiest
+squeal N: squeals
+squeal V: squealed  squealing  squeals
+squealer N: squealers
+squeamish A:
+squeamishly A:
+squeamishness N: ~squeamishnesses
+squeegee N: squeegees
+squeegee V: squeegeed  squeegeeing  squeegees
+squeezable A:
+squeeze N: squeezes
+squeeze V: squeezed  squeezing  squeezes
+squeezer N: squeezers
+squelch N: squelches
+squelch V: squelched  squelching  squelches
+squelchy A: !squelchier  !squelchiest
+squib N: squibs
+-squib V: squibbed  squibbing  squibs
+squid N: squid | squids
+squiggle N: squiggles
+squiggle V: squiggled  squiggling  squiggles
+squiggly A: !squigglier  !squiggliest
+squint A: squinter  squintest
+squint N: squints
+squint V: squinted  squinting  squints
+squire N: squires
+squire V: squired  squiring  squires
+squirm N: squirms
+squirm V: squirmed  squirming  squirms
+squirmy A: squirmier  squirmiest
+squirrel N: squirrels | squirrel
+squirrel V: squirreled (squirrelled)  squirreling (squirrelling)  squirrels
+squirt N: squirts
+squirt V: squirted  squirting  squirts
+squish N: squishes
+squish V: squished  squishing  squishes
+squishy A: squishier  squishiest
+ssh I:
+stab N: stabs
+stab V: stabbed  stabbing  stabs
+stabber N: stabbers
+stabbing N: stabbings
+stability N: ~stabilities
+stabilization N: ~stabilizations
+stabilize V: stabilized  stabilizing  stabilizes
+stabilizer N: stabilizers
+stable A: stabler  stablest
+stable N: stables
+stable V: stabled  stabling  stables
+stableman N: stablemen
+stably A:
+staccato A:
+staccato N: staccatos (staccati)
+stack N: stacks
+stack V: stacked  stacking  stacks
+-stadia N: stadias
+stadium N: stadiums (stadia)
+staff A:
+staff N {people}: staffs
+staff N {rod, music}: staves / staffs
+staff V: staffed  staffing  staffs
+staffer N: staffers
+staffing N: ~staffings
+stag A:
+stag N: stags (stag)
+-stag V: stagged  stagging  stags
+stage N: stages
+stage V: staged  staging  stages
+stagecoach N: stagecoaches
+stagecraft N: ~stagecrafts
+stagehand N: stagehands
+stagestruck A:
+stagflation N: ~stagflations
+stagger N: staggers
+stagger V: staggered  staggering  staggers
+staggeringly A:
+staging N: stagings
+stagnancy N: ~stagnancies
+stagnant A:
+stagnantly A:
+stagnate V: stagnated  stagnating  stagnates
+stagnation N: ~stagnations
+stagy A: stagier  stagiest
+staid A: staider  staidest
+staidly A:
+staidness N: ~staidnesses
+stain N: stains
+stain V: stained  staining  stains
+stainless A:
+stainless N: ~stainlesses
+stair N: stairs
+staircase N: staircases
+stairway N: stairways
+stairwell N: stairwells
+stake N: stakes
+stake V: staked  staking  stakes
+stakeholder N: stakeholders
+stakeout N: stakeouts
+stalactite N: stalactites
+stalagmite N: stalagmites
+stale A: staler  stalest
+stale V: staled  staling  stales
+stalemate N: stalemates
+stalemate V: stalemated  stalemating  stalemates
+staleness N: ~stalenesses
+stalk N: stalks
+stalk V: stalked  stalking  stalks
+stalker N: stalkers
+stalking N: stalkings
+stall N: stalls
+stall V: stalled  stalling  stalls
+stallion N: stallions
+stalwart A:
+stalwart N: stalwarts
+stamen N: stamens
+stamina N: ~staminas
+stammer N: stammers
+stammer V: stammered  stammering  stammers
+stammerer N: stammerers
+stammeringly A:
+stamp N: stamps
+stamp V: stamped  stamping  stamps
+stampede N: stampedes
+stampede V: stampeded  stampeding  stampedes
+stamper N: stampers
+stance N: stances
+stanch A: stancher  stanchest
+-stanch N: stanches
+stanch V: stanched  stanching  stanches
+stanchion N: stanchions
+-stanchion V: stanchioned  stanchioning  stanchions
+stand N: stands
+stand V: stood  standing  stands
+standalone A:
+standard A:
+standard N: standards
+standardization N: ~standardizations
+standardize V: standardized  standardizing  standardizes
+standby A:
+standby N: standbys
+standee N: standees
+stander N: standers
+standing N: standings
+standoff N: standoffs
+standoffish A:
+standout A:
+standout N: standouts
+standpipe N: standpipes
+standpoint N: standpoints
+standstill N: standstills
+standup A:
+standup N: ~standups
+stanza N: stanzas
+staph N: ~staphs
+staphylococcal A:
+staphylococcus N: staphylococci
+staple A:
+staple N: staples
+staple V: stapled  stapling  staples
+stapler N: staplers
+star A:
+star N: stars
+star V: starred  starring  stars
+starboard A:
+starboard N: ~starboards
+-starboard V: starboarded  starboarding  starboards
+starch N: starches
+starch V: starched  starching  starches
+starchily A:
+starchiness N: ~starchinesses
+starchy A: starchier  starchiest
+stardom N: ~stardoms
+stardust N: ~stardusts
+stare N: stares
+stare V: stared  staring  stares
+starer N: starers
+starfish N: starfish | starfishes
+stargaze V: stargazed  stargazing  stargazes
+stargazer N: stargazers
+stark A: starker  starkest
+starkly A:
+starkness N: ~starknesses
+starless A:
+starlet N: starlets
+starlight N: ~starlights
+starling N: starlings
+starlit A:
+starry A: starrier  starriest
+start N: starts
+start V: started  starting  starts
+starter N: starters
+-startle N: startles
+startle V: startled  startling  startles
+starvation N: ~starvations
+starve V: starved  starving  starves
+starveling N: starvelings
+stash N: stashes
+stash V: stashed  stashing  stashes
+stat N: stats
+state N: states
+state V: stated  stating  states
+statecraft N: ~statecrafts
+statehood N: ~statehoods
+statehouse N: statehouses
+stateless A:
+statelessness N: ~statelessnesses
+stateliness N: ~statelinesses
+stately A: statelier  stateliest
+statement N: statements
+statement V: statemented  statementing  statements
+stateroom N: staterooms
+stateside A:
+statesman N: statesmen
+statesmanlike A:
+statesmanship N: ~statesmanships
+stateswoman N: stateswomen
+static A:
+static N: ~statics
+statically A:
+station N: stations
+station V: stationed  stationing  stations
+stationary A:
+-stationary N: stationaries
+stationer N: stationers
+stationery N: ~stationeries
+statistic N: statistics
+statistical A:
+statistically A:
+statistician N: statisticians
+statuary A:
+statuary N: ~statuaries
+statue N: statues
+-statue V: statued  statuing  statues
+statuesque A:
+statuette N: statuettes
+stature N: statures
+status N: statuses
+statute N: statutes
+statutorily A:
+statutory A:
+staunch A: stauncher  staunchest
+-staunch N: staunches
+staunch V: staunched  staunching  staunches
+staunchly A:
+staunchness N: ~staunchnesses
+stave N: staves
+stave V: staved (stove)  staving  staves
+stay N: stays
+stay V: stayed (@staid)  staying  stays
+stead N: steads
+-stead V: steaded  steading  steads
+steadfast A:
+steadfastly A:
+steadfastness N: ~steadfastnesses
+steadily A:
+steadiness N: ~steadinesses
+steady A: steadier  steadiest
+steady I:
+steady N: steadies
+steady V: steadied  steadying  steadies
+steak N: steaks
+steakhouse N: steakhouses
+steal N: steals
+steal V: stole  stolen  stealing  steals
+stealth A:
+stealth N: ~stealths
+stealthily A:
+stealthiness N: ~stealthinesses
+stealthy A: stealthier  stealthiest
+steam A:
+steam N: ~steams
+steam V: steamed  steaming  steams
+steamboat N: steamboats
+steamer N: steamers
+-steamer V: steamered  steamering  steamers
+steamfitter N: steamfitters
+steamfitting N: ~steamfittings
+steaminess N: ~steaminesses
+steamroll V: steamrolled  steamrolling  steamrolls
+steamroller N: steamrollers
+steamroller V: steamrollered  steamrollering  steamrollers
+steamship N: steamships
+steamy A: steamier  steamiest
+steed N: steeds
+steel A:
+steel N: ~steels
+steel V: steeled  steeling  steels
+steeliness N: ~steelinesses
+steelworker N: steelworkers
+steelworks N:
+steely A: steelier  steeliest
+steelyard N: steelyards
+steep A: steeper  steepest
+steep N: steeps
+steep V: steeped  steeping  steeps
+steepen V: steepened  steepening  steepens
+steeple N: steeples
+steeplechase N: steeplechases
+-steeplechase V: steeplechased  steeplechasing  steeplechases
+steeplejack N: steeplejacks
+steeply A:
+steepness N: ~steepnesses
+steer N: steers | steer
+steer V: steered  steering  steers
+steerable A:
+steerage N: ~steerages
+steering N: ~steerings
+steersman N: steersmen
+stegosaurus N: stegosauruses / stegosauri
+stein N: steins
+stellar A:
+stem N: stems
+stem V: stemmed  stemming  stems
+stemless A:
+stemware N: ~stemwares
+stench N: stenches
+stencil N: stencils
+stencil V: stenciled (stencilled)  stenciling (stencilling)  stencils
+steno N: stenos
+stenographer N: stenographers
+stenographic A:
+stenography N: ~stenographies
+stentorian A:
+step N: steps
+step V: stepped  stepping  steps
+stepbrother N: stepbrothers
+stepchild N: stepchildren
+stepdaughter N: stepdaughters
+stepfather N: stepfathers
+stepladder N: stepladders
+stepmother N: stepmothers
+stepparent N: stepparents
+steppe N: steppes
+stepper N: steppers
+steppingstone N: steppingstones
+stepsister N: stepsisters
+stepson N: stepsons
+stereo A:
+stereo N: stereos
+-stereo V: stereoed  stereoing  stereos
+stereophonic A:
+stereoscope N: stereoscopes
+stereoscopic A:
+stereotype N: stereotypes
+stereotype V: stereotyped  stereotyping  stereotypes
+stereotypical A:
+sterile A:
+sterility N: ~sterilities
+sterilization N: ~sterilizations
+sterilize V: sterilized  sterilizing  sterilizes
+sterilizer N: sterilizers
+sterling A:
+sterling N: ~sterlings
+stern A: sterner  sternest
+stern N: sterns
+sternly A:
+sternness N: ~sternnesses
+sternum N: sternums (sterna)
+steroid N: steroids
+steroidal A:
+stertorous A:
+stet V: stetted  stetting  stets
+stethoscope N: stethoscopes
+stetson N: stetsons
+stevedore N: stevedores
+-stevedore V: stevedored  stevedoring  stevedores
+stew N: stews
+stew V: stewed  stewing  stews
+steward N: stewards
+steward V: stewarded  stewarding  stewards
+stewardess N: stewardesses
+stewardship N: ~stewardships
+stick N: sticks
+stick V: stuck  sticking  sticks
+sticker N: stickers
+-sticker V: stickered  stickering  stickers
+stickily A:
+stickiness N: ~stickinesses
+stickleback N: sticklebacks
+stickler N: sticklers
+stickpin N: stickpins
+stickup N: stickups
+sticky A: stickier  stickiest
+sticky N: stickies
+stiff A: stiffer  stiffest
+stiff N: stiffs
+stiff V: stiffed  stiffing  stiffs
+stiffen V: stiffened  stiffening  stiffens
+stiffener N: stiffeners
+stiffening N: ~stiffenings
+stiffly A:
+stiffness N: ~stiffnesses
+-stifle N: stifles
+stifle V: stifled  stifling  stifles
+stiflingly A:
+stigma N: stigmas {disgrace} | stigmata {wounds}
+stigmatic A:
+-stigmatic N: stigmatics
+stigmatization N: ~stigmatizations
+stigmatize V: stigmatized  stigmatizing  stigmatizes
+stile N: stiles
+stiletto N: stilettos (stilettoes)
+-stiletto V: stilettoed  stilettoing  stilettos (stilettoes)
+still A: stiller  stillest
+still N: stills
+still V: stilled  stilling  stills
+stillbirth N: stillbirths
+stillborn A:
+stillness N: ~stillnesses
+stilt N: stilts
+-stilt V: stilted  stilting  stilts
+stilted A:
+stimulant A:
+stimulant N: stimulants
+stimulate V: stimulated  stimulating  stimulates
+stimulation N: ~stimulations
+stimulative A:
+-stimulative N: stimulatives
+stimulus N: stimuli
+sting N: stings
+sting V: stung  stinging  stings
+stinger N: stingers
+stingily A:
+stinginess N: ~stinginesses
+stingray N: stingrays
+stingy A: stingier  stingiest
+stink N: stinks
+stink V: stank (stunk)  stunk  stinking  stinks
+stinkbug N: stinkbugs
+stinker N: stinkers
+stinky A: stinkier  stinkiest
+stint N: stints
+stint V: stinted  stinting  stints
+stipend N: stipends
+stipple N: ~stipples
+stipple V: stippled  stippling  stipples
+stippling N: ~stipplings
+stipulate V: stipulated  stipulating  stipulates
+stipulation N: stipulations
+stir N: stirs
+stir V: stirred  stirring  stirs
+stirrer N: stirrers
+stirringly A:
+stirrings N:
+stirrup N: stirrups
+stitch N: stitches
+stitch V: stitched  stitching  stitches
+stitchery N: ~stitcheries
+stitching N: ~stitchings
+stoat N: stoats
+stock A:
+stock N: stocks
+stock V: stocked  stocking  stocks
+stockade N: stockades
+stockade V: stockaded  stockading  stockades
+stockbreeder N: stockbreeders
+stockbroker N: stockbrokers
+stockbroking N: ~stockbrokings
+stockholder N: stockholders
+stockily A:
+stockiness N: ~stockinesses
+stockinet N: ~stockinets
+stockinette N: ~stockinettes
+stocking N: stockings
+stockpile N: stockpiles
+stockpile V: stockpiled  stockpiling  stockpiles
+stockpot N: stockpots
+stockroom N: stockrooms
+stocktaking N: ~stocktakings
+stocky A: stockier  stockiest
+stockyard N: stockyards
+stodgily A:
+stodginess N: ~stodginesses
+stodgy A: stodgier  stodgiest
+stogie N: stogies
+stogy N: stogies
+stoic A:
+stoic N: stoics
+stoical A:
+stoically A:
+stoicism N: ~stoicisms
+stoke V: stoked  stoking  stokes
+stoker N: stokers
+stole N: stoles
+stolid A: stolider  stolidest
+stolidity N: ~stolidities
+stolidly A:
+stolidness N: ~stolidnesses
+stolon N: stolons
+stomach N: stomachs
+stomach V: stomached  stomaching  stomachs
+stomachache N: stomachaches
+stomacher N: stomachers
+stomp N: stomps
+stomp V: stomped  stomping  stomps
+stone A:
+stone N: stones {rock} | stone {weight}
+stone V: stoned  stoning  stones
+stoned A:
+stonemason N: stonemasons
+stonewall V: stonewalled  stonewalling  stonewalls
+stoneware N: ~stonewares
+stonewashed A:
+stonework N: ~stoneworks
+stoney A: stonier  stoniest
+stonily A:
+stoniness N: ~stoninesses
+stony A: stonier  stoniest
+stooge N: stooges
+-stooge V: stooged  stooging  stooges
+stool N: stools
+-stool V: stooled  stooling  stools
+stoop N: stoops
+stoop V: stooped  stooping  stoops
+stop N: stops
+stop V: stopped  stopping  stops
+stopcock N: stopcocks
+stopgap A:
+stopgap N: stopgaps
+stoplight N: stoplights
+stopover N: stopovers
+stoppage N: stoppages
+stopper N: stoppers
+stopper V: stoppered  stoppering  stoppers
+stopple N: stopples
+stopple V: stoppled  stoppling  stopples
+stopwatch N: stopwatches
+storage N: ~storages
+store A:
+store N: stores
+store V: stored  storing  stores
+storefront N: storefronts
+storehouse N: storehouses
+storekeeper N: storekeepers
+storeroom N: storerooms
+storey N: storeys
+storied A:
+stork N: storks
+storm N: storms
+storm V: stormed  storming  storms
+stormily A:
+storminess N: ~storminesses
+stormy A: stormier  stormiest
+story N: stories
+-story V: storied  storying  stories
+storyboard N: storyboards
+storybook A:
+storybook N: storybooks
+storyteller N: storytellers
+storytelling N: ~storytellings
+stoup N: stoups
+stout A: stouter  stoutest
+stout N: ~stouts
+stouthearted A:
+stoutly A:
+stoutness N: ~stoutnesses
+stove N: stoves
+-stove V: stoved  stoving  stoves
+stovepipe N: stovepipes
+stow V: stowed  stowing  stows
+stowage N: ~stowages
+stowaway N: stowaways
+straddle N: straddles
+straddle V: straddled  straddling  straddles
+straddler N: straddlers
+strafe N: strafes
+strafe V: strafed  strafing  strafes
+straggle V: straggled  straggling  straggles
+straggler N: stragglers
+straggly A: stragglier  straggliest
+straight A: straighter  straightest
+straight N: straights
+straightaway A:
+straightaway N: straightaways
+straightedge N: straightedges
+straighten V: straightened  straightening  straightens
+straightener N: straighteners
+straightforward A:
+straightforwardly A:
+straightforwardness N: ~straightforwardnesses
+straightforwards A:
+straightjacket N: straightjackets
+straightjacket V: straightjacketed  straightjacketing  straightjackets
+straightly A:
+straightness N: ~straightnesses
+straightway A:
+strain N: strains
+strain V: strained  straining  strains
+strainer N: strainers
+-strait A: straiter  straitest
+strait N: straits
+straiten V: straitened  straitening  straitens
+straitjacket N: straitjackets
+straitjacket V: straitjacketed  straitjacketing  straitjackets
+straitlaced A:
+strand N: strands
+strand V: stranded  stranding  strands
+strange A: stranger  strangest
+strangely A:
+strangeness N: ~strangenesses
+stranger N: strangers
+strangle V: strangled  strangling  strangles
+stranglehold N: strangleholds
+strangler N: stranglers
+strangulate V: strangulated  strangulating  strangulates
+strangulation N: ~strangulations
+strap N: straps
+strap V: strapped  strapping  straps
+strapless A:
+strapless N: straplesses
+strapping N: ~strappings
+-strata N: stratas
+stratagem N: stratagems
+strategic A:
+strategical A:
+strategically A:
+strategics N:
+strategist N: strategists
+strategy N: strategies
+stratification N: ~stratifications
+stratify V: stratified  stratifying  stratifies
+stratosphere N: stratospheres
+stratospheric A:
+stratum N: strata (stratums)
+stratus N: strati
+straw A:
+straw N: straws
+strawberry N: strawberries
+stray A:
+stray N: strays
+stray V: strayed  straying  strays
+streak N: streaks
+streak V: streaked  streaking  streaks
+streaker N: streakers
+streaky A: streakier  streakiest
+stream N: streams
+stream V: streamed  streaming  streams
+streamer N: streamers
+streamline A:
+-streamline N: streamlines
+streamline V: streamlined  streamlining  streamlines
+street A:
+street N: streets
+streetcar N: streetcars
+streetlight N: streetlights
+streetwalker N: streetwalkers
+streetwise A:
+strength N: strengths
+strengthen V: strengthened  strengthening  strengthens
+strengthener N: strengtheners
+strenuous A:
+strenuously A:
+strenuousness N: ~strenuousnesses
+strep N: ~streps
+streptococcal A:
+streptococcus N: streptococci
+streptomycin N: ~streptomycins
+stress N: stresses
+stress V: stressed  stressing  stresses
+stressful A:
+stretch A:
+stretch N: stretches
+stretch V: stretched  stretching  stretches
+stretchable A:
+stretcher N: stretchers
+-stretcher V: stretchered  stretchering  stretchers
+stretchy A: stretchier  stretchiest
+strew V: strewed  strewed / strewn  strewing  strews
+stria N: striae
+striated A:
+striation N: striations
+stricken A:
+strict A: stricter  strictest
+strictly A:
+strictness N: ~strictnesses
+stricture N: strictures
+stride N: strides
+stride V: strode  stridden  striding  strides
+stridency N: ~stridencies
+strident A:
+stridently A:
+strife N: ~strifes
+strike N: strikes
+strike V: struck  struck (stricken)  striking  strikes
+strikebreaker N: strikebreakers
+strikeout N: strikeouts
+striker N: strikers
+strikingly A:
+string N: strings
+string V: strung  stringing  strings
+stringed A:
+stringency N: ~stringencies
+stringent A:
+stringently A:
+stringer N: stringers
+stringiness N: ~stringinesses
+stringy A: stringier  stringiest
+strip N: strips
+strip V: stripped (stript)  stripping  strips
+stripe N: stripes
+stripe V: striped  striping  stripes
+stripling N: striplings
+stripper N: strippers
+striptease N: stripteases
+striptease V: stripteased  stripteasing  stripteases
+stripteaser N: stripteasers
+stripy A: !stripier  !stripiest
+strive V: strove (strived)  striven (strived)  striving  strives
+strobe N: strobes
+stroboscope N: stroboscopes
+stroboscopic A:
+stroke N: strokes
+stroke V: stroked  stroking  strokes
+stroll N: strolls
+stroll V: strolled  strolling  strolls
+stroller N: strollers
+strong A: stronger  strongest
+strongbox N: strongboxes
+stronghold N: strongholds
+strongly A:
+strongman N: strongmen
+strontium N: ~strontiums
+strop N: strops
+strop V: stropped  stropping  strops
+strophe N: strophes
+strophic A:
+structural A:
+structurally A:
+structure N: structures
+structure V: structured  structuring  structures
+strudel N: strudels
+struggle N: struggles
+struggle V: struggled  struggling  struggles
+strum N: strums
+strum V: strummed  strumming  strums
+strumpet N: strumpets
+strut N: struts
+strut V: strutted  strutting  struts
+strychnine N: ~strychnines
+stub N: stubs
+stub V: stubbed  stubbing  stubs
+stubble N: ~stubbles
+stubbly A: !stubblier  !stubbliest
+stubborn A: stubborner  stubbornest
+stubbornly A:
+stubbornness N: ~stubbornnesses
+stubby A: stubbier  stubbiest
+stucco N: stuccoes (stuccos)
+stucco V: stuccoed  stuccoing  stuccoes (stuccos)
+stud A:
+stud N: studs
+stud V: studded  studding  studs
+studbook N: studbooks
+studding N: ~studdings
+student N: students
+studiedly A:
+studio N: studios
+studious A:
+studiously A:
+studiousness N: ~studiousnesses
+study N: studies
+study V: studied  studying  studies
+stuff N: ~stuffs
+stuff V: stuffed  stuffing  stuffs
+stuffily A:
+stuffiness N: ~stuffinesses
+stuffing N: ~stuffings
+stuffy A: stuffier  stuffiest
+stultification N: ~stultifications
+stultify V: stultified  stultifying  stultifies
+stumble N: stumbles
+stumble V: stumbled  stumbling  stumbles
+stumbler N: stumblers
+stump N: stumps
+stump V: stumped  stumping  stumps
+stumpy A: stumpier  stumpiest
+-stun N: stuns
+stun V: stunned  stunning  stuns
+stunningly A:
+stunt N: stunts
+stunt V: stunted  stunting  stunts
+stupefaction N: ~stupefactions
+stupefy V: stupefied  stupefying  stupefies
+stupendous A:
+stupendously A:
+stupid A: stupider  stupidest
+stupid N: stupids
+stupidity N: stupidities
+stupidly A:
+stupor N: stupors
+sturdily A:
+sturdiness N: ~sturdinesses
+sturdy A: sturdier  sturdiest
+-sturdy N: sturdies
+sturgeon N: sturgeon | sturgeons
+stutter N: stutters
+stutter V: stuttered  stuttering  stutters
+stutterer N: stutterers
+sty N: sties
+-sty V: stied  stying  sties
+stye N: styes
+style N: styles
+style V: styled  styling  styles
+stylish A:
+stylishly A:
+stylishness N: ~stylishnesses
+stylist N: stylists
+stylistic A:
+stylistically A:
+stylize V: stylized  stylizing  stylizes
+stylus N: styluses / styli
+stymie N: stymies
+stymie V: stymied  stymieing  stymies
+stymy N: stymies
+stymy V: stymied  stymying  stymies
+styptic A:
+styptic N: styptics
+suasion N: ~suasions
+suave A: suaver  suavest
+suavely A:
+suaveness N: ~suavenesses
+suavity N: ~suavities
+sub N: subs
+sub V: subbed  subbing  subs
+subaltern N: subalterns
+subarctic A:
+subarea N: subareas
+subatomic A:
+subbasement N: subbasements
+subbranch N: subbranches
+subcategory N: subcategories
+subcommittee N: subcommittees
+subcompact A:
+subcompact N: subcompacts
+subconscious A:
+subconscious N: ~subconsciouses
+subconsciously A:
+subconsciousness N: ~subconsciousnesses
+subcontinent N: subcontinents
+subcontinental A:
+subcontract N: subcontracts
+subcontract V: subcontracted  subcontracting  subcontracts
+subcontractor N: subcontractors
+subculture N: subcultures
+-subculture V: subcultured  subculturing  subcultures
+subcutaneous A:
+subcutaneously A:
+subdivide V: subdivided  subdividing  subdivides
+subdivision N: subdivisions
+subdue V: subdued  subduing  subdues
+subfamily N: subfamilies
+subfreezing A:
+subgroup N: subgroups
+subhead N: subheads
+subheading N: subheadings
+subhuman A:
+subhuman N: subhumans
+subject A:
+subject N: subjects
+subject V: subjected  subjecting  subjects
+subjection N: ~subjections
+subjective A:
+subjectively A:
+subjectivity N: ~subjectivities
+subjoin V: subjoined  subjoining  subjoins
+subjugate V: subjugated  subjugating  subjugates
+subjugation N: ~subjugations
+subjunctive A:
+subjunctive N: subjunctives
+sublease N: subleases
+sublease V: subleased  subleasing  subleases
+sublet N: sublets
+sublet V: sublet  subletting  sublets
+-sublimate N: sublimates
+sublimate V: sublimated  sublimating  sublimates
+sublimation N: ~sublimations
+sublime A: sublimer  sublimest
+sublime V: sublimed  subliming  sublimes
+sublimely A:
+subliminal A:
+sublimity N: ~sublimities
+submarginal A:
+submarine A:
+submarine N: submarines
+-submarine V: submarined  submarining  submarines
+submariner N: submariners
+submerge V: submerged  submerging  submerges
+submergence N: ~submergences
+submerse V: submersed  submersing  submerses
+submersible A:
+submersible N: submersibles
+submersion N: ~submersions
+submicroscopic A:
+submission N: submissions
+submissive A:
+submissively A:
+submissiveness N: ~submissivenesses
+submit V: submitted  submitting  submits
+subnormal A:
+-subnormal N: subnormals
+suborbital A:
+suborder N: suborders
+subordinate A:
+subordinate N: subordinates
+subordinate V: subordinated  subordinating  subordinates
+subordination N: ~subordinations
+suborn V: suborned  suborning  suborns
+subornation N: ~subornations
+subpena N: subpenas
+subpena V: subpenaed  subpenaing  subpenas
+subplot N: subplots
+subpoena N: subpoenas
+subpoena V: subpoenaed  subpoenaing  subpoenas
+subprofessional N: subprofessionals
+subroutine N: subroutines
+subscribe V: subscribed  subscribing  subscribes
+subscriber N: subscribers
+subscript A:
+subscript N: subscripts
+subscription N: subscriptions
+subsection N: subsections
+subsequent A:
+subsequently A:
+subservience N: ~subserviences
+subservient A:
+subserviently A:
+subset N: subsets
+subside V: subsided  subsiding  subsides
+subsidence N: ~subsidences
+subsidiary A:
+subsidiary N: subsidiaries
+subsidization N: ~subsidizations
+subsidize V: subsidized  subsidizing  subsidizes
+subsidizer N: subsidizers
+subsidy N: subsidies
+subsist V: subsisted  subsisting  subsists
+subsistence N: ~subsistences
+subsoil N: ~subsoils
+subsonic A:
+subspecies N: subspecies
+substance N: substances
+substandard A:
+substantial A:
+-substantial N: substantials
+substantially A:
+substantiate V: substantiated  substantiating  substantiates
+substantiation N: substantiations
+substantive A:
+substantive N: substantives
+substantively A:
+substation N: substations
+substitute A:
+substitute N: substitutes
+substitute V: substituted  substituting  substitutes
+substitution N: substitutions
+substrate N: substrates
+substratum N: substrata (substratums)
+substructure N: substructures
+subsume V: subsumed  subsuming  subsumes
+subsurface A:
+subsurface N: ~subsurfaces
+subsystem N: subsystems
+-subteen A:
+subteen N: subteens
+subtenancy N: ~subtenancies
+subtenant N: subtenants
+subterfuge N: subterfuges
+subterranean A:
+-subterranean N: subterraneans
+subtext N: subtexts
+subtitle N: subtitles
+subtitle V: subtitled  subtitling  subtitles
+subtitled A:
+subtle A: subtler  subtlest
+subtlety N: subtleties
+subtly A:
+subtopic N: subtopics
+subtotal N: subtotals
+subtotal V: subtotaled (subtotalled)  subtotaling (subtotalling)  subtotals
+subtract V: subtracted  subtracting  subtracts
+subtraction N: subtractions
+subtrahend N: subtrahends
+subtropic A:
+subtropical A:
+subtropics N:
+suburb N: suburbs
+suburban A:
+suburban N: suburbans
+suburbanite N: suburbanites
+suburbia N: ~suburbias
+subvention N: subventions
+subversion N: ~subversions
+subversive A:
+subversive N: subversives
+subversively A:
+subversiveness N: ~subversivenesses
+subvert V: subverted  subverting  subverts
+subway N: subways
+-subway V: subwayed  subwaying  subways
+subzero A:
+succeed V: succeeded  succeeding  succeeds
+success N: successes
+successful A:
+successfully A:
+succession N: successions
+successive A:
+successively A:
+successor N: successors
+succinct A: succincter  succinctest
+succinctly A:
+succinctness N: ~succinctnesses
+succor N: ~succors
+succor V: succored  succoring  succors
+succotash N: ~succotashes
+succour N: ~succours
+succour V: succoured  succouring  succours
+succulence N: ~succulences
+succulency N: ~succulencies
+succulent A:
+succulent N: succulents
+succumb V: succumbed  succumbing  succumbs
+such A:
+such P:
+suchlike A:
+suck N: sucks
+suck V: sucked  sucking  sucks
+sucker N: suckers
+sucker V: suckered  suckering  suckers
+suckle V: suckled  suckling  suckles
+suckling N: sucklings
+sucrose N: ~sucroses
+suction N: ~suctions
+suction V: suctioned  suctioning  suctions
+sudden A:
+-sudden N: suddens
+suddenly A:
+suddenness N: ~suddennesses
+suds N:
+-suds V: sudsed  sudsing  sudses
+sudsy A: sudsier  sudsiest
+sue V: sued  suing  sues
+suede N: ~suedes
+-suede V: sueded  sueding  suedes
+suet N: ~suets
+suety A: -suetier  -suetiest
+suffer V: suffered  suffering  suffers
+sufferance N: ~sufferances
+sufferer N: sufferers
+suffering N: sufferings
+suffice V: sufficed  sufficing  suffices
+sufficiency N: ~sufficiencies
+sufficient A:
+sufficiently A:
+suffix N: suffixes
+suffix V: suffixed  suffixing  suffixes
+suffixation N: ~suffixations
+suffocate V: suffocated  suffocating  suffocates
+suffocation N: ~suffocations
+suffragan A:
+suffragan N: suffragans
+suffrage N: ~suffrages
+suffragette N: suffragettes
+suffragist N: suffragists
+suffuse V: suffused  suffusing  suffuses
+suffusion N: ~suffusions
+sugar N: sugars
+sugar V: sugared  sugaring  sugars
+sugarcane N: ~sugarcanes
+sugarcoat V: sugarcoated  sugarcoating  sugarcoats
+sugarless A:
+sugarplum N: sugarplums
+sugary A: sugarier  sugariest
+suggest V: suggested  suggesting  suggests
+suggestibility N: ~suggestibilities
+suggestible A:
+suggestion N: suggestions
+suggestive A:
+suggestively A:
+suggestiveness N: ~suggestivenesses
+suicidal A:
+suicide N: suicides
+-suicide V: suicided  suiciding  suicides
+suit N: suits
+suit V: suited  suiting  suits
+suitability N: ~suitabilities
+suitable A:
+suitableness N: ~suitablenesses
+suitably A:
+suitcase N: suitcases
+suite N: suites
+suiting N: ~suitings
+suitor N: suitors
+sukiyaki N: ~sukiyakis
+sulfa A:
+sulfa N: ~sulfas
+sulfate N: sulfates
+-sulfate V: sulfated  sulfating  sulfates
+sulfide N: sulfides
+sulfur N: ~sulfurs
+-sulfur V: sulfured  sulfuring  sulfurs
+sulfuric A:
+sulfurous A:
+sulk N: sulks
+sulk V: sulked  sulking  sulks
+sulkily A:
+sulkiness N: ~sulkinesses
+sulky A: sulkier  sulkiest
+sulky N: sulkies
+sullen A: sullener  sullenest
+sullenly A:
+sullenness N: ~sullennesses
+-sully N: sullies
+sully V: sullied  sullying  sullies
+sulphur N: ~sulphurs
+sulphur V: sulphured  sulphuring  sulphurs
+sulphurous A:
+sultan N: sultans
+sultana N: sultanas
+sultanate N: sultanates
+sultrily A:
+sultriness N: ~sultrinesses
+sultry A: sultrier  sultriest
+sum N: sums
+sum V: summed  summing  sums
+sumac N: ~sumacs
+sumach N: ~sumachs
+summarily A:
+summarize V: summarized  summarizing  summarizes
+summary A:
+summary N: summaries
+summation N: summations
+summer A:
+summer N: summers
+summer V: summered  summering  summers
+summerhouse N: summerhouses
+summertime N: ~summertimes
+summery A: !summerier  !summeriest
+summit N: summits
+-summit V: summited  summiting  summits
+summitry N: ~summitries
+summon V: summoned  summoning  summons
+summoner N: summoners
+summons N: summonses
+summons V: summonsed  summonsing  summonses
+sumo N: ~sumos
+sump N: sumps
+sumptuous A:
+sumptuously A:
+sumptuousness N: ~sumptuousnesses
+sun N: suns
+sun V: sunned  sunning  suns
+sunbath N: sunbaths
+sunbathe V: sunbathed  sunbathing  sunbathes
+sunbather N: sunbathers
+sunbathing N: ~sunbathings
+sunbeam N: sunbeams
+sunblock N: sunblocks
+sunbonnet N: sunbonnets
+sunburn N: sunburns
+sunburn V: sunburned (sunburnt)  sunburning  sunburns
+-sunburst A:
+sunburst N: sunbursts
+sundae N: sundaes
+sunder V: sundered  sundering  sunders
+sundial N: sundials
+sundown N: sundowns
+-sundown V: sundowned  sundowning  sundowns
+sundries N:
+sundry A:
+sunfish N: sunfish | sunfishes
+sunflower N: sunflowers
+sunglasses N:
+sunken A:
+sunlamp N: sunlamps
+sunless A:
+sunlight N: ~sunlights
+sunlit A:
+sunniness N: ~sunninesses
+sunny A: sunnier  sunniest
+-sunrise A:
+sunrise N: sunrises
+sunroof N: sunroofs
+sunscreen N: sunscreens
+sunset A:
+sunset N: sunsets
+sunshade N: sunshades
+sunshine N: ~sunshines
+sunshiny A:
+sunspot N: sunspots
+sunstroke N: ~sunstrokes
+suntan N: suntans
+suntan V: suntanned  suntanning  suntans
+sunup N: ~sunups
+sup N: sups
+sup V: supped  supping  sups
+super A:
+super N: supers
+superabundance N: superabundances
+superabundant A:
+superannuate V: superannuated  superannuating  superannuates
+superannuation N: ~superannuations
+superb A: superber  superbest
+superbly A:
+supercargo N: supercargoes (supercargos)
+supercharge V: supercharged  supercharging  supercharges
+supercharger N: superchargers
+supercilious A:
+superciliously A:
+superciliousness N: ~superciliousnesses
+supercity N: supercities
+supercomputer N: supercomputers
+superconducting A:
+superconductive A:
+superconductivity N: ~superconductivities
+superconductor N: superconductors
+superego N: superegos
+supererogation N: ~supererogations
+supererogatory A:
+superficial A:
+superficiality N: ~superficialities
+superficially A:
+superfine A:
+superfluity N: ~superfluities
+superfluous A:
+superfluously A:
+superfluousness N: ~superfluousnesses
+superhero N: superheroes
+superhighway N: superhighways
+superhuman A:
+-superhuman N: superhumans
+superimpose V: superimposed  superimposing  superimposes
+superimposition N: ~superimpositions
+superintend V: superintended  superintending  superintends
+superintendence N: ~superintendences
+superintendency N: ~superintendencies
+superintendent A:
+superintendent N: superintendents
+superior A:
+superior N: superiors
+superiority N: ~superiorities
+superlative A:
+superlative N: superlatives
+superlatively A:
+superman N: supermen
+supermarket N: supermarkets
+supermom N: supermoms
+supernal A:
+supernatural A:
+supernaturally A:
+supernova N: supernovas / supernovae
+supernumerary A:
+supernumerary N: supernumeraries
+superpose V: superposed  superposing  superposes
+superposition N: ~superpositions
+superpower N: superpowers
+supersaturate V: supersaturated  supersaturating  supersaturates
+supersaturation N: ~supersaturations
+superscribe V: superscribed  superscribing  superscribes
+superscript A:
+superscript N: superscripts
+superscription N: ~superscriptions
+supersede V: superseded  superseding  supersedes
+supersonic A:
+superstar N: superstars
+superstition N: superstitions
+superstitious A:
+superstitiously A:
+superstore N: superstores
+superstructure N: superstructures
+supertanker N: supertankers
+supervene V: supervened  supervening  supervenes
+supervention N: ~superventions
+supervise V: supervised  supervising  supervises
+supervision N: ~supervisions
+supervisor N: supervisors
+supervisory A:
+superwoman N: superwomen
+supine A:
+-supine N: supines
+supper N: suppers
+-supper V: suppered  suppering  suppers
+supplant V: supplanted  supplanting  supplants
+supple A: suppler  supplest
+-supple V: suppled  suppling  supples
+supplement N: supplements
+supplement V: supplemented  supplementing  supplements
+supplemental A:
+-supplemental N: supplementals
+supplementary A:
+-supplementary N: supplementaries
+supplementation N: ~supplementations
+suppleness N: ~supplenesses
+suppliant A:
+suppliant N: suppliants
+supplicant A:
+supplicant N: supplicants
+supplicate V: supplicated  supplicating  supplicates
+supplication N: supplications
+supplier N: suppliers
+supply A:
+supply N: supplies
+supply V: supplied  supplying  supplies
+support A:
+support N: supports
+support V: supported  supporting  supports
+supportable A:
+supporter N: supporters
+supportive A:
+suppose V: supposed  supposing  supposes
+supposedly A:
+supposing C:
+supposition N: suppositions
+suppository N: suppositories
+suppress V: suppressed  suppressing  suppresses
+suppressant N: suppressants
+suppressible A:
+suppression N: ~suppressions
+suppressor A:
+suppressor N: suppressors
+suppurate V: suppurated  suppurating  suppurates
+suppuration N: ~suppurations
+supra A:
+supranational A:
+supremacist N: supremacists
+supremacy N: ~supremacies
+supreme A: -supremer  -supremest
+-supreme N: supremes
+supremely A:
+surcease N: ~surceases
+surcease V: surceased  surceasing  surceases
+surcharge N: surcharges
+surcharge V: surcharged  surcharging  surcharges
+surcingle N: surcingles
+sure A: surer  surest
+surefire A:
+surefooted A:
+surely A:
+sureness N: ~surenesses
+surety N: sureties
+surf N: ~surfs
+surf V: surfed  surfing  surfs
+surface A:
+surface N: surfaces
+surface V: surfaced  surfacing  surfaces
+surfboard N: surfboards
+surfboard V: surfboarded  surfboarding  surfboards
+surfeit N: surfeits
+surfeit V: surfeited  surfeiting  surfeits
+surfer N: surfers
+surfing N: ~surfings
+surge N: surges
+surge V: surged  surging  surges
+surgeon N: surgeons
+surgery N: surgeries
+surgical A:
+surgically A:
+surliness N: ~surlinesses
+surly A: surlier  surliest
+surmise N: surmises
+surmise V: surmised  surmising  surmises
+surmount V: surmounted  surmounting  surmounts
+surmountable A:
+surname N: surnames
+-surname V: surnamed  surnaming  surnames
+surpass V: surpassed  surpassing  surpasses
+surplice N: surplices
+surplus A:
+surplus N: surpluses
+surplus V: surplussed (surplused)  surplussing (surplusing)  surpluses
+surprise A:
+surprise N: surprises
+surprise V: surprised  surprising  surprises
+surprisingly A:
+surreal A:
+surrealism N: ~surrealisms
+surrealist A:
+surrealist N: surrealists
+surrealistic A:
+surrealistically A:
+surrender N: surrenders
+surrender V: surrendered  surrendering  surrenders
+surreptitious A:
+surreptitiously A:
+surreptitiousness N: ~surreptitiousnesses
+surrey N: surreys
+surrogacy N: ~surrogacies
+surrogate A:
+surrogate N: surrogates
+-surrogate V: surrogated  surrogating  surrogates
+-surround N: surrounds
+surround V: surrounded  surrounding  surrounds
+surrounding N: surroundings
+surroundings N:
+surtax N: surtaxes
+surtax V: surtaxed  surtaxing  surtaxes
+surveillance N: ~surveillances
+survey N: surveys
+survey V: surveyed  surveying  surveys
+surveying N: ~surveyings
+surveyor N: surveyors
+survival N: survivals
+survivalist A:
+survivalist N: survivalists
+survive V: survived  surviving  survives
+survivor N: survivors
+susceptibility N: ~susceptibilities
+susceptible A:
+sushi N: ~sushis
+suspect A:
+suspect N: suspects
+suspect V: suspected  suspecting  suspects
+suspend V: suspended  suspending  suspends
+suspender N: suspenders
+suspense N: ~suspenses
+suspenseful A:
+suspension N: suspensions
+suspicion N: suspicions
+-suspicion V: suspicioned  suspicioning  suspicions
+suspicious A:
+suspiciously A:
+sustain V: sustained  sustaining  sustains
+sustainable A:
+sustenance N: ~sustenances
+sutler N: sutlers
+suture N: sutures
+suture V: sutured  suturing  sutures
+suzerain N: suzerains
+suzerainty N: ~suzerainties
+svelte A: svelter  sveltest
+swab N: swabs
+swab V: swabbed  swabbing  swabs
+-swaddle N: swaddles
+swaddle V: swaddled  swaddling  swaddles
+swag N: ~swags
+swag V: swagged  swagging  swags
+swagger N: swaggers
+swagger V: swaggered  swaggering  swaggers
+swain N: swains
+swallow N: swallows
+swallow V: swallowed  swallowing  swallows
+swallowtail N: swallowtails
+swami N: swamis
+swamp A:
+swamp N: swamps
+swamp V: swamped  swamping  swamps
+swampland N: ~swamplands
+swampy A: swampier  swampiest
+swan N: swans (swan)
+-swan V: swanned  swanning  swans
+swank A: swanker  swankest
+swank N: swanks
+swank V: swanked  swanking  swanks
+swankily A:
+swankiness N: ~swankinesses
+swanky A: swankier  swankiest
+swansdown N: ~swansdowns
+swap N: swaps
+swap V: swapped  swapping  swaps
+sward N: swards
+-sward V: swarded  swarding  swards
+swarm N: swarms
+swarm V: swarmed  swarming  swarms
+swarthy A: swarthier  swarthiest
+swash N: swashes
+swash V: swashed  swashing  swashes
+swashbuckler N: swashbucklers
+swashbuckling N: ~swashbucklings
+swastika N: swastikas
+swat N: swats
+swat V: swatted  swatting  swats
+swatch N: swatches
+swath N: swaths
+swathe N: swathes
+swathe V: swathed  swathing  swathes
+swatter N: swatters
+sway N: ~sways
+sway V: swayed  swaying  sways
+swayback A:
+swayback N: ~swaybacks
+swaybacked A:
+swear V: swore  sworn  swearing  swears
+swearer N: swearers
+swearword N: swearwords
+sweat N: ~sweats
+sweat V: sweat (sweated)  sweating  sweats
+sweatband N: sweatbands
+sweater N: sweaters
+sweatpants N:
+sweats N:
+sweatshirt N: sweatshirts
+sweatshop N: sweatshops
+sweaty A: sweatier  sweatiest
+swede N: swedes
+sweep N: sweeps
+sweep V: swept  sweeping  sweeps
+sweeper N: sweepers
+sweeping N: sweepings
+sweepingly A:
+sweepings N:
+sweepstake N: sweepstakes
+sweepstakes N: sweepstakes
+sweet A: sweeter  sweetest
+sweet N: sweets
+sweetbread N: sweetbreads
+sweetbriar N: sweetbriars
+sweetbrier N: sweetbriers
+sweeten V: sweetened  sweetening  sweetens
+sweetener N: sweeteners
+sweetening N: ~sweetenings
+sweetheart N: sweethearts
+sweetie N: sweeties
+sweetish A:
+sweetly A:
+sweetmeat N: sweetmeats
+sweetness N: ~sweetnesses
+swell A: sweller  swellest
+swell N: swells
+swell V: swelled  swollen / swelled  swelling  swells
+swellhead N: swellheads
+swellheaded A:
+swelling N: swellings
+swelter N: swelters
+swelter V: sweltered  sweltering  swelters
+sweptback A:
+swerve N: swerves
+swerve V: swerved  swerving  swerves
+swift A: swifter  swiftest
+swift N: swifts
+swiftly A: -swiftlier  -swiftliest
+swiftness N: ~swiftnesses
+swig N: swigs
+swig V: swigged  swigging  swigs
+swill N: ~swills
+swill V: swilled  swilling  swills
+swim N: swims
+swim V: swam  swum  swimming  swims
+swimmer N: swimmers
+swimming N: ~swimmings
+swimmingly A:
+swimsuit N: swimsuits
+swindle N: swindles
+swindle V: swindled  swindling  swindles
+swindler N: swindlers
+swine N: swine | swines {villain}
+swineherd N: swineherds
+swing A:
+swing N: swings
+swing V: swung  swinging  swings
+swinger N: swingers
+-swinging N: swingings
+swinish A:
+swipe N: swipes
+swipe V: swiped  swiping  swipes
+swirl N: swirls
+swirl V: swirled  swirling  swirls
+swirly A: !swirlier  !swirliest
+swish A: swisher  swishest
+swish N: swishes
+swish V: swished  swishing  swishes
+switch N: switches
+switch V: switched  switching  switches
+switchback N: switchbacks
+-switchback V: switchbacked  switchbacking  switchbacks
+switchblade N: switchblades
+switchboard N: switchboards
+switcher N: switchers
+swivel N: swivels
+swivel V: swiveled (swivelled)  swiveling (swivelling)  swivels
+swob N: swobs
+swob V: swobbed  swobbing  swobs
+swoon N: swoons
+swoon V: swooned  swooning  swoons
+swoop N: swoops
+swoop V: swooped  swooping  swoops
+swoosh N: swooshes
+swoosh V: swooshed  swooshing  swooshes
+swop N: swops
+swop V: swopped  swopping  swops
+sword N: swords
+swordfish N: swordfish | swordfishes
+swordplay N: ~swordplays
+swordsman N: swordsmen
+swordsmanship N: ~swordsmanships
+sybarite N: sybarites
+sybaritic A:
+sycamore N: sycamores
+sycophancy N: ~sycophancies
+sycophant N: sycophants
+sycophantic A:
+syllabic A:
+-syllabic N: syllabics
+syllabicate V: syllabicated  syllabicating  syllabicates
+syllabication N: ~syllabications
+syllabification N: ~syllabifications
+syllabify V: syllabified  syllabifying  syllabifies
+syllable N: syllables
+-syllable V: syllabled  syllabling  syllables
+syllabus N: syllabuses (syllabi)
+syllogism N: syllogisms
+syllogistic A:
+-syllogistic N: syllogistics
+sylph N: sylphs
+sylphic A:
+sylphlike A:
+sylvan A:
+-sylvan N: sylvans
+symbiosis N: symbioses
+symbiotic A:
+symbol N: symbols
+-symbol V: symboled (symbolled)  symboling (symbolling)  symbols
+symbolic A:
+symbolical A:
+symbolically A:
+symbolism N: ~symbolisms
+symbolization N: ~symbolizations
+symbolize V: symbolized  symbolizing  symbolizes
+symmetric A:
+symmetrical A:
+symmetrically A:
+symmetry N: ~symmetries
+sympathetic A:
+sympathetically A:
+sympathies N:
+sympathize V: sympathized  sympathizing  sympathizes
+sympathizer N: sympathizers
+sympathy N: ~sympathies
+symphonic A:
+symphony N: symphonies
+symposium N: symposiums (symposia)
+symptom N: symptoms
+symptomatic A:
+symptomatically A:
+synagog N: synagogs
+synagogal A:
+synagogue N: synagogues
+synapse N: synapses
+-synapse V: synapsed  synapsing  synapses
+synaptic A:
+sync A:
+sync N: ~syncs
+sync V: synced  syncing  syncs
+synch N: ~synchs
+synch V: synched  synching  synchs
+synchronization N: synchronizations
+synchronize V: synchronized  synchronizing  synchronizes
+synchronous A:
+syncopate V: syncopated  syncopating  syncopates
+syncopation N: ~syncopations
+syncope N: ~syncopes
+syndicate N: syndicates
+syndicate V: syndicated  syndicating  syndicates
+syndication N: ~syndications
+syndrome N: syndromes
+synergism N: ~synergisms
+synergistic A:
+synergy N: ~synergies
+synfuel N: synfuels
+synod N: synods
+synonym N: synonyms
+synonymous A:
+synonymy N: ~synonymies
+synopsis N: synopses
+synoptic A:
+syntactic A:
+syntactical A:
+syntactically A:
+syntax N: ~syntaxes
+synthesis N: syntheses
+synthesize V: synthesized  synthesizing  synthesizes
+synthesizer N: synthesizers
+synthetic A:
+synthetic N: synthetics
+synthetically A:
+syphilis N: ~syphilises
+syphilitic A:
+syphilitic N: syphilitics
+syphon N: syphons
+syphon V: syphoned  syphoning  syphons
+syringe N: syringes
+syringe V: syringed  syringing  syringes
+syrup N: syrups
+-syrup V: syruped  syruping  syrups
+syrupy A:
+system N: systems
+systematic A:
+systematical A:
+systematically A:
+systematization N: ~systematizations
+systematize V: systematized  systematizing  systematizes
+systemic A:
+systemic N: systemics
+systemically A:
+systole N: systoles
+systolic A:

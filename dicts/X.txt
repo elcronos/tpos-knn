@@ -1,0 +1,12 @@
+xenon N: ~xenons
+xenophobe N: xenophobes
+xenophobia N: ~xenophobias
+xenophobic A:
+xerographic A:
+xerography N: ~xerographies
+xerox N: xeroxes
+xerox V: xeroxed  xeroxing  xeroxes
+xi N: xis
+xylem N: ~xylems
+xylophone N: xylophones
+xylophonist N: xylophonists

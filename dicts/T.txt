@@ -1,0 +1,2423 @@
+tab N: tabs
+tab V: tabbed  tabbing  tabs
+tabbouleh N: ~tabboulehs
+tabby A:
+tabby N: tabbies
+-tabby V: tabbied  tabbying  tabbies
+tabernacle N: tabernacles
+-tabernacle V: tabernacled  tabernacling  tabernacles
+tabla N: tablas
+table N: tables
+table V: tabled  tabling  tables
+tableau N: tableaux (tableaus)
+tablecloth N: tablecloths
+tableland N: tablelands
+tablespoon N: tablespoons
+tablespoonful N: tablespoonfuls (tablespoonsful)
+tablet N: tablets
+-tablet V: tableted (tabletted)  tableting (tabletting)  tablets
+tabletop A:
+tabletop N: tabletops
+tableware N: ~tablewares
+tabloid A:
+tabloid N: tabloids
+taboo A:
+taboo N: taboos
+taboo V: tabooed  tabooing  taboos
+tabor N: tabors
+-tabor V: tabored  taboring  tabors
+tabu A:
+tabu N: tabus
+tabu V: tabued  tabuing  tabus
+tabular A:
+tabulate V: tabulated  tabulating  tabulates
+tabulation N: ~tabulations
+tabulator N: tabulators
+tachometer N: tachometers
+tachycardia N: ~tachycardias
+tacit A:
+tacitly A:
+tacitness N: ~tacitnesses
+taciturn A:
+taciturnity N: ~taciturnities
+taciturnly A:
+tack N: tacks
+tack V: tacked  tacking  tacks
+tacker N: tackers
+tackiness N: ~tackinesses
+tackle N: tackles
+tackle V: tackled  tackling  tackles
+tackler N: tacklers
+tacky A: tackier  tackiest
+taco N: tacos
+tact N: ~tacts
+tactful A:
+tactfully A:
+tactfulness N: ~tactfulnesses
+tactic N: tactics
+tactical A:
+tactically A:
+tactician N: tacticians
+tactile A:
+tactility N: ~tactilities
+tactless A:
+tactlessly A:
+tactlessness N: ~tactlessnesses
+tad N: tads
+tadpole N: tadpoles
+taffeta A:
+taffeta N: ~taffetas
+taffrail N: taffrails
+taffy N: taffies
+tag N: tags
+tag V: tagged  tagging  tags
+tagger N: taggers
+taiga N: taigas
+tail A:
+tail N: tails
+tail V: tailed  tailing  tails
+tailback N: tailbacks
+tailcoat N: tailcoats
+tailgate N: tailgates
+tailgate V: tailgated  tailgating  tailgates
+tailgater N: tailgaters
+tailless A:
+taillight N: taillights
+tailor N: tailors
+tailor V: tailored  tailoring  tailors
+tailoring N: ~tailorings
+tailpipe N: tailpipes
+tailspin N: tailspins
+tailwind N: tailwinds
+taint N: taints
+taint V: tainted  tainting  taints
+take N: takes
+take V: took  taken  taking  takes
+takeoff N: takeoffs
+takeout A:
+takeout N: takeouts
+takeover N: takeovers
+taker N: takers
+taking N: takings
+takings N:
+talc N: ~talcs
+-talc V: talcked (talced)  talcking (talcing)  talcs
+talcum N: ~talcums
+tale N: tales
+talebearer N: talebearers
+talent N: talents
+talented A:
+talisman N: talismans
+talk N: talks
+talk V: talked  talking  talks
+talkative A:
+talkatively A:
+talkativeness N: ~talkativenesses
+talker N: talkers
+talkie N: talkies
+talky A: talkier  talkiest
+tall A: taller  tallest
+tallboy N: tallboys
+tallier N: talliers
+tallish A:
+tallness N: ~tallnesses
+tallow N: ~tallows
+-tallow V: tallowed  tallowing  tallows
+tallowy A:
+tally N: tallies
+tally V: tallied  tallying  tallies
+tallyho I:
+tallyho N: tallyhos
+tallyho V: tallyhoed (-tallyho'd)  tallyhoing  tallyhos
+talon N: talons
+talus N: taluses {debris} | tali {anklebone}
+tam N: tams
+tamable A:
+tamale N: tamales
+tamarack N: tamaracks
+tamarind N: tamarinds
+tambourine N: tambourines
+tame A: tamer  tamest
+tame V: tamed  taming  tames
+tameable A:
+tamely A:
+tameness N: ~tamenesses
+tamer N: tamers
+tamp V: tamped  tamping  tamps
+-tamper N: tampers
+tamper V: tampered  tampering  tampers
+tamperer N: tamperers
+tampon N: tampons
+-tampon V: tamponed  tamponing  tampons
+tan A: tanner  tannest
+tan N: tans
+tan V: tanned  tanning  tans
+tanager N: tanagers
+tanbark N: ~tanbarks
+tandem A:
+tandem N: tandems
+tandoori A:
+tandoori N: ~tandooris
+tang N: tangs
+-tang V: tanged  tanging  tangs
+tangelo N: tangelos
+tangent A:
+tangent N: tangents
+tangential A:
+tangentially A:
+tangerine N: tangerines
+tangibility N: ~tangibilities
+tangible A:
+tangible N: tangibles
+tangibleness N: ~tangiblenesses
+tangibly A:
+tangle N: tangles
+tangle V: tangled  tangling  tangles
+tango N: tangos
+tango V: tangoed  tangoing  tangos
+tangy A: tangier  tangiest
+tank N: tanks
+tank V: tanked  tanking  tanks
+tankard N: tankards
+tanker N: tankers
+tankful N: tankfuls
+tanner N: tanners
+tannery N: tanneries
+tannin N: ~tannins
+tanning N: ~tannings
+tansy N: ~tansies
+tantalise V: tantalised  tantalising  tantalises
+tantalization N: ~tantalizations
+tantalize V: tantalized  tantalizing  tantalizes
+tantalizer N: tantalizers
+tantalizingly A:
+tantalum N: ~tantalums
+tantamount A:
+tantra N: ~tantras
+tantrum N: tantrums
+tap N: taps
+tap V: tapped  tapping  taps
+tape A:
+tape N: tapes
+tape V: taped  taping  tapes
+tapeline N: tapelines
+taper N: tapers
+taper V: tapered  tapering  tapers
+tapestry N: tapestries
+-tapestry V: tapestried  tapestrying  tapestries
+tapeworm N: tapeworms
+tapioca N: ~tapiocas
+tapir N: tapirs | tapir
+tapper N: tappers
+tappet N: tappets
+taproom N: taprooms
+taproot N: taproots
+tar A:
+tar N: ~tars
+tar V: tarred  tarring  tars
+tarantella N: tarantellas
+tarantula N: tarantulas (tarantulae)
+tardily A:
+tardiness N: ~tardinesses
+tardy A: tardier  tardiest
+tare N: tares
+tare V: tared  taring  tares
+target N: targets
+target V: targeted  targeting  targets
+tariff N: tariffs
+-tariff V: tariffed  tariffing  tariffs
+tarmac N: ~tarmacs
+tarmac V: tarmacked  tarmacking  tarmacs
+tarn N: tarns
+tarnish N: ~tarnishes
+tarnish V: tarnished  tarnishing  tarnishes
+taro N: taros
+tarot N: tarots
+tarp N: tarps
+tarpaulin N: tarpaulins
+tarpon N: tarpon | tarpons
+tarragon N: tarragons
+tarry A: tarrier  tarriest
+tarry V: tarried  tarrying  tarries
+tarsal A:
+tarsal N: tarsals
+tarsus N: tarsi
+tart A: tarter  tartest
+tart N: tarts
+tartan A:
+tartan N: tartans
+tartar N: tartars
+tartaric A:
+tartly A:
+tartness N: ~tartnesses
+task N: tasks
+task V: tasked  tasking  tasks
+taskmaster N: taskmasters
+taskmistress N: taskmistresses
+tassel N: tassels
+tassel V: tasseled (tasselled)  tasseling (tasselling)  tassels
+taste N: tastes
+taste V: tasted  tasting  tastes
+tasteful A:
+tastefully A:
+tastefulness N: ~tastefulnesses
+tasteless A:
+tastelessly A:
+tastelessness N: ~tastelessnesses
+taster N: tasters
+tastily A:
+tastiness N: ~tastinesses
+tasting N: tastings
+tasty A: tastier  tastiest
+tat V: tatted  tatting  tats
+tatami A:
+tatami N: tatami | tatamis
+tater N: taters
+tatter N: tatters
+tatter V: tattered  tattering  tatters
+tatterdemalion N: tatterdemalions
+tatting N: ~tattings
+tattle N: tattles
+tattle V: tattled  tattling  tattles
+tattler N: tattlers
+tattletale A:
+tattletale N: tattletales
+tattoo N: tattoos
+tattoo V: tattooed  tattooing  tattoos
+tattooer N: tattooers
+tattooist N: tattooists
+tau N: taus
+taunt N: taunts
+taunt V: taunted  taunting  taunts
+taunter N: taunters
+tauntingly A:
+taupe A:
+taupe N: ~taupes
+taut A: tauter  tautest
+tauten V: tautened  tautening  tautens
+tautly A:
+tautness N: ~tautnesses
+tautological A:
+tautologically A:
+tautologous A:
+tautology N: tautologies
+tavern N: taverns
+tawdrily A:
+tawdriness N: ~tawdrinesses
+tawdry A: tawdrier  tawdriest
+-tawdry N: tawdries
+tawny A: tawnier  tawniest
+tawny N: ~tawnies
+tax N: taxes
+tax V: taxed  taxing  taxes
+taxable A:
+-taxable N: taxables
+taxation N: ~taxations
+taxer N: taxers
+taxi N: taxis (taxies)
+taxi V: taxied  taxiing (taxying)  taxis (taxies)
+taxicab N: taxicabs
+taxidermist N: taxidermists
+taxidermy N: ~taxidermies
+taximeter N: taximeters
+taxonomic A:
+taxonomical A:
+taxonomist N: taxonomists
+taxonomy N: taxonomies
+taxpayer N: taxpayers
+taxpaying A:
+tea N: teas
+teacake N: teacakes
+-teach N: teaches
+teach V: taught  teaching  teaches
+teachable A:
+teacher N: teachers
+teaching N: teachings
+teacup N: teacups
+teacupful N: teacupfuls (-teacupsful)
+teak N: teaks
+teakettle N: teakettles
+teal A:
+teal N: teal | teals
+team A:
+team N: teams
+team V: teamed  teaming  teams
+teammate N: teammates
+teamster N: teamsters
+teamwork N: ~teamworks
+teapot N: teapots
+tear N: tears
+tear V {cry}: teared  tearing  tears
+tear V {rip}: tore  torn  tearing  tears
+teardrop N: teardrops
+tearful A:
+tearfully A:
+teargas N: ~teargases (~teargasses)
+teargas V: teargassed  teargassing  teargases (teargasses)
+tearjerker N: tearjerkers
+tearoom N: tearooms
+teary A: tearier  teariest
+tease N: teases
+tease V: teased  teasing  teases
+teasel N: teasels
+-teasel V: teaseled (teaselled)  teaseling (teaselling)  teasels
+teaser N: teasers
+teaspoon N: teaspoons
+teaspoonful N: teaspoonfuls (teaspoonsful)
+teat N: teats
+tech A:
+tech N: techs
+technetium N: ~technetiums
+technical A:
+technicality N: technicalities
+technically A:
+technician N: technicians
+technique N: techniques
+technocracy N: ~technocracies
+technocrat N: technocrats
+technocratic A:
+technological A:
+technologically A:
+technologist N: technologists
+technology N: technologies
+tectonic A:
+tectonics N:
+tedious A:
+tediously A:
+tediousness N: ~tediousnesses
+tedium N: ~tediums
+tee A:
+tee N: tees
+tee V: teed  teeing  tees
+teem V: teemed  teeming  teems
+teen A:
+teen N: teens
+teenage A:
+teenaged A:
+teenager N: teenagers
+teensy A: teensier  teensiest
+teeny A: teenier  teeniest
+teenybopper N: teenyboppers
+teepee N: teepees
+teeter N: teeters
+teeter V: teetered  teetering  teeters
+teethe V: teethed  teething  teethes
+teething N: ~teethings
+teetotal A:
+-teetotal V: teetotaled (teetotalled)  teetotaling (teetotalling)  teetotals
+teetotaler N: teetotalers
+teetotalism N: ~teetotalisms
+teetotaller N: teetotallers
+tektite N: tektites
+telecast N: telecasts
+telecast V: telecast (telecasted)  telecasting  telecasts
+telecaster N: telecasters
+telecommunication N: ~telecommunications
+telecommunications N: ~telecommunications
+telecommute V: telecommuted  telecommuting  telecommutes
+telecommuter N: telecommuters
+telecommuting N: ~telecommutings
+teleconference N: teleconferences
+teleconference V: teleconferenced  teleconferencing  teleconferences
+teleconferencing N: ~teleconferencings
+telegenic A:
+telegram N: telegrams
+-telegram V: telegrammed  telegramming  telegrams
+telegraph N: telegraphs
+telegraph V: telegraphed  telegraphing  telegraphs
+telegrapher N: telegraphers
+telegraphic A:
+telegraphically A:
+telegraphist N: telegraphists
+telegraphy N: ~telegraphies
+telekinesis N: ~telekineses
+telekinetic A:
+telemarketer N: telemarketers
+telemarketing N: ~telemarketings
+telemeter N: telemeters
+-telemeter V: telemetered  telemetering  telemeters
+telemetry N: telemetries
+telepathic A:
+telepathically A:
+telepathy N: ~telepathies
+telephone N: telephones
+telephone V: telephoned  telephoning  telephones
+telephoner N: telephoners
+telephonic A:
+telephony N: ~telephonies
+telephoto A:
+telephoto N: telephotos
+telephotography N: ~telephotographies
+teleplay N: teleplays
+teleprinter N: teleprinters
+teleprocessing N: ~teleprocessings
+teleprompter N: teleprompters
+telescope N: telescopes
+telescope V: telescoped  telescoping  telescopes
+telescopic A:
+telescopically A:
+teletext N: teletexts
+telethon N: telethons
+teletypewriter N: teletypewriters
+televangelism N: ~televangelisms
+televangelist N: televangelists
+televise V: televised  televising  televises
+television N: televisions
+telex N: telexes
+telex V: telexed  telexing  telexes
+-tell N: tells
+tell V: told  telling  tells
+teller N: tellers
+tellingly A:
+telltale A:
+telltale N: telltales
+tellurium N: ~telluriums
+telly N: tellies
+temblor N: temblors
+temerity N: ~temerities
+temp N: temps
+temp V: temped  temping  temps
+temper N: tempers
+temper V: tempered  tempering  tempers
+tempera N: temperas
+temperament N: temperaments
+temperamental A:
+temperamentally A:
+temperance N: ~temperances
+temperate A:
+temperately A:
+temperateness N: ~temperatenesses
+temperature N: temperatures
+tempest N: tempests
+-tempest V: tempested  tempesting  tempests
+tempestuous A:
+tempestuously A:
+tempestuousness N: ~tempestuousnesses
+template N: templates
+temple N: temples
+tempo N: tempos (tempi)
+temporal A:
+-temporal N: temporals
+temporally A:
+temporarily A:
+temporariness N: ~temporarinesses
+temporary A:
+temporary N: temporaries
+temporize V: temporized  temporizing  temporizes
+temporizer N: temporizers
+tempt V: tempted  tempting  tempts
+temptation N: temptations
+tempter N: tempters
+temptingly A:
+temptress N: temptresses
+tempura N: ~tempuras
+ten A:
+ten N: tens
+tenability N: ~tenabilities
+tenable A:
+tenably A:
+tenacious A:
+tenaciously A:
+tenaciousness N: ~tenaciousnesses
+tenacity N: ~tenacities
+tenancy N: tenancies
+tenant N: tenants
+tenant V: tenanted  tenanting  tenants
+tenantry N: ~tenantries
+tend V: tended  tending  tends
+tendency N: tendencies
+tendentious A:
+tendentiously A:
+tendentiousness N: ~tendentiousnesses
+tender A: tenderer  tenderest
+tender N: tenders
+tender V: tendered  tendering  tenders
+tenderfoot N: tenderfoots (tenderfeet)
+tenderhearted A:
+tenderheartedly A:
+tenderheartedness N: ~tenderheartednesses
+tenderize V: tenderized  tenderizing  tenderizes
+tenderizer N: tenderizers
+tenderloin N: tenderloins
+tenderly A:
+tenderness N: ~tendernesses
+tendinitis N: ~tendinitises
+tendon N: tendons
+tendonitis N: ~tendonitises
+tendril N: tendrils
+tenement N: tenements
+tenet N: tenets
+tenfold A:
+tennis N: ~tennises
+tenon N: tenons
+tenon V: tenoned  tenoning  tenons
+tenor A:
+tenor N: tenors
+tenpin N: tenpins
+tenpins N:
+tense A: tenser  tensest
+tense N: tenses
+tense V: tensed  tensing  tenses
+tensely A:
+tenseness N: ~tensenesses
+tensile A:
+tension N: tensions
+-tension V: tensioned  tensioning  tensions
+tensity N: ~tensities
+tent N: tents
+tent V: tented  tenting  tents
+tentacle N: tentacles
+tentacled A:
+tentative A:
+tentatively A:
+tentativeness N: ~tentativenesses
+tenterhook N: tenterhooks
+tenth A:
+tenth N: tenths
+tenthly A:
+tenuity N: ~tenuities
+tenuous A:
+tenuously A:
+tenuousness N: ~tenuousnesses
+tenure N: ~tenures
+tenure V: tenured  tenuring  tenures
+tepee N: tepees
+tepid A: tepider  tepidest
+tepidity N: ~tepidities
+tepidly A:
+tepidness N: ~tepidnesses
+tequila N: tequilas
+terabyte N: terabytes
+terbium N: ~terbiums
+tercentenary A:
+tercentenary N: tercentenaries
+tercentennial A:
+tercentennial N: tercentennials
+term N: terms
+term V: termed  terming  terms
+termagant A:
+termagant N: termagants
+terminable A:
+terminal A:
+terminal N: terminals
+terminally A:
+terminate V: terminated  terminating  terminates
+termination N: terminations
+terminological A:
+terminologically A:
+terminology N: terminologies
+terminus N: termini (terminuses)
+termite N: termites
+termly A:
+tern N: terns
+ternary A:
+ternary N: ternaries
+terrace N: terraces
+terrace V: terraced  terracing  terraces
+terracotta N: ~terracottas
+terrain N: terrains
+terrapin N: terrapins
+terrarium N: terrariums (terraria)
+terrazzo N: terrazzos
+terrestrial A:
+terrestrial N: terrestrials
+terrestrially A:
+terrible A:
+terribleness N: ~terriblenesses
+terribly A:
+terrier N: terriers
+terrific A:
+terrifically A:
+terrify V: terrified  terrifying  terrifies
+terrifyingly A:
+territorial A:
+territorial N: territorials
+territory N: territories
+terror N: terrors
+terrorism N: ~terrorisms
+terrorist A:
+terrorist N: terrorists
+terrorize V: terrorized  terrorizing  terrorizes
+terry A:
+terry N: ~terries
+terrycloth N: ~terrycloths
+terse A: terser  tersest
+tersely A:
+terseness N: ~tersenesses
+tertiary A:
+-tertiary N: tertiaries
+tessellate V: tessellated  tessellating  tessellates
+tessellation N: tessellations
+test N: tests
+test V: tested  testing  tests
+testament N: testaments
+testamentary A:
+testate A:
+testator N: testators
+testatrix N: testatrices (-testatrixes)
+tester N: testers
+testicle N: testicles
+testifier N: testifiers
+testify V: testified  testifying  testifies
+testily A:
+testimonial A:
+testimonial N: testimonials
+testimony N: testimonies
+testiness N: ~testinesses
+testis N: testes
+testosterone N: ~testosterones
+testy A: testier  testiest
+tetanus N: ~tetanuses
+tetchy A: tetchier  tetchiest
+tether N: tethers
+tether V: tethered  tethering  tethers
+tetra N: tetras
+tetracycline N: ~tetracyclines
+tetrahedral A:
+tetrahedron N: tetrahedrons (tetrahedra)
+tetrameter N: tetrameters
+text N: texts
+textbook A:
+textbook N: textbooks
+textile A:
+textile N: textiles
+textual A:
+textually A:
+textural A:
+texture N: textures
+texture V: textured  texturing  textures
+textured A:
+thalamus N: thalami
+thalidomide N: ~thalidomides
+thallium N: ~thalliums
+than C:
+thane N: thanes
+thank V: thanked  thanking  thanks
+thankful A: -thankfuller  -thankfullest
+thankfully A:
+thankfulness N: ~thankfulnesses
+thankless A:
+thanklessly A:
+thanklessness N: ~thanklessnesses
+thanks I:
+thanksgiving N: thanksgivings
+that A:
+that C:
+that P:
+thatch N: thatches
+thatch V: thatched  thatching  thatches
+thatcher N: thatchers
+thatching N: ~thatchings
+thaw N: thaws
+thaw V: thawed  thawing  thaws
+theater N: theaters
+theatergoer N: theatergoers
+theatre N: theatres
+theatrical A:
+-theatrical N: theatricals
+theatricality N: ~theatricalities
+theatrically A:
+theatricals N:
+theatrics N:
+the P:
+thee P:
+theft N: thefts
+their A:
+theirs P:
+theism N: ~theisms
+theist A:
+theist N: theists
+theistic A:
+them P:
+thematic A:
+thematically A:
+theme N: themes
+-theme V: themed  theming  themes
+themselves P:
+then A:
+then N: ~thens
+thence A:
+thenceforth A:
+thenceforward A:
+theocracy N: theocracies
+theocratic A:
+theologian N: theologians
+theological A:
+theologically A:
+theology N: theologies
+theorem N: theorems
+theoretic A:
+theoretical A:
+theoretically A:
+theoretician N: theoreticians
+theorist N: theorists
+theorize V: theorized  theorizing  theorizes
+theory N: theories
+theosophic A:
+theosophical A:
+theosophist N: theosophists
+theosophy N: ~theosophies
+therapeutic A:
+-therapeutic N: therapeutics
+therapeutically A:
+therapeutics N:
+therapist N: therapists
+therapy N: therapies
+there A:
+there N: ~theres
+thereabout A:
+thereabouts A:
+thereafter A:
+thereat A:
+thereby A:
+therefor A:
+therefore A:
+therein A:
+thereof A:
+thereon A:
+thereto A:
+theretofore A:
+thereunto A:
+thereupon A:
+therewith A:
+therm N: therms
+thermal A:
+thermal N: thermals
+thermally A:
+thermodynamic A:
+thermodynamics N:
+thermometer N: thermometers
+thermometric A:
+thermonuclear A:
+thermoplastic A:
+thermoplastic N: thermoplastics
+thermos N: thermoses
+thermostat N: thermostats
+-thermostat V: thermostatted (thermostated)  thermostatting (thermostating)  thermostats
+thermostatic A:
+thermostatically A:
+thesaurus N: thesauruses / thesauri
+these P:
+thesis N: theses
+thespian A:
+thespian N: thespians
+theta N: thetas
+thew N: thews
+they P:
+thiamin N: ~thiamins
+thiamine N: ~thiamines
+thick A: thicker  thickest
+thick N: ~thicks
+thicken V: thickened  thickening  thickens
+thickener N: thickeners
+thickening N: thickenings
+thicket N: thickets
+thickheaded N:
+thickly A:
+thickness N: thicknesses
+thickset A:
+-thickset N: thicksets
+thief N: thieves
+thieve V: thieved  thieving  thieves
+thievery N: ~thieveries
+thieving N: ~thievings
+thievish A:
+thigh N: thighs
+thighbone N: thighbones
+thimble N: thimbles
+thimbleful N: thimblefuls
+thin A: thinner  thinnest
+thin V: thinned  thinning  thins
+thine A:
+thine P:
+thing N: things
+thingamabob N: thingamabobs
+thingamajig N: thingamajigs
+-think N: thinks
+think V: thought  thinking  thinks
+thinkable A:
+thinker N: thinkers
+thinking N: ~thinkings
+thinly A:
+thinner N: thinners
+thinness N: ~thinnesses
+third A:
+third N: thirds
+thirdly A:
+thirst N: thirsts
+thirst V: thirsted  thirsting  thirsts
+thirstily A:
+thirstiness N: ~thirstinesses
+thirsty A: thirstier  thirstiest
+thirteen A:
+thirteen N: thirteens
+thirteenth A:
+thirteenth N: thirteenths
+thirtieth A:
+thirtieth N: thirtieths
+thirty A:
+thirty N: thirties
+this A:
+this P:
+thistle N: thistles
+thistledown N: ~thistledowns
+thither A:
+tho A:
+tho C:
+thole N: tholes
+-thole V: tholed  tholing  tholes
+thong N: thongs
+thoracic A:
+thorax N: thoraxes (thoraces)
+thorium N: ~thoriums
+thorn N: thorns
+-thorn V: thorned  thorning  thorns
+thorniness N: ~thorninesses
+thorny A: thornier  thorniest
+thorough A: thorougher  thoroughest
+thoroughbred A:
+thoroughbred N: thoroughbreds
+thoroughfare N: thoroughfares
+thoroughgoing A:
+thoroughly A:
+thoroughness N: ~thoroughnesses
+those A:
+those P:
+thou N: thous | thou {counting}
+thou P:
+-thou V: thoued  thouing  thous
+though A:
+though C:
+thought N: thoughts
+thoughtful A:
+thoughtfully A:
+thoughtfulness N: ~thoughtfulnesses
+thoughtless A:
+thoughtlessly A:
+thoughtlessness N: ~thoughtlessnesses
+thousand A:
+thousand N: thousands | thousand {counting}
+thousandfold A:
+thousandth A:
+thousandth N: thousandths
+thraldom N: ~thraldoms
+thrall N: ~thralls
+thrall V: thralled  thralling  thralls
+thralldom N: ~thralldoms
+thrash N: thrashes
+thrash V: thrashed  thrashing  thrashes
+thrasher N: thrashers
+thrashing N: thrashings
+thread N: threads
+thread V: threaded  threading  threads
+threadbare A:
+threader N: threaders
+threadlike A:
+thready A: threadier  threadiest
+threat N: threats
+-threat V: threated  threating  threats
+threaten V: threatened  threatening  threatens
+threateningly A:
+three A:
+three N: threes
+threefold A:
+threepence N: threepence (threepences)
+threescore A:
+threescore N: threescores
+threesome N: threesomes
+threnody N: threnodies
+thresh N: threshes
+thresh V: threshed  threshing  threshes
+thresher N: threshers
+threshold N: thresholds
+thrice A:
+thrift N: thrifts
+thriftily A:
+thriftiness N: ~thriftinesses
+thriftless A:
+thrifty A: thriftier  thriftiest
+thrill N: thrills
+thrill V: thrilled  thrilling  thrills
+thriller N: thrillers
+thrillingly A:
+thrive V: thrived (throve)  thrived (thriven)  thriving  thrives
+throat N: throats
+-throat V: throated  throating  throats
+throatily A:
+throatiness N: ~throatinesses
+throaty A: throatier  throatiest
+throb N: throbs
+throb V: throbbed  throbbing  throbs
+throe N: throes
+thrombosis N: thromboses
+thrombotic A:
+thrombus N: thrombi
+throne N: thrones
+-throne V: throned  throning  thrones
+throng N: throngs
+throng V: thronged  thronging  throngs
+throttle N: throttles
+throttle V: throttled  throttling  throttles
+throttler N: throttlers
+through A:
+through C:
+throughout A:
+throughout C:
+throughput N: ~throughputs
+throughway N: throughways
+throw N: throws
+throw V: threw  thrown  throwing  throws
+throwaway A:
+throwaway N: throwaways
+throwback N: throwbacks
+thrower N: throwers
+thru A:
+thru C:
+thrum N: thrums
+thrum V: thrummed  thrumming  thrums
+thrush N: thrushes
+thrust N: thrusts
+thrust V: thrust  thrusting  thrusts
+thruway N: thruways
+thud N: thuds
+thud V: thudded  thudding  thuds
+thug N: thugs
+thuggery N: ~thuggeries
+thuggish A:
+thulium N: ~thuliums
+thumb N: thumbs
+thumb V: thumbed  thumbing  thumbs
+thumbnail A:
+thumbnail N: thumbnails
+thumbprint N: thumbprints
+thumbscrew N: thumbscrews
+thumbtack N: thumbtacks
+-thumbtack V: thumbtacked  thumbtacking  thumbtacks
+thump N: thumps
+thump V: thumped  thumping  thumps
+thumping N: thumpings
+thunder N: ~thunders
+thunder V: thundered  thundering  thunders
+thunderbolt N: thunderbolts
+thunderclap N: thunderclaps
+thundercloud N: thunderclouds
+thunderer N: thunderers
+thunderhead N: thunderheads
+-thundering N: thunderings
+thunderous A:
+thunderously A:
+thundershower N: thundershowers
+thunderstorm N: thunderstorms
+thunderstricken A:
+thunderstruck A:
+thus A:
+thwack N: thwacks
+thwack V: thwacked  thwacking  thwacks
+thwacker N: thwackers
+thwart A:
+thwart N: thwarts
+thwart V: thwarted  thwarting  thwarts
+thy A:
+thy P:
+thyme N: ~thymes
+thymine N: ~thymines
+thymus N: thymuses (thymi)
+thyroid A:
+thyroid N: thyroids
+thyroidal A:
+thyself P:
+ti N: ~tis
+tiara N: tiaras
+tibia N: tibiae (tibias)
+tibial A:
+tic N: tics
+tick N: ticks
+tick V: ticked  ticking  ticks
+ticker N: tickers
+ticket N: tickets
+ticket V: ticketed  ticketing  tickets
+ticking N: ~tickings
+tickle N: tickles
+tickle V: tickled  tickling  tickles
+tickler N: ticklers
+ticklish A:
+ticklishly A:
+ticklishness N: ~ticklishnesses
+ticktacktoe N: ~ticktacktoes
+ticktock N: ticktocks
+-ticktock V: ticktocked  ticktocking  ticktocks
+tidal A:
+tidally A:
+tidbit N: tidbits
+tiddlywinks N:
+tide N: tides
+tide V: tided  tiding  tides
+tideland N: tidelands
+tidewater N: tidewaters
+tideway N: tideways
+tidily A:
+tidiness N: ~tidinesses
+tidings N:
+tidy A: tidier  tidiest
+tidy N: tidies
+tidy V: tidied  tidying  tidies
+tie N: ties
+tie V: tied  tying (tieing)  ties
+tieback N: tiebacks
+tiebreaker N: tiebreakers
+tier N: tiers
+-tier V: tiered  tiering  tiers
+tiered A:
+tiff N: tiffs
+tiff V: tiffed  tiffing  tiffs
+tiger N: tigers
+tigerish A:
+tight A: tighter  tightest
+tighten V: tightened  tightening  tightens
+tightener N: tighteners
+tightfisted A:
+tightly A:
+tightness N: ~tightnesses
+tightrope N: tightropes
+-tightrope V: tightroped  tightroping  tightropes
+tights N:
+tightwad N: tightwads
+tigress N: tigresses
+tike N: tikes
+tilde N: tildes
+tile N: tiles
+tile V: tiled  tiling  tiles
+tiler N: tilers
+tiling N: ~tilings
+till C:
+till N: tills
+till V: tilled  tilling  tills
+tillable A:
+tillage N: ~tillages
+tiller N: tillers
+-tiller V: tillered  tillering  tillers
+tilt N: tilts
+tilt V: tilted  tilting  tilts
+timber I:
+timber N: timbers
+timber V: timbered  timbering  timbers
+timbered A:
+timberland N: ~timberlands
+timberline N: timberlines
+timbre N: timbres
+timbrel N: timbrels
+time A:
+time N: times
+time V: timed  timing  times
+timekeeper N: timekeepers
+timekeeping N: ~timekeepings
+timeless A:
+timelessly A:
+timelessness N: ~timelessnesses
+timeliness N: ~timelinesses
+timely A: timelier  timeliest
+timeout N: timeouts
+timepiece N: timepieces
+timer N: timers
+times C:
+timeserver N: timeservers
+timeserving N: ~timeservings
+timetable N: timetables
+timetable V: timetabled  timetabling  timetables
+timeworn A:
+timid A: timider  timidest
+timidity N: ~timidities
+timidly A:
+timidness N: ~timidnesses
+timing N: ~timings
+timorous A:
+timorously A:
+timorousness N: ~timorousnesses
+timothy N: ~timothies
+timpani N: timpani
+timpanist N: timpanists
+tin A:
+tin N: tins
+tin V: tinned  tinning  tins
+tincture N: tinctures
+tincture V: tinctured  tincturing  tinctures
+tinder N: ~tinders
+tinderbox N: tinderboxes
+tine N: tines
+tinfoil N: ~tinfoils
+ting N: tings
+ting V: tinged  tinging  tings
+tinge N: tinges
+tinge V: tinged  tingeing (tinging)  tinges
+tingle N: tingles
+tingle V: tingled  tingling  tingles
+tingling N: tinglings
+tingly A: !tinglier  !tingliest
+tininess N: ~tininesses
+tinker N: tinkers
+tinker V: tinkered  tinkering  tinkers
+tinkerer N: tinkerers
+tinkle N: tinkles
+tinkle V: tinkled  tinkling  tinkles
+tinniness N: ~tinninesses
+tinnitus N: ~tinnituses
+tinny A: tinnier  tinniest
+tinplate N: ~tinplates
+tinsel A:
+tinsel N: ~tinsels
+tinsel V: tinseled (tinselled)  tinseling (tinselling)  tinsels
+tinsmith N: tinsmiths
+tint N: tints
+tint V: tinted  tinting  tints
+tintinnabulation N: tintinnabulations
+tintype N: tintypes
+tinware N: ~tinwares
+tiny A: tinier  tiniest
+tip N: tips
+tip V: tipped  tipping  tips
+tipi N: tipis
+tipper N: tippers
+tippet N: tippets
+tipple N: tipples
+tipple V: tippled  tippling  tipples
+tippler N: tipplers
+tipsily A:
+tipsiness N: ~tipsinesses
+tipster N: tipsters
+tipsy A: tipsier  tipsiest
+tiptoe A:
+tiptoe N: tiptoes
+tiptoe V: tiptoed  tiptoeing  tiptoes
+tiptop A:
+tiptop N: tiptops
+tirade N: tirades
+tire N: tires
+tire V: tired  tiring  tires
+tired A: tireder  tiredest
+tiredly A:
+tiredness N: ~tirednesses
+tireless A:
+tirelessly A:
+tirelessness N: ~tirelessnesses
+tiresome A:
+tiresomely A:
+tiresomeness N: ~tiresomenesses
+tiro N: tiros
+tissue N: tissues
+-tissue V: tissued  tissuing  tissues
+tit N: tits
+titan N: titans
+titanic A:
+titanium N: ~titaniums
+titbit N: titbits
+tithe N: tithes
+tithe V: tithed  tithing  tithes
+tither N: tithers
+titian A:
+titian N: ~titians
+titillate V: titillated  titillating  titillates
+titillating A:
+titillatingly A:
+titillation N: ~titillations
+titivate V: titivated  titivating  titivates
+titivation N: ~titivations
+title A:
+title N: titles
+title V: titled  titling  titles
+titleholder N: titleholders
+titlist N: titlists
+titmouse N: titmice
+titter N: titters
+titter V: tittered  tittering  titters
+tittivate V: tittivated  tittivating  tittivates
+tittle N: tittles
+titular A:
+-titular N: titulars
+tizzy N: tizzies
+to C:
+toad N: toads
+toadstool N: toadstools
+toady N: toadies
+toady V: toadied  toadying  toadies
+toadyism N: ~toadyisms
+toast N: toasts
+toast V: toasted  toasting  toasts
+toaster N: toasters
+toastmaster N: toastmasters
+toastmistress N: toastmistresses
+toasty A: toastier  toastiest
+tobacco N: tobaccos (tobaccoes)
+tobacconist N: tobacconists
+toboggan N: toboggans
+toboggan V: tobogganed  tobogganing  toboggans
+tobogganer N: tobogganers
+tobogganing N: ~tobogganings
+tocsin N: tocsins
+today A:
+today N: ~todays
+toddle N: toddles
+toddle V: toddled  toddling  toddles
+toddler N: toddlers
+toddy N: toddies
+toe N: toes
+toe V: toed  toeing  toes
+toecap N: toecaps
+toehold N: toeholds
+toenail N: toenails
+-toenail V: toenailed  toenailing  toenails
+toffee N: toffees
+toffy N: toffies
+tofu N: ~tofus
+tog N: togs
+tog V: togged  togging  togs
+toga N: togas (togae)
+togaed A:
+together A:
+togetherness N: ~togethernesses
+toggle N: toggles
+toggle V: toggled  toggling  toggles
+togs N:
+toil N: ~toils
+toil V: toiled  toiling  toils
+toiler N: toilers
+toilet N: toilets
+toilet V: toileted  toileting  toilets
+toiletry N: toiletries
+toilette N: ~toilettes
+toilsome A:
+toke N: tokes
+toke V: toked  toking  tokes
+token A:
+token N: tokens
+-token V: tokened  tokening  tokens
+tokenism N: ~tokenisms
+tole N: ~toles
+-tole V: toled  toling  toles
+tolerable A:
+tolerably A:
+tolerance N: tolerances
+tolerant A:
+tolerantly A:
+tolerate V: tolerated  tolerating  tolerates
+toleration N: ~tolerations
+toll N: tolls
+toll V: tolled  tolling  tolls
+tollbooth N: tollbooths
+tollgate N: tollgates
+tollway N: tollways
+toluene N: ~toluenes
+tom A:
+tom N: toms
+-tom V: tommed  tomming  toms
+tomahawk N: tomahawks
+tomahawk V: tomahawked  tomahawking  tomahawks
+tomato N: tomatoes
+tomb N: tombs
+tomb V: tombed  tombing  tombs
+tomboy N: tomboys
+tomboyish A:
+tombstone N: tombstones
+tomcat N: tomcats
+-tomcat V: tomcatted  tomcatting  tomcats
+tome N: tomes
+tomfoolery N: tomfooleries
+tomographic A:
+tomography N: ~tomographies
+tomorrow A:
+tomorrow N: tomorrows
+tomtit N: tomtits
+ton N: tons (ton)
+tonal A:
+tonality N: tonalities
+tonally A:
+tone N: tones
+tone V: toned  toning  tones
+tonearm N: tonearms
+toneless A:
+tonelessly A:
+toner N: ~toners
+tong N: tongs
+tong V: tonged  tonging  tongs
+tongue N: tongues
+tongue V: tongued  tonguing  tongues
+tongueless A:
+tonic A:
+tonic N: tonics
+tonight A:
+tonight N: ~tonights
+tonnage N: tonnages
+tonne N: tonnes
+tonsil N: tonsils
+tonsillectomy N: tonsillectomies
+tonsillitis N: ~tonsillitises
+tonsorial A:
+tonsure N: tonsures
+tonsure V: tonsured  tonsuring  tonsures
+tony A: tonier  toniest
+too A:
+tool N: tools
+tool V: tooled  tooling  tools
+toolbox N: toolboxes
+toolmaker N: toolmakers
+toot N: toots
+toot V: tooted  tooting  toots
+tooter N: tooters
+tooth N: teeth
+-tooth V: toothed  toothing  tooths
+toothache N: toothaches
+toothbrush N: toothbrushes
+toothed A:
+toothily A:
+toothless A:
+toothpaste N: toothpastes
+toothpick N: toothpicks
+toothsome A:
+toothy A: toothier  toothiest
+-tootle N: tootles
+tootle V: tootled  tootling  tootles
+top A:
+top N: tops
+top V: topped  topping  tops
+topaz N: topazes
+topcoat N: topcoats
+topdressing N: topdressings
+topflight A:
+topiary A:
+topiary N: ~topiaries
+topic N: topics
+topical A:
+topicality N: ~topicalities
+topically A:
+topknot N: topknots
+topless A:
+topmast N: topmasts
+topmost A:
+topnotch A:
+topographer N: topographers
+topographic A:
+topographical A:
+topographically A:
+topography N: topographies
+topper N: toppers
+topping N: toppings
+topple V: toppled  toppling  topples
+tops A:
+topsail N: topsails
+topside A:
+topside N: topsides
+topsoil N: ~topsoils
+-topsoil V: topsoiled  topsoiling  topsoils
+topspin N: ~topspins
+toque N: toques
+tor N: tors
+torah N: torahs
+torch N: torches
+torch V: torched  torching  torches
+torchbearer N: torchbearers
+torchlight N: ~torchlights
+-tore N: tores
+toreador N: toreadors
+torment N: torments
+torment V: tormented  tormenting  torments
+tormenter N: tormenters
+tormentingly A:
+tormentor N: tormentors
+tornado N: tornadoes (tornados)
+torpedo N: torpedoes
+torpedo V: torpedoed  torpedoing  torpedoes
+torpid A:
+-torpid N: torpids
+torpidity N: ~torpidities
+torpidly A:
+torpor N: ~torpors
+torque N: ~torques
+torque V: torqued  torquing  torques
+-torrent A:
+torrent N: torrents
+torrential A:
+torrid A: !torrider  !torridest
+torridity N: ~torridities
+torridly A:
+torridness N: ~torridnesses
+torsion N: ~torsions
+torsional A:
+torso N: torsos (torsi -torsoes)
+tort N: torts
+torte N: tortes
+tortellini N: - / ~tortellinis
+tortilla N: tortillas
+tortoise N: tortoises
+tortoiseshell A:
+tortoiseshell N: tortoiseshells
+tortoni N: ~tortonis
+tortuous A:
+tortuously A:
+tortuousness N: ~tortuousnesses
+torture N: tortures
+torture V: tortured  torturing  tortures
+torturer N: torturers
+torturous A:
+toss N: tosses
+toss V: tossed (tost)  tossing  tosses
+tossup N: tossups
+tot N: tots
+tot V: totted  totting  tots
+total A:
+total N: totals
+total V: totaled (totalled)  totaling (totalling)  totals
+totalisator N: totalisators
+totalitarian A:
+totalitarian N: totalitarians
+totalitarianism N: ~totalitarianisms
+totality N: totalities
+totalizator N: totalizators
+totally A:
+totally I:
+tote N: totes
+tote V: toted  toting  totes
+totem N: totems
+totemic A:
+totter N: totters
+totter V: tottered  tottering  totters
+totterer N: totterers
+toucan N: toucans
+touch N: touches
+touch V: touched  touching  touches
+touchable A:
+touchdown N: touchdowns
+touche I:
+touchily A:
+touchiness N: ~touchinesses
+touching C:
+touchingly A:
+touchscreen N: touchscreens
+touchstone N: touchstones
+touchy A: touchier  touchiest
+tough A: tougher  toughest
+tough N: toughs
+toughen V: toughened  toughening  toughens
+toughener N: tougheners
+toughie N: toughies
+toughly A:
+toughness N: ~toughnesses
+toupee N: toupees
+tour N: tours
+tour V: toured  touring  tours
+tourism N: ~tourisms
+tourist A:
+tourist N: tourists
+tourmaline N: ~tourmalines
+tournament N: tournaments
+tourney N: tourneys
+-tourney V: tourneyed  tourneying  tourneys
+tourniquet N: tourniquets
+-tousle N: tousles
+tousle V: tousled  tousling  tousles
+tout N: touts
+tout V: touted  touting  touts
+tow N: tows
+tow V: towed  towing  tows
+-toward A:
+toward C:
+towards C:
+towboat N: towboats
+towel N: towels
+towel V: toweled (towelled)  toweling (towelling)  towels
+towelette N: towelettes
+toweling N: ~towelings
+towelling N: ~towellings
+tower N: towers
+tower V: towered  towering  towers
+towhead N: towheads
+towheaded A:
+towhee N: towhees
+towline N: towlines
+town A:
+town N: towns
+townhouse N: townhouses
+townie N: townies
+townsfolk N:
+township N: townships
+townsman N: townsmen
+townspeople N:
+townswoman N: townswomen
+towpath N: towpaths
+towrope N: towropes
+toxemia N: ~toxemias
+toxic A:
+-toxic N: toxics
+toxicity N: ~toxicities
+toxicological A:
+toxicologist N: toxicologists
+toxicology N: ~toxicologies
+toxin N: toxins
+toy A:
+toy N: toys
+toy V: toyed  toying  toys
+trace N: traces
+trace V: traced  tracing  traces
+traceable A:
+tracer N: tracers
+tracery N: traceries
+trachea N: tracheae (tracheas)
+tracheal A:
+tracheotomy N: tracheotomies
+tracing N: tracings
+track N: tracks
+track V: tracked  tracking  tracks
+trackball N: trackballs
+tracker N: trackers
+trackless A:
+tract N: tracts
+tractability N: ~tractabilities
+tractable A:
+tractably A:
+traction N: ~tractions
+tractor N: tractors
+trade A:
+trade N: trades
+trade V: traded  trading  trades
+trademark N: trademarks
+trademark V: trademarked  trademarking  trademarks
+tradeoff N: tradeoffs
+trader N: traders
+tradesman N: tradesmen
+tradespeople N:
+tradeswoman N: tradeswomen
+trading N: tradings
+tradition N: traditions
+traditional A:
+traditionalism N: ~traditionalisms
+traditionalist A:
+traditionalist N: traditionalists
+traditionally A:
+traduce V: traduced  traducing  traduces
+traducer N: traducers
+traffic N: ~traffics
+traffic V: trafficked  trafficking  traffics
+trafficker N: traffickers
+trafficking N: ~traffickings
+tragedian N: tragedians
+tragedienne N: tragediennes
+tragedy N: tragedies
+tragic A:
+tragically A:
+tragicomedy N: tragicomedies
+tragicomic A:
+trail N: trails
+trail V: trailed  trailing  trails
+trailblazer N: trailblazers
+trailblazing A:
+trailblazing N: ~trailblazings
+trailer N: trailers
+train N: trains
+train V: trained  training  trains
+trainable A:
+trainee N: trainees
+trainer N: trainers
+training N: ~trainings
+trainload N: trainloads
+trainman N: trainmen
+traipse N: traipses
+traipse V: traipsed  traipsing  traipses
+trait N: traits
+traitor N: traitors
+traitorous A:
+traitorously A:
+trajectory N: trajectories
+tram N: trams
+tram V: trammed  tramming  trams
+trammel N: trammels
+trammel V: trammeled (trammelled)  trammeling (trammelling)  trammels
+tramp N: tramps
+tramp V: tramped  tramping  tramps
+tramper N: trampers
+trample N: tramples
+trample V: trampled  trampling  tramples
+trampler N: tramplers
+trampoline N: trampolines
+trampoline V: trampolined  trampolining  trampolines
+trance N: trances
+-trance V: tranced  trancing  trances
+tranquil A: tranquiler (tranquiller)  tranquilest (tranquillest)
+tranquility N: ~tranquilities
+tranquilize V: tranquilized  tranquilizing  tranquilizes
+tranquilizer N: tranquilizers
+tranquillity N: ~tranquillities
+tranquillize V: tranquillized  tranquillizing  tranquillizes
+tranquillizer N: tranquillizers
+tranquilly A:
+transact V: transacted  transacting  transacts
+transaction N: transactions
+transactor N: transactors
+transatlantic A:
+transceiver N: transceivers
+transcend V: transcended  transcending  transcends
+transcendence N: ~transcendences
+transcendent A:
+-transcendent N: transcendents
+transcendental A:
+-transcendental N: transcendentals
+transcendentalism N: ~transcendentalisms
+transcendentalist A:
+transcendentalist N: transcendentalists
+transcendentally A:
+transcontinental A:
+transcribe V: transcribed  transcribing  transcribes
+transcriber N: transcribers
+transcript N: transcripts
+transcription N: transcriptions
+transducer N: transducers
+transect V: transected  transecting  transects
+transept N: transepts
+transfer N: transfers
+transfer V: transferred  transferring  transfers
+transferable A:
+transferal N: transferals
+transference N: ~transferences
+transfiguration N: ~transfigurations
+transfigure V: transfigured  transfiguring  transfigures
+transfix V: transfixed (transfixt)  transfixing  transfixes
+transform N: transforms
+transform V: transformed  transforming  transforms
+transformable A:
+transformation N: transformations
+transformer N: transformers
+transfuse V: transfused  transfusing  transfuses
+transfusion N: transfusions
+transgender A:
+transgender N: transgenders
+transgendered A:
+transgress V: transgressed  transgressing  transgresses
+transgression N: transgressions
+transgressor N: transgressors
+transience N: ~transiences
+transiency N: ~transiencies
+transient A:
+transient N: transients
+transiently A:
+transistor N: transistors
+transistorize V: transistorized  transistorizing  transistorizes
+transit N: transits
+transit V: transited  transiting  transits
+transition N: transitions
+transition V: transitioned  transitioning  transitions
+transitional A:
+transitionally A:
+transitive A:
+transitive N: transitives
+transitively A:
+transitiveness N: ~transitivenesses
+transitivity N: ~transitivities
+transitory A:
+translatable A:
+translate V: translated  translating  translates
+translation N: translations
+translator N: translators
+transliterate V: transliterated  transliterating  transliterates
+transliteration N: transliterations
+translucence N: ~translucences
+translucency N: ~translucencies
+translucent A:
+translucently A:
+transmigrate V: transmigrated  transmigrating  transmigrates
+transmigration N: ~transmigrations
+transmissible A:
+transmission N: transmissions
+transmit V: transmitted  transmitting  transmits
+transmittable A:
+transmittal N: ~transmittals
+transmittance N: ~transmittances
+transmitter N: transmitters
+transmogrification N: ~transmogrifications
+transmogrify V: transmogrified  transmogrifying  transmogrifies
+transmutable A:
+transmutation N: transmutations
+transmute V: transmuted  transmuting  transmutes
+transnational A:
+transnational N: transnationals
+transoceanic A:
+transom N: transoms
+transpacific A:
+transparency N: transparencies
+transparent A:
+transparently A:
+transpiration N: ~transpirations
+transpire V: transpired  transpiring  transpires
+transplant N: transplants
+transplant V: transplanted  transplanting  transplants
+transplantation N: ~transplantations
+transpolar A:
+transponder N: transponders
+transport N: transports
+transport V: transported  transporting  transports
+transportable A:
+transportation N: ~transportations
+transporter N: transporters
+transpose V: transposed  transposing  transposes
+transposition N: transpositions
+transsexual A:
+transsexual N: transsexuals
+transsexualism N: ~transsexualisms
+transship V: transshipped  transshipping  transships
+transshipment N: ~transshipments
+transubstantiation N: ~transubstantiations
+transverse A:
+transverse N: transverses
+transversely A:
+transvestism N: ~transvestisms
+transvestite A:
+transvestite N: transvestites
+trap N: traps
+trap V: trapped  trapping  traps
+trapdoor N: trapdoors
+trapeze N: trapezes
+trapezium N: trapeziums (trapezia)
+trapezoid N: trapezoids
+trapezoidal A:
+trapper N: trappers
+trappings N:
+trapshooting N: ~trapshootings
+trash N: ~trashes
+trash V: trashed  trashing  trashes
+trashiness N: ~trashinesses
+trashy A: trashier  trashiest
+trauma N: traumas (traumata)
+traumatic A:
+traumatically A:
+traumatize V: traumatized  traumatizing  traumatizes
+travail N: ~travails
+travail V: travailed  travailing  travails
+travel A:
+travel N: ~travels
+travel V: traveled (travelled)  traveling (travelling)  travels
+traveler N: travelers
+traveling N: ~travelings
+traveller N: travellers
+travelog N: travelogs
+travelogue N: travelogues
+traversal N: traversals
+traverse A:
+traverse N: traverses
+traverse V: traversed  traversing  traverses
+travesty N: travesties
+travesty V: travestied  travestying  travesties
+trawl N: trawls
+trawl V: trawled  trawling  trawls
+trawler N: trawlers
+tray N: trays
+treacherous A:
+treacherously A:
+treacherousness N: ~treacherousnesses
+treachery N: treacheries
+treacle N: ~treacles
+treacly A: -treaclier  -treacliest
+tread N: treads
+tread V: trod  trodden (trod)  treading  treads
+treadle N: treadles
+treadle V: treadled  treadling  treadles
+treadmill N: treadmills
+treason N: ~treasons
+treasonable A:
+treasonous A:
+treasure N: treasures
+treasure V: treasured  treasuring  treasures
+treasurer N: treasurers
+treasury N: treasuries
+treat N: treats
+treat V: treated  treating  treats
+treatable A:
+treatise N: treatises
+treatment N: treatments
+treaty N: treaties
+treble A:
+treble N: trebles
+treble V: trebled  trebling  trebles
+tree N: trees
+tree V: treed  treeing  trees
+treeless A:
+treelike A:
+treetop N: treetops
+trefoil N: trefoils
+trek N: treks
+trek V: trekked  trekking  treks
+trekker N: trekkers
+trellis N: trellises
+trellis V: trellised  trellising  trellises
+trematode N: trematodes
+tremble N: trembles
+tremble V: trembled  trembling  trembles
+tremendous A:
+tremendously A:
+tremolo N: tremolos
+tremor N: tremors
+tremulous A:
+tremulously A:
+tremulousness N: ~tremulousnesses
+trench N: trenches
+trench V: trenched  trenching  trenches
+trenchancy N: ~trenchancies
+trenchant A:
+trenchantly A:
+trencher N: trenchers
+trencherman N: trenchermen
+trend N: trends
+trend V: trended  trending  trends
+trendily A:
+trendiness N: ~trendinesses
+trendy A: trendier  trendiest
+trendy N: trendies
+trepidation N: ~trepidations
+trespass N: trespasses
+trespass V: trespassed  trespassing  trespasses
+trespasser N: trespassers
+tress N: tresses
+-tress V: tressed  tressing  tresses
+trestle N: trestles
+trey N: treys
+triad N: triads
+triage A:
+triage N: ~triages
+-triage V: triaged  triaging  triages
+trial A:
+trial N: trials
+trial V: trialled  trialling  trials
+triangle N: triangles
+triangular A:
+triangularly A:
+triangulate V: triangulated  triangulating  triangulates
+triangulation N: ~triangulations
+triathlon N: triathlons
+tribal A:
+tribalism N: ~tribalisms
+tribe N: tribes
+tribesman N: tribesmen
+tribeswoman N: tribeswomen
+tribulation N: tribulations
+tribunal N: tribunals
+tribune N: tribunes
+tributary A:
+tributary N: tributaries
+tribute N: tributes
+trice N: ~trices
+-trice V: triced  tricing  trices
+tricentennial A:
+tricentennial N: tricentennials
+triceps N: triceps / tricepses
+triceratops N: triceratops (triceratopses)
+trichina N: trichinae (trichinas)
+trichinosis N: ~trichinoses
+trick A:
+trick N: tricks
+trick V: tricked  tricking  tricks
+trickery N: ~trickeries
+trickily A:
+trickiness N: ~trickinesses
+trickle N: trickles
+trickle V: trickled  trickling  trickles
+trickster N: tricksters
+tricky A: trickier  trickiest
+tricolor A:
+tricolor N: tricolors
+tricolour A:
+tricolour N: tricolours
+tricycle N: tricycles
+trident A:
+trident N: tridents
+triennial A:
+triennial N: triennials
+triennially A:
+trier N: triers
+trifle N: trifles
+trifle V: trifled  trifling  trifles
+trifler N: triflers
+-trifling N: triflings
+trifocals N:
+trig A: -trigger  -triggest
+trig N: ~trigs
+-trig V: trigged  trigging  trigs
+trigger N: triggers
+trigger V: triggered  triggering  triggers
+triglyceride N: triglycerides
+trigonometric A:
+trigonometrical A:
+trigonometry N: ~trigonometries
+trike N: trikes
+trilateral A:
+trilby N: trilbies
+trill N: trills
+trill V: trilled  trilling  trills
+trillion A:
+trillion N: trillions | trillion {counting}
+trillionth A:
+trillionth N: trillionths
+trillium N: ~trilliums
+trilobite N: trilobites
+trilogy N: trilogies
+trim A: trimmer  trimmest
+trim N: trims
+trim V: trimmed  trimming  trims
+trimaran N: trimarans
+trimester N: trimesters
+trimly A:
+trimmer N: trimmers
+trimming N: trimmings
+trimmings N:
+trimness N: ~trimnesses
+trimonthly A:
+trinitrotoluene N: ~trinitrotoluenes
+trinity N: trinities
+trinket N: trinkets
+-trinket V: trinketed  trinketing  trinkets
+trio N: trios
+trip N: trips
+trip V: tripped  tripping  trips
+tripartite A:
+tripe N: ~tripes
+triple A:
+triple N: triples
+triple V: tripled  tripling  triples
+triplet N: triplets
+triplex A:
+triplex N: triplexes
+triplicate A:
+triplicate N: ~triplicates
+triplicate V: triplicated  triplicating  triplicates
+triply A:
+tripod N: tripods
+tripodal A:
+tripper N: trippers
+triptych N: triptychs
+trireme N: triremes
+trisect V: trisected  trisecting  trisects
+trisection N: ~trisections
+trite A: triter  tritest
+tritely A:
+triteness N: ~tritenesses
+tritium N: ~tritiums
+triumph N: triumphs
+triumph V: triumphed  triumphing  triumphs
+triumphal A:
+triumphant A:
+triumphantly A:
+triumvir N: triumvirs
+triumvirate N: triumvirates
+trivalent A:
+trivet N: trivets
+trivia N: trivia
+trivial A:
+triviality N: trivialities
+trivialization N: ~trivializations
+trivialize V: trivialized  trivializing  trivializes
+trivially A:
+trivium N: ~trivia
+trochaic A:
+-trochaic N: trochaics
+trochee N: trochees
+troglodyte N: troglodytes
+troika N: troikas
+troll N: trolls
+troll V: trolled  trolling  trolls
+trolley N: trolleys
+-trolley V: trolleyed  trolleying  trolleys
+trolleybus N: trolleybuses (trolleybusses)
+trollop N: trollops
+trolly N: trollies
+-trolly V: trollied  trollying  trollies
+trombone N: trombones
+trombonist N: trombonists
+tromp V: tromped  tromping  tromps
+troop N: troops
+troop V: trooped  trooping  troops
+trooper N: troopers
+troopship N: troopships
+trope N: tropes
+trophy N: trophies
+tropic A:
+tropic N: tropics
+tropical A:
+tropically A:
+tropics N:
+tropism N: tropisms
+troposphere N: tropospheres
+trot N: trots
+trot V: trotted  trotting  trots
+troth N: ~troths
+trotter N: trotters
+troubadour N: troubadours
+trouble N: troubles
+trouble V: troubled  troubling  troubles
+troublemaker N: troublemakers
+troubleshoot V: troubleshot / troubleshooted  troubleshooting  troubleshoots
+troubleshooter N: troubleshooters
+troubleshooting N: ~troubleshootings
+troublesome A:
+troublesomely A:
+trough N: troughs
+trounce V: trounced  trouncing  trounces
+trouncer N: trouncers
+troupe N: troupes
+troupe V: trouped  trouping  troupes
+trouper N: troupers
+trouser A:
+trouser N: trousers
+trousers N:
+trousseau N: trousseaux (trousseaus)
+trout N: trout | trouts
+trove N: troves
+trow V: trowed  trowing  trows
+trowel N: trowels
+trowel V: troweled (trowelled)  troweling (trowelling)  trowels
+troy A:
+truancy N: ~truancies
+truant A:
+truant N: truants
+truant V: truanted  truanting  truants
+truce N: truces
+-truce V: truced  trucing  truces
+truck N: trucks
+truck V: trucked  trucking  trucks
+trucker N: truckers
+trucking N: ~truckings
+truckle N: truckles
+truckle V: truckled  truckling  truckles
+truckload N: truckloads
+truculence N: ~truculences
+truculent A:
+truculently A:
+trudge N: trudges
+trudge V: trudged  trudging  trudges
+true A: truer  truest
+true N: ~trues
+true V: trued  truing (trueing)  trues
+truelove N: trueloves
+truffle N: truffles
+truism N: truisms
+truly A:
+trump N: trumps
+trump V: trumped  trumping  trumps
+trumpery A:
+trumpery N: ~trumperies
+trumpet N: trumpets
+trumpet V: trumpeted  trumpeting  trumpets
+trumpeter N: trumpeters
+truncate A:
+truncate V: truncated  truncating  truncates
+truncation N: ~truncations
+truncheon N: truncheons
+-truncheon V: truncheoned  truncheoning  truncheons
+trundle N: trundles
+trundle V: trundled  trundling  trundles
+trundler N: trundlers
+trunk N: trunks
+truss N: trusses
+truss V: trussed  trussing  trusses
+trust N: trusts
+trust V: trusted  trusting  trusts
+trustee N: trustees
+-trustee V: trusteed  trusteeing  trustees
+trusteeship N: trusteeships
+trustful A:
+trustfully A:
+trustfulness N: ~trustfulnesses
+trustingly A:
+trustworthiness N: ~trustworthinesses
+trustworthy A: trustworthier  trustworthiest
+trusty A: trustier  trustiest
+trusty N: trusties
+truth N: truths
+truthful A:
+truthfully A:
+truthfulness N: ~truthfulnesses
+try N: tries
+try V: tried  trying  tries
+tryingly A:
+tryout N: tryouts
+tryst N: trysts
+tryst V: trysted  trysting  trysts
+tsar N: tsars
+tsarina N: tsarinas
+tsetse N: tsetses
+tsunami N: tsunamis
+tub N: tubs
+-tub V: tubbed  tubbing  tubs
+tuba N: tubas {modern} | -tubae {Roman}
+tubal A:
+tubby A: tubbier  tubbiest
+tube N: tubes
+tube V: tubed  tubing  tubes
+tubed A:
+tubeless N:
+tuber N: tubers
+tubercle N: tubercles
+tubercular A:
+-tubercular N: tuberculars
+tuberculin N: ~tuberculins
+tuberculosis N: ~tuberculoses
+tuberculous A:
+tuberose N: ~tuberoses
+tuberous A:
+tubful N: tubfuls
+tubing N: ~tubings
+tubular A:
+tubule N: tubules
+tuck N: tucks
+tuck V: tucked  tucking  tucks
+tucker N: ~tuckers
+tucker V: tuckered  tuckering  tuckers
+tuft N: tufts
+tuft V: tufted  tufting  tufts
+tufter N: tufters
+tug N: tugs
+tug V: tugged  tugging  tugs
+tugboat N: tugboats
+tuition N: ~tuitions
+tularemia N: ~tularemias
+tulip N: tulips
+tulle N: ~tulles
+tumble N: tumbles
+tumble V: tumbled  tumbling  tumbles
+tumbledown A:
+tumbler N: tumblers
+tumbleweed N: tumbleweeds
+tumbling N: ~tumblings
+tumbrel N: tumbrels
+tumbril N: tumbrils
+tumescence N: ~tumescences
+tumescent A:
+tumid A:
+tumidity N: ~tumidities
+tummy N: tummies
+tumor N: tumors
+tumorous A:
+tumour N: tumours
+tumult N: tumults
+tumultuous A:
+tumultuously A:
+tun N: tuns
+-tun V: tunned  tunning  tuns
+tuna N: tuna | tunas
+tundra N: tundras
+tune N: tunes
+tune V: tuned  tuning  tunes
+tuneful A:
+tunefully A:
+tunefulness N: ~tunefulnesses
+tuneless A:
+tunelessly A:
+tuner N: tuners
+tuneup N: tuneups
+tungsten N: ~tungstens
+tunic N: tunics
+tunnel N: tunnels
+tunnel V: tunneled (tunnelled)  tunneling (tunnelling)  tunnels
+tunneler N: tunnelers
+tunneller N: tunnellers
+tunny N: tunnies | tunny
+tuque N: tuques
+turban N: turbans
+turbid A:
+turbidity N: ~turbidities
+turbine N: turbines
+turbo N: turbos
+turbocharge V: turbocharged  turbocharging  turbocharges
+turbocharger N: turbochargers
+turbofan N: turbofans
+turbojet N: turbojets
+turboprop N: turboprops
+turbot N: turbots | turbot
+turbulence N: ~turbulences
+turbulent A:
+turbulently A:
+turd N: turds
+tureen N: tureens
+turf N: turfs (turves)
+turf V: turfed  turfing  turfs
+turfy A: -turfier  -turfiest
+turgid A:
+turgidity N: ~turgidities
+turgidly A:
+turkey N: turkeys
+turmeric N: turmerics
+turmoil N: turmoils
+turn N: turns
+turn V: turned  turning  turns
+turnabout N: turnabouts
+turnaround N: turnarounds
+turnbuckle N: turnbuckles
+turncoat N: turncoats
+turner N: turners
+turning N: turnings
+turnip N: turnips
+turnkey A:
+turnkey N: turnkeys
+turnoff N: turnoffs
+turnout N: turnouts
+turnover N: turnovers
+turnpike N: turnpikes
+turnstile N: turnstiles
+turntable N: turntables
+turpentine N: ~turpentines
+-turpentine V: turpentined  turpentining  turpentines
+turpitude N: ~turpitudes
+turquoise A:
+turquoise N: turquoises
+turret N: turrets
+turreted A:
+turtle N: turtles | turtle
+-turtle V: turtled  turtling  turtles
+turtledove N: turtledoves
+turtleneck N: turtlenecks
+turtlenecked A:
+tush I:
+tush N: tushes
+tusk N: tusks
+-tusk V: tusked  tusking  tusks
+tusked A:
+tussle N: tussles
+tussle V: tussled  tussling  tussles
+tussock N: tussocks
+tussocky A:
+tut I:
+tut N: tuts
+tut V: tutted  tutting  tuts
+tutelage N: ~tutelages
+tutelary A:
+-tutelary N: tutelaries
+tutor N: tutors
+tutor V: tutored  tutoring  tutors
+tutorial A:
+tutorial N: tutorials
+tutorship N: ~tutorships
+tutti A:
+tutti N: tuttis
+tutu N: tutus
+tux N: tuxes
+tuxedo N: tuxedos (tuxedoes)
+twaddle N: ~twaddles
+twaddle V: twaddled  twaddling  twaddles
+twaddler N: twaddlers
+twain A:
+twain N: ~twains
+twang N: twangs
+twang V: twanged  twanging  twangs
+twangy A: twangier  twangiest
+twas S:
+tweak N: tweaks
+tweak V: tweaked  tweaking  tweaks
+tweed N: ~tweeds
+tweeds N:
+tweedy A: tweedier  tweediest
+tween C:
+tweet N: tweets
+tweet V: tweeted  tweeting  tweets
+tweeter N: tweeters
+tweezers N:
+twelfth A:
+twelfth N: twelfths
+twelve A:
+twelve N: twelves
+twelvemonth N: twelvemonths
+twentieth A:
+twentieth N: twentieths
+twenty A:
+twenty N: twenties
+twerp N: twerps
+twice A:
+twiddle N: twiddles
+twiddle V: twiddled  twiddling  twiddles
+twiddly A: !twiddlier  !twiddliest
+twig N: twigs
+twig V: twigged  twigging  twigs
+twiggy A: twiggier  twiggiest
+twilight A:
+twilight N: ~twilights
+twilit A:
+twill N: ~twills
+-twill V: twilled  twilling  twills
+twilled A:
+twin A:
+twin N: twins
+twin V: twinned  twinning  twins
+twine N: ~twines
+twine V: twined  twining  twines
+twiner N: twiners
+twinge N: twinges
+twinge V: twinged  twinging (twingeing)  twinges
+twinight A:
+twinkle N: twinkles
+twinkle V: twinkled  twinkling  twinkles
+twinkling N: twinklings
+twinkly A:
+twirl N: twirls
+twirl V: twirled  twirling  twirls
+twirler N: twirlers
+twirly A: !twirlier  !twirliest
+twist N: twists
+twist V: twisted  twisting  twists
+twister N: twisters
+twisty A: twistier  twistiest
+twit N: twits
+twit V: twitted  twitting  twits
+twitch N: twitches
+twitch V: twitched  twitching  twitches
+twitchy A: twitchier  twitchiest
+twitter N: twitters
+twitter V: twittered  twittering  twitters
+twittery A:
+twixt C:
+two A:
+two N: twos
+twofer N: twofers
+twofold A:
+twopence N: twopence {amount} | twopences {coin}
+twopenny A:
+twosome N: twosomes
+tycoon N: tycoons
+tyke N: tykes
+tympani N: tympani
+tympanist N: tympanists
+tympanum N: tympanums (tympana)
+type N: types
+type V: typed  typing  types
+typecast V: typecast  typecasting  typecasts
+typeface N: typefaces
+typescript N: typescripts
+typeset V: typeset  typesetting  typesets
+typesetter N: typesetters
+typesetting N: ~typesettings
+typewrite V: typewrote  typewritten  typewriting  typewrites
+typewriter N: typewriters
+typewriting N: ~typewritings
+typhoid A:
+typhoid N: ~typhoids
+typhoon N: typhoons
+typhus N: ~typhuses
+typical A:
+typicality N: ~typicalities
+typically A:
+typification N: ~typifications
+typify V: typified  typifying  typifies
+typing N: ~typings
+typist N: typists
+typo N: typos
+typographer N: typographers
+typographic A:
+typographical A:
+typographically A:
+typography N: ~typographies
+typology N: ~typologies
+tyrannic A:
+tyrannical A:
+tyrannically A:
+tyrannize V: tyrannized  tyrannizing  tyrannizes
+tyrannosaur N: tyrannosaurs
+tyrannosaurus N: tyrannosauruses
+tyrannous A:
+tyranny N: tyrannies
+tyrant N: tyrants
+tyre N: tyres
+-tyre V: tyred  tyring  tyres
+tyro N: tyros
+tzar N: tzars
+tzarina N: tzarinas
