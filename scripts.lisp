@@ -1,6 +1,5 @@
-
 (in-package #:tpos)
-;;;; scripts
+
 (defparameter dict_lst
   '("A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
     "N" "O" "P" "Q" "R" "S" "T" "U" "V" "Q" "X" "Y"))
@@ -59,11 +58,8 @@
 		collect (tokenize (normalize conv)) into collection
 		finally (format-collection word (eval-collection word dict indicies collection) cv)))))))
 
-
-
 (defun proc-context (word context dict indicies)
   (print (car (eval-collection word dict indicies (list (tokenize (normalize context)))))))
-
 
 (defun nap(x)
   (print x)
@@ -173,7 +169,6 @@
      finally (return (string-downcase(coerce norm 'string)))))
 
 (defun tokenize (str)
-  ;;(cl-utilities:split-sequence #\Space str))
   (loop for token in (cl-ppcre:split "\\s+" str)
        collect token))
 
